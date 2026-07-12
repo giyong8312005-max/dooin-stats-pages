@@ -9,6 +9,42 @@
   "monthly_stats": [
     {
       "year": 2026,
+      "month": 1,
+      "siCd": "36",
+      "guCd": "0",
+      "title": "",
+      "rows": [],
+      "unavailable": true
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "siCd": "36",
+      "guCd": "0",
+      "title": "",
+      "rows": [],
+      "unavailable": true
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "siCd": "36",
+      "guCd": "0",
+      "title": "",
+      "rows": [],
+      "unavailable": true
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "siCd": "36",
+      "guCd": "0",
+      "title": "",
+      "rows": [],
+      "unavailable": true
+    },
+    {
+      "year": 2026,
       "month": 5,
       "siCd": "36",
       "guCd": "0",

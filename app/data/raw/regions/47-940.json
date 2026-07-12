@@ -1,0 +1,385 @@
+{
+  "collected_at": "2026-07-13",
+  "region": {
+    "siCd": "47",
+    "guCd": "940",
+    "sido": "경북",
+    "name": "울릉군"
+  },
+  "monthly_stats": [
+    {
+      "year": 2026,
+      "month": 1,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 01 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 2,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 02 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 246330000,
+          "sale_price_rate": 88.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 03 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1160696000,
+          "sale_price_rate": 70.12
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 10168000,
+          "sale_price_rate": 70.81
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 953580400,
+          "sale_price_rate": 49.13
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 04 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 246330000,
+          "sale_price_rate": 70.19
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 5,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 05 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 06 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 3,
+          "failed": 0,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1311825000,
+          "sale_price_rate": 35.92
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 7013801600,
+          "sale_price_rate": 35.79
+        }
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "tid": 2482526,
+      "case_no": "2024-35068",
+      "item_no": 2,
+      "court": "포항2계",
+      "type": "답",
+      "address": "경상북도 울릉군 울릉읍 저동리 78-3",
+      "area": "토지 41㎡(12.403평)",
+      "appraisal": 10168000,
+      "min_price": 3486000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.07.13",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2449959,
+      "case_no": "2025-4109",
+      "item_no": null,
+      "court": "포항3계",
+      "type": "상가주택",
+      "address": "경상북도 울릉군 울릉읍 도동리 314-1 외 1필지",
+      "area": "건물 372.5㎡(112.681평) 토지 96㎡(29.04평)",
+      "appraisal": 1094704800,
+      "min_price": 1094704800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.07.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    }
+  ]
+}
