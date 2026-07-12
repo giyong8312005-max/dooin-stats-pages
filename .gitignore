@@ -1,0 +1,26 @@
+# 민감정보 — 절대 커밋 금지
+.env
+*.key
+credentials.json
+
+# 내부 문서 — 공개 저장소에 올리지 않음 (사업 내부 사정 포함)
+CLAUDE.md
+01_요구사항/
+02_진행보고/
+
+# 생성 결과물 — GitHub Actions가 매번 새로 만듦
+app/site/
+
+# 파이썬 임시 파일
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 로그
+logs/
+*.log
+
+# OS 임시 파일
+Thumbs.db
+.DS_Store

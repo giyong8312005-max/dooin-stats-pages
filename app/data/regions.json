@@ -1,0 +1,2493 @@
+{
+  "_설명": "두인경매 사이트의 지역 코드표. caStats.php 지역별통계 페이지에서 2026-07-12 추출.",
+  "_주의": "광주와 전남은 사이트에서 siCd=12 하나로 묶여 있음. 세종은 하위 구역 없이 단일 지역(guCd=0). '고양시'와 '고양시 덕양구'처럼 시 단위와 구 단위가 함께 있는 지역은 페이지 생성 시 어느 단위를 쓸지 별도 결정 필요.",
+  "sido": [
+    {
+      "siCd": "11",
+      "name": "서울"
+    },
+    {
+      "siCd": "26",
+      "name": "부산"
+    },
+    {
+      "siCd": "27",
+      "name": "대구"
+    },
+    {
+      "siCd": "28",
+      "name": "인천"
+    },
+    {
+      "siCd": "12",
+      "name": "광주전남"
+    },
+    {
+      "siCd": "30",
+      "name": "대전"
+    },
+    {
+      "siCd": "31",
+      "name": "울산"
+    },
+    {
+      "siCd": "36",
+      "name": "세종"
+    },
+    {
+      "siCd": "41",
+      "name": "경기"
+    },
+    {
+      "siCd": "51",
+      "name": "강원"
+    },
+    {
+      "siCd": "43",
+      "name": "충북"
+    },
+    {
+      "siCd": "44",
+      "name": "충남"
+    },
+    {
+      "siCd": "52",
+      "name": "전북"
+    },
+    {
+      "siCd": "47",
+      "name": "경북"
+    },
+    {
+      "siCd": "48",
+      "name": "경남"
+    },
+    {
+      "siCd": "50",
+      "name": "제주"
+    }
+  ],
+  "regions": [
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "680",
+      "name": "강남구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gangnam"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "740",
+      "name": "강동구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gangdong"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "305",
+      "name": "강북구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gangbuk"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "500",
+      "name": "강서구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gangseo"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "620",
+      "name": "관악구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gwanak"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "215",
+      "name": "광진구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "gwangjin"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "530",
+      "name": "구로구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "guro"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "545",
+      "name": "금천구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "geumcheon"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "350",
+      "name": "노원구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "nowon"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "320",
+      "name": "도봉구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "dobong"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "230",
+      "name": "동대문구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "dongdaemun"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "590",
+      "name": "동작구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "dongjak"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "440",
+      "name": "마포구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "mapo"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "410",
+      "name": "서대문구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "seodaemun"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "650",
+      "name": "서초구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "seocho"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "200",
+      "name": "성동구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "seongdong"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "290",
+      "name": "성북구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "seongbuk"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "710",
+      "name": "송파구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "songpa"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "470",
+      "name": "양천구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "yangcheon"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "560",
+      "name": "영등포구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "yeongdeungpo"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "170",
+      "name": "용산구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "yongsan"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "380",
+      "name": "은평구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "eunpyeong"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "110",
+      "name": "종로구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "jongno"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "140",
+      "name": "중구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "jung"
+    },
+    {
+      "siCd": "11",
+      "sido": "서울",
+      "guCd": "260",
+      "name": "중랑구",
+      "sido_ko": "서울",
+      "sido_slug": "seoul",
+      "slug": "jungnang"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "440",
+      "name": "강서구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "gangseo"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "410",
+      "name": "금정구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "geumjeong"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "710",
+      "name": "기장군",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "gijang"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "290",
+      "name": "남구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "nam"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "170",
+      "name": "동구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "dong"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "260",
+      "name": "동래구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "dongnae"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "230",
+      "name": "부산진구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "busanjin"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "320",
+      "name": "북구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "buk"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "530",
+      "name": "사상구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "sasang"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "380",
+      "name": "사하구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "saha"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "140",
+      "name": "서구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "seo"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "500",
+      "name": "수영구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "suyeong"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "470",
+      "name": "연제구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "yeonje"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "200",
+      "name": "영도구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "yeongdo"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "110",
+      "name": "중구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "jung"
+    },
+    {
+      "siCd": "26",
+      "sido": "부산",
+      "guCd": "350",
+      "name": "해운대구",
+      "sido_ko": "부산",
+      "sido_slug": "busan",
+      "slug": "haeundae"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "720",
+      "name": "군위군",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "gunwi"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "200",
+      "name": "남구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "nam"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "290",
+      "name": "달서구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "dalseo"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "710",
+      "name": "달성군",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "dalseong"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "140",
+      "name": "동구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "dong"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "230",
+      "name": "북구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "buk"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "170",
+      "name": "서구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "seo"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "260",
+      "name": "수성구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "suseong"
+    },
+    {
+      "siCd": "27",
+      "sido": "대구",
+      "guCd": "110",
+      "name": "중구",
+      "sido_ko": "대구",
+      "sido_slug": "daegu",
+      "slug": "jung"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "710",
+      "name": "강화군",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "ganghwa"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "290",
+      "name": "검단구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "geomdan"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "245",
+      "name": "계양구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "gyeyang"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "200",
+      "name": "남동구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "namdong"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "177",
+      "name": "미추홀구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "michuhol"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "237",
+      "name": "부평구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "bupyeong"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "275",
+      "name": "서해구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "seohae"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "185",
+      "name": "연수구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "yeonsu"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "155",
+      "name": "영종구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "yeongjong"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "720",
+      "name": "옹진군",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "ongjin"
+    },
+    {
+      "siCd": "28",
+      "sido": "인천",
+      "guCd": "125",
+      "name": "제물포구",
+      "sido_ko": "인천",
+      "sido_slug": "incheon",
+      "slug": "jemulpo"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "780",
+      "name": "강진군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "gangjin"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "740",
+      "name": "고흥군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "goheung"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "720",
+      "name": "곡성군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "gokseong"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "330",
+      "name": "광산구",
+      "sido_ko": "광주",
+      "sido_slug": "gwangju",
+      "slug": "gwangsan"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "190",
+      "name": "광양시",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "gwangyang"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "730",
+      "name": "구례군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "gurye"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "170",
+      "name": "나주시",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "naju"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "270",
+      "name": "남구",
+      "sido_ko": "광주",
+      "sido_slug": "gwangju",
+      "slug": "nam"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "710",
+      "name": "담양군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "damyang"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "210",
+      "name": "동구",
+      "sido_ko": "광주",
+      "sido_slug": "gwangju",
+      "slug": "dong"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "110",
+      "name": "목포시",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "mokpo"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "810",
+      "name": "무안군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "muan"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "750",
+      "name": "보성군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "boseong"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "300",
+      "name": "북구",
+      "sido_ko": "광주",
+      "sido_slug": "gwangju",
+      "slug": "buk"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "240",
+      "name": "서구",
+      "sido_ko": "광주",
+      "sido_slug": "gwangju",
+      "slug": "seo"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "150",
+      "name": "순천시",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "suncheon"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "870",
+      "name": "신안군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "sinan"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "130",
+      "name": "여수시",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "yeosu"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "830",
+      "name": "영광군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "yeonggwang"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "800",
+      "name": "영암군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "yeongam"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "850",
+      "name": "완도군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "wando"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "840",
+      "name": "장성군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "jangseong"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "770",
+      "name": "장흥군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "jangheung"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "860",
+      "name": "진도군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "jindo"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "820",
+      "name": "함평군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "hampyeong"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "790",
+      "name": "해남군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "haenam"
+    },
+    {
+      "siCd": "12",
+      "sido": "광주전남",
+      "guCd": "760",
+      "name": "화순군",
+      "sido_ko": "전남",
+      "sido_slug": "jeonnam",
+      "slug": "hwasun"
+    },
+    {
+      "siCd": "30",
+      "sido": "대전",
+      "guCd": "230",
+      "name": "대덕구",
+      "sido_ko": "대전",
+      "sido_slug": "daejeon",
+      "slug": "daedeok"
+    },
+    {
+      "siCd": "30",
+      "sido": "대전",
+      "guCd": "110",
+      "name": "동구",
+      "sido_ko": "대전",
+      "sido_slug": "daejeon",
+      "slug": "dong"
+    },
+    {
+      "siCd": "30",
+      "sido": "대전",
+      "guCd": "170",
+      "name": "서구",
+      "sido_ko": "대전",
+      "sido_slug": "daejeon",
+      "slug": "seo"
+    },
+    {
+      "siCd": "30",
+      "sido": "대전",
+      "guCd": "200",
+      "name": "유성구",
+      "sido_ko": "대전",
+      "sido_slug": "daejeon",
+      "slug": "yuseong"
+    },
+    {
+      "siCd": "30",
+      "sido": "대전",
+      "guCd": "140",
+      "name": "중구",
+      "sido_ko": "대전",
+      "sido_slug": "daejeon",
+      "slug": "jung"
+    },
+    {
+      "siCd": "31",
+      "sido": "울산",
+      "guCd": "140",
+      "name": "남구",
+      "sido_ko": "울산",
+      "sido_slug": "ulsan",
+      "slug": "nam"
+    },
+    {
+      "siCd": "31",
+      "sido": "울산",
+      "guCd": "170",
+      "name": "동구",
+      "sido_ko": "울산",
+      "sido_slug": "ulsan",
+      "slug": "dong"
+    },
+    {
+      "siCd": "31",
+      "sido": "울산",
+      "guCd": "200",
+      "name": "북구",
+      "sido_ko": "울산",
+      "sido_slug": "ulsan",
+      "slug": "buk"
+    },
+    {
+      "siCd": "31",
+      "sido": "울산",
+      "guCd": "710",
+      "name": "울주군",
+      "sido_ko": "울산",
+      "sido_slug": "ulsan",
+      "slug": "ulju"
+    },
+    {
+      "siCd": "31",
+      "sido": "울산",
+      "guCd": "110",
+      "name": "중구",
+      "sido_ko": "울산",
+      "sido_slug": "ulsan",
+      "slug": "jung"
+    },
+    {
+      "siCd": "36",
+      "sido": "세종",
+      "guCd": "0",
+      "name": "세종시",
+      "sido_ko": "세종",
+      "sido_slug": "sejong",
+      "slug": "sejong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "820",
+      "name": "가평군",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gapyeong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "280",
+      "name": "고양시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "goyang"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "281",
+      "name": "고양시 덕양구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "goyang-deogyang"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "285",
+      "name": "고양시 일산동구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "goyang-ilsandong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "287",
+      "name": "고양시 일산서구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "goyang-ilsanseo"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "290",
+      "name": "과천시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gwacheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "210",
+      "name": "광명시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gwangmyeong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "610",
+      "name": "광주시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gwangju"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "310",
+      "name": "구리시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "guri"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "410",
+      "name": "군포시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gunpo"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "570",
+      "name": "김포시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "gimpo"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "360",
+      "name": "남양주시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "namyangju"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "250",
+      "name": "동두천시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "dongducheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "190",
+      "name": "부천시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "bucheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "194",
+      "name": "부천시 소사구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "bucheon-sosa"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "196",
+      "name": "부천시 오정구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "bucheon-ojeong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "192",
+      "name": "부천시 원미구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "bucheon-wonmi"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "130",
+      "name": "성남시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "seongnam"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "135",
+      "name": "성남시 분당구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "seongnam-bundang"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "131",
+      "name": "성남시 수정구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "seongnam-sujeong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "133",
+      "name": "성남시 중원구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "seongnam-jungwon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "110",
+      "name": "수원시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "suwon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "113",
+      "name": "수원시 권선구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "suwon-gwonseon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "117",
+      "name": "수원시 영통구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "suwon-yeongtong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "111",
+      "name": "수원시 장안구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "suwon-jangan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "115",
+      "name": "수원시 팔달구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "suwon-paldal"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "390",
+      "name": "시흥시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "siheung"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "270",
+      "name": "안산시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "ansan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "273",
+      "name": "안산시 단원구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "ansan-danwon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "271",
+      "name": "안산시 상록구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "ansan-sangnok"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "550",
+      "name": "안성시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "anseong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "170",
+      "name": "안양시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "anyang"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "173",
+      "name": "안양시 동안구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "anyang-dongan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "171",
+      "name": "안양시 만안구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "anyang-manan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "630",
+      "name": "양주시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yangju"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "830",
+      "name": "양평군",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yangpyeong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "670",
+      "name": "여주시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yeoju"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "800",
+      "name": "연천군",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yeoncheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "370",
+      "name": "오산시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "osan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "460",
+      "name": "용인시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yongin"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "463",
+      "name": "용인시 기흥구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yongin-giheung"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "465",
+      "name": "용인시 수지구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yongin-suji"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "461",
+      "name": "용인시 처인구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "yongin-cheoin"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "430",
+      "name": "의왕시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "uiwang"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "150",
+      "name": "의정부시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "uijeongbu"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "500",
+      "name": "이천시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "icheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "480",
+      "name": "파주시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "paju"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "220",
+      "name": "평택시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "pyeongtaek"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "650",
+      "name": "포천시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "pocheon"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "450",
+      "name": "하남시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hanam"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "590",
+      "name": "화성시",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hwaseong"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "597",
+      "name": "화성시 동탄구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hwaseong-dongtan"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "591",
+      "name": "화성시 만세구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hwaseong-manse"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "595",
+      "name": "화성시 병점구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hwaseong-byeongjeom"
+    },
+    {
+      "siCd": "41",
+      "sido": "경기",
+      "guCd": "593",
+      "name": "화성시 효행구",
+      "sido_ko": "경기",
+      "sido_slug": "gyeonggi",
+      "slug": "hwaseong-hyohaeng"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "150",
+      "name": "강릉시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "gangneung"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "820",
+      "name": "고성군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "goseong"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "170",
+      "name": "동해시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "donghae"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "230",
+      "name": "삼척시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "samcheok"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "210",
+      "name": "속초시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "sokcho"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "800",
+      "name": "양구군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "yanggu"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "830",
+      "name": "양양군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "yangyang"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "750",
+      "name": "영월군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "yeongwol"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "130",
+      "name": "원주시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "wonju"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "810",
+      "name": "인제군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "inje"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "770",
+      "name": "정선군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "jeongseon"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "780",
+      "name": "철원군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "cheorwon"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "110",
+      "name": "춘천시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "chuncheon"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "190",
+      "name": "태백시",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "taebaek"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "760",
+      "name": "평창군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "pyeongchang"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "720",
+      "name": "홍천군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "hongcheon"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "790",
+      "name": "화천군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "hwacheon"
+    },
+    {
+      "siCd": "51",
+      "sido": "강원",
+      "guCd": "730",
+      "name": "횡성군",
+      "sido_ko": "강원",
+      "sido_slug": "gangwon",
+      "slug": "hoengseong"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "760",
+      "name": "괴산군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "goesan"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "800",
+      "name": "단양군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "danyang"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "720",
+      "name": "보은군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "boeun"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "740",
+      "name": "영동군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "yeongdong"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "730",
+      "name": "옥천군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "okcheon"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "770",
+      "name": "음성군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "eumseong"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "150",
+      "name": "제천시",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "jecheon"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "745",
+      "name": "증평군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "jeungpyeong"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "750",
+      "name": "진천군",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "jincheon"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "110",
+      "name": "청주시",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "cheongju"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "111",
+      "name": "청주시 상당구",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "cheongju-sangdang"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "112",
+      "name": "청주시 서원구",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "cheongju-seowon"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "114",
+      "name": "청주시 청원구",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "cheongju-cheongwon"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "113",
+      "name": "청주시 흥덕구",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "cheongju-heungdeok"
+    },
+    {
+      "siCd": "43",
+      "sido": "충북",
+      "guCd": "130",
+      "name": "충주시",
+      "sido_ko": "충북",
+      "sido_slug": "chungbuk",
+      "slug": "chungju"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "250",
+      "name": "계룡시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "gyeryong"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "150",
+      "name": "공주시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "gongju"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "710",
+      "name": "금산군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "geumsan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "230",
+      "name": "논산시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "nonsan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "270",
+      "name": "당진시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "dangjin"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "180",
+      "name": "보령시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "boryeong"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "760",
+      "name": "부여군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "buyeo"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "210",
+      "name": "서산시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "seosan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "770",
+      "name": "서천군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "seocheon"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "200",
+      "name": "아산시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "asan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "810",
+      "name": "예산군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "yesan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "130",
+      "name": "천안시",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "cheonan"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "131",
+      "name": "천안시 동남구",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "cheonan-dongnam"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "133",
+      "name": "천안시 서북구",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "cheonan-seobuk"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "790",
+      "name": "청양군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "cheongyang"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "825",
+      "name": "태안군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "taean"
+    },
+    {
+      "siCd": "44",
+      "sido": "충남",
+      "guCd": "800",
+      "name": "홍성군",
+      "sido_ko": "충남",
+      "sido_slug": "chungnam",
+      "slug": "hongseong"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "790",
+      "name": "고창군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "gochang"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "130",
+      "name": "군산시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "gunsan"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "210",
+      "name": "김제시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "gimje"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "190",
+      "name": "남원시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "namwon"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "730",
+      "name": "무주군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "muju"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "800",
+      "name": "부안군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "buan"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "770",
+      "name": "순창군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "sunchang"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "710",
+      "name": "완주군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "wanju"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "140",
+      "name": "익산시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "iksan"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "750",
+      "name": "임실군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "imsil"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "740",
+      "name": "장수군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jangsu"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "110",
+      "name": "전주시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jeonju"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "113",
+      "name": "전주시 덕진구",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jeonju-deokjin"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "111",
+      "name": "전주시 완산구",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jeonju-wansan"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "180",
+      "name": "정읍시",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jeongeup"
+    },
+    {
+      "siCd": "52",
+      "sido": "전북",
+      "guCd": "720",
+      "name": "진안군",
+      "sido_ko": "전북",
+      "sido_slug": "jeonbuk",
+      "slug": "jinan"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "290",
+      "name": "경산시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "gyeongsan"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "130",
+      "name": "경주시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "gyeongju"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "830",
+      "name": "고령군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "goryeong"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "190",
+      "name": "구미시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "gumi"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "150",
+      "name": "김천시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "gimcheon"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "280",
+      "name": "문경시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "mungyeong"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "920",
+      "name": "봉화군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "bonghwa"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "250",
+      "name": "상주시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "sangju"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "840",
+      "name": "성주군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "seongju"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "170",
+      "name": "안동시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "andong"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "770",
+      "name": "영덕군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "yeongdeok"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "760",
+      "name": "영양군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "yeongyang"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "210",
+      "name": "영주시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "yeongju"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "230",
+      "name": "영천시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "yeongcheon"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "900",
+      "name": "예천군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "yecheon"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "940",
+      "name": "울릉군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "ulleung"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "930",
+      "name": "울진군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "uljin"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "730",
+      "name": "의성군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "uiseong"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "820",
+      "name": "청도군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "cheongdo"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "750",
+      "name": "청송군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "cheongsong"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "850",
+      "name": "칠곡군",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "chilgok"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "110",
+      "name": "포항시",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "pohang"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "111",
+      "name": "포항시 남구",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "pohang-nam"
+    },
+    {
+      "siCd": "47",
+      "sido": "경북",
+      "guCd": "113",
+      "name": "포항시 북구",
+      "sido_ko": "경북",
+      "sido_slug": "gyeongbuk",
+      "slug": "pohang-buk"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "310",
+      "name": "거제시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "geoje"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "880",
+      "name": "거창군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "geochang"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "820",
+      "name": "고성군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "goseong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "250",
+      "name": "김해시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "gimhae"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "840",
+      "name": "남해군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "namhae"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "270",
+      "name": "밀양시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "miryang"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "240",
+      "name": "사천시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "sacheon"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "860",
+      "name": "산청군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "sancheong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "330",
+      "name": "양산시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "yangsan"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "720",
+      "name": "의령군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "uiryeong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "170",
+      "name": "진주시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "jinju"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "740",
+      "name": "창녕군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changnyeong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "120",
+      "name": "창원시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "125",
+      "name": "창원시 마산합포구",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon-masanhappo"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "127",
+      "name": "창원시 마산회원구",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon-masanhoewon"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "123",
+      "name": "창원시 성산구",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon-seongsan"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "121",
+      "name": "창원시 의창구",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon-uichang"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "129",
+      "name": "창원시 진해구",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "changwon-jinhae"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "220",
+      "name": "통영시",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "tongyeong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "850",
+      "name": "하동군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "hadong"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "730",
+      "name": "함안군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "haman"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "870",
+      "name": "함양군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "hamyang"
+    },
+    {
+      "siCd": "48",
+      "sido": "경남",
+      "guCd": "890",
+      "name": "합천군",
+      "sido_ko": "경남",
+      "sido_slug": "gyeongnam",
+      "slug": "hapcheon"
+    },
+    {
+      "siCd": "50",
+      "sido": "제주",
+      "guCd": "130",
+      "name": "서귀포시",
+      "sido_ko": "제주",
+      "sido_slug": "jeju",
+      "slug": "seogwipo"
+    },
+    {
+      "siCd": "50",
+      "sido": "제주",
+      "guCd": "110",
+      "name": "제주시",
+      "sido_ko": "제주",
+      "sido_slug": "jeju",
+      "slug": "jeju"
+    }
+  ]
+}
