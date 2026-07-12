@@ -93,6 +93,13 @@ class BadResponse(Exception):
     빈 데이터와 구분하기 위해 반드시 예외로 처리한다 (조용히 넘어가지 않음)."""
 
 
+class StatsUnavailable(Exception):
+    """이 지역·이 달의 통계가 무료(비회원)로 제공되지 않는 경우.
+    - 과거 달이 유료 안내로 잠겨 있음 (예: 광주·전남 과거 달, 인천 신설구)
+    - 세종시처럼 지역별 통계 자체가 없어 '전체지역'이 대신 나오는 경우
+    실패가 아니라 '건너뛰고 계속'으로 처리한다. 유료 정보는 수집하지 않는 것이 원칙."""
+
+
 # ─────────────────────────────────────────────
 # 크롤러 본체
 # ─────────────────────────────────────────────
@@ -173,6 +180,9 @@ class DooinCrawler:
 
         table = soup.find("table", id="list_box")
         if table is None:
+            # 무료 범위 밖이면 사이트가 표 대신 유료 안내창을 내려준다 → 실패가 아니라 '미제공'
+            if "유료결제 회원" in r.text:
+                raise StatsUnavailable(f"{year}.{month:02d} 통계가 무료 범위 밖 (유료 안내)")
             raise BadResponse("통계 표(list_box)가 없음 — 차단이거나 화면 구조 변경")
 
         # 제목 검증: "2026. 06 월간매각 통계자료 : 서울 강동구" 형식이어야 함
@@ -183,6 +193,10 @@ class DooinCrawler:
         if region_name:
             # '고양시 덕양구'처럼 두 단어 지역도 그대로 제목에 들어간다
             if region_name.split()[-1] not in title:
+                if "전체지역" in title:
+                    # 세종시 등 지역별 통계가 없는 지역은 '전체지역' 통계가 대신 나온다
+                    # → 전국 통계를 이 지역 것으로 잘못 저장하면 안 되므로 '미제공' 처리
+                    raise StatsUnavailable(f"지역별 통계 미제공 (전체지역이 대신 표시됨)")
                 raise BadResponse(f"통계 제목에 요청 지역({region_name})이 없음: '{title[:60]}'")
 
         rows = []
@@ -342,13 +356,22 @@ def crawl_region(crawler: DooinCrawler, region: dict, months: list[tuple[int, in
             pass   # 깨진 파일이면 무시하고 새로 수집
 
     monthly_stats = []
+    unavailable_cnt = 0
     for y, m in sorted(months):
         cached = old_stats.get((y, m))
         if cached and cached.get("rows"):
             monthly_stats.append(cached)
             continue
-        stats = crawler.fetch_monthly_stats(si_cd, gu_cd, y, m, region_name=region["name"])
+        try:
+            stats = crawler.fetch_monthly_stats(si_cd, gu_cd, y, m, region_name=region["name"])
+        except StatsUnavailable:
+            # 무료로 제공되지 않는 달 — 빈 기록으로 남기고 계속 (실패 아님)
+            stats = {"year": y, "month": m, "siCd": si_cd, "guCd": gu_cd,
+                     "title": "", "rows": [], "unavailable": True}
+            unavailable_cnt += 1
         monthly_stats.append(stats)
+    if unavailable_cnt:
+        print(f"    (통계 미제공 {unavailable_cnt}개월 — 무료 범위 밖이라 건너뜀)")
 
     listings = crawler.fetch_listings(si_cd, gu_cd)
 

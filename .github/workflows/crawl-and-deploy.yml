@@ -32,6 +32,8 @@ jobs:
         run: pip install -r app/requirements.txt
 
       - name: 전국 수집 (KST 새벽 2~8시 밖이면 자동 통과)
+        # 일부 지역이 실패해도 성공한 지역 데이터는 아래에서 커밋·배포한다
+        continue-on-error: true
         run: python app/crawler.py --full --months 6
 
       - name: 수집 데이터 커밋
