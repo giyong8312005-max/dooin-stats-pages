@@ -1,0 +1,58 @@
+# 매주 월요일 새벽 3시(KST)에 전국 경매 데이터 수집 → 통계 페이지 생성 → 배포
+# - 크롤러 자체에 KST 새벽 2~8시 가드가 있어, cron이 밀려 낮에 시작되면 수집 없이 넘어간다
+# - 수동 실행(workflow_dispatch)은 "재생성·배포만" 하고 싶을 때 사용 (수집은 시간대 가드가 판단)
+name: crawl-and-deploy
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"   # 일요일 18:00 UTC = 월요일 03:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 수집 데이터 커밋용
+  pages: write      # GitHub Pages 배포용
+  id-token: write
+
+concurrency:
+  group: crawl-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r app/requirements.txt
+
+      - name: 전국 수집 (KST 새벽 2~8시 밖이면 자동 통과)
+        run: python app/crawler.py --full --months 6
+
+      - name: 수집 데이터 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add app/data/raw
+          git diff --cached --quiet || git commit -m "data: 자동 수집 $(TZ=Asia/Seoul date +%F)"
+          git push
+
+      - name: 통계 페이지 생성
+        run: python app/generator.py
+
+      - name: Pages 설정
+        uses: actions/configure-pages@v4
+
+      - name: 사이트 업로드
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: app/site
+
+      - name: GitHub Pages 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
