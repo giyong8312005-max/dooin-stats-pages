@@ -211,30 +211,72 @@ def write_site_extras(generated: list[dict], now: datetime):
     # .nojekyll: GitHub Pages가 파일을 가공하지 않도록
     (SITE_DIR / ".nojekyll").write_text("", encoding="utf-8")
 
-    # 첫 화면: 시/도별 지역 목록 (내부 링크 허브)
-    by_sido: dict[str, list[dict]] = {}
+    # 첫 화면: 시/도 → 지역 → 유형별 링크 (내부 링크 허브 겸 전체 목록)
+    # 지역마다 실제로 생성된 유형(아파트/빌라/상가/토지/단독)을 모두 링크로 노출한다.
+    type_ko = {g["key"]: g["ko"] for g in TYPE_GROUPS}
+    type_order = {g["key"]: i for i, g in enumerate(TYPE_GROUPS)}
+    sido_order = ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종",
+                  "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주"]
+
+    # (시도, 지역명) → 지역 정보 + 가진 유형 목록으로 모으기
+    regions_map: dict[tuple, dict] = {}
     for g in generated:
-        by_sido.setdefault(g["sido_ko"], []).append(g)
+        entry = regions_map.setdefault((g["sido_ko"], g["region_name"]), {
+            "sido_ko": g["sido_ko"], "name": g["region_name"],
+            "sido_slug": g["sido_slug"], "slug": g["slug"], "types": []})
+        entry["types"].append(g["type_key"])
+
+    by_sido: dict[str, list[dict]] = {}
+    for entry in regions_map.values():
+        by_sido.setdefault(entry["sido_ko"], []).append(entry)
+
     sections = []
-    for sido_ko, items in by_sido.items():
-        seen_regions = {}
-        for g in items:
-            seen_regions.setdefault(g["region_name"], f"/{g['sido_slug']}/{g['slug']}/apartment/")
-        links = " ".join(f'<a href=".{href}">{name}</a>'
-                         for name, href in sorted(seen_regions.items()))
-        sections.append(f"<section><h2>{sido_ko}</h2><p>{links}</p></section>")
+    total_regions = len(regions_map)
+    for sido_ko in sorted(by_sido, key=lambda s: sido_order.index(s) if s in sido_order else 99):
+        rows = []
+        for r in sorted(by_sido[sido_ko], key=lambda x: x["name"]):
+            type_links = "".join(
+                f'<a href="./{r["sido_slug"]}/{r["slug"]}/{t}/">{type_ko[t]}</a>'
+                for t in sorted(r["types"], key=lambda t: type_order[t]))
+            rows.append(f'<div class="region"><span class="rn">{r["name"]}</span>'
+                        f'<span class="types">{type_links}</span></div>')
+        sections.append(f'<section><h2>{sido_ko} '
+                        f'<small>{len(by_sido[sido_ko])}개 지역</small></h2>{"".join(rows)}</section>')
+
     index_html = f"""<!DOCTYPE html>
 <html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>전국 지역별 법원경매 통계 | 두인경매</title>
-<meta name="description" content="전국 시·군·구별 아파트·빌라·상가·토지 법원경매 진행 물건과 낙찰가율 통계. 두인경매 공식 부속 서비스.">
-<style>body{{font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif;max-width:760px;margin:0 auto;padding:20px;line-height:1.8}}
-h1{{font-size:22px}} h2{{font-size:16px;margin-top:20px;color:#16325c}}
-a{{color:#2b6cb0;text-decoration:none;margin-right:10px;display:inline-block}}</style></head>
-<body><h1>전국 지역별 법원경매 통계</h1>
-<p>지역을 선택하면 아파트·빌라·상가·토지·단독주택 경매 통계를 볼 수 있습니다.<br>
-데이터 갱신: {now.date().isoformat()} · 두인경매 공식 부속 서비스 · 대표번호 1661-9910</p>
+<meta name="description" content="전국 {total_regions}개 시·군·구별 아파트·빌라·상가·토지·단독주택 법원경매 진행 물건과 낙찰가율 통계. 두인경매 공식 부속 서비스.">
+<style>
+:root{{--navy:#16325c;--blue:#2b6cb0;--bg:#f7f9fc;--card:#fff;--line:#e2e8f0;--muted:#718096}}
+*{{margin:0;padding:0;box-sizing:border-box}}
+body{{font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif;background:var(--bg);color:#2d3748;line-height:1.6}}
+.wrap{{max-width:820px;margin:0 auto;padding:16px}}
+header{{background:var(--navy);color:#fff}}
+header .wrap{{padding-top:20px;padding-bottom:20px}}
+header h1{{font-size:20px;letter-spacing:-.5px}}
+header p{{font-size:13px;opacity:.85;margin-top:6px}}
+section{{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:14px 0}}
+section h2{{font-size:16px;color:var(--navy);margin-bottom:10px;letter-spacing:-.3px}}
+section h2 small{{font-weight:400;color:var(--muted);font-size:12px}}
+.region{{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:8px 0;border-bottom:1px solid var(--line)}}
+.region:last-child{{border-bottom:none}}
+.rn{{font-weight:700;min-width:104px;font-size:14px}}
+.types{{display:flex;flex-wrap:wrap;gap:6px}}
+.types a{{font-size:12px;color:var(--blue);background:#ebf4ff;border-radius:12px;padding:3px 11px;text-decoration:none;white-space:nowrap}}
+.types a:hover{{background:var(--blue);color:#fff}}
+footer{{text-align:center;color:var(--muted);font-size:12px;padding:20px 16px 40px}}
+</style></head>
+<body>
+<header><div class="wrap">
+<h1>전국 지역별 법원경매 통계</h1>
+<p>시·군·구별 아파트·빌라·상가·토지·단독주택 경매 진행 물건과 낙찰가율을 확인하세요 · 갱신 {now.date().isoformat()}</p>
+</div></header>
+<main class="wrap">
 {"".join(sections)}
+</main>
+<footer>두인경매 공식 부속 통계 서비스 · 대표번호 1661-9910</footer>
 </body></html>"""
     (SITE_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
