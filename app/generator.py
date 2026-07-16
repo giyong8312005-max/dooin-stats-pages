@@ -30,7 +30,7 @@ SITE_DIR = BASE_DIR / "site"
 KST = ZoneInfo("Asia/Seoul")
 
 MAIN_SITE_URL = "https://www.dooinauction.com"
-BASE_SITE_URL = "https://giyong8312005-max.github.io/dooin-stats-pages"  # GitHub Pages 주소 — sitemap/canonical에 사용
+BASE_SITE_URL = "https://dooin-stats.netlify.app"  # 사이트 공개 주소 — sitemap/canonical에 사용
 FORM_ENDPOINT = ""     # Phase 3에서 전화번호 수집 주소(Google Sheets 웹훅) 입력
 LISTING_TOP_N = 8      # 물건 리스트에 보여줄 최대 건수
 

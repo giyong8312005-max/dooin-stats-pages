@@ -10,8 +10,6 @@ on:
 
 permissions:
   contents: write   # 수집 데이터 커밋용
-  pages: write      # GitHub Pages 배포용
-  id-token: write
 
 concurrency:
   group: crawl-and-deploy
@@ -49,14 +47,8 @@ jobs:
       - name: 통계 페이지 생성
         run: python app/generator.py
 
-      - name: Pages 설정
-        uses: actions/configure-pages@v4
-
-      - name: 사이트 업로드
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: app/site
-
-      - name: GitHub Pages 배포
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Netlify 배포 (dooin-stats.netlify.app)
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: python app/netlify_deploy.py
