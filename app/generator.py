@@ -221,6 +221,10 @@ def write_site_extras(generated: list[dict], now: datetime):
     (SITE_DIR / "google9e9ed6ceb3075194.html").write_text(
         "google-site-verification: google9e9ed6ceb3075194.html", encoding="utf-8")
 
+    # 네이버 서치어드바이저 소유확인 파일 (2026-07-16 등록) — 삭제 금지
+    (SITE_DIR / "naver11bd2cdab3a3c6829113138a94cb5a7b.html").write_text(
+        "naver-site-verification: naver11bd2cdab3a3c6829113138a94cb5a7b.html", encoding="utf-8")
+
     # 첫 화면: 시/도 → 지역 → 유형별 링크 (내부 링크 허브 겸 전체 목록)
     # 지역마다 실제로 생성된 유형(아파트/빌라/상가/토지/단독)을 모두 링크로 노출한다.
     type_ko = {g["key"]: g["ko"] for g in TYPE_GROUPS}
