@@ -141,6 +141,7 @@
     <h2>📢 {{ region_name }} 신건 경매, 카톡으로 받아보세요</h2>
     <p>{{ region_name }}에 새 {{ type_ko }} 경매가 등록되면 카카오톡으로 바로 알려드립니다. (무료)</p>
     <form id="alertForm">
+      <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
       <input type="tel" name="phone" placeholder="휴대전화 번호 (- 없이 숫자만)" required
              pattern="01[0-9]{8,9}" maxlength="11">
       <label>
@@ -201,12 +202,38 @@ document.addEventListener('visibilitychange', function() {
   if (!document.hidden) trendChart.resize();
 });
 
-// 전화번호 폼: 수집 서버 연동 전까지는 안내만 (Phase 3에서 연동)
+// 전화번호 폼: 신청 즉시 카톡 알림 서비스에 조건 세트로 등록된다
 const FORM_ENDPOINT = "{{ form_endpoint }}";
-document.getElementById('alertForm').addEventListener('submit', function(e) {
+document.getElementById('alertForm').addEventListener('submit', async function(e) {
   e.preventDefault();
+  const form = e.target;
+  if (form.website && form.website.value) { form.reset(); return; }  // 숨은 칸이 채워지면 스팸 봇으로 판단
   if (!FORM_ENDPOINT) { alert('알림 서비스 준비 중입니다. 조금만 기다려주세요!'); return; }
-  // Phase 3: FORM_ENDPOINT로 전송 (Google Sheets 연동)
+
+  const phone = form.phone.value.replace(/\D/g, '');
+  if (!/^01[0-9]{8,9}$/.test(phone)) { alert('휴대전화 번호를 다시 확인해주세요.'); return; }
+
+  const btn = form.querySelector('button');
+  btn.disabled = true; btn.textContent = '신청 중...';
+  try {
+    const r = await fetch(FORM_ENDPOINT, {
+      method: 'POST',
+      body: JSON.stringify({
+        phone_number: phone,
+        region_sido: "{{ sido_ko }}",
+        region_sigungu: "{{ region_name }}",
+        property_types: "{{ alert_types }}",
+        property_status: "통계페이지"
+      })
+    });
+    const j = await r.json();
+    if (!j.ok) throw new Error(j.error || 'server error');
+    form.innerHTML = '<div style="padding:14px;background:rgba(255,255,255,.15);border-radius:8px;font-size:14px;font-weight:700;">' +
+      '✅ 신청 완료! {{ region_name }}에 새 물건이 등록되면 카카오톡으로 알려드릴게요.</div>';
+  } catch (err) {
+    btn.disabled = false; btn.textContent = '무료 알림 신청하기';
+    alert('일시적인 오류가 발생했어요. 잠시 후 다시 시도해주세요.');
+  }
 });
 </script>
 </body>

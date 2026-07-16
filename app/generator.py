@@ -32,7 +32,10 @@ KST = ZoneInfo("Asia/Seoul")
 
 MAIN_SITE_URL = "https://www.dooinauction.com"
 BASE_SITE_URL = "https://dooin-stats.netlify.app"  # 사이트 공개 주소 — sitemap/canonical에 사용
-FORM_ENDPOINT = ""     # Phase 3에서 전화번호 수집 주소(Google Sheets 웹훅) 입력
+# 알림 신청 접수 주소 — 카톡 알림 서비스(dooin-kakao-alert)의 구글시트 접수 창구를 공유한다.
+# 신청 즉시 '경매 유저 조건 DB' 시트에 조건 세트로 등록되어 실제 카톡 알림 구독자가 된다.
+# (공개 페이지에 원래 노출되는 접수용 주소라 비밀정보 아님)
+FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbw7k34JFFjIpmob7xDllAGBsHiOBF0qTS878gJz38QXOeQabOTQZ74OcjWXYCkhEatPug/exec"
 LISTING_TOP_N = 8      # 물건 리스트에 보여줄 최대 건수
 
 # 물건유형 5개 그룹 — 사이트의 세부 유형을 페이지 5종으로 묶는다
@@ -173,6 +176,9 @@ def build_page_context(region_data: dict, region_meta: dict, group: dict,
     campaign = f"{region_meta['sido_slug']}-{region_meta['slug']}-{group['key']}"
     return {
         "region_name": region_name,
+        "sido_ko": region_meta["sido_ko"],
+        # 알림 신청 시 카톡 알림 크롤러가 이해하는 물건종류 문자열 (쉼표 구분)
+        "alert_types": ", ".join(group["types"]),
         "type_ko": group["ko"],
         "now_label": f"{now.year}년 {now.month}월",
         "updated_at": region_data["collected_at"],
