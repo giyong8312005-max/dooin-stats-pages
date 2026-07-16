@@ -4,7 +4,7 @@
 
 regions.json의 각 지역에 다음을 추가한다:
   - sido_slug : 시/도 영문 (예: seoul, gyeonggi)
-  - sido_ko   : 시/도 표시용 한글 (광주전남은 광주/전남으로 분리)
+  - sido_ko   : 시/도 표시용 한글 (광주전남은 행정체제 개편에 따라 통합 표기)
   - slug      : 시/군/구 영문 (예: gangdong, goyang-deogyang)
 
 표기는 국어의 로마자 표기법(문화체육관광부 고시) 기준.
@@ -22,12 +22,9 @@ SIDO_SLUG = {
     "대전": "daejeon", "울산": "ulsan", "세종": "sejong", "경기": "gyeonggi",
     "강원": "gangwon", "충북": "chungbuk", "충남": "chungnam", "전북": "jeonbuk",
     "경북": "gyeongbuk", "경남": "gyeongnam", "제주": "jeju",
-    # 광주전남(siCd=12)은 아래 GWANGJU_GU_CODES로 광주/전남을 구분한다
-    "광주": "gwangju", "전남": "jeonnam",
+    # 행정체제 개편으로 광주와 전남은 통합 표기한다 (2026-07-16 두인 직원 피드백 반영)
+    "광주전남": "gwangju-jeonnam",
 }
-
-# siCd=12에서 '광주광역시'에 속하는 구 코드 (나머지는 전남)
-GWANGJU_GU_CODES = {"330", "270", "210", "300", "240"}  # 광산·남·동·북·서구
 
 # 지역명 단어 → 로마자. '고양시 덕양구'는 단어별로 변환해 하이픈으로 잇는다.
 # 행정 접미사(시/군/구)는 슬러그에서 뗀다 (강동구 → gangdong).
@@ -140,11 +137,8 @@ def main():
 
     seen = set()   # (sido_slug, slug) 중복 감지
     for r in data["regions"]:
-        # 광주전남(12)은 구 코드로 광주/전남을 구분
-        if r["siCd"] == "12":
-            sido_ko = "광주" if r["guCd"] in GWANGJU_GU_CODES else "전남"
-        else:
-            sido_ko = r["sido"]
+        # 광주전남(12)은 행정체제 개편에 따라 하나로 통합 표기 (사이트 원본과 동일)
+        sido_ko = "광주전남" if r["siCd"] == "12" else r["sido"]
         r["sido_ko"] = sido_ko
         r["sido_slug"] = SIDO_SLUG[sido_ko]
         r["slug"] = region_slug(r["name"])

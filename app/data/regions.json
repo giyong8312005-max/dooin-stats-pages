@@ -622,8 +622,8 @@
       "sido": "광주전남",
       "guCd": "780",
       "name": "강진군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "gangjin"
     },
     {
@@ -631,8 +631,8 @@
       "sido": "광주전남",
       "guCd": "740",
       "name": "고흥군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "goheung"
     },
     {
@@ -640,8 +640,8 @@
       "sido": "광주전남",
       "guCd": "720",
       "name": "곡성군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "gokseong"
     },
     {
@@ -649,8 +649,8 @@
       "sido": "광주전남",
       "guCd": "330",
       "name": "광산구",
-      "sido_ko": "광주",
-      "sido_slug": "gwangju",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "gwangsan"
     },
     {
@@ -658,8 +658,8 @@
       "sido": "광주전남",
       "guCd": "190",
       "name": "광양시",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "gwangyang"
     },
     {
@@ -667,8 +667,8 @@
       "sido": "광주전남",
       "guCd": "730",
       "name": "구례군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "gurye"
     },
     {
@@ -676,8 +676,8 @@
       "sido": "광주전남",
       "guCd": "170",
       "name": "나주시",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "naju"
     },
     {
@@ -685,8 +685,8 @@
       "sido": "광주전남",
       "guCd": "270",
       "name": "남구",
-      "sido_ko": "광주",
-      "sido_slug": "gwangju",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "nam"
     },
     {
@@ -694,8 +694,8 @@
       "sido": "광주전남",
       "guCd": "710",
       "name": "담양군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "damyang"
     },
     {
@@ -703,8 +703,8 @@
       "sido": "광주전남",
       "guCd": "210",
       "name": "동구",
-      "sido_ko": "광주",
-      "sido_slug": "gwangju",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "dong"
     },
     {
@@ -712,8 +712,8 @@
       "sido": "광주전남",
       "guCd": "110",
       "name": "목포시",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "mokpo"
     },
     {
@@ -721,8 +721,8 @@
       "sido": "광주전남",
       "guCd": "810",
       "name": "무안군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "muan"
     },
     {
@@ -730,8 +730,8 @@
       "sido": "광주전남",
       "guCd": "750",
       "name": "보성군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "boseong"
     },
     {
@@ -739,8 +739,8 @@
       "sido": "광주전남",
       "guCd": "300",
       "name": "북구",
-      "sido_ko": "광주",
-      "sido_slug": "gwangju",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "buk"
     },
     {
@@ -748,8 +748,8 @@
       "sido": "광주전남",
       "guCd": "240",
       "name": "서구",
-      "sido_ko": "광주",
-      "sido_slug": "gwangju",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "seo"
     },
     {
@@ -757,8 +757,8 @@
       "sido": "광주전남",
       "guCd": "150",
       "name": "순천시",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "suncheon"
     },
     {
@@ -766,8 +766,8 @@
       "sido": "광주전남",
       "guCd": "870",
       "name": "신안군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "sinan"
     },
     {
@@ -775,8 +775,8 @@
       "sido": "광주전남",
       "guCd": "130",
       "name": "여수시",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "yeosu"
     },
     {
@@ -784,8 +784,8 @@
       "sido": "광주전남",
       "guCd": "830",
       "name": "영광군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "yeonggwang"
     },
     {
@@ -793,8 +793,8 @@
       "sido": "광주전남",
       "guCd": "800",
       "name": "영암군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "yeongam"
     },
     {
@@ -802,8 +802,8 @@
       "sido": "광주전남",
       "guCd": "850",
       "name": "완도군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "wando"
     },
     {
@@ -811,8 +811,8 @@
       "sido": "광주전남",
       "guCd": "840",
       "name": "장성군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "jangseong"
     },
     {
@@ -820,8 +820,8 @@
       "sido": "광주전남",
       "guCd": "770",
       "name": "장흥군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "jangheung"
     },
     {
@@ -829,8 +829,8 @@
       "sido": "광주전남",
       "guCd": "860",
       "name": "진도군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "jindo"
     },
     {
@@ -838,8 +838,8 @@
       "sido": "광주전남",
       "guCd": "820",
       "name": "함평군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "hampyeong"
     },
     {
@@ -847,8 +847,8 @@
       "sido": "광주전남",
       "guCd": "790",
       "name": "해남군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "haenam"
     },
     {
@@ -856,8 +856,8 @@
       "sido": "광주전남",
       "guCd": "760",
       "name": "화순군",
-      "sido_ko": "전남",
-      "sido_slug": "jeonnam",
+      "sido_ko": "광주전남",
+      "sido_slug": "gwangju-jeonnam",
       "slug": "hwasun"
     },
     {

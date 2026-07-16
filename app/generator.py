@@ -16,6 +16,7 @@ data/raw/regions/*.json (크롤러 산출물) → site/{시도}/{시군구}/{유
 
 import json
 import re
+import shutil
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -207,16 +208,21 @@ def load_region_meta() -> dict:
 
 
 def write_site_extras(generated: list[dict], now: datetime):
-    """sitemap.xml, robots.txt, 첫 화면(index.html), .nojekyll 생성"""
+    """sitemap.xml, robots.txt, 첫 화면(index.html), .nojekyll, _redirects 생성"""
     # .nojekyll: GitHub Pages가 파일을 가공하지 않도록
     (SITE_DIR / ".nojekyll").write_text("", encoding="utf-8")
+
+    # 옛 주소 자동 이동 (Netlify 규칙): 2026-07 광주/전남 통합 이전 주소 대응
+    (SITE_DIR / "_redirects").write_text(
+        "/gwangju/*  /gwangju-jeonnam/:splat  301\n"
+        "/jeonnam/*  /gwangju-jeonnam/:splat  301\n", encoding="utf-8")
 
     # 첫 화면: 시/도 → 지역 → 유형별 링크 (내부 링크 허브 겸 전체 목록)
     # 지역마다 실제로 생성된 유형(아파트/빌라/상가/토지/단독)을 모두 링크로 노출한다.
     type_ko = {g["key"]: g["ko"] for g in TYPE_GROUPS}
     type_order = {g["key"]: i for i, g in enumerate(TYPE_GROUPS)}
-    sido_order = ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종",
-                  "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주"]
+    sido_order = ["서울", "부산", "대구", "인천", "광주전남", "대전", "울산", "세종",
+                  "경기", "강원", "충북", "충남", "전북", "경북", "경남", "제주"]
 
     # (시도, 지역명) → 지역 정보 + 가진 유형 목록으로 모으기
     regions_map: dict[tuple, dict] = {}
@@ -309,6 +315,10 @@ def generate():
     if not files:
         print("생성할 지역 데이터가 없습니다. 먼저 crawler.py를 실행하세요.")
         return
+
+    # 전체 생성 시 기존 결과물을 깨끗이 비운다 — 지역명/주소가 바뀌어도 옛 파일이 남지 않도록
+    if not only and SITE_DIR.exists():
+        shutil.rmtree(SITE_DIR)
 
     made, skipped = 0, 0
     generated = []
