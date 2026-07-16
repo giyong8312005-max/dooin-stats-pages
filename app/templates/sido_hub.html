@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ sido_ko }} 아파트·빌라·상가·토지 경매 통계 ({{ now_label }}) | 두인경매</title>
+<meta name="description" content="{{ now_label }} {{ sido_ko }} 법원경매 진행 물건 {{ total_listings_fmt }}건. {{ region_count }}개 시·군·구별 아파트·빌라·상가·토지·단독주택 경매 낙찰가율 통계를 무료로 확인하세요.">
+<link rel="canonical" href="{{ canonical_url }}">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="stylesheet" href="/assets/style.css">
+<script type="application/ld+json">
+{{ json_ld|safe }}
+</script>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand-link" href="/">
+      <img src="/logo.png" alt="두인경매" width="77" height="45" style="height:26px;width:auto">
+      <span class="svc">지역별 경매 통계</span>
+    </a>
+    <a class="main-link" href="{{ main_site_url }}" rel="nofollow">본사이트 ↗</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="crumb"><a href="/">홈</a> › <b>{{ sido_ko }}</b></nav>
+
+  <section class="hero">
+    <h1>{{ sido_ko }} 법원경매 현황</h1>
+    <p>{{ sido_ko }} {{ region_count }}개 시·군·구의 경매 진행 물건과 낙찰가율 통계 · 갱신 {{ updated_at }}</p>
+    <div class="stats">
+      <div><b>{{ total_listings_fmt }}건</b>진행 중 물건</div>
+      <div><b>{{ region_count }}개</b>지역</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>지역을 선택하세요</h2>
+    {% for r in regions %}
+    <div class="region-row">
+      <span class="rn">{{ r.name }}</span>
+      <span class="cnt">{{ r.listing_count }}건</span>
+      <span class="pills">
+        {% for t in r.types %}<a href="{{ t.href }}">{{ t.ko }}</a>{% endfor %}
+      </span>
+    </div>
+    {% endfor %}
+  </section>
+
+  <section class="cta2">
+    <a class="btn" href="{{ cta2_url }}" rel="nofollow">{{ sido_ko }} 물건 상세·권리분석 전체 보기</a>
+    <div class="sub">등기·임차인 권리분석과 예상 배당표는 두인경매 본사이트에서 확인할 수 있습니다.</div>
+  </section>
+</main>
+
+<footer>
+  <img src="/logo.png" alt="두인경매"><br>
+  두인경매는 법원경매 물건 검색·권리분석·매각통계를 제공하는 경매 정보 서비스입니다.<br>
+  이 페이지는 두인경매의 공식 부속 통계 서비스입니다. · 대표번호 <span class="tel">1661-9910</span> ·
+  <a href="{{ main_site_url }}" rel="nofollow">본사이트 바로가기</a>
+</footer>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>전국 지역별 법원경매 통계 | 두인경매</title>
+<meta name="description" content="전국 {{ region_count }}개 시·군·구별 아파트·빌라·상가·토지·단독주택 법원경매 진행 물건 {{ total_listings_fmt }}건과 낙찰가율 통계. 두인경매 공식 부속 서비스.">
+<link rel="canonical" href="{{ base_url }}/">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand-link" href="/">
+      <img src="/logo.png" alt="두인경매" width="77" height="45" style="height:26px;width:auto">
+      <span class="svc">지역별 경매 통계</span>
+    </a>
+    <a class="main-link" href="{{ main_site_url }}" rel="nofollow">본사이트 ↗</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>전국 지역별 법원경매 통계</h1>
+    <p>시·군·구별 아파트·빌라·상가·토지·단독주택 경매 진행 물건과 낙찰가율 · 갱신 {{ updated_at }} · 매주 자동 업데이트</p>
+    <div class="stats">
+      <div><b>{{ total_listings_fmt }}건</b>진행 중 물건</div>
+      <div><b>{{ region_count }}개</b>시·군·구</div>
+      <div><b>{{ page_count_fmt }}개</b>통계 페이지</div>
+    </div>
+  </section>
+
+  <input class="search-box" id="regionSearch" type="search" placeholder="지역 이름으로 찾기 (예: 강동, 수원, 해운대)">
+
+  {% for s in sidos %}
+  <section data-sido>
+    <h2>{{ s.sido_ko }} <small>{{ s.regions|length }}개 지역</small>
+      <a class="hub-link" href="{{ s.hub_href }}">{{ s.sido_ko }} 전체 통계 →</a></h2>
+    {% for r in s.regions %}
+    <div class="region-row" data-name="{{ r.name }}">
+      <span class="rn">{{ r.name }}</span>
+      <span class="cnt">{{ r.listing_count }}건</span>
+      <span class="pills">
+        {% for t in r.types %}<a href="{{ t.href }}">{{ t.ko }}</a>{% endfor %}
+      </span>
+    </div>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</main>
+
+<footer>
+  <img src="/logo.png" alt="두인경매"><br>
+  두인경매는 법원경매 물건 검색·권리분석·매각통계를 제공하는 경매 정보 서비스입니다.<br>
+  이 페이지는 두인경매의 공식 부속 통계 서비스입니다. · 대표번호 <span class="tel">1661-9910</span> ·
+  <a href="{{ main_site_url }}" rel="nofollow">본사이트 바로가기</a>
+</footer>
+
+<script>
+// 지역 이름 검색: 입력하면 일치하는 지역만 남긴다
+document.getElementById('regionSearch').addEventListener('input', function() {
+  const q = this.value.trim();
+  document.querySelectorAll('.region-row').forEach(function(row) {
+    row.style.display = (!q || row.dataset.name.includes(q)) ? '' : 'none';
+  });
+  document.querySelectorAll('section[data-sido]').forEach(function(sec) {
+    const visible = sec.querySelectorAll('.region-row:not([style*="none"])').length;
+    sec.style.display = visible ? '' : 'none';
+  });
+});
+</script>
+</body>
+</html>

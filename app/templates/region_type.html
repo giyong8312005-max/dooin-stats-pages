@@ -6,78 +6,34 @@
 <title>{{ region_name }} {{ type_ko }} 경매 물건·낙찰가율 통계 ({{ now_label }}) | 두인경매</title>
 <meta name="description" content="{{ meta_description }}">
 {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="stylesheet" href="/assets/style.css">
 <script type="application/ld+json">
 {{ json_ld|safe }}
 </script>
-<style>
-  :root {
-    --navy: #16325c; --blue: #2b6cb0; --red: #e53e3e;
-    --bg: #f7f9fc; --card: #ffffff; --line: #e2e8f0;
-    --text: #2d3748; --muted: #718096;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
-         background: var(--bg); color: var(--text); line-height: 1.6; }
-  .wrap { max-width: 760px; margin: 0 auto; padding: 16px; }
-  header.top { background: var(--navy); color: #fff; }
-  header.top .wrap { display: flex; justify-content: space-between; align-items: center; padding-top: 12px; padding-bottom: 12px; }
-  .brand { font-weight: 800; font-size: 18px; letter-spacing: -0.5px; }
-  .brand small { font-weight: 400; opacity: .75; margin-left: 6px; font-size: 12px; }
-  .top a { color: #fff; text-decoration: none; font-size: 13px; opacity: .9; }
-  h1 { font-size: 24px; letter-spacing: -0.5px; margin: 20px 0 4px; }
-  .updated { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
-  .cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 20px; }
-  @media (min-width: 560px) { .cards { grid-template-columns: repeat(4, 1fr); } }
-  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px; }
-  .card .label { font-size: 12px; color: var(--muted); }
-  .card .value { font-size: 22px; font-weight: 800; color: var(--navy); letter-spacing: -0.5px; }
-  .card .value small { font-size: 13px; font-weight: 600; }
-  section { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-            padding: 18px; margin-bottom: 16px; }
-  h2 { font-size: 17px; margin-bottom: 12px; letter-spacing: -0.3px; }
-  .chart-box { position: relative; height: 240px; }
-  .chart-box canvas { width: 100% !important; height: 240px !important; }
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th { text-align: left; color: var(--muted); font-weight: 600; border-bottom: 2px solid var(--line); padding: 6px 4px; white-space: nowrap; }
-  td { border-bottom: 1px solid var(--line); padding: 8px 4px; vertical-align: top; }
-  td.num { text-align: right; white-space: nowrap; }
-  .addr { font-weight: 600; }
-  .case { color: var(--muted); font-size: 12px; }
-  .status { display: inline-block; font-size: 11px; padding: 1px 7px; border-radius: 10px;
-            background: #ebf4ff; color: var(--blue); font-weight: 700; white-space: nowrap; }
-  .status.new { background: #fff5f5; color: var(--red); }
-  .empty-note { padding: 20px 10px; text-align: center; color: var(--muted); }
-  .cta1 { background: linear-gradient(135deg, #1a365d, #2b6cb0); color: #fff; border: none; }
-  .cta1 h2 { color: #fff; }
-  .cta1 p { font-size: 13px; opacity: .9; margin-bottom: 12px; }
-  .cta1 form { display: flex; flex-direction: column; gap: 10px; }
-  .cta1 input[type=tel] { padding: 12px; border-radius: 8px; border: none; font-size: 15px; }
-  .cta1 label { font-size: 12px; opacity: .95; display: flex; gap: 6px; align-items: flex-start; }
-  .cta1 button { padding: 13px; border: none; border-radius: 8px; background: #fbbf24; color: #1a202c;
-                 font-size: 15px; font-weight: 800; cursor: pointer; }
-  .consent-detail { font-size: 11px; opacity: .8; margin-top: 2px; }
-  .cta2 { text-align: center; }
-  .cta2 a { display: inline-block; padding: 13px 26px; background: var(--navy); color: #fff;
-            border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; }
-  .cta2 .sub { font-size: 12px; color: var(--muted); margin-top: 8px; }
-  .links { font-size: 13px; }
-  .links a { color: var(--blue); text-decoration: none; margin-right: 12px; display: inline-block; margin-bottom: 4px; }
-  footer { color: var(--muted); font-size: 12px; text-align: center; padding: 20px 16px 40px; }
-  footer .tel { font-weight: 700; color: var(--text); }
-</style>
 </head>
-<body>
+<body class="has-sticky">
 
 <header class="top">
   <div class="wrap">
-    <div class="brand">두인경매 <small>지역별 경매 통계</small></div>
-    <a href="{{ main_site_url }}">본사이트 바로가기 →</a>
+    <a class="brand-link" href="/">
+      <img src="/logo.png" alt="두인경매" width="77" height="45" style="height:26px;width:auto">
+      <span class="svc">지역별 경매 통계</span>
+    </a>
+    <a class="main-link" href="{{ main_site_url }}" rel="nofollow">본사이트 ↗</a>
   </div>
 </header>
 
 <main class="wrap">
+  <nav class="crumb">
+    <a href="/">홈</a> › <a href="{{ hub_href }}">{{ sido_ko }}</a> › <b>{{ region_name }} {{ type_ko }}</b>
+  </nav>
+
   <h1>{{ region_name }} {{ type_ko }} 경매 현황</h1>
-  <p class="updated">데이터 갱신: {{ updated_at }} · 출처: 두인경매 공개 매각통계</p>
+  <p class="updated">데이터 갱신: {{ updated_at }} · 출처: 두인경매 공개 매각통계 · 매주 자동 업데이트</p>
+
+  <!-- 지역 요약 (자동 생성) -->
+  <p class="intro">{{ summary }}</p>
 
   <!-- 1. 핵심 통계 카드 -->
   <div class="cards">
@@ -88,10 +44,12 @@
     <div class="card">
       <div class="label">낙찰률 ({{ latest_stat_label }})</div>
       <div class="value">{% if latest_sold_rate is not none %}{{ latest_sold_rate }}<small>%</small>{% else %}-{% endif %}</div>
+      {% if delta_rate is not none %}<div class="delta {{ 'up' if delta_rate > 0 else ('down' if delta_rate < 0 else 'flat') }}">{{ '▲' if delta_rate > 0 else ('▼' if delta_rate < 0 else '—') }} 전월 대비 {{ delta_rate|abs }}%p</div>{% endif %}
     </div>
     <div class="card">
       <div class="label">낙찰가율 ({{ latest_price_label }})</div>
       <div class="value">{% if latest_price_rate is not none %}{{ latest_price_rate }}<small>%</small>{% else %}-{% endif %}</div>
+      {% if delta_price is not none %}<div class="delta {{ 'up' if delta_price > 0 else ('down' if delta_price < 0 else 'flat') }}">{{ '▲' if delta_price > 0 else ('▼' if delta_price < 0 else '—') }} 전월 대비 {{ delta_price|abs }}%p</div>{% endif %}
     </div>
     <div class="card">
       <div class="label">평균 감정가</div>
@@ -99,8 +57,8 @@
     </div>
   </div>
 
-  <!-- 2. CTA 1: 카톡 알림 신청 (직원 피드백으로 상단 배치, 2026-07-16) -->
-  <section class="cta1">
+  <!-- 2. 알림 신청 (CTA 1) -->
+  <section class="cta1" id="alert">
     <h2>📢 {{ region_name }} 신건 경매, 카톡으로 받아보세요</h2>
     <p>{{ region_name }}에 새 {{ type_ko }} 경매가 등록되면 카카오톡으로 바로 알려드립니다. (무료)</p>
     <form id="alertForm">
@@ -149,28 +107,53 @@
     {% else %}
     <div class="empty-note">
       현재 진행 중인 {{ type_ko }} 경매 물건이 없습니다.<br>
-      아래 알림을 신청하시면 새 물건이 나오는 즉시 알려드립니다.
+      위의 알림을 신청하시면 새 물건이 나오는 즉시 알려드립니다.
     </div>
     {% endif %}
   </section>
 
-  <!-- 5. CTA 2: 본사이트 링크 -->
+  <!-- 5. 본사이트 링크 (CTA 2) -->
   <section class="cta2">
-    <a href="{{ cta2_url }}" rel="nofollow">{{ region_name }} 물건 상세·권리분석 전체 보기</a>
+    <a class="btn" href="{{ cta2_url }}" rel="nofollow">{{ region_name }} 물건 상세·권리분석 전체 보기</a>
     <div class="sub">등기·임차인 권리분석과 예상 배당표는 두인경매 본사이트에서 확인할 수 있습니다.</div>
   </section>
 
-  <!-- 내부 링크 -->
+  <!-- 6. 자주 묻는 질문 -->
+  <section class="faq">
+    <h2>자주 묻는 질문</h2>
+    {% for f in faq %}
+    <details{% if loop.first %} open{% endif %}>
+      <summary>{{ f.q }}</summary>
+      <p>{{ f.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+
+  <!-- 7. 내부 링크 -->
   <section class="links">
-    <h2>{{ region_name }} 다른 유형 경매 통계</h2>
-    {% for l in sibling_links %}<a href="{{ l.href }}">{{ region_name }} {{ l.ko }} 경매</a>{% endfor %}
+    <h2>함께 보면 좋은 통계</h2>
+    <h3>{{ region_name }} 다른 유형</h3>
+    <div class="pills">
+      {% for l in sibling_links %}<a href="{{ l.href }}">{{ region_name }} {{ l.ko }} 경매</a>{% endfor %}
+    </div>
+    {% if neighbors %}
+    <h3>{{ sido_ko }} 다른 지역 {{ type_ko }} 경매</h3>
+    <div class="pills">
+      {% for n in neighbors %}<a href="{{ n.href }}">{{ n.name }}</a>{% endfor %}
+      <a href="{{ hub_href }}">{{ sido_ko }} 전체 보기 →</a>
+    </div>
+    {% endif %}
   </section>
 </main>
 
 <footer>
+  <img src="/logo.png" alt="두인경매"><br>
   두인경매는 법원경매 물건 검색·권리분석·매각통계를 제공하는 경매 정보 서비스입니다.<br>
-  이 페이지는 두인경매의 공식 부속 통계 서비스입니다. · 대표번호 <span class="tel">1661-9910</span>
+  이 페이지는 두인경매의 공식 부속 통계 서비스입니다. · 대표번호 <span class="tel">1661-9910</span> ·
+  <a href="{{ main_site_url }}" rel="nofollow">본사이트 바로가기</a>
 </footer>
+
+<a class="sticky-cta" href="#alert">📢 {{ region_name }} 신건 알림 무료 신청</a>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script>
@@ -184,7 +167,7 @@ const trendChart = new Chart(document.getElementById('trend'), {
     datasets: [
       { type: 'line', label: '낙찰가율(%)', data: priceRates, borderColor: '#e53e3e',
         backgroundColor: '#e53e3e', yAxisID: 'y', tension: 0.3, spanGaps: true },
-      { type: 'bar', label: '경매 건수', data: counts, backgroundColor: '#bee3f8', yAxisID: 'y1' },
+      { type: 'bar', label: '경매 건수', data: counts, backgroundColor: '#cfe7fc', yAxisID: 'y1' },
     ]
   },
   options: {
@@ -228,8 +211,9 @@ document.getElementById('alertForm').addEventListener('submit', async function(e
     });
     const j = await r.json();
     if (!j.ok) throw new Error(j.error || 'server error');
-    form.innerHTML = '<div style="padding:14px;background:rgba(255,255,255,.15);border-radius:8px;font-size:14px;font-weight:700;">' +
-      '✅ 신청 완료! {{ region_name }}에 새 물건이 등록되면 카카오톡으로 알려드릴게요.</div>';
+    form.innerHTML = '<div class="form-done">✅ 신청 완료! {{ region_name }}에 새 물건이 등록되면 카카오톡으로 알려드릴게요.</div>';
+    const sticky = document.querySelector('.sticky-cta');
+    if (sticky) sticky.remove();
   } catch (err) {
     btn.disabled = false; btn.textContent = '무료 알림 신청하기';
     alert('일시적인 오류가 발생했어요. 잠시 후 다시 시도해주세요.');

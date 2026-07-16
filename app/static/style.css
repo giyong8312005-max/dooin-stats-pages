@@ -1,0 +1,147 @@
+/* 두인경매 지역별 통계 — 공통 스타일 (브랜드 파랑 #2295F0) */
+:root {
+  --brand: #2295F0;
+  --brand-dark: #1273c4;
+  --brand-deep: #0d5090;
+  --brand-pale: #e8f3fd;
+  --red: #e53e3e;
+  --amber: #fbbf24;
+  --bg: #f5f8fb;
+  --card: #ffffff;
+  --line: #e3eaf2;
+  --text: #2d3748;
+  --muted: #718096;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+       background: var(--bg); color: var(--text); line-height: 1.65; }
+.wrap { max-width: 800px; margin: 0 auto; padding: 16px; }
+a { color: var(--brand-dark); }
+
+/* ── 헤더 ── */
+header.top { background: #fff; border-bottom: 1px solid var(--line); }
+header.top .wrap { display: flex; justify-content: space-between; align-items: center;
+                   padding-top: 12px; padding-bottom: 12px; }
+.brand-link { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.brand-link img { height: 26px; width: auto; }
+.brand-link .svc { font-size: 13px; font-weight: 700; color: var(--brand-deep);
+                   border-left: 1px solid var(--line); padding-left: 10px; }
+.main-link { font-size: 13px; font-weight: 700; color: var(--brand); text-decoration: none;
+             background: var(--brand-pale); padding: 7px 14px; border-radius: 18px; white-space: nowrap; }
+.main-link:hover { background: var(--brand); color: #fff; }
+
+/* ── 경로 표시줄 ── */
+.crumb { font-size: 12px; color: var(--muted); margin: 14px 0 4px; }
+.crumb a { color: var(--muted); text-decoration: none; }
+.crumb a:hover { color: var(--brand); }
+.crumb b { color: var(--text); font-weight: 600; }
+
+/* ── 제목 ── */
+h1 { font-size: 24px; letter-spacing: -0.5px; margin: 6px 0 2px; color: #1a2634; }
+.updated { color: var(--muted); font-size: 13px; margin-bottom: 14px; }
+
+/* ── 요약 문단 ── */
+.intro { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--brand);
+         border-radius: 10px; padding: 14px 16px; font-size: 14px; margin-bottom: 14px; }
+
+/* ── 통계 카드 ── */
+.cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 16px; }
+@media (min-width: 560px) { .cards { grid-template-columns: repeat(4, 1fr); } }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 13px 14px; }
+.card .label { font-size: 12px; color: var(--muted); }
+.card .value { font-size: 22px; font-weight: 800; color: var(--brand-deep); letter-spacing: -0.5px; }
+.card .value small { font-size: 13px; font-weight: 600; }
+.delta { font-size: 11px; font-weight: 700; margin-top: 2px; }
+.delta.up { color: var(--red); }
+.delta.down { color: var(--brand); }
+.delta.flat { color: var(--muted); font-weight: 500; }
+
+/* ── 공통 섹션 ── */
+section { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+          padding: 18px; margin-bottom: 14px; }
+h2 { font-size: 17px; margin-bottom: 12px; letter-spacing: -0.3px; color: #1a2634; }
+.chart-box { position: relative; height: 240px; }
+.chart-box canvas { width: 100% !important; height: 240px !important; }
+
+/* ── 물건 표 ── */
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; color: var(--muted); font-weight: 600; border-bottom: 2px solid var(--line);
+     padding: 6px 4px; white-space: nowrap; }
+td { border-bottom: 1px solid var(--line); padding: 9px 4px; vertical-align: top; }
+td.num { text-align: right; white-space: nowrap; }
+.addr { font-weight: 600; }
+.case { color: var(--muted); font-size: 12px; }
+.status { display: inline-block; font-size: 11px; padding: 1px 8px; border-radius: 10px;
+          background: var(--brand-pale); color: var(--brand-dark); font-weight: 700; white-space: nowrap; }
+.status.new { background: #fff5f5; color: var(--red); }
+.empty-note { padding: 20px 10px; text-align: center; color: var(--muted); }
+
+/* ── 알림 신청 (CTA 1) ── */
+.cta1 { background: linear-gradient(135deg, var(--brand-deep), var(--brand)); color: #fff; border: none; }
+.cta1 h2 { color: #fff; }
+.cta1 p { font-size: 13px; opacity: .92; margin-bottom: 12px; }
+.cta1 form { display: flex; flex-direction: column; gap: 10px; }
+.cta1 input[type=tel] { padding: 12px; border-radius: 8px; border: none; font-size: 15px; }
+.cta1 label { font-size: 12px; opacity: .95; display: flex; gap: 6px; align-items: flex-start; }
+.cta1 button { padding: 13px; border: none; border-radius: 8px; background: var(--amber); color: #1a202c;
+               font-size: 15px; font-weight: 800; cursor: pointer; }
+.cta1 button:hover { filter: brightness(1.05); }
+.consent-detail { font-size: 11px; opacity: .82; margin-top: 2px; }
+.form-done { padding: 14px; background: rgba(255,255,255,.15); border-radius: 8px;
+             font-size: 14px; font-weight: 700; }
+
+/* ── 본사이트 링크 (CTA 2) ── */
+.cta2 { text-align: center; }
+.cta2 a.btn { display: inline-block; padding: 13px 26px; background: var(--brand); color: #fff;
+              border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; }
+.cta2 a.btn:hover { background: var(--brand-dark); }
+.cta2 .sub { font-size: 12px; color: var(--muted); margin-top: 8px; }
+
+/* ── 자주 묻는 질문 ── */
+.faq details { border-bottom: 1px solid var(--line); padding: 9px 0; }
+.faq details:last-child { border-bottom: none; }
+.faq summary { font-size: 14px; font-weight: 700; cursor: pointer; color: #1a2634; }
+.faq details p { font-size: 13px; color: var(--text); padding: 8px 2px 2px; }
+
+/* ── 내부 링크(알약) ── */
+.links { font-size: 13px; }
+.links h3 { font-size: 13px; color: var(--muted); font-weight: 600; margin: 10px 0 6px; }
+.pills { display: flex; flex-wrap: wrap; gap: 6px; }
+.pills a { font-size: 12px; color: var(--brand-dark); background: var(--brand-pale); border-radius: 12px;
+           padding: 4px 12px; text-decoration: none; white-space: nowrap; }
+.pills a:hover { background: var(--brand); color: #fff; }
+
+/* ── 지역 목록 (첫 화면·허브) ── */
+.hero { background: linear-gradient(135deg, var(--brand-deep), var(--brand)); color: #fff;
+        border: none; padding: 22px 18px; }
+.hero h1 { color: #fff; margin: 0 0 4px; font-size: 22px; }
+.hero p { font-size: 13px; opacity: .92; }
+.hero .stats { display: flex; gap: 18px; margin-top: 12px; flex-wrap: wrap; }
+.hero .stats div { font-size: 12px; opacity: .9; }
+.hero .stats b { display: block; font-size: 20px; letter-spacing: -0.5px; }
+.search-box { width: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px;
+              font-size: 15px; margin-bottom: 14px; }
+.region-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+              padding: 9px 0; border-bottom: 1px solid var(--line); }
+.region-row:last-child { border-bottom: none; }
+.region-row .rn { font-weight: 700; min-width: 104px; font-size: 14px; }
+.region-row .cnt { font-size: 11px; color: var(--muted); min-width: 54px; }
+section h2 small { font-weight: 400; color: var(--muted); font-size: 12px; }
+section h2 .hub-link { float: right; font-size: 12px; font-weight: 700; color: var(--brand);
+                       text-decoration: none; }
+
+/* ── 푸터 ── */
+footer { color: var(--muted); font-size: 12px; text-align: center; padding: 22px 16px 46px; }
+footer img { height: 20px; opacity: .85; margin-bottom: 6px; }
+footer .tel { font-weight: 700; color: var(--text); }
+footer a { color: var(--brand-dark); }
+
+/* ── 모바일 하단 고정 알림 버튼 ── */
+.sticky-cta { display: none; }
+@media (max-width: 560px) {
+  .sticky-cta { display: block; position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 50;
+                background: var(--amber); color: #1a202c; text-align: center; font-weight: 800;
+                font-size: 14px; padding: 13px; border-radius: 12px; text-decoration: none;
+                box-shadow: 0 4px 14px rgba(13,80,144,.25); }
+  body.has-sticky { padding-bottom: 70px; }
+}
