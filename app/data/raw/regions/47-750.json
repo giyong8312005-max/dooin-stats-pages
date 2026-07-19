@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-13",
+  "collected_at": "2026-07-20",
   "region": {
     "siCd": "47",
     "guCd": "750",
@@ -514,22 +514,6 @@
     }
   ],
   "listings": [
-    {
-      "tid": 2351896,
-      "case_no": "2024-12007",
-      "item_no": null,
-      "court": "의성2계",
-      "type": "임야",
-      "address": "경상북도 청송군 현동면 눌인리 산103-1 외 4필지",
-      "area": "토지 194670㎡(58887.675평)",
-      "appraisal": 222708850,
-      "min_price": 76390000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.07.22",
-      "special": "맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
     {
       "tid": 2392890,
       "case_no": "2025-186",

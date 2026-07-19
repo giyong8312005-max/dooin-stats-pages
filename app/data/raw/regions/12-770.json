@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-13",
+  "collected_at": "2026-07-20",
   "region": {
     "siCd": "12",
     "guCd": "770",
@@ -898,7 +898,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.07.27",
-      "special": "농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -930,7 +930,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.07.27",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -962,7 +962,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.07.27",
-      "special": "",
+      "special": "맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1378,7 +1378,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.07.27",
-      "special": "",
+      "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "토지만 매각"
     },
     {
@@ -1388,7 +1388,7 @@
       "court": "장흥2계",
       "type": "전",
       "address": "전라남도 장흥군 대덕읍 옹암리 499-4 외 2필지",
-      "area": "토지 188.5㎡(57.021평)",
+      "area": "토지 377㎡(114.042평)",
       "appraisal": 3518000,
       "min_price": 3518000,
       "min_price_pct": 100,
@@ -1547,8 +1547,8 @@
       "item_no": null,
       "court": "장흥1계",
       "type": "승용차",
-      "address": "전남광주통합특별시 장흥군 장흥읍 사안리 57-1",
-      "area": "(그랜저(GRANDEUR) / 158,724㎞)",
+      "address": "전남광주통합특별시 장흥군 장흥읍 사안리 57-1, 장흥공업사",
+      "area": "(그랜저(GRANDEUR) / 2017년식 / 158,724㎞)",
       "appraisal": 12000000,
       "min_price": 12000000,
       "min_price_pct": 100,

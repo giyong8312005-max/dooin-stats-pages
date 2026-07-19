@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-13",
+  "collected_at": "2026-07-20",
   "region": {
     "siCd": "44",
     "guCd": "790",
@@ -569,6 +569,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2419381,
+      "case_no": "2025-75",
+      "item_no": null,
+      "court": "공주1계",
+      "type": "답",
+      "address": "충청남도 청양군 정산면 서정리 18-11",
+      "area": "토지 2677㎡(809.793평)",
+      "appraisal": 240930000,
+      "min_price": 240930000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.04",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2423245,
+      "case_no": "2025-80",
+      "item_no": null,
+      "court": "공주1계",
+      "type": "전",
+      "address": "충청남도 청양군 비봉면 중묵리 446 외 3필지",
+      "area": "토지 1904㎡(575.96평)",
+      "appraisal": 70124000,
+      "min_price": 70124000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.04",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
       "tid": 2400395,
       "case_no": "2025-20255",
       "item_no": null,
@@ -679,22 +711,6 @@
       "bid_date": "26.08.18",
       "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2530502,
-      "case_no": "2025-20290",
-      "item_no": 2,
-      "court": "공주2계",
-      "type": "임야",
-      "address": "충청남도 청양군 대치면 형산리 15-3",
-      "area": "토지 349.53㎡(105.733평)",
-      "appraisal": 1642800,
-      "min_price": 804972,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.18",
-      "special": "",
-      "dpsl": "토지지분매각"
     }
   ]
 }

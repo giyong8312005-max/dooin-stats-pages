@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-13",
+  "collected_at": "2026-07-20",
   "region": {
     "siCd": "26",
     "guCd": "110",
@@ -933,7 +933,7 @@
       "appraisal": 218000000,
       "min_price": 218000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.07.29",
       "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -949,9 +949,9 @@
       "appraisal": 228000000,
       "min_price": 228000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.07.29",
-      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {

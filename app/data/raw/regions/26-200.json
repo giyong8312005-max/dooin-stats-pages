@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-13",
+  "collected_at": "2026-07-20",
   "region": {
     "siCd": "26",
     "guCd": "200",
@@ -1003,38 +1003,6 @@
       "dpsl": "건물전부, 토지지분"
     },
     {
-      "tid": 2478494,
-      "case_no": "2025-22539",
-      "item_no": 3,
-      "court": "부산7계",
-      "type": "선박",
-      "address": "부산 영도구 대교동1가 20, 영도경찰서 뒤 방파제",
-      "area": "(라니호)",
-      "appraisal": 377884000,
-      "min_price": 81623000,
-      "min_price_pct": 22,
-      "status": "유찰 3회",
-      "bid_date": "26.07.22",
-      "special": "",
-      "dpsl": ""
-    },
-    {
-      "tid": 2478495,
-      "case_no": "2025-22539",
-      "item_no": 4,
-      "court": "부산7계",
-      "type": "선박",
-      "address": "부산 영도구 봉래동1가 205, 해금이엔지 앞 방파제",
-      "area": "(등대호)",
-      "appraisal": 457256000,
-      "min_price": 98767000,
-      "min_price_pct": 22,
-      "status": "유찰 3회",
-      "bid_date": "26.07.22",
-      "special": "",
-      "dpsl": ""
-    },
-    {
       "tid": 2480221,
       "case_no": "2025-22976",
       "item_no": null,
@@ -1765,7 +1733,7 @@
       "appraisal": 199000000,
       "min_price": 199000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.07.29",
       "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
@@ -2021,7 +1989,7 @@
       "appraisal": 223000000,
       "min_price": 223000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.07.29",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
