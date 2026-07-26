@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-20",
+  "collected_at": "2026-07-27",
   "region": {
     "siCd": "51",
     "guCd": "800",
@@ -405,54 +405,6 @@
   ],
   "listings": [
     {
-      "tid": 2471268,
-      "case_no": "2025-50968",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "임야",
-      "address": "강원특별자치도 양구군 양구읍 상무룡리 865 외 1필지",
-      "area": "토지 10033㎡(3034.983평)",
-      "appraisal": 9786230,
-      "min_price": 9786230,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.20",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2487643,
-      "case_no": "2025-51085",
-      "item_no": 1,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 양구읍 하리 256-2",
-      "area": "토지 60㎡(18.15평)",
-      "appraisal": 10140000,
-      "min_price": 10140000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.20",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2551067,
-      "case_no": "2025-51085",
-      "item_no": 2,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 양구읍 하리 259",
-      "area": "토지 4294㎡(1298.935평)",
-      "appraisal": 708510000,
-      "min_price": 708510000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.20",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2416625,
       "case_no": "2025-1296",
       "item_no": null,
@@ -659,6 +611,54 @@
       "bid_date": "26.08.31",
       "special": "농지취득자격증명,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2471268,
+      "case_no": "2025-50968",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "임야",
+      "address": "강원특별자치도 양구군 양구읍 상무룡리 865 외 1필지",
+      "area": "토지 10033㎡(3034.983평)",
+      "appraisal": 9786230,
+      "min_price": 6850000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2487643,
+      "case_no": "2025-51085",
+      "item_no": 1,
+      "court": "춘천2계",
+      "type": "전",
+      "address": "강원특별자치도 양구군 양구읍 하리 256-2",
+      "area": "토지 60㎡(18.15평)",
+      "appraisal": 10140000,
+      "min_price": 7098000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2551067,
+      "case_no": "2025-51085",
+      "item_no": 2,
+      "court": "춘천2계",
+      "type": "전",
+      "address": "강원특별자치도 양구군 양구읍 하리 259",
+      "area": "토지 4294㎡(1298.935평)",
+      "appraisal": 708510000,
+      "min_price": 495957000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-20",
+  "collected_at": "2026-07-27",
   "region": {
     "siCd": "44",
     "guCd": "790",
@@ -597,7 +597,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.04",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {

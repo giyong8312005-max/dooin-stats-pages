@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-20",
+  "collected_at": "2026-07-27",
   "region": {
     "siCd": "51",
     "guCd": "750",
@@ -1077,6 +1077,38 @@
       "status": "유찰 5회",
       "bid_date": "26.08.04",
       "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2392343,
+      "case_no": "2025-370",
+      "item_no": 1,
+      "court": "영월2계",
+      "type": "전",
+      "address": "강원도 영월군 영월읍 삼옥리 760",
+      "area": "토지 1560㎡(471.9평)",
+      "appraisal": 196560000,
+      "min_price": 47194000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.08.04",
+      "special": "분묘기지권",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2504718,
+      "case_no": "2025-370",
+      "item_no": 3,
+      "court": "영월2계",
+      "type": "전",
+      "address": "강원도 영월군 영월읍 삼옥리 1027 외 3필지",
+      "area": "토지 5604㎡(1695.21평)",
+      "appraisal": 509964000,
+      "min_price": 122443000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.08.04",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
     },
     {
