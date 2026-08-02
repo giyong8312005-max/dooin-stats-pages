@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "595",
@@ -7,136 +7,6 @@
     "name": "화성시 병점구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "595",
-      "title": "2026. 01 월간매각 통계자료 : 경기 화성시 병점구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 2642640000,
-          "sale_price_rate": 64.75
-        },
-        {
-          "type": "아파트",
-          "total": 12,
-          "failed": 5,
-          "sold": 3,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 481000000,
-          "sale_price_rate": 96.7
-        },
-        {
-          "type": "다세대주택",
-          "total": 18,
-          "failed": 15,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 219333333,
-          "sale_price_rate": 49.58
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 18,
-          "failed": 12,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 27.78,
-          "avg_appraisal": 117200000,
-          "sale_price_rate": 70.93
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 137000000,
-          "sale_price_rate": 52.02
-        },
-        {
-          "type": "근린상가",
-          "total": 8,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 37.5,
-          "avg_appraisal": 231000000,
-          "sale_price_rate": 69.58
-        },
-        {
-          "type": "승용차",
-          "total": 13,
-          "failed": 7,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 46.15,
-          "avg_appraisal": 19833333,
-          "sale_price_rate": 83.89
-        },
-        {
-          "type": "화물차",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 17500000,
-          "sale_price_rate": 81.65
-        },
-        {
-          "type": "기타차량",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "덤프트럭",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -918,6 +788,169 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "595",
+      "title": "2026. 07 월간매각 통계자료 : 경기 화성시 병점구",
+      "rows": [
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 6,
+          "failed": 2,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 458800000,
+          "sale_price_rate": 100.3
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 8,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 247000000,
+          "sale_price_rate": 76.96
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 34,
+          "failed": 8,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 19,
+          "sold_rate": 14.71,
+          "avg_appraisal": 110200000,
+          "sale_price_rate": 38.54
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 35,
+          "failed": 34,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 2.86,
+          "avg_appraisal": 137000000,
+          "sale_price_rate": 71.9
+        },
+        {
+          "type": "근린상가",
+          "total": 9,
+          "failed": 5,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 11.11,
+          "avg_appraisal": 390000000,
+          "sale_price_rate": 39.23
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1623589780,
+          "sale_price_rate": 63.93
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 14,
+          "failed": 11,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 21.43,
+          "avg_appraisal": 15833333,
+          "sale_price_rate": 63.11
+        },
+        {
+          "type": "승합차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 13500000,
+          "sale_price_rate": 65.1
+        }
+      ]
     }
   ],
   "listings": [
@@ -1290,22 +1323,6 @@
       "dpsl": ""
     },
     {
-      "tid": 2372987,
-      "case_no": "2025-52488",
-      "item_no": null,
-      "court": "수원11계",
-      "type": "숙박시설",
-      "address": "경기 화성시 병점구 병점동 386-39",
-      "area": "건물 1126.38㎡(340.73평) 토지 271㎡(81.977평)",
-      "appraisal": 3445218200,
-      "min_price": 3445218200,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.07",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2432797,
       "case_no": "2025-57097",
       "item_no": null,
@@ -1398,7 +1415,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1440,7 +1457,7 @@
       "court": "수원16계",
       "type": "승용차",
       "address": "경기 화성시 병점구 안녕동 188-292, 다원물류",
-      "area": "(스포티지 / 2024년식)",
+      "area": "(스포티지 / 2024년식 / 2,885㎞)",
       "appraisal": 32000000,
       "min_price": 32000000,
       "min_price_pct": 100,
@@ -1471,8 +1488,8 @@
       "item_no": null,
       "court": "수원1계",
       "type": "승용차",
-      "address": "화성시 안녕동 188-292. 다원물류",
-      "area": "(카니발 하이리무진 / 2019년식)",
+      "address": "경기도 화성시 병점구 안녕동 188-292, 다원물류",
+      "area": "(카니발 하이리무진 / 2019년식 / 54,592㎞)",
       "appraisal": 30000000,
       "min_price": 30000000,
       "min_price_pct": 100,
@@ -1480,6 +1497,22 @@
       "bid_date": "26.08.11",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2401309,
+      "case_no": "2025-55600",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "아파트",
+      "address": "경기도 화성시 능동 1041 서동탄역우남퍼스트빌아파트 1014동 10층1004호",
+      "area": "건물 84.2119㎡(25.474평) 대지권 53.2559㎡(16.11평)",
+      "appraisal": 380000000,
+      "min_price": 380000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2417453,
@@ -1540,7 +1573,7 @@
       "appraisal": 635000000,
       "min_price": 635000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1557,6 +1590,22 @@
       "min_price": 11200000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2531695,
+      "case_no": "2026-50598",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "승용차",
+      "address": "경기 화성시 병점구 안녕동 158-26",
+      "area": "(718 카이맨 S / 2020년식 / 28,402㎞)",
+      "appraisal": 69000000,
+      "min_price": 69000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": ""

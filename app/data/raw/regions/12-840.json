@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "12",
     "guCd": "840",
@@ -7,15 +7,6 @@
     "name": "장성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "12",
-      "guCd": "840",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 2,
@@ -170,137 +161,128 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "12",
+      "guCd": "840",
+      "title": "2026. 07 월간매각 통계자료 : 광주 장성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 13,
+          "failed": 11,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 7.69,
+          "avg_appraisal": 5071310,
+          "sale_price_rate": 85.4
+        },
+        {
+          "type": "답",
+          "total": 8,
+          "failed": 5,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 37.5,
+          "avg_appraisal": 15500333,
+          "sale_price_rate": 52.81
+        },
+        {
+          "type": "임야",
+          "total": 15,
+          "failed": 12,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 6.67,
+          "avg_appraisal": 11220000,
+          "sale_price_rate": 22.55
+        },
+        {
+          "type": "대지",
+          "total": 10,
+          "failed": 4,
+          "sold": 6,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 56299700,
+          "sale_price_rate": 60.9
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 10,
+          "failed": 3,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 3,
+          "sold_rate": 40.0,
+          "avg_appraisal": 109680840,
+          "sale_price_rate": 63.44
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 4,
+          "failed": 0,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 99250000,
+          "sale_price_rate": 62.46
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 5143652890,
+          "sale_price_rate": 34.41
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 5900467400,
+          "sale_price_rate": 60.62
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2348045,
-      "case_no": "2024-84777",
-      "item_no": null,
-      "court": "광주7계",
-      "type": "숙박시설",
-      "address": "전라남도 장성군 북하면 약수리 산30 외 7필지",
-      "area": "건물 5180.57㎡(1567.122평) 토지 140290㎡(42437.725평)",
-      "appraisal": 5143652890,
-      "min_price": 1474789000,
-      "min_price_pct": 29,
-      "status": "유찰 5회",
-      "bid_date": "26.07.28",
-      "special": "맹지",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2477835,
-      "case_no": "2025-34507",
-      "item_no": null,
-      "court": "광주7계",
-      "type": "전",
-      "address": "전라남도 장성군 남면 분향리 554",
-      "area": "토지 134.5㎡(40.686평)",
-      "appraisal": 41695000,
-      "min_price": 23350000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2356711,
-      "case_no": "2024-86889",
-      "item_no": null,
-      "court": "광주10계",
-      "type": "임야",
-      "address": "전라남도 장성군 서삼면 모암리 산46",
-      "area": "토지 3959㎡(1197.597평)",
-      "appraisal": 296925000,
-      "min_price": 85136000,
-      "min_price_pct": 29,
-      "status": "유찰 5회",
-      "bid_date": "26.07.31",
-      "special": "",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
-      "tid": 2408928,
-      "case_no": "2025-32819",
-      "item_no": null,
-      "court": "광주10계",
-      "type": "전",
-      "address": "전라남도 장성군 삼계면 화산리 209 외 1필지",
-      "area": "토지 299.23㎡(90.517평)",
-      "appraisal": 8470620,
-      "min_price": 5930000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2465930,
-      "case_no": "2025-34264",
-      "item_no": 1,
-      "court": "광주10계",
-      "type": "단독주택",
-      "address": "전라남도 장성군 북이면 달성리 113",
-      "area": "건물 23.3647㎡(7.068평) 토지 68.8㎡(20.812평)",
-      "appraisal": 7337880,
-      "min_price": 5137000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2539759,
-      "case_no": "2025-34264",
-      "item_no": 2,
-      "court": "광주10계",
-      "type": "답",
-      "address": "전라남도 장성군 북이면 달성리 561-13 외 1필지",
-      "area": "토지 479.2㎡(144.958평)",
-      "appraisal": 14139210,
-      "min_price": 9898000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
-      "tid": 2539760,
-      "case_no": "2025-34264",
-      "item_no": 3,
-      "court": "광주10계",
-      "type": "답",
-      "address": "전라남도 장성군 북이면 달성리 560-14",
-      "area": "토지 106.6667㎡(32.267평)",
-      "appraisal": 3200100,
-      "min_price": 2241000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2539761,
-      "case_no": "2025-34264",
-      "item_no": 4,
-      "court": "광주10계",
-      "type": "전",
-      "address": "전라남도 장성군 북이면 달성리 407-55",
-      "area": "토지 69.4667㎡(21.014평)",
-      "appraisal": 5071310,
-      "min_price": 3550000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
     {
       "tid": 2355151,
       "case_no": "2024-86445",
@@ -430,22 +412,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2438521,
-      "case_no": "2025-4693",
-      "item_no": null,
-      "court": "광주2계",
-      "type": "대지",
-      "address": "전라남도 장성군 북하면 약수리 334-2",
-      "area": "토지 678㎡(205.095평)",
-      "appraisal": 170178000,
-      "min_price": 119124600,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.06",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2410389,
       "case_no": "2025-32825",
       "item_no": null,
@@ -522,7 +488,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -532,7 +498,7 @@
       "court": "광주4계",
       "type": "단독주택",
       "address": "전남광주통합특별시 장성군 서삼면 용흥리 701-1",
-      "area": "건물 322.74㎡(97.629평) 토지 660㎡(199.65평)",
+      "area": "건물 226.14㎡(68.407평) 토지 660㎡(199.65평)",
       "appraisal": 223717800,
       "min_price": 223717800,
       "min_price_pct": 100,
@@ -570,7 +536,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각"
     },
     {
@@ -1070,6 +1036,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2477835,
+      "case_no": "2025-34507",
+      "item_no": null,
+      "court": "광주7계",
+      "type": "전",
+      "address": "전라남도 장성군 남면 분향리 554",
+      "area": "토지 134.5㎡(40.686평)",
+      "appraisal": 41695000,
+      "min_price": 18680000,
+      "min_price_pct": 45,
+      "status": "유찰 3회",
+      "bid_date": "26.09.08",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
       "tid": 2354228,
       "case_no": "2024-8643",
       "item_no": 1,
@@ -1084,6 +1066,86 @@
       "bid_date": "26.09.11",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2356711,
+      "case_no": "2024-86889",
+      "item_no": null,
+      "court": "광주10계",
+      "type": "임야",
+      "address": "전라남도 장성군 서삼면 모암리 산46",
+      "area": "토지 3959㎡(1197.597평)",
+      "appraisal": 296925000,
+      "min_price": 68109000,
+      "min_price_pct": 23,
+      "status": "유찰 6회",
+      "bid_date": "26.09.11",
+      "special": "",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2408928,
+      "case_no": "2025-32819",
+      "item_no": null,
+      "court": "광주10계",
+      "type": "전",
+      "address": "전라남도 장성군 삼계면 화산리 209 외 1필지",
+      "area": "토지 299.23㎡(90.517평)",
+      "appraisal": 8470620,
+      "min_price": 4744000,
+      "min_price_pct": 56,
+      "status": "유찰 2회",
+      "bid_date": "26.09.11",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2539759,
+      "case_no": "2025-34264",
+      "item_no": 2,
+      "court": "광주10계",
+      "type": "답",
+      "address": "전라남도 장성군 북이면 달성리 561-13 외 1필지",
+      "area": "토지 479.2㎡(144.958평)",
+      "appraisal": 14139210,
+      "min_price": 7919000,
+      "min_price_pct": 56,
+      "status": "유찰 2회",
+      "bid_date": "26.09.11",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2539760,
+      "case_no": "2025-34264",
+      "item_no": 3,
+      "court": "광주10계",
+      "type": "답",
+      "address": "전라남도 장성군 북이면 달성리 560-14",
+      "area": "토지 106.6667㎡(32.267평)",
+      "appraisal": 3200100,
+      "min_price": 1793000,
+      "min_price_pct": 56,
+      "status": "유찰 2회",
+      "bid_date": "26.09.11",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2438521,
+      "case_no": "2025-4693",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "대지",
+      "address": "전라남도 장성군 북하면 약수리 334-2",
+      "area": "토지 678㎡(205.095평)",
+      "appraisal": 170178000,
+      "min_price": 119124600,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

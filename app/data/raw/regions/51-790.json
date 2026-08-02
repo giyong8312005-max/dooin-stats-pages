@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "51",
     "guCd": "790",
@@ -7,92 +7,6 @@
     "name": "화천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "51",
-      "guCd": "790",
-      "title": "2026. 01 월간매각 통계자료 : 강원 화천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 5,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "유지",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 206414400,
-          "sale_price_rate": 72.7
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -401,73 +315,106 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "51",
+      "guCd": "790",
+      "title": "2026. 07 월간매각 통계자료 : 강원 화천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 9,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 11.11,
+          "avg_appraisal": 250902000,
+          "sale_price_rate": 17.62
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 47007000,
+          "sale_price_rate": 27.02
+        },
+        {
+          "type": "유지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 5231230,
+          "sale_price_rate": 71.3
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 381164420,
+          "sale_price_rate": 24.96
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1620511000,
+          "sale_price_rate": 54.98
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2286870,
-      "case_no": "2024-51904",
-      "item_no": 1,
-      "court": "춘천3계",
-      "type": "단독주택",
-      "address": "강원특별자치도 화천군 상서면 다목리 17-14 외 1필지",
-      "area": "건물 106.6㎡(32.246평) 토지 65884㎡(19929.91평)",
-      "appraisal": 689598040,
-      "min_price": 165572000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.07.27",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2502352,
-      "case_no": "2024-51904",
-      "item_no": 2,
-      "court": "춘천3계",
-      "type": "임야",
-      "address": "강원특별자치도 화천군 상서면 봉오리 산147-1 외 1필지",
-      "area": "토지 118414㎡(35820.235평)",
-      "appraisal": 416761300,
-      "min_price": 100064000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.07.27",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2402895,
-      "case_no": "2025-897",
-      "item_no": null,
-      "court": "춘천3계",
-      "type": "단독주택",
-      "address": "강원특별자치도 화천군 간동면 용호리 1558 외 4필지",
-      "area": "건물 124.05㎡(37.525평) 토지 13997㎡(4234.093평)",
-      "appraisal": 509530900,
-      "min_price": 509530900,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2446537,
-      "case_no": "2025-1418",
-      "item_no": null,
-      "court": "춘천3계",
-      "type": "상가주택",
-      "address": "강원특별자치도 화천군 화천읍 아리 110-4",
-      "area": "건물 1215.1㎡(367.568평) 토지 1209㎡(365.722평)",
-      "appraisal": 1620511000,
-      "min_price": 794051000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2430271,
       "case_no": "2025-50790",
@@ -659,6 +606,38 @@
       "bid_date": "26.08.31",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2502352,
+      "case_no": "2024-51904",
+      "item_no": 2,
+      "court": "춘천3계",
+      "type": "임야",
+      "address": "강원특별자치도 화천군 상서면 봉오리 산147-1 외 1필지",
+      "area": "토지 118414㎡(35820.235평)",
+      "appraisal": 416761300,
+      "min_price": 70045000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.09.14",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2402895,
+      "case_no": "2025-897",
+      "item_no": null,
+      "court": "춘천3계",
+      "type": "단독주택",
+      "address": "강원특별자치도 화천군 간동면 용호리 1558 외 4필지",
+      "area": "건물 124.05㎡(37.525평) 토지 13997㎡(4234.093평)",
+      "appraisal": 509530900,
+      "min_price": 356672000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.14",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "51",
     "guCd": "800",
@@ -7,103 +7,6 @@
     "name": "양구군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "51",
-      "guCd": "800",
-      "title": "2026. 01 월간매각 통계자료 : 강원 양구군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 11,
-          "failed": 6,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 3,
-          "sold_rate": 18.18,
-          "avg_appraisal": 147968500,
-          "sale_price_rate": 38.72
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 75540300,
-          "sale_price_rate": 51.1
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 126238400,
-          "sale_price_rate": 70.5
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -401,25 +304,62 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "51",
+      "guCd": "800",
+      "title": "2026. 07 월간매각 통계자료 : 강원 양구군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 10,
+          "failed": 7,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 10.0,
+          "avg_appraisal": 6919000,
+          "sale_price_rate": 24.72
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2416625,
-      "case_no": "2025-1296",
-      "item_no": null,
-      "court": "춘천3계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 방산면 오미리 910 외 1필지",
-      "area": "토지 8589㎡(2598.173평)",
-      "appraisal": 249399000,
-      "min_price": 29342000,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.07.27",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
     {
       "tid": 2461431,
       "case_no": "2025-2343",
@@ -659,6 +599,22 @@
       "bid_date": "26.08.31",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2416625,
+      "case_no": "2025-1296",
+      "item_no": null,
+      "court": "춘천3계",
+      "type": "전",
+      "address": "강원특별자치도 양구군 방산면 오미리 910 외 1필지",
+      "area": "토지 8589㎡(2598.173평)",
+      "appraisal": 249399000,
+      "min_price": 20539000,
+      "min_price_pct": 8,
+      "status": "유찰 7회",
+      "bid_date": "26.09.14",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]
 }

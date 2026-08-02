@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "800",
@@ -7,147 +7,6 @@
     "name": "연천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "800",
-      "title": "2026. 01 월간매각 통계자료 : 경기 연천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 11,
-          "failed": 6,
-          "sold": 1,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 9.09,
-          "avg_appraisal": 203754000,
-          "sale_price_rate": 64.78
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 1,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 75.0,
-          "avg_appraisal": 172614667,
-          "sale_price_rate": 64.78
-        },
-        {
-          "type": "임야",
-          "total": 12,
-          "failed": 7,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 2,
-          "sold_rate": 16.67,
-          "avg_appraisal": 619891950,
-          "sale_price_rate": 26.58
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 2,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 420993025,
-          "sale_price_rate": 61.51
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 137000000,
-          "sale_price_rate": 69.16
-        },
-        {
-          "type": "다세대주택",
-          "total": 6,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 218000000,
-          "sale_price_rate": 36.48
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 72513600,
-          "sale_price_rate": 63.73
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1653376960,
-          "sale_price_rate": 111.89
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -841,89 +700,150 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "800",
+      "title": "2026. 07 월간매각 통계자료 : 경기 연천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 15,
+          "failed": 9,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 26.67,
+          "avg_appraisal": 459835990,
+          "sale_price_rate": 48.67
+        },
+        {
+          "type": "답",
+          "total": 12,
+          "failed": 10,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 8.33,
+          "avg_appraisal": 238510600,
+          "sale_price_rate": 49.13
+        },
+        {
+          "type": "임야",
+          "total": 14,
+          "failed": 13,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 791180000,
+          "sale_price_rate": 82.66
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 6,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 387348590,
+          "sale_price_rate": 20.92
+        },
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 2163896520,
+          "sale_price_rate": 19.03
+        },
+        {
+          "type": "광업권",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2449738,
-      "case_no": "2025-4308",
-      "item_no": null,
-      "court": "의정부2계",
-      "type": "전",
-      "address": "경기도 연천군 백학면 전동리 136 외 1필지",
-      "area": "토지 2976.91㎡(900.515평)",
-      "appraisal": 494228960,
-      "min_price": 242172000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2411222,
-      "case_no": "2025-72041",
-      "item_no": null,
-      "court": "의정부2계",
-      "type": "임야",
-      "address": "경기도 연천군 신서면 마전리 산218",
-      "area": "토지 19703㎡(5960.158평)",
-      "appraisal": 167475500,
-      "min_price": 28148000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.07.28",
-      "special": "맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2404865,
-      "case_no": "2025-72211",
-      "item_no": null,
-      "court": "의정부2계",
-      "type": "전",
-      "address": "경기도 연천군 미산면 아미리 312-6",
-      "area": "토지 89㎡(26.923평)",
-      "appraisal": 3204000,
-      "min_price": 1099000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2420360,
-      "case_no": "2025-72548",
-      "item_no": null,
-      "court": "의정부2계",
-      "type": "단독주택",
-      "address": "경기도 연천군 미산면 동이리 507 외 4필지",
-      "area": "건물 213.19㎡(64.49평) 토지 5408㎡(1635.92평)",
-      "appraisal": 644282820,
-      "min_price": 450998000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526969,
-      "case_no": "2025-72612",
-      "item_no": 2,
-      "court": "의정부2계",
-      "type": "전",
-      "address": "경기도 연천군 군남면 황지리 1041 외 2필지",
-      "area": "토지 2355㎡(712.387평)",
-      "appraisal": 236915000,
-      "min_price": 116089000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2289087,
       "case_no": "2024-76979",
@@ -1001,7 +921,7 @@
       "min_price_pct": 100,
       "status": "유찰 6회",
       "bid_date": "26.08.04",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1018,22 +938,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.04",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2467245,
-      "case_no": "2025-73507",
-      "item_no": null,
-      "court": "의정부6계",
-      "type": "공장용지",
-      "address": "경기도 연천군 청산면 대전리 684",
-      "area": "토지 3041.9㎡(920.175평)",
-      "appraisal": 912570000,
-      "min_price": 219108000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.08.04",
-      "special": "",
       "dpsl": "토지 매각"
     },
     {
@@ -1389,22 +1293,6 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2319313,
-      "case_no": "2024-4752",
-      "item_no": null,
-      "court": "의정부5계",
-      "type": "대지",
-      "address": "경기도 연천군 청산면 대전리 507-2 외 1필지",
-      "area": "토지 4595㎡(1389.988평)",
-      "appraisal": 1287619000,
-      "min_price": 309157000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.08.13",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2352542,
       "case_no": "2024-89784",
       "item_no": null,
@@ -1501,6 +1389,38 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2444899,
+      "case_no": "2025-73089",
+      "item_no": 1,
+      "court": "의정부5계",
+      "type": "전",
+      "address": "경기도 연천군 백학면 노곡리 299-2 외 1필지",
+      "area": "토지 2272㎡(687.28평)",
+      "appraisal": 109864000,
+      "min_price": 109864000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2533998,
+      "case_no": "2025-73089",
+      "item_no": 2,
+      "court": "의정부5계",
+      "type": "전",
+      "address": "경기도 연천군 백학면 노곡리 303 외 1필지",
+      "area": "건물 325㎡(98.313평) 토지 2780㎡(840.95평)",
+      "appraisal": 170197000,
+      "min_price": 170197000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2468205,
       "case_no": "2025-73475",
       "item_no": 1,
@@ -1531,6 +1451,22 @@
       "bid_date": "26.08.13",
       "special": "맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2546969,
+      "case_no": "2026-186",
+      "item_no": null,
+      "court": "의정부5계",
+      "type": "근린생활시설",
+      "address": "경기도 연천군 연천읍 동막리 424-6",
+      "area": "건물 400.78㎡(121.236평) 토지 1487㎡(449.818평)",
+      "appraisal": 782090080,
+      "min_price": 782090080,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2489808,
@@ -1565,20 +1501,20 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2272922,
-      "case_no": "2024-1135",
+      "tid": 2499402,
+      "case_no": "2026-70268",
       "item_no": null,
-      "court": "의정부9계",
-      "type": "광업권",
-      "address": "경기도 연천군 청산면",
-      "area": "",
-      "appraisal": 967244000,
-      "min_price": 473950000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.19",
-      "special": "",
-      "dpsl": ""
+      "court": "의정부5계",
+      "type": "단독주택",
+      "address": "경기도 연천군 연천읍 차탄리 228-15 외 1필지",
+      "area": "건물 98.65㎡(29.842평) 토지 298.27㎡(90.227평)",
+      "appraisal": 265083870,
+      "min_price": 252153024,
+      "min_price_pct": 95,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "대항력 있는 임차인",
+      "dpsl": "건물전부, 토지지분"
     },
     {
       "tid": 2320789,
@@ -1737,7 +1673,7 @@
       "min_price_pct": 100,
       "status": "유찰 2회",
       "bid_date": "26.08.19",
-      "special": "임차권등기",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2011,6 +1947,54 @@
       "bid_date": "26.08.26",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2411222,
+      "case_no": "2025-72041",
+      "item_no": null,
+      "court": "의정부2계",
+      "type": "임야",
+      "address": "경기도 연천군 신서면 마전리 산218",
+      "area": "토지 19703㎡(5960.158평)",
+      "appraisal": 167475500,
+      "min_price": 19704000,
+      "min_price_pct": 12,
+      "status": "유찰 6회",
+      "bid_date": "26.09.01",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2404865,
+      "case_no": "2025-72211",
+      "item_no": null,
+      "court": "의정부2계",
+      "type": "전",
+      "address": "경기도 연천군 미산면 아미리 312-6",
+      "area": "토지 89㎡(26.923평)",
+      "appraisal": 3204000,
+      "min_price": 769000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.09.01",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2420360,
+      "case_no": "2025-72548",
+      "item_no": null,
+      "court": "의정부2계",
+      "type": "단독주택",
+      "address": "경기도 연천군 미산면 동이리 507 외 4필지",
+      "area": "건물 213.19㎡(64.49평) 토지 5408㎡(1635.92평)",
+      "appraisal": 644282820,
+      "min_price": 315699000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.01",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

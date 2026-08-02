@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "597",
@@ -7,147 +7,6 @@
     "name": "화성시 동탄구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "597",
-      "title": "2026. 01 월간매각 통계자료 : 경기 화성시 동탄구",
-      "rows": [
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 11,
-          "failed": 6,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 36.36,
-          "avg_appraisal": 514500000,
-          "sale_price_rate": 88.37
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1305225650,
-          "sale_price_rate": 70.03
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 30,
-          "failed": 24,
-          "sold": 4,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 13.33,
-          "avg_appraisal": 153250000,
-          "sale_price_rate": 89.06
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 162000000,
-          "sale_price_rate": 57.06
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 10,
-          "failed": 10,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 67,
-          "failed": 46,
-          "sold": 8,
-          "changed": 9,
-          "withdrawn": 4,
-          "sold_rate": 11.94,
-          "avg_appraisal": 1079375000,
-          "sale_price_rate": 28.03
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 29,
-          "failed": 18,
-          "sold": 7,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 24.14,
-          "avg_appraisal": 179571429,
-          "sale_price_rate": 43.95
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -775,6 +634,114 @@
           "sale_price_rate": 44.76
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "597",
+      "title": "2026. 07 월간매각 통계자료 : 경기 화성시 동탄구",
+      "rows": [
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 5,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 741500000,
+          "sale_price_rate": 104.35
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1260000000,
+          "sale_price_rate": 68.65
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 53,
+          "failed": 36,
+          "sold": 14,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 26.42,
+          "avg_appraisal": 128357143,
+          "sale_price_rate": 69.93
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 70,
+          "failed": 47,
+          "sold": 9,
+          "changed": 5,
+          "withdrawn": 5,
+          "sold_rate": 12.86,
+          "avg_appraisal": 874222222,
+          "sale_price_rate": 32.11
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 31,
+          "failed": 21,
+          "sold": 7,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 22.58,
+          "avg_appraisal": 294142857,
+          "sale_price_rate": 42.79
+        }
+      ]
     }
   ],
   "listings": [
@@ -808,22 +775,6 @@
       "status": "유찰 3회",
       "bid_date": "26.08.05",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2382531,
-      "case_no": "2025-55020",
-      "item_no": null,
-      "court": "수원17계",
-      "type": "근린상가",
-      "address": "경기도 화성시 능동 1063-3 블리스-인 오피스텔 1층101호",
-      "area": "건물 45.98㎡(13.909평) 대지권 5.8898㎡(1.782평)",
-      "appraisal": 375000000,
-      "min_price": 128625000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.05",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1335,7 +1286,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1723,6 +1674,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2273910,
+      "case_no": "2024-3281",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "아파트",
+      "address": "경기 화성시 동탄구 장지동 1010, 3421동 16층1604호 (장지동,동탄2아이파크)",
+      "area": "건물 96.9237㎡(29.319평) 대지권 83.7905㎡(25.347평)",
+      "appraisal": 679000000,
+      "min_price": 679000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2298022,
       "case_no": "2024-5959",
       "item_no": null,
@@ -1867,6 +1834,70 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2403286,
+      "case_no": "2025-1164",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 화성시 영천동 679-6 자유드림힐스 7층722호",
+      "area": "건물 22.23㎡(6.725평) 대지권 8.9㎡(2.692평)",
+      "appraisal": 152000000,
+      "min_price": 152000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2420437,
+      "case_no": "2025-1331",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "아파트",
+      "address": "경기도 화성시 장지동 963 동탄자이파밀리에 3206동 3층302호",
+      "area": "건물 84.98㎡(25.706평) / 미등기감정가격포함",
+      "appraisal": 703000000,
+      "min_price": 703000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2395089,
+      "case_no": "2025-55327",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "아파트",
+      "address": "경기도 화성시 영천동 651-1397 동탄퍼스트파크 102동 2층203호",
+      "area": "건물 72.5957㎡(21.96평) 대지권 60.9468㎡(18.436평)",
+      "appraisal": 394000000,
+      "min_price": 394000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2410195,
+      "case_no": "2025-56152",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "근린상가",
+      "address": "경기도 화성시 장지동 955-1 1동 1층105호",
+      "area": "건물 39.37㎡(11.909평) 대지권 16.2318㎡(4.91평)",
+      "appraisal": 1001000000,
+      "min_price": 1001000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2451185,
       "case_no": "2025-57872",
       "item_no": null,
@@ -1897,6 +1928,22 @@
       "bid_date": "26.08.12",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2324046,
+      "case_no": "2024-7931",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 화성시 동탄구 반송동 66-1, 1층109호 (반송동,그린주차빌딩) 외 1개호",
+      "area": "건물 123.2569㎡(37.285평) 대지권 54.3277㎡(16.434평)",
+      "appraisal": 410000000,
+      "min_price": 410000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2358376,
@@ -1947,19 +1994,67 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2313055,
-      "case_no": "2024-79059",
+      "tid": 2311510,
+      "case_no": "2024-77503",
       "item_no": null,
       "court": "수원19계",
-      "type": "오피스텔(주거)",
-      "address": "경기 화성시 반송동 90-2, 4층418호 (반송동,서해더블루)",
-      "area": "건물 37.7465㎡(11.418평) 대지권 7.8692㎡(2.38평)",
-      "appraisal": 159000000,
-      "min_price": 13093000,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
+      "type": "근린상가",
+      "address": "경기 화성시 동탄구 반송동 91-6, 6층601호 (반송동,그린프라자) 외 2개호",
+      "area": "건물 461.53㎡(139.613평) 대지권 96.35㎡(29.146평)",
+      "appraisal": 1743000000,
+      "min_price": 1743000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.14",
-      "special": "임금채권자,대항력 있는 임차인",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2314355,
+      "case_no": "2024-79943",
+      "item_no": 1,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 화성시 동탄구 영천동 836-2, 1층122호 (영천동,루체스타비즈)",
+      "area": "건물 69.66㎡(21.072평) 대지권 22.32㎡(6.752평)",
+      "appraisal": 1386000000,
+      "min_price": 1386000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2561421,
+      "case_no": "2024-79943",
+      "item_no": 2,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 화성시 동탄구 영천동 836-2, 1층121호 (영천동,루체스타비즈)",
+      "area": "건물 46.98㎡(14.211평) 대지권 15.05㎡(4.553평)",
+      "appraisal": 954000000,
+      "min_price": 954000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2561422,
+      "case_no": "2024-79943",
+      "item_no": 3,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 화성시 동탄구 영천동 836-2, 1층120호 (영천동,루체스타비즈)",
+      "area": "건물 46.98㎡(14.211평) 대지권 15.05㎡(4.553평)",
+      "appraisal": 968000000,
+      "min_price": 968000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2011,6 +2106,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2364557,
+      "case_no": "2024-101512",
+      "item_no": null,
+      "court": "수원5계",
+      "type": "지식산업센터",
+      "address": "경기 화성시 영천동 846-3, 5층511호 (영천동,동탄아이티밸리지식산업센터)",
+      "area": "건물 34.71㎡(10.5평) / 미등기감정가격포함",
+      "appraisal": 125000000,
+      "min_price": 30013000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2404098,
       "case_no": "2025-1187",
       "item_no": null,
@@ -2037,7 +2148,7 @@
       "appraisal": 98000000,
       "min_price": 98000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2053,7 +2164,7 @@
       "appraisal": 98000000,
       "min_price": 98000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2069,9 +2180,25 @@
       "appraisal": 685000000,
       "min_price": 685000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2370086,
+      "case_no": "2025-50369",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "아파트",
+      "address": "경기 화성시 동탄구 목동 477, 2142동 17층1704호 (목동,동탄2신도시베라체)",
+      "area": "건물 59.99㎡(18.147평) 대지권 50.2294㎡(15.194평)",
+      "appraisal": 513000000,
+      "min_price": 513000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2089,6 +2216,22 @@
       "bid_date": "26.08.14",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2382593,
+      "case_no": "2025-53382",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "아파트",
+      "address": "경기 화성시 동탄구 반송동 93-1, 20층에이-2004호 (반송동,동탄위버폴리스)",
+      "area": "건물 60.7676㎡(18.382평) 대지권 9.8246㎡(2.972평)",
+      "appraisal": 335000000,
+      "min_price": 335000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2382047,
@@ -2117,7 +2260,7 @@
       "appraisal": 81000000,
       "min_price": 81000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
@@ -2168,6 +2311,22 @@
       "status": "유찰 2회",
       "bid_date": "26.08.18",
       "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2420430,
+      "case_no": "2025-1351",
+      "item_no": null,
+      "court": "수원2계",
+      "type": "근린상가",
+      "address": "경기도 화성시 오산동 977-3 동탄역스타디움블루 2층201호 외 4개호",
+      "area": "건물 346.331㎡(104.765평) 대지권 84.197㎡(25.47평)",
+      "appraisal": 4727000000,
+      "min_price": 4727000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2707,11 +2866,11 @@
       "address": "경기도 화성시 반송동 93-10 동탄지웰에스테이트 5층에이동504호",
       "area": "건물 36.336㎡(10.992평) 대지권 6.3666㎡(1.926평)",
       "appraisal": 184000000,
-      "min_price": 44178000,
-      "min_price_pct": 24,
+      "min_price": 184000000,
+      "min_price_pct": 100,
       "status": "유찰 4회",
       "bid_date": "26.08.25",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -3142,38 +3301,6 @@
       "min_price": 463400000,
       "min_price_pct": 70,
       "status": "유찰 1회",
-      "bid_date": "26.08.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2382063,
-      "case_no": "2025-53931",
-      "item_no": 1,
-      "court": "수원6계",
-      "type": "근린상가",
-      "address": "경기 화성시 동탄구 산척동 723, 1층101호 (산척동,풍산리치안타워)",
-      "area": "건물 39.42㎡(11.925평) 대지권 11.016㎡(3.332평)",
-      "appraisal": 796000000,
-      "min_price": 191120000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.08.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2511139,
-      "case_no": "2025-53931",
-      "item_no": 2,
-      "court": "수원6계",
-      "type": "근린상가",
-      "address": "경기 화성시 동탄구 산척동 723, 1층102호 (산척동,풍산리치안타워)",
-      "area": "건물 36.8㎡(11.132평) 대지권 10.284㎡(3.111평)",
-      "appraisal": 788000000,
-      "min_price": 189199000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
       "bid_date": "26.08.28",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

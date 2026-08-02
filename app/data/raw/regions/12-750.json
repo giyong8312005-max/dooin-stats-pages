@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "12",
     "guCd": "750",
@@ -7,15 +7,6 @@
     "name": "보성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "12",
-      "guCd": "750",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 2,
@@ -148,105 +139,106 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "12",
+      "guCd": "750",
+      "title": "2026. 07 월간매각 통계자료 : 광주 보성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 33365500,
+          "sale_price_rate": 35.3
+        },
+        {
+          "type": "답",
+          "total": 9,
+          "failed": 5,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 75394800,
+          "sale_price_rate": 72.71
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 397660000,
+          "sale_price_rate": 27.94
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 370657900,
+          "sale_price_rate": 71.44
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2457101,
-      "case_no": "2024-4244",
-      "item_no": 2,
-      "court": "순천7계",
-      "type": "답",
-      "address": "전라남도 보성군 벌교읍 전동리 486-4 외 1필지",
-      "area": "토지 1766㎡(534.215평)",
-      "appraisal": 86534000,
-      "min_price": 31014000,
-      "min_price_pct": 36,
-      "status": "유찰 4회",
-      "bid_date": "26.07.27",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2389277,
-      "case_no": "2025-51237",
-      "item_no": null,
-      "court": "순천7계",
-      "type": "단독주택",
-      "address": "전라남도 보성군 벌교읍 벌교리 875-1 외 1필지",
-      "area": "건물 309.12㎡(93.509평) 토지 962㎡(291.005평)",
-      "appraisal": 397660000,
-      "min_price": 91214000,
-      "min_price_pct": 23,
-      "status": "유찰 6회",
-      "bid_date": "26.07.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2535591,
-      "case_no": "2025-51995",
-      "item_no": 3,
-      "court": "순천7계",
-      "type": "임야",
-      "address": "전라남도 보성군 벌교읍 추동리 산20",
-      "area": "토지 16264㎡(4919.86평)",
-      "appraisal": 35854400,
-      "min_price": 24569000,
-      "min_price_pct": 69,
-      "status": "유찰 1회",
-      "bid_date": "26.07.27",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2450911,
-      "case_no": "2025-52050",
-      "item_no": null,
-      "court": "순천7계",
-      "type": "동물및식물관련시설",
-      "address": "전라남도 보성군 보성읍 원봉리 391 외 2필지",
-      "area": "건물 462㎡(139.755평) 토지 4387㎡(1327.067평)",
-      "appraisal": 200017800,
-      "min_price": 112010000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2453793,
-      "case_no": "2025-52061",
-      "item_no": null,
-      "court": "순천7계",
-      "type": "대지",
-      "address": "전라남도 보성군 웅치면 유산리 781-1",
-      "area": "건물은 매각제외 토지 678㎡(205.095평)",
-      "appraisal": 27120000,
-      "min_price": 14114000,
-      "min_price_pct": 52,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "법정지상권,대항력 있는 임차인",
-      "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2453794,
-      "case_no": "2025-52067",
-      "item_no": null,
-      "court": "순천7계",
-      "type": "단독주택",
-      "address": "전라남도 보성군 노동면 광곡리 588-4",
-      "area": "건물 221.4㎡(66.974평) 토지 509㎡(153.973평)",
-      "appraisal": 281297200,
-      "min_price": 157526000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2389281,
       "case_no": "2025-287",
@@ -278,22 +270,6 @@
       "bid_date": "26.08.03",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2495796,
-      "case_no": "2026-50088",
-      "item_no": 3,
-      "court": "순천8계",
-      "type": "전",
-      "address": "전라남도 보성군 벌교읍 회정리 407-4 외 21필지",
-      "area": "토지 28889㎡(8738.923평)",
-      "appraisal": 10153264000,
-      "min_price": 7107285000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2498265,
@@ -478,13 +454,13 @@
       "court": "순천4계",
       "type": "단독주택",
       "address": "전라남도 보성군 득량면 예당리 367-6",
-      "area": "건물 52.17㎡(15.781평) 토지 354㎡(107.085평)",
+      "area": "건물 52.1㎡(15.76평) 토지 354㎡(107.085평)",
       "appraisal": 53415600,
       "min_price": 53415600,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -534,6 +510,38 @@
       "bid_date": "26.08.18",
       "special": "",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2518163,
+      "case_no": "2026-50415",
+      "item_no": 1,
+      "court": "순천1계",
+      "type": "임야",
+      "address": "전라남도 보성군 율어면 금천리 산79 외 1필지",
+      "area": "토지 7637㎡(2310.193평)",
+      "appraisal": 34118400,
+      "min_price": 34118400,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "선순위 임차권설정",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2560978,
+      "case_no": "2026-50415",
+      "item_no": 2,
+      "court": "순천1계",
+      "type": "임야",
+      "address": "전라남도 보성군 율어면 금천리 산82",
+      "area": "토지 5455㎡(1650.138평)",
+      "appraisal": 29457000,
+      "min_price": 29052000,
+      "min_price_pct": 99,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "분묘기지권",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2451446,
@@ -808,6 +816,22 @@
       "dpsl": ""
     },
     {
+      "tid": 2457101,
+      "case_no": "2024-4244",
+      "item_no": 2,
+      "court": "순천7계",
+      "type": "답",
+      "address": "전라남도 보성군 벌교읍 전동리 486-4 외 1필지",
+      "area": "토지 1766㎡(534.215평)",
+      "appraisal": 86534000,
+      "min_price": 24811000,
+      "min_price_pct": 29,
+      "status": "유찰 5회",
+      "bid_date": "26.09.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2397376,
       "case_no": "2025-51327",
       "item_no": null,
@@ -822,6 +846,54 @@
       "bid_date": "26.09.07",
       "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2535591,
+      "case_no": "2025-51995",
+      "item_no": 3,
+      "court": "순천7계",
+      "type": "임야",
+      "address": "전라남도 보성군 벌교읍 추동리 산20",
+      "area": "토지 16264㎡(4919.86평)",
+      "appraisal": 35854400,
+      "min_price": 19655000,
+      "min_price_pct": 55,
+      "status": "유찰 2회",
+      "bid_date": "26.09.07",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2453793,
+      "case_no": "2025-52061",
+      "item_no": null,
+      "court": "순천7계",
+      "type": "대지",
+      "address": "전라남도 보성군 웅치면 유산리 781-1",
+      "area": "건물은 매각제외 토지 678㎡(205.095평)",
+      "appraisal": 27120000,
+      "min_price": 11291000,
+      "min_price_pct": 42,
+      "status": "유찰 3회",
+      "bid_date": "26.09.07",
+      "special": "법정지상권,대항력 있는 임차인",
+      "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2453794,
+      "case_no": "2025-52067",
+      "item_no": null,
+      "court": "순천7계",
+      "type": "단독주택",
+      "address": "전라남도 보성군 노동면 광곡리 588-4",
+      "area": "건물 221.4㎡(66.974평) 토지 509㎡(153.973평)",
+      "appraisal": 281297200,
+      "min_price": 126021000,
+      "min_price_pct": 45,
+      "status": "유찰 3회",
+      "bid_date": "26.09.07",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

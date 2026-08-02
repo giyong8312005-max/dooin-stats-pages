@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "117",
@@ -7,103 +7,6 @@
     "name": "수원시 영통구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "117",
-      "title": "2026. 01 월간매각 통계자료 : 경기 수원시 영통구",
-      "rows": [
-        {
-          "type": "다가구주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1753189120,
-          "sale_price_rate": 70.73
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 1,
-          "sold": 3,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 440666667,
-          "sale_price_rate": 91.23
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 281000000,
-          "sale_price_rate": 61.0
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 8,
-          "failed": 7,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 12.5,
-          "avg_appraisal": 140000000,
-          "sale_price_rate": 58.8
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 180000000,
-          "sale_price_rate": 82.69
-        },
-        {
-          "type": "근린상가",
-          "total": 14,
-          "failed": 3,
-          "sold": 0,
-          "changed": 11,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 191000000,
-          "sale_price_rate": 67.14
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -643,6 +546,136 @@
           "sale_price_rate": 50.05
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "117",
+      "title": "2026. 07 월간매각 통계자료 : 경기 수원시 영통구",
+      "rows": [
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 1,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 2,
+          "sold_rate": 42.86,
+          "avg_appraisal": 454666667,
+          "sale_price_rate": 86.73
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 2502003250,
+          "sale_price_rate": 69.46
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 22,
+          "failed": 2,
+          "sold": 1,
+          "changed": 17,
+          "withdrawn": 0,
+          "sold_rate": 4.55,
+          "avg_appraisal": 744000000,
+          "sale_price_rate": 85.59
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "노유자시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 10,
+          "failed": 7,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 1052500000,
+          "sale_price_rate": 35.15
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 6,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 8,
+          "failed": 8,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -740,22 +773,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.07",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2413882,
-      "case_no": "2025-1178",
-      "item_no": null,
-      "court": "수원16계",
-      "type": "근린상가",
-      "address": "경기도 수원시 영통구 이의동 1248-3 에이스광교타워1 1층101호 외 2필지",
-      "area": "건물 87.13㎡(26.357평) 대지권 26.52㎡(8.022평)",
-      "appraisal": 1260000000,
-      "min_price": 432180000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.10",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -871,6 +888,86 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2314370,
+      "case_no": "2024-78230",
+      "item_no": 1,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 수원시 영통구 영통동 1012-1, 1층113호 (영통동,영통역아이파크)",
+      "area": "건물 17.6168㎡(5.329평) 대지권 2.7575㎡(0.834평)",
+      "appraisal": 274000000,
+      "min_price": 274000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2561423,
+      "case_no": "2024-78230",
+      "item_no": 2,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 수원시 영통구 영통동 1012-1, 1층114호 (영통동,영통역아이파크) 외 1개호",
+      "area": "건물 51.3698㎡(15.539평) 대지권 8.0407㎡(2.432평)",
+      "appraisal": 751000000,
+      "min_price": 751000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2561424,
+      "case_no": "2024-78230",
+      "item_no": 3,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 수원시 영통구 영통동 1012-1, 1층116호 (영통동,영통역아이파크)",
+      "area": "건물 25.8387㎡(7.816평) 대지권 4.0444㎡(1.223평)",
+      "appraisal": 377000000,
+      "min_price": 377000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2561425,
+      "case_no": "2024-78230",
+      "item_no": 4,
+      "court": "수원19계",
+      "type": "근린상가",
+      "address": "경기 수원시 영통구 영통동 1012-1, 1층128호 (영통동,영통역아이파크)",
+      "area": "건물 32.56㎡(9.849평) 대지권 5.0965㎡(1.542평)",
+      "appraisal": 507000000,
+      "min_price": 507000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2325694,
+      "case_no": "2024-83584",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "다가구주택",
+      "address": "경기도 수원시 영통구 원천동 366-27 외 1필지",
+      "area": "건물 716.99㎡(216.889평) 토지 411.37㎡(124.439평)",
+      "appraisal": 3040135780,
+      "min_price": 3040135780,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "임차권등기",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
       "tid": 2332464,
       "case_no": "2024-87524",
       "item_no": null,
@@ -884,6 +981,22 @@
       "status": "유찰 1회",
       "bid_date": "26.08.14",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2382603,
+      "case_no": "2025-54517",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "아파트",
+      "address": "경기도 수원시 영통구 매탄동 1282 주공그린빌 505동 2층203호",
+      "area": "건물 45.88㎡(13.879평) 대지권 35.55㎡(10.754평)",
+      "appraisal": 332000000,
+      "min_price": 332000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {

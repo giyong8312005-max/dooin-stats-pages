@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "500",
@@ -7,213 +7,6 @@
     "name": "이천시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "500",
-      "title": "2026. 01 월간매각 통계자료 : 경기 이천시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 6,
-          "failed": 3,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 813383500,
-          "sale_price_rate": 44.82
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 82830000,
-          "sale_price_rate": 36.34
-        },
-        {
-          "type": "임야",
-          "total": 12,
-          "failed": 6,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 241922028,
-          "sale_price_rate": 31.96
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 12,
-          "failed": 6,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 304000000,
-          "sale_price_rate": 86.22
-        },
-        {
-          "type": "다세대주택",
-          "total": 28,
-          "failed": 16,
-          "sold": 11,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 39.29,
-          "avg_appraisal": 259727273,
-          "sale_price_rate": 47.42
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 147000000,
-          "sale_price_rate": 38.91
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 2391516000,
-          "sale_price_rate": 58.12
-        },
-        {
-          "type": "승용차",
-          "total": 6,
-          "failed": 1,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 15500000,
-          "sale_price_rate": 71.35
-        },
-        {
-          "type": "기타중기",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -1204,6 +997,257 @@
           "sale_price_rate": 72.81
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "500",
+      "title": "2026. 07 월간매각 통계자료 : 경기 이천시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 15,
+          "failed": 12,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 326801667,
+          "sale_price_rate": 42.58
+        },
+        {
+          "type": "답",
+          "total": 9,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 5,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 101897333,
+          "sale_price_rate": 49.83
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 2,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 82831167,
+          "sale_price_rate": 50.03
+        },
+        {
+          "type": "잡종지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 8,
+          "failed": 8,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 6,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 30.0,
+          "avg_appraisal": 196000000,
+          "sale_price_rate": 76.91
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 45,
+          "failed": 26,
+          "sold": 9,
+          "changed": 7,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 161777778,
+          "sale_price_rate": 69.62
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "노유자시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2797618880,
+          "sale_price_rate": 39.32
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 110000000,
+          "sale_price_rate": 45.46
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 4,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 230000000,
+          "sale_price_rate": 65.22
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 440934000,
+          "sale_price_rate": 70.31
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 615079360,
+          "sale_price_rate": 53.84
+        },
+        {
+          "type": "승용차",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "덤프트럭",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "굴삭기",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 45000000,
+          "sale_price_rate": 101.47
+        },
+        {
+          "type": "지게차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1288,6 +1332,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2349965,
+      "case_no": "2024-6019",
+      "item_no": null,
+      "court": "여주1계",
+      "type": "다세대주택",
+      "address": "경기 이천시 부발읍 무촌리 166-128, 가동 5층501호 외 1필지",
+      "area": "건물 71.84㎡(21.732평) 대지권 50.713㎡(15.341평)",
+      "appraisal": 274000000,
+      "min_price": 274000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2544759,
       "case_no": "2024-6026",
       "item_no": 2,
@@ -1334,6 +1394,54 @@
       "bid_date": "26.08.12",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2368916,
+      "case_no": "2024-6804",
+      "item_no": 1,
+      "court": "여주1계",
+      "type": "다세대주택",
+      "address": "경기 이천시 사음동 291-22, 106동 1층101호 (사음동,선경캐슬2차) 외 1필지",
+      "area": "건물 84.81㎡(25.655평) 대지권 124.94㎡(37.794평)",
+      "appraisal": 202000000,
+      "min_price": 202000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2559971,
+      "case_no": "2024-6804",
+      "item_no": 2,
+      "court": "여주1계",
+      "type": "다세대주택",
+      "address": "경기 이천시 사음동 291-22, 106동 4층401호 (사음동,선경캐슬2차) 외 1필지",
+      "area": "건물 84.91㎡(25.685평) 대지권 125.13㎡(37.852평)",
+      "appraisal": 252000000,
+      "min_price": 252000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2559972,
+      "case_no": "2024-6804",
+      "item_no": 3,
+      "court": "여주1계",
+      "type": "다세대주택",
+      "address": "경기 이천시 호법면 유산리 437-1, 2동 4층402호",
+      "area": "건물 59.99㎡(18.147평) 대지권 124.268㎡(37.591평)",
+      "appraisal": 202000000,
+      "min_price": 202000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2359257,
@@ -1480,6 +1588,38 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2316880,
+      "case_no": "2024-36454",
+      "item_no": null,
+      "court": "여주2계",
+      "type": "공장",
+      "address": "경기도 이천시 모가면 진가리 507",
+      "area": "건물 531㎡(160.628평) 토지 2416㎡(730.84평)",
+      "appraisal": 773142000,
+      "min_price": 773142000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2321705,
+      "case_no": "2024-37877",
+      "item_no": null,
+      "court": "여주1계",
+      "type": "공장",
+      "address": "경기도 이천시 장호원읍 선읍리 33",
+      "area": "건물 1057.96㎡(320.033평) 토지 1658㎡(501.545평)",
+      "appraisal": 739040300,
+      "min_price": 739040300,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2326195,
       "case_no": "2024-38405",
       "item_no": null,
@@ -1560,6 +1700,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2356543,
+      "case_no": "2024-40477",
+      "item_no": null,
+      "court": "여주1계",
+      "type": "전",
+      "address": "경기도 이천시 신둔면 도봉리 806-1 외 1필지",
+      "area": "토지 1148㎡(347.27평)",
+      "appraisal": 165864000,
+      "min_price": 165864000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2354096,
       "case_no": "2024-40880",
       "item_no": null,
@@ -1608,6 +1764,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2370101,
+      "case_no": "2024-42695",
+      "item_no": null,
+      "court": "여주2계",
+      "type": "공장",
+      "address": "경기도 이천시 신둔면 수하리 268-3 외 9필지",
+      "area": "건물 2401.23㎡(726.372평) 토지 4185.5㎡(1266.114평)",
+      "appraisal": 5187927760,
+      "min_price": 5187927760,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
       "tid": 2368920,
       "case_no": "2024-42831",
       "item_no": null,
@@ -1622,6 +1794,38 @@
       "bid_date": "26.08.12",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2414898,
+      "case_no": "2025-565",
+      "item_no": null,
+      "court": "여주2계",
+      "type": "전",
+      "address": "경기도 이천시 설성면 장능리 275-41",
+      "area": "토지 4211㎡(1273.827평)",
+      "appraisal": 505320000,
+      "min_price": 505320000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2392784,
+      "case_no": "2025-31043",
+      "item_no": null,
+      "court": "여주2계",
+      "type": "아파트",
+      "address": "경기도 이천시 대월면 사동리 524 이천사동신원아침도시아파트 108동 3층304호",
+      "area": "건물 84.7285㎡(25.63평) 대지권 52.9114㎡(16.006평)",
+      "appraisal": 343000000,
+      "min_price": 343000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2432386,
@@ -2021,6 +2225,22 @@
       "status": "유찰 5회",
       "bid_date": "26.08.19",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2332484,
+      "case_no": "2024-39194",
+      "item_no": null,
+      "court": "여주7계",
+      "type": "도시형생활주택",
+      "address": "경기 이천시 부발읍 무촌리 94, 1동 3층304호 (미영팰리스)",
+      "area": "건물 49.185㎡(14.878평) 대지권 87.181㎡(26.372평)",
+      "appraisal": 239000000,
+      "min_price": 81977000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.08.19",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2488,6 +2708,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2320375,
+      "case_no": "2024-37693",
+      "item_no": null,
+      "court": "여주3계",
+      "type": "다가구주택",
+      "address": "경기도 이천시 창전동 418-37",
+      "area": "건물 207.02㎡(62.624평) 토지 100.1㎡(30.28평)",
+      "appraisal": 202945440,
+      "min_price": 23877000,
+      "min_price_pct": 12,
+      "status": "유찰 5회",
+      "bid_date": "26.08.26",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2333647,
       "case_no": "2024-39323",
       "item_no": null,
@@ -2694,6 +2930,22 @@
       "bid_date": "26.08.26",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2186078,
+      "case_no": "2023-33045",
+      "item_no": null,
+      "court": "여주1계",
+      "type": "도시형생활주택",
+      "address": "경기 이천시 부발읍 가좌리 229-19, 2층201호 (리치하임)",
+      "area": "건물 22.5㎡(6.806평) 대지권 42.448㎡(12.841평)",
+      "appraisal": 110000000,
+      "min_price": 110000000,
+      "min_price_pct": 100,
+      "status": "유찰 7회",
+      "bid_date": "26.09.16",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

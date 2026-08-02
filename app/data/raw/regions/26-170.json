@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "26",
     "guCd": "170",
@@ -7,92 +7,6 @@
     "name": "동구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "26",
-      "guCd": "170",
-      "title": "2026. 01 월간매각 통계자료 : 부산 동구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 79120000,
-          "sale_price_rate": 41.17
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 548500000,
-          "sale_price_rate": 93.55
-        },
-        {
-          "type": "다세대주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 52,
-          "failed": 2,
-          "sold": 1,
-          "changed": 49,
-          "withdrawn": 0,
-          "sold_rate": 1.92,
-          "avg_appraisal": 125000000,
-          "sale_price_rate": 81.6
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 20,
-          "failed": 12,
-          "sold": 1,
-          "changed": 7,
-          "withdrawn": 0,
-          "sold_rate": 5.0,
-          "avg_appraisal": 319000000,
-          "sale_price_rate": 77.37
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -599,105 +513,128 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "26",
+      "guCd": "170",
+      "title": "2026. 07 월간매각 통계자료 : 부산 동구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 184642880,
+          "sale_price_rate": 35.44
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 352500000,
+          "sale_price_rate": 82.96
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 25,
+          "failed": 16,
+          "sold": 9,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 36.0,
+          "avg_appraisal": 77000000,
+          "sale_price_rate": 38.97
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 249000000,
+          "sale_price_rate": 72.29
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 39000000,
+          "sale_price_rate": 59.26
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1180000000,
+          "sale_price_rate": 71.27
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 3,
+          "sold": 0,
+          "changed": 4,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2237044,
-      "case_no": "2023-5853",
-      "item_no": null,
-      "court": "부산1계",
-      "type": "단독주택",
-      "address": "부산광역시 동구 좌천동 727-2",
-      "area": "건물 163.54㎡(49.471평) 토지 141.5㎡(42.804평)",
-      "appraisal": 184642880,
-      "min_price": 63333000,
-      "min_price_pct": 34,
-      "status": "유찰 6회",
-      "bid_date": "26.07.28",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2416740,
-      "case_no": "2025-2414",
-      "item_no": null,
-      "court": "부산1계",
-      "type": "도시형생활주택",
-      "address": "부산광역시 동구 범일동 120-2 범일퀸즈더블유에디션 11층1101호",
-      "area": "건물 44.0359㎡(13.321평) 대지권 7.3275㎡(2.217평)",
-      "appraisal": 218000000,
-      "min_price": 218000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2396928,
-      "case_no": "2025-21786",
-      "item_no": null,
-      "court": "부산6계",
-      "type": "오피스텔(상업)",
-      "address": "부산광역시 동구 초량동 121-7 서전오피스텔 2층206호",
-      "area": "건물 32.34㎡(9.783평) 대지권 5.6㎡(1.694평)",
-      "appraisal": 39000000,
-      "min_price": 19110000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.29",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2408413,
-      "case_no": "2025-21977",
-      "item_no": null,
-      "court": "부산6계",
-      "type": "대지",
-      "address": "부산광역시 동구 초량동 824-112",
-      "area": "건물은 매각제외 토지 46.67㎡(14.118평)",
-      "appraisal": 39296140,
-      "min_price": 27507000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.29",
-      "special": "법정지상권,대항력 있는 임차인",
-      "dpsl": "토지만 매각이며,지분 매각임"
-    },
-    {
-      "tid": 2456406,
-      "case_no": "2025-22780",
-      "item_no": null,
-      "court": "부산6계",
-      "type": "오피스텔(주거)",
-      "address": "부산광역시 동구 초량동 1145-9 신화하니엘 더시티 17층 1705호",
-      "area": "건물 49.1285㎡(14.861평) 대지권 6.5748㎡(1.989평)",
-      "appraisal": 158000000,
-      "min_price": 158000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.29",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2467477,
-      "case_no": "2025-23025",
-      "item_no": null,
-      "court": "부산6계",
-      "type": "오피스텔(주거)",
-      "address": "부산광역시 동구 초량동 1145-1 초량마리나베이시티주건축물 1동 16층 1602호",
-      "area": "건물 51.04㎡(15.44평) 대지권 6.67㎡(2.018평)",
-      "appraisal": 210000000,
-      "min_price": 210000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.29",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2386955,
       "case_no": "2025-340",
@@ -1145,6 +1082,70 @@
       "bid_date": "26.08.26",
       "special": "",
       "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2416740,
+      "case_no": "2025-2414",
+      "item_no": null,
+      "court": "부산1계",
+      "type": "도시형생활주택",
+      "address": "부산광역시 동구 범일동 120-2 범일퀸즈더블유에디션 11층1101호",
+      "area": "건물 44.0359㎡(13.321평) 대지권 7.3275㎡(2.217평)",
+      "appraisal": 218000000,
+      "min_price": 152600000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.01",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2408413,
+      "case_no": "2025-21977",
+      "item_no": null,
+      "court": "부산6계",
+      "type": "대지",
+      "address": "부산광역시 동구 초량동 824-112",
+      "area": "건물은 매각제외 토지 46.67㎡(14.118평)",
+      "appraisal": 39296140,
+      "min_price": 19255000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.02",
+      "special": "법정지상권,대항력 있는 임차인",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2456406,
+      "case_no": "2025-22780",
+      "item_no": null,
+      "court": "부산6계",
+      "type": "오피스텔(주거)",
+      "address": "부산광역시 동구 초량동 1145-9 신화하니엘 더시티 17층 1705호",
+      "area": "건물 49.1285㎡(14.861평) 대지권 6.5748㎡(1.989평)",
+      "appraisal": 158000000,
+      "min_price": 110600000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.02",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2467477,
+      "case_no": "2025-23025",
+      "item_no": null,
+      "court": "부산6계",
+      "type": "오피스텔(주거)",
+      "address": "부산광역시 동구 초량동 1145-1 초량마리나베이시티주건축물 1동 16층 1602호",
+      "area": "건물 51.04㎡(15.44평) 대지권 6.67㎡(2.018평)",
+      "appraisal": 210000000,
+      "min_price": 147000000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.02",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "47",
     "guCd": "830",
@@ -7,125 +7,6 @@
     "name": "고령군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "47",
-      "guCd": "830",
-      "title": "2026. 01 월간매각 통계자료 : 경북 고령군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 90420000,
-          "sale_price_rate": 71.89
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 5,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 40100450,
-          "sale_price_rate": 29.96
-        },
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 60112150,
-          "sale_price_rate": 63.17
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 10,
-          "failed": 4,
-          "sold": 2,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 3012491998,
-          "sale_price_rate": 58.19
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 594101200,
-          "sale_price_rate": 84.53
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -676,6 +557,114 @@
           "sale_price_rate": 103.87
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "47",
+      "guCd": "830",
+      "title": "2026. 07 월간매각 통계자료 : 경북 고령군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 7,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 18113400,
+          "sale_price_rate": 44.99
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 47465000,
+          "sale_price_rate": 27.41
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 554761300,
+          "sale_price_rate": 38.07
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 0,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 315000000,
+          "sale_price_rate": 44.9
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 393512080,
+          "sale_price_rate": 24.09
+        },
+        {
+          "type": "공장",
+          "total": 11,
+          "failed": 4,
+          "sold": 4,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 36.36,
+          "avg_appraisal": 2173547200,
+          "sale_price_rate": 54.55
+        }
+      ]
     }
   ],
   "listings": [
@@ -808,6 +797,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2472512,
+      "case_no": "2025-32066",
+      "item_no": null,
+      "court": "대구서부3계",
+      "type": "대지",
+      "address": "경상북도 고령군 우곡면 답곡리 880 외 2필지",
+      "area": "건물은 매각제외 토지 813㎡(245.933평)",
+      "appraisal": 71280000,
+      "min_price": 71280000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.11",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각"
+    },
+    {
       "tid": 2488303,
       "case_no": "2025-32254",
       "item_no": null,
@@ -872,6 +877,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2469607,
+      "case_no": "2025-3606",
+      "item_no": null,
+      "court": "대구서부6계",
+      "type": "답",
+      "address": "경상북도 고령군 다산면 좌학리 60-1 외 1필지",
+      "area": "토지 1912.5㎡(578.531평)",
+      "appraisal": 626440500,
+      "min_price": 626440500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2396104,
+      "case_no": "2025-31128",
+      "item_no": null,
+      "court": "대구서부6계",
+      "type": "공장",
+      "address": "경상북도 고령군 개진면 직리 223-2 외 1필지",
+      "area": "건물 655.96㎡(198.428평) 토지 1541㎡(466.153평)",
+      "appraisal": 928879660,
+      "min_price": 455150000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.08.13",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2460969,
       "case_no": "2025-31911",
       "item_no": null,
@@ -920,6 +957,22 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
+      "tid": 2482238,
+      "case_no": "2025-32193",
+      "item_no": null,
+      "court": "대구서부6계",
+      "type": "단독주택",
+      "address": "경상북도 고령군 우곡면 봉산리 997",
+      "area": "건물 50.9㎡(15.397평) 토지 110㎡(33.275평)",
+      "appraisal": 21653200,
+      "min_price": 21653200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
       "tid": 2452328,
       "case_no": "2025-2948",
       "item_no": null,
@@ -944,28 +997,12 @@
       "address": "경상북도 고령군 운수면 화암리 806-6 외 1필지",
       "area": "토지 3306㎡(1000.065평)",
       "appraisal": 165300000,
-      "min_price": 39688000,
+      "min_price": 39687000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.08.18",
       "special": "",
       "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2530511,
-      "case_no": "2025-3712",
-      "item_no": 5,
-      "court": "대구서부1계",
-      "type": "임야",
-      "address": "경상북도 고령군 다산면 송곡리 산89-1",
-      "area": "토지 1586.8㎡(480.007평)",
-      "appraisal": 9362120,
-      "min_price": 3210000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.18",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
       "tid": 2420026,
@@ -997,6 +1034,70 @@
       "status": "유찰 2회",
       "bid_date": "26.08.18",
       "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2509883,
+      "case_no": "2026-3247",
+      "item_no": 3,
+      "court": "대구서부1계",
+      "type": "전",
+      "address": "경상북도 고령군 우곡면 예곡리 120-2",
+      "area": "토지 1386㎡(419.265평)",
+      "appraisal": 60984000,
+      "min_price": 60984000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2510801,
+      "case_no": "2026-3253",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "도로",
+      "address": "경상북도 고령군 덕곡면 가륜리 8-9 외 7필지",
+      "area": "건물은 매각제외 토지 4345.7㎡(1314.574평)",
+      "appraisal": 553038300,
+      "min_price": 553039000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2510800,
+      "case_no": "2026-3267",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "전",
+      "address": "경상북도 고령군 개진면 인안리 177-1",
+      "area": "토지 869㎡(262.873평)",
+      "appraisal": 25548600,
+      "min_price": 25549000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2526677,
+      "case_no": "2026-3487",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "아파트",
+      "address": "경상북도 고령군 다산면 상곡리 150-1 2차금류강남타운 203동 8층801호",
+      "area": "건물 59.98㎡(18.144평) 대지권 26.3453㎡(7.969평)",
+      "appraisal": 88000000,
+      "min_price": 88000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {

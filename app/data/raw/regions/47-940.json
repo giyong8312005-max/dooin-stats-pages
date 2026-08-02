@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "47",
     "guCd": "940",
@@ -7,70 +7,6 @@
     "name": "울릉군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "47",
-      "guCd": "940",
-      "title": "2026. 01 월간매각 통계자료 : 경북 울릉군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -346,73 +282,62 @@
           "sale_price_rate": 35.79
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 07 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 400945600,
+          "sale_price_rate": 17.76
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 953580400,
+          "sale_price_rate": 28.95
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1094704800,
+          "sale_price_rate": 129.35
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2386786,
-      "case_no": "2025-270",
-      "item_no": 1,
-      "court": "포항5계",
-      "type": "단독주택",
-      "address": "경상북도 울릉군 북면 현포리 618-3",
-      "area": "건물 113.88㎡(34.449평) 토지 201㎡(60.802평)",
-      "appraisal": 151037000,
-      "min_price": 74008000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.03",
-      "special": "맹지",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2511809,
-      "case_no": "2025-270",
-      "item_no": 2,
-      "court": "포항5계",
-      "type": "임야",
-      "address": "경상북도 울릉군 북면 현포리 617-3",
-      "area": "토지 2009㎡(607.723평)",
-      "appraisal": 122549000,
-      "min_price": 60049000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2511810,
-      "case_no": "2025-270",
-      "item_no": 3,
-      "court": "포항5계",
-      "type": "전",
-      "address": "경상북도 울릉군 북면 현포리 618-1 외 2필지",
-      "area": "토지 10142㎡(3067.955평)",
-      "appraisal": 1900347000,
-      "min_price": 931170000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2511811,
-      "case_no": "2025-270",
-      "item_no": 4,
-      "court": "포항5계",
-      "type": "전",
-      "address": "경상북도 울릉군 북면 현포리 658-7",
-      "area": "토지 188㎡(56.87평)",
-      "appraisal": 43992000,
-      "min_price": 21556000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권,농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2482526,
       "case_no": "2024-35068",

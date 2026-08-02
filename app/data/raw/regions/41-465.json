@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "465",
@@ -7,147 +7,6 @@
     "name": "용인시 수지구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "465",
-      "title": "2026. 01 월간매각 통계자료 : 경기 용인시 수지구",
-      "rows": [
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 883950000,
-          "sale_price_rate": 79.36
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 13,
-          "failed": 6,
-          "sold": 5,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 38.46,
-          "avg_appraisal": 1014000000,
-          "sale_price_rate": 96.51
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 278000000,
-          "sale_price_rate": 78.78
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 6,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "노유자시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -808,6 +667,136 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "465",
+      "title": "2026. 07 월간매각 통계자료 : 경기 용인시 수지구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1268760000,
+          "sale_price_rate": 36.49
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 14,
+          "failed": 3,
+          "sold": 9,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 64.29,
+          "avg_appraisal": 802888889,
+          "sale_price_rate": 105.93
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 1,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 327000000,
+          "sale_price_rate": 87.46
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 141500000,
+          "sale_price_rate": 98.5
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 268000000,
+          "sale_price_rate": 74.64
+        },
+        {
+          "type": "근린상가",
+          "total": 10,
+          "failed": 5,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 30.0,
+          "avg_appraisal": 347333333,
+          "sale_price_rate": 61.13
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 168000000,
+          "sale_price_rate": 24.05
+        }
+      ]
     }
   ],
   "listings": [
@@ -1116,6 +1105,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2211759,
+      "case_no": "2023-8364",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "아파트",
+      "address": "경기 용인시 수지구 동천동 동천2지구도시개발구역에이-1블록, 105동 26층2604호 (동천동,동천자이)",
+      "area": "건물 84.949㎡(25.697평) / 미등기감정가격포함",
+      "appraisal": 914000000,
+      "min_price": 914000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2346385,
       "case_no": "2024-92540",
       "item_no": null,
@@ -1132,6 +1137,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2382591,
+      "case_no": "2025-851",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "아파트",
+      "address": "경기도 용인시 수지구 신봉동 873 신봉마을엘지자이1차아파트 112동 5층503호",
+      "area": "건물 115.869㎡(35.05평) 대지권 147.148㎡(44.512평)",
+      "appraisal": 740000000,
+      "min_price": 740000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2418696,
       "case_no": "2025-56431",
       "item_no": null,
@@ -1142,7 +1163,7 @@
       "appraisal": 757000000,
       "min_price": 757000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

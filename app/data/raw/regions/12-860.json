@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "12",
     "guCd": "860",
@@ -7,15 +7,6 @@
     "name": "진도군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "12",
-      "guCd": "860",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 2,
@@ -214,6 +205,147 @@
           "sale_price_rate": 67.56
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "12",
+      "guCd": "860",
+      "title": "2026. 07 월간매각 통계자료 : 광주 진도군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 13,
+          "failed": 6,
+          "sold": 7,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 53.85,
+          "avg_appraisal": 22665729,
+          "sale_price_rate": 62.18
+        },
+        {
+          "type": "답",
+          "total": 11,
+          "failed": 8,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 56453450,
+          "sale_price_rate": 100.71
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 4180290,
+          "sale_price_rate": 65.89
+        },
+        {
+          "type": "대지",
+          "total": 6,
+          "failed": 3,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 4998000,
+          "sale_price_rate": 108.7
+        },
+        {
+          "type": "양어장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 220086300,
+          "sale_price_rate": 73.15
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 3335000,
+          "sale_price_rate": 102.25
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 99724500,
+          "sale_price_rate": 82.42
+        },
+        {
+          "type": "선박",
+          "total": 6,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 129607500,
+          "sale_price_rate": 68.27
+        }
+      ]
     }
   ],
   "listings": [
@@ -342,7 +474,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "맹지",
+      "special": "법정지상권,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -390,7 +522,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -430,9 +562,9 @@
       "case_no": "2025-50437",
       "item_no": null,
       "court": "해남3계",
-      "type": "분뇨및쓰레기처리",
-      "address": "전라남도 진도군 고군면 고성리 832-7",
-      "area": "건물 587.43㎡(177.698평) 토지 1718.2㎡(519.756평)",
+      "type": "기타",
+      "address": "전남광주통합특별시 진도군 고군면 고성리 832-7",
+      "area": "건물 738.33㎡(223.345평) 토지 1718.2㎡(519.756평)",
       "appraisal": 553214800,
       "min_price": 553214800,
       "min_price_pct": 100,
@@ -479,15 +611,15 @@
       "item_no": null,
       "court": "해남3계",
       "type": "답",
-      "address": "전라남도 진도군 진도읍 포산리 529-1 외 2필지",
-      "area": "건물은 매각제외 토지 8454㎡(2557.335평)",
+      "address": "전남광주통합특별시 진도군 진도읍 포산리 529-1 외 2필지",
+      "area": "토지 8454㎡(2557.335평)",
       "appraisal": 202788000,
       "min_price": 202788000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2492469,

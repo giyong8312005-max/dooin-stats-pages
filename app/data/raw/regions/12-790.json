@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "12",
     "guCd": "790",
@@ -7,15 +7,6 @@
     "name": "해남군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "12",
-      "guCd": "790",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 2,
@@ -258,6 +249,169 @@
           "sale_price_rate": 46.75
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "12",
+      "guCd": "790",
+      "title": "2026. 07 월간매각 통계자료 : 광주 해남군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 32,
+          "failed": 25,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 3,
+          "sold_rate": 12.5,
+          "avg_appraisal": 27166646,
+          "sale_price_rate": 72.8
+        },
+        {
+          "type": "답",
+          "total": 18,
+          "failed": 14,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 27528000,
+          "sale_price_rate": 54.24
+        },
+        {
+          "type": "임야",
+          "total": 18,
+          "failed": 14,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 22.22,
+          "avg_appraisal": 151493275,
+          "sale_price_rate": 72.81
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 7014000,
+          "sale_price_rate": 115.2
+        },
+        {
+          "type": "양어장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 153671915,
+          "sale_price_rate": 64.02
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 32000000,
+          "sale_price_rate": 77.49
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "덤프트럭",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 42500000,
+          "sale_price_rate": 50.08
+        },
+        {
+          "type": "기타중기",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -308,6 +462,22 @@
       "bid_date": "26.08.10",
       "special": "법정지상권,농지취득자격증명,맹지",
       "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2284559,
+      "case_no": "2024-51618",
+      "item_no": null,
+      "court": "해남3계",
+      "type": "공장",
+      "address": "전라남도 해남군 송지면 해원리 977 외 7필지",
+      "area": "건물 1376.74㎡(416.464평) 토지 10404㎡(3147.21평)",
+      "appraisal": 886306700,
+      "min_price": 886306700,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.10",
+      "special": "농지취득자격증명,맹지,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2286456,
@@ -523,14 +693,14 @@
       "item_no": null,
       "court": "해남3계",
       "type": "위험물저장및처리시설",
-      "address": "전라남도 해남군 해남읍 복평리 979-1 외 3필지",
-      "area": "건물 295.8㎡(89.48평) 토지 24062㎡(7278.755평)",
+      "address": "전남광주통합특별시 해남군 해남읍 복평리 979-1 외 3필지",
+      "area": "건물 326㎡(98.615평) 토지 24062㎡(7278.755평)",
       "appraisal": 765509200,
       "min_price": 765509200,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -539,8 +709,8 @@
       "item_no": 1,
       "court": "해남3계",
       "type": "창고시설",
-      "address": "전라남도 해남군 해남읍 고도리 291-16 외 1필지",
-      "area": "건물 187.46㎡(56.707평) 토지 987㎡(298.568평)",
+      "address": "전남광주통합특별시 해남군 해남읍 고도리 291-16 외 1필지",
+      "area": "건물 704.46㎡(213.099평) 토지 987㎡(298.568평)",
       "appraisal": 405437000,
       "min_price": 405437000,
       "min_price_pct": 100,
@@ -555,8 +725,8 @@
       "item_no": 2,
       "court": "해남3계",
       "type": "단독주택",
-      "address": "전라남도 해남군 삼산면 구림리 739-1 외 1필지",
-      "area": "건물 77㎡(23.293평) 토지 1013㎡(306.433평)",
+      "address": "전남광주통합특별시 해남군 삼산면 구림리 739-1 외 1필지",
+      "area": "건물 116.8㎡(35.332평) 토지 1013㎡(306.433평)",
       "appraisal": 140063600,
       "min_price": 140063600,
       "min_price_pct": 100,
@@ -571,14 +741,14 @@
       "item_no": 3,
       "court": "해남3계",
       "type": "단독주택",
-      "address": "전라남도 해남군 삼산면 구림리 739-2 외 1필지",
-      "area": "건물 98.82㎡(29.893평) 토지 660㎡(199.65평)",
+      "address": "전남광주통합특별시 해남군 삼산면 구림리 739-2 외 1필지",
+      "area": "건물 141.42㎡(42.78평) 토지 660㎡(199.65평)",
       "appraisal": 238913940,
       "min_price": 238913940,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -587,7 +757,7 @@
       "item_no": 4,
       "court": "해남3계",
       "type": "단독주택",
-      "address": "전라남도 해남군 삼산면 구림리 739-5",
+      "address": "전남광주통합특별시 해남군 삼산면 구림리 739-5",
       "area": "건물 172.3㎡(52.121평) 토지 570㎡(172.425평)",
       "appraisal": 259816000,
       "min_price": 259816000,
@@ -715,7 +885,7 @@
       "item_no": null,
       "court": "해남3계",
       "type": "임야",
-      "address": "전라남도 해남군 송지면 가차리 산26",
+      "address": "전남광주통합특별시 해남군 송지면 가차리 산26",
       "area": "토지 31273㎡(9460.083평)",
       "appraisal": 36718400,
       "min_price": 36718400,
@@ -779,14 +949,14 @@
       "item_no": null,
       "court": "해남3계",
       "type": "숙박시설",
-      "address": "전라남도 해남군 화산면 평호리 산93-11 외 1필지",
+      "address": "전남광주통합특별시 해남군 화산면 평호리 산93-11 외 1필지",
       "area": "건물 237.92㎡(71.971평) 토지 8012㎡(2423.63평)",
       "appraisal": 384836240,
       "min_price": 384836240,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "맹지",
+      "special": "맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -811,7 +981,7 @@
       "item_no": null,
       "court": "해남3계",
       "type": "전",
-      "address": "전라남도 해남군 화원면 장춘리 141",
+      "address": "전남광주통합특별시 해남군 화원면 장춘리 141",
       "area": "토지 949㎡(287.073평)",
       "appraisal": 12906400,
       "min_price": 12906400,
@@ -891,7 +1061,7 @@
       "item_no": null,
       "court": "해남3계",
       "type": "전",
-      "address": "전라남도 해남군 화원면 구림리 57",
+      "address": "전남광주통합특별시 해남군 화원면 구림리 57",
       "area": "토지 1093㎡(330.633평)",
       "appraisal": 97277000,
       "min_price": 97277000,
@@ -923,7 +1093,7 @@
       "item_no": null,
       "court": "해남3계",
       "type": "전",
-      "address": "전라남도 해남군 해남읍 연동리 925-1",
+      "address": "전남광주통합특별시 해남군 해남읍 연동리 925-1",
       "area": "토지 3729㎡(1128.023평)",
       "appraisal": 239256000,
       "min_price": 239256000,
@@ -939,8 +1109,8 @@
       "item_no": null,
       "court": "해남3계",
       "type": "연립주택",
-      "address": "전라남도 해남군 해남읍 남외리 438 가동 1층 102호",
-      "area": "건물 59.28㎡(17.932평)",
+      "address": "전남광주통합특별시 해남군 해남읍 남외리 438 가동 1층 102호",
+      "area": "건물 59.28㎡(17.932평) 대지권 59.28㎡(17.932평)",
       "appraisal": 40000000,
       "min_price": 40000000,
       "min_price_pct": 100,
@@ -1316,6 +1486,22 @@
       "bid_date": "26.08.24",
       "special": "분묘기지권",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2399090,
+      "case_no": "2025-50440",
+      "item_no": null,
+      "court": "해남1계",
+      "type": "단독주택",
+      "address": "전라남도 해남군 북평면 평암리 687 외 1필지",
+      "area": "건물 157.57㎡(47.665평) 토지 783㎡(236.858평)",
+      "appraisal": 55123000,
+      "min_price": 38586000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.24",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2405692,

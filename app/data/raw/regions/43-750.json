@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "43",
     "guCd": "750",
@@ -7,180 +7,6 @@
     "name": "진천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "43",
-      "guCd": "750",
-      "title": "2026. 01 월간매각 통계자료 : 충북 진천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 5,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 346278250,
-          "sale_price_rate": 72.96
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 5,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 11.11,
-          "avg_appraisal": 49584400,
-          "sale_price_rate": 70.61
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 20010000,
-          "sale_price_rate": 49.03
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 5,
-          "failed": 1,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 60.0,
-          "avg_appraisal": 224266667,
-          "sale_price_rate": 76.6
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 3607998800,
-          "sale_price_rate": 50.5
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 3663490000,
-          "sale_price_rate": 54.59
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -1061,73 +887,216 @@
           "sale_price_rate": 35.07
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "43",
+      "guCd": "750",
+      "title": "2026. 07 월간매각 통계자료 : 충북 진천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1906624000,
+          "sale_price_rate": 42.58
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 341088000,
+          "sale_price_rate": 35.18
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 340770000,
+          "sale_price_rate": 32.28
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 5,
+          "failed": 2,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 234500000,
+          "sale_price_rate": 74.83
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 3064064000,
+          "sale_price_rate": 47.65
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "기타",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 6,
+          "failed": 4,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 10454834960,
+          "sale_price_rate": 63.87
+        },
+        {
+          "type": "창고시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2396027,
-      "case_no": "2025-1859",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "대지",
-      "address": "충청북도 진천군 덕산읍 두촌리 2467",
-      "area": "토지 1729.3㎡(523.113평)",
-      "appraisal": 4287714600,
-      "min_price": 2100980000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.29",
-      "special": "유치권",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2445965,
-      "case_no": "2025-51716",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "임야",
-      "address": "충청북도 진천군 광혜원면 광혜원리 710-37",
-      "area": "토지 912㎡(275.88평)",
-      "appraisal": 341088000,
-      "min_price": 116993000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2503721,
-      "case_no": "2026-40",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "근린생활시설",
-      "address": "충청북도 진천군 덕산읍 합목리 341-1",
-      "area": "건물 372.47㎡(112.672평) 토지 911㎡(275.578평)",
-      "appraisal": 831833420,
-      "min_price": 831833420,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2491288,
-      "case_no": "2026-50021",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "숙박시설",
-      "address": "충청북도 진천군 덕산읍 화상리 569-53 외 3필지",
-      "area": "건물 2508.99㎡(758.969평) 토지 5316㎡(1608.09평)",
-      "appraisal": 4965935650,
-      "min_price": 3476155000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.29",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2464023,
       "case_no": "2025-5271",
@@ -1236,22 +1205,6 @@
       "min_price": 252000000,
       "min_price_pct": 70,
       "status": "유찰 1회",
-      "bid_date": "26.08.04",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2508240,
-      "case_no": "2026-50257",
-      "item_no": null,
-      "court": "청주1계",
-      "type": "단독주택",
-      "address": "충청북도 진천군 이월면 내촌리 745",
-      "area": "건물 217.37㎡(65.754평) 토지 310㎡(93.775평)",
-      "appraisal": 201106720,
-      "min_price": 201106720,
-      "min_price_pct": 100,
-      "status": "신건",
       "bid_date": "26.08.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1561,6 +1514,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2406038,
+      "case_no": "2025-2319",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "단독주택",
+      "address": "충청북도 진천군 초평면 금곡리 557-5",
+      "area": "건물 43.58㎡(13.183평) 토지 186㎡(56.265평)",
+      "appraisal": 36113000,
+      "min_price": 6069000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
       "tid": 2488245,
       "case_no": "2025-6137",
       "item_no": null,
@@ -1575,6 +1544,54 @@
       "bid_date": "26.08.13",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2482723,
+      "case_no": "2025-52137",
+      "item_no": 1,
+      "court": "청주7계",
+      "type": "답",
+      "address": "충청북도 진천군 덕산읍 구산리 236 외 1필지",
+      "area": "토지 505.56㎡(152.932평)",
+      "appraisal": 112156440,
+      "min_price": 112156440,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2532946,
+      "case_no": "2025-52137",
+      "item_no": 2,
+      "court": "청주7계",
+      "type": "답",
+      "address": "충청북도 진천군 덕산읍 구산리 236-3 외 1필지",
+      "area": "토지 670.56㎡(202.844평)",
+      "appraisal": 149281440,
+      "min_price": 149281440,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2532947,
+      "case_no": "2025-52137",
+      "item_no": 3,
+      "court": "청주7계",
+      "type": "답",
+      "address": "충청북도 진천군 덕산읍 구산리 236-6 외 1필지",
+      "area": "토지 670.56㎡(202.844평)",
+      "appraisal": 134101440,
+      "min_price": 134101440,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2496066,
@@ -1622,6 +1639,38 @@
       "status": "유찰 1회",
       "bid_date": "26.08.13",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2498108,
+      "case_no": "2026-50158",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "아파트",
+      "address": "충청북도 진천군 광혜원면 광혜원리 1088 진천광혜원양우내안애아파트 101동 1층102호",
+      "area": "건물 82.9767㎡(25.1평) 대지권 38.9972㎡(11.797평)",
+      "appraisal": 170700000,
+      "min_price": 170700000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2505539,
+      "case_no": "2026-50228",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "근린생활시설",
+      "address": "충청북도 진천군 진천읍 읍내리 471-205 외 4필지",
+      "area": "건물 1995.37㎡(603.599평) 토지 2540㎡(768.35평)",
+      "appraisal": 5868278300,
+      "min_price": 5868278300,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "맹지",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1735,6 +1784,22 @@
       "bid_date": "26.08.19",
       "special": "법정지상권,농지취득자격증명",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2434238,
+      "case_no": "2025-51566",
+      "item_no": null,
+      "court": "청주4계",
+      "type": "상가주택",
+      "address": "충청북도 진천군 덕산읍 합목리 6-11 외 2필지",
+      "area": "건물 505.85㎡(153.02평) 토지 534.75㎡(161.762평)",
+      "appraisal": 978054820,
+      "min_price": 684638000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.19",
+      "special": "",
+      "dpsl": "건물전부, 토지지분"
     },
     {
       "tid": 2445502,
@@ -1926,6 +1991,38 @@
       "status": "유찰 1회",
       "bid_date": "26.08.25",
       "special": "임금채권자,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2503721,
+      "case_no": "2026-40",
+      "item_no": null,
+      "court": "청주5계",
+      "type": "근린생활시설",
+      "address": "충청북도 진천군 덕산읍 합목리 341-1",
+      "area": "건물 372.47㎡(112.672평) 토지 911㎡(275.578평)",
+      "appraisal": 831833420,
+      "min_price": 582283000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2491288,
+      "case_no": "2026-50021",
+      "item_no": null,
+      "court": "청주5계",
+      "type": "숙박시설",
+      "address": "충청북도 진천군 덕산읍 화상리 569-53 외 3필지",
+      "area": "건물 2508.99㎡(758.969평) 토지 5316㎡(1608.09평)",
+      "appraisal": 4965935650,
+      "min_price": 2433309000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.02",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "48",
     "guCd": "890",
@@ -7,213 +7,6 @@
     "name": "합천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "48",
-      "guCd": "890",
-      "title": "2026. 01 월간매각 통계자료 : 경남 합천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 23,
-          "failed": 20,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 8.7,
-          "avg_appraisal": 21657500,
-          "sale_price_rate": 32.04
-        },
-        {
-          "type": "답",
-          "total": 44,
-          "failed": 32,
-          "sold": 10,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 22.73,
-          "avg_appraisal": 58238555,
-          "sale_price_rate": 49.68
-        },
-        {
-          "type": "임야",
-          "total": 17,
-          "failed": 14,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 11.76,
-          "avg_appraisal": 12097278,
-          "sale_price_rate": 27.4
-        },
-        {
-          "type": "대지",
-          "total": 7,
-          "failed": 7,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 33000000,
-          "sale_price_rate": 76.27
-        },
-        {
-          "type": "단독주택",
-          "total": 8,
-          "failed": 4,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 231742645,
-          "sale_price_rate": 50.43
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 139000000,
-          "sale_price_rate": 76.01
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 675430600,
-          "sale_price_rate": 36.45
-        },
-        {
-          "type": "종교시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 187600760,
-          "sale_price_rate": 80.81
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -874,6 +667,147 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "48",
+      "guCd": "890",
+      "title": "2026. 07 월간매각 통계자료 : 경남 합천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 15,
+          "failed": 11,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 32360400,
+          "sale_price_rate": 13.42
+        },
+        {
+          "type": "답",
+          "total": 14,
+          "failed": 8,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 35.71,
+          "avg_appraisal": 95403000,
+          "sale_price_rate": 18.31
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 4,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 101922400,
+          "sale_price_rate": 65.93
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 855216500,
+          "sale_price_rate": 14.04
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 116427600,
+          "sale_price_rate": 17.34
+        }
+      ]
     }
   ],
   "listings": [
@@ -1228,38 +1162,6 @@
       "bid_date": "26.08.21",
       "special": "법정지상권,맹지",
       "dpsl": "토지만 매각이며,지분 매각임"
-    },
-    {
-      "tid": 2431993,
-      "case_no": "2025-10280",
-      "item_no": null,
-      "court": "거창2계",
-      "type": "답",
-      "address": "경상남도 합천군 청덕면 적포리 177 외 2필지",
-      "area": "토지 2693.1㎡(814.663평)",
-      "appraisal": 88891100,
-      "min_price": 62224000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.21",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2439044,
-      "case_no": "2025-10294",
-      "item_no": null,
-      "court": "거창2계",
-      "type": "전",
-      "address": "경상남도 합천군 적중면 누하리 542",
-      "area": "토지 165.3㎡(50.003평)",
-      "appraisal": 4463100,
-      "min_price": 3124000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.21",
-      "special": "분묘기지권,농지취득자격증명",
-      "dpsl": "토지지분매각"
     },
     {
       "tid": 2442295,

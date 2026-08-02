@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "271",
@@ -7,125 +7,6 @@
     "name": "안산시 상록구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "271",
-      "title": "2026. 01 월간매각 통계자료 : 경기 안산시 상록구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 6,
-          "failed": 3,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 166387667,
-          "sale_price_rate": 21.14
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 11,
-          "failed": 4,
-          "sold": 4,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 36.36,
-          "avg_appraisal": 442500000,
-          "sale_price_rate": 88.03
-        },
-        {
-          "type": "다세대주택",
-          "total": 106,
-          "failed": 77,
-          "sold": 22,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 20.75,
-          "avg_appraisal": 153300000,
-          "sale_price_rate": 68.42
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 180000000,
-          "sale_price_rate": 73.33
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 24,
-          "failed": 15,
-          "sold": 7,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 29.17,
-          "avg_appraisal": 169857143,
-          "sale_price_rate": 54.4
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 25000000,
-          "sale_price_rate": 100.6
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "화물차",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 15000000,
-          "sale_price_rate": 35.51
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -830,6 +711,169 @@
           "sale_price_rate": 87.5
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "271",
+      "title": "2026. 07 월간매각 통계자료 : 경기 안산시 상록구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 101,
+          "failed": 73,
+          "sold": 23,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 22.77,
+          "avg_appraisal": 130030522,
+          "sale_price_rate": 62.84
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 4,
+          "failed": 1,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 204500000,
+          "sale_price_rate": 71.81
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 52,
+          "failed": 46,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 9.62,
+          "avg_appraisal": 241200000,
+          "sale_price_rate": 64.41
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 12000000,
+          "sale_price_rate": 83.83
+        }
+      ]
     }
   ],
   "listings": [
@@ -872,14 +916,14 @@
       "court": "안산5계",
       "type": "다세대주택",
       "address": "경기도 안산시 상록구 건건동 649-21 왕운빌라 4동 1층101호",
-      "area": "건물 72.21㎡(21.844평) / 미등기감정가격포함",
+      "area": "건물 72.21㎡(21.844평) 토지 매각제외 / 대지권미등기",
       "appraisal": 98000000,
       "min_price": 98000000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
+      "dpsl": "건물만 매각"
     },
     {
       "tid": 2559064,
@@ -888,14 +932,14 @@
       "court": "안산5계",
       "type": "다세대주택",
       "address": "경기도 안산시 상록구 건건동 649-34 왕운빌라 5동 1층101호",
-      "area": "건물 75.82㎡(22.936평) / 대지권미등기",
+      "area": "건물 75.82㎡(22.936평) 토지 매각제외 / 대지권미등기",
       "appraisal": 102000000,
       "min_price": 102000000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
+      "special": "대항력 있는 임차인",
+      "dpsl": "건물만 매각"
     },
     {
       "tid": 2427397,
@@ -919,7 +963,7 @@
       "item_no": null,
       "court": "안산5계",
       "type": "다세대주택",
-      "address": "경기도 안산시 상록구 팔곡이동 429-7, 430-6 비202호 외 1필지",
+      "address": "경기도 안산시 상록구 팔곡이동 429-7, 비202호 외 1필지",
       "area": "건물 33.16㎡(10.031평) 대지권 29.774㎡(9.007평)",
       "appraisal": 66000000,
       "min_price": 66000000,
@@ -1298,22 +1342,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2363725,
-      "case_no": "2024-6048",
-      "item_no": 1,
-      "court": "안산1계",
-      "type": "도시형생활주택",
-      "address": "경기 안산시 상록구 본오동 935-11, 1층101호",
-      "area": "건물 22.26㎡(6.734평) 대지권 14.8852㎡(4.503평)",
-      "appraisal": 88000000,
-      "min_price": 61600000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.13",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2460703,
       "case_no": "2024-6048",
       "item_no": 2,
@@ -1484,9 +1512,9 @@
       "appraisal": 169000000,
       "min_price": 169000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1516,7 +1544,7 @@
       "appraisal": 99560000,
       "min_price": 99560000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
@@ -1527,14 +1555,14 @@
       "item_no": 2,
       "court": "안산1계",
       "type": "전",
-      "address": "경기도 안산시 상록구 월피동 243-2 외 2필지",
-      "area": "토지 1185㎡(358.463평)",
+      "address": "경기도 안산시 상록구 월피동 243-2 외 10필지",
+      "area": "토지 7442㎡(2251.205평)",
       "appraisal": 2092158000,
       "min_price": 2092158000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -1543,15 +1571,15 @@
       "item_no": 3,
       "court": "안산1계",
       "type": "전",
-      "address": "경기도 안산시 상록구 월피동 246-1 외 1필지",
-      "area": "토지 680㎡(205.7평)",
+      "address": "경기도 안산시 상록구 월피동 246-1",
+      "area": "토지 770㎡(232.925평)",
       "appraisal": 195580000,
       "min_price": 195580000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2493909,
@@ -1560,14 +1588,14 @@
       "court": "안산1계",
       "type": "답",
       "address": "경기도 안산시 상록구 월피동 248-1",
-      "area": "토지 539㎡(163.047평)",
+      "area": "토지 1686㎡(510.015평)",
       "appraisal": 392952000,
       "min_price": 392952000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2414961,
@@ -1580,7 +1608,7 @@
       "appraisal": 126000000,
       "min_price": 126000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1596,7 +1624,7 @@
       "appraisal": 156000000,
       "min_price": 156000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1612,7 +1640,7 @@
       "appraisal": 200000000,
       "min_price": 200000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1692,7 +1720,7 @@
       "appraisal": 130000000,
       "min_price": 130000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1708,7 +1736,7 @@
       "appraisal": 171300000,
       "min_price": 171300000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1724,9 +1752,9 @@
       "appraisal": 210000000,
       "min_price": 210000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1756,25 +1784,9 @@
       "appraisal": 500000000,
       "min_price": 500000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2437179,
-      "case_no": "2025-52976",
-      "item_no": null,
-      "court": "안산1계",
-      "type": "다세대주택",
-      "address": "경기도 안산시 상록구 일동 583-8 3층302호",
-      "area": "건물 75.465㎡(22.828평) 대지권 43.44㎡(13.141평)",
-      "appraisal": 185000000,
-      "min_price": 129500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1788,7 +1800,7 @@
       "appraisal": 248000000,
       "min_price": 248000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1804,7 +1816,7 @@
       "appraisal": 211000000,
       "min_price": 211000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1820,9 +1832,9 @@
       "appraisal": 90000000,
       "min_price": 90000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1830,13 +1842,13 @@
       "case_no": "2025-53215",
       "item_no": null,
       "court": "안산1계",
-      "type": "연립주택",
+      "type": "다세대주택",
       "address": "경기도 안산시 상록구 부곡동 715-7 2층201호",
       "area": "건물 65.94㎡(19.947평) 대지권 33.3㎡(10.073평)",
       "appraisal": 119000000,
       "min_price": 119000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
@@ -1852,7 +1864,7 @@
       "appraisal": 129000000,
       "min_price": 129000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
@@ -1868,7 +1880,7 @@
       "appraisal": 423000000,
       "min_price": 423000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.13",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1903,6 +1915,38 @@
       "status": "유찰 8회",
       "bid_date": "26.08.18",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2475576,
+      "case_no": "2025-982",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 수암동 473-3 수암아트빌 4층401호",
+      "area": "건물 71.275㎡(21.561평) 대지권 33.8439㎡(10.238평)",
+      "appraisal": 175000000,
+      "min_price": 175000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2478247,
+      "case_no": "2025-1001",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "도시형생활주택",
+      "address": "경기도 안산시 상록구 월피동 499 5층501호",
+      "area": "건물 47.4㎡(14.339평) 대지권 29.776㎡(9.007평)",
+      "appraisal": 145000000,
+      "min_price": 145000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1970,6 +2014,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2420502,
+      "case_no": "2025-52672",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 일동 603-18 3층302호",
+      "area": "건물 75.195㎡(22.746평) 대지권 43.75㎡(13.234평)",
+      "appraisal": 178000000,
+      "min_price": 178000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2435560,
       "case_no": "2025-52964",
       "item_no": null,
@@ -2031,6 +2091,22 @@
       "status": "유찰 2회",
       "bid_date": "26.08.18",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2461419,
+      "case_no": "2025-53384",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 본오동 850-2 4층401호",
+      "area": "건물 59.51㎡(18.002평) 대지권 23.47㎡(7.1평)",
+      "appraisal": 129000000,
+      "min_price": 129000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2194,6 +2270,134 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2475577,
+      "case_no": "2025-53719",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 일동 546-3 해오름빌 5층502호",
+      "area": "건물 37.19㎡(11.25평) 대지권 20.42㎡(6.177평)",
+      "appraisal": 120000000,
+      "min_price": 120000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2473034,
+      "case_no": "2025-53799",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "도시형생활주택",
+      "address": "경기도 안산시 상록구 부곡동 653-13 공원그린빌 5층501호",
+      "area": "건물 32.76㎡(9.91평) 대지권 18.98㎡(5.741평)",
+      "appraisal": 94000000,
+      "min_price": 94000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2473980,
+      "case_no": "2025-53827",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 사동 1369-9 4층402호",
+      "area": "건물 63.455㎡(19.195평) 대지권 33.42㎡(10.11평)",
+      "appraisal": 147300000,
+      "min_price": 147300000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2475581,
+      "case_no": "2025-53898",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 본오동 955-11 우경쉐르빌비동 4층402호",
+      "area": "건물 64.995㎡(19.661평) 대지권 32.12㎡(9.716평)",
+      "appraisal": 153000000,
+      "min_price": 153000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2478250,
+      "case_no": "2025-53976",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 사동 1426-5 4층401호",
+      "area": "건물 64.7㎡(19.572평) 대지권 31.7357㎡(9.6평)",
+      "appraisal": 137000000,
+      "min_price": 137000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2481181,
+      "case_no": "2025-53997",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "다세대주택",
+      "address": "경기도 안산시 상록구 본오동 816-2 동부빌라 지하층비102호",
+      "area": "건물 41.36㎡(12.511평) 대지권 20.76㎡(6.28평)",
+      "appraisal": 58000000,
+      "min_price": 58000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2482688,
+      "case_no": "2025-54044",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "도시형생활주택",
+      "address": "경기도 안산시 상록구 사동 1349-7 노블리안11차 4층402호",
+      "area": "건물 55.565㎡(16.808평) 대지권 31.3787㎡(9.492평)",
+      "appraisal": 155000000,
+      "min_price": 155000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2485109,
+      "case_no": "2025-54101",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 안산시 상록구 사동 1423 이편한세상상록 102동 9층904호",
+      "area": "건물 84.14㎡(25.452평) 대지권 12.716㎡(3.847평)",
+      "appraisal": 277000000,
+      "min_price": 277000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2499059,
       "case_no": "2026-50166",
       "item_no": null,
@@ -2205,6 +2409,22 @@
       "min_price": 3920000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.08.18",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2530757,
+      "case_no": "2026-50661",
+      "item_no": null,
+      "court": "안산6계",
+      "type": "승용차",
+      "address": "경기도 안산시 상록구 수암동 458-3, 나나익스프레스",
+      "area": "(G80 / 2020년식)",
+      "appraisal": 20000000,
+      "min_price": 20000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.18",
       "special": "",
       "dpsl": ""
@@ -2623,6 +2843,22 @@
       "status": "유찰 5회",
       "bid_date": "26.08.25",
       "special": "위반건축물,임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2368326,
+      "case_no": "2024-73161",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "단독주택",
+      "address": "경기도 안산시 상록구 양상동 60 외 1필지",
+      "area": "건물 115.4㎡(34.909평) 토지 1371㎡(414.727평)",
+      "appraisal": 2842694000,
+      "min_price": 2842694000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.08.25",
+      "special": "맹지",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4282,11 +4518,11 @@
       "address": "경기도 안산시 상록구 일동 561 3층301호",
       "area": "건물 70.76㎡(21.405평) 대지권 34.22㎡(10.352평)",
       "appraisal": 216000000,
-      "min_price": 105840000,
-      "min_price_pct": 49,
+      "min_price": 216000000,
+      "min_price_pct": 100,
       "status": "유찰 2회",
       "bid_date": "26.09.03",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {

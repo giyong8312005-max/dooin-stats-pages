@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "430",
@@ -7,114 +7,6 @@
     "name": "의왕시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "430",
-      "title": "2026. 01 월간매각 통계자료 : 경기 의왕시",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 11,
-          "failed": 7,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 9.09,
-          "avg_appraisal": 517000000,
-          "sale_price_rate": 84.24
-        },
-        {
-          "type": "다세대주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 334000000,
-          "sale_price_rate": 52.45
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 310000000,
-          "sale_price_rate": 80.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 11,
-          "failed": 8,
-          "sold": 0,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 1,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 75.0,
-          "avg_appraisal": 165000000,
-          "sale_price_rate": 52.88
-        },
-        {
-          "type": "승용차",
-          "total": 3,
-          "failed": 0,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 18666667,
-          "sale_price_rate": 92.35
-        },
-        {
-          "type": "화물차",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -720,6 +612,136 @@
           "sale_price_rate": 85.61
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "430",
+      "title": "2026. 07 월간매각 통계자료 : 경기 의왕시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 105780000,
+          "sale_price_rate": 57.77
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 640000000,
+          "sale_price_rate": 96.01
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 1,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 75.0,
+          "avg_appraisal": 335000000,
+          "sale_price_rate": 66.33
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 12,
+          "failed": 9,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 452333333,
+          "sale_price_rate": 50.51
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 441500000,
+          "sale_price_rate": 61.66
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 17500000,
+          "sale_price_rate": 67.43
+        }
+      ]
     }
   ],
   "listings": [
@@ -904,7 +926,7 @@
       "case_no": "2025-101349",
       "item_no": null,
       "court": "안양4계",
-      "type": "도시형생활주택",
+      "type": "다세대주택",
       "address": "경기도 의왕시 삼동 192-544 9층902호",
       "area": "건물 50.16㎡(15.173평) 대지권 14.734㎡(4.457평)",
       "appraisal": 365000000,
@@ -928,7 +950,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "법정지상권",
+      "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "건물만 매각"
     },
     {
@@ -938,7 +960,7 @@
       "court": "안양4계",
       "type": "승용차",
       "address": "경기 의왕시 이동 328, 경기물류",
-      "area": "(K9 / 2014년식)",
+      "area": "(K9 / 2014년식 / 131,479㎞)",
       "appraisal": 10000000,
       "min_price": 10000000,
       "min_price_pct": 100,
@@ -1185,22 +1207,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.25",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2409270,
-      "case_no": "2025-101091",
-      "item_no": null,
-      "court": "안양2계",
-      "type": "단독주택",
-      "address": "경기도 의왕시 청계동 436-3 외 1필지",
-      "area": "건물 207.585㎡(62.794평) 토지 319㎡(96.498평)",
-      "appraisal": 1446963680,
-      "min_price": 926057000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.08.25",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {

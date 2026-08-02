@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "47",
     "guCd": "930",
@@ -7,136 +7,6 @@
     "name": "울진군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "47",
-      "guCd": "930",
-      "title": "2026. 01 월간매각 통계자료 : 경북 울진군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 9,
-          "failed": 7,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 22.22,
-          "avg_appraisal": 38196600,
-          "sale_price_rate": 32.51
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 6,
-          "failed": 3,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 175173333,
-          "sale_price_rate": 20.36
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 0,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 40800000,
-          "sale_price_rate": 74.02
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 208000000,
-          "sale_price_rate": 82.36
-        },
-        {
-          "type": "근린생활시설",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 202000000,
-          "sale_price_rate": 37.18
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -885,6 +755,158 @@
           "sale_price_rate": 51.93
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "47",
+      "guCd": "930",
+      "title": "2026. 07 월간매각 통계자료 : 경북 울진군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 11,
+          "failed": 8,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 23,
+          "failed": 1,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 4.35,
+          "avg_appraisal": 7530000,
+          "sale_price_rate": 55.33
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 0,
+          "sold": 1,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 366960000,
+          "sale_price_rate": 49.05
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 202265290,
+          "sale_price_rate": 79.1
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 345000000,
+          "sale_price_rate": 77.31
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 56959400,
+          "sale_price_rate": 50.04
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "목욕탕",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1009,7 +1031,7 @@
       "address": "경상북도 울진군 온정면 온정리 384 외 1필지",
       "area": "토지 1703㎡(515.158평)",
       "appraisal": 18733000,
-      "min_price": 4498000,
+      "min_price": 4499000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.08.21",
@@ -1025,7 +1047,7 @@
       "address": "경상북도 울진군 온정면 온정리 559",
       "area": "토지 3193㎡(965.882평)",
       "appraisal": 28098400,
-      "min_price": 6747000,
+      "min_price": 6748000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.08.21",
@@ -1137,7 +1159,7 @@
       "address": "경상북도 울진군 죽변면 봉평리 487 가동 2층202호 외 30개호",
       "area": "건물 2388.06㎡(722.388평) 토지 매각제외 / 대지권없음",
       "appraisal": 2241680000,
-      "min_price": 538227000,
+      "min_price": 538228000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.08.21",

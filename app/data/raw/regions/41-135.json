@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "135",
@@ -7,191 +7,6 @@
     "name": "성남시 분당구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "135",
-      "title": "2026. 01 월간매각 통계자료 : 경기 성남시 분당구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1015000000,
-          "sale_price_rate": 25.09
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 20.0,
-          "avg_appraisal": 58212000,
-          "sale_price_rate": 35.01
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 2426268000,
-          "sale_price_rate": 57.91
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 2580085700,
-          "sale_price_rate": 96.9
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 9,
-          "failed": 0,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 2,
-          "sold_rate": 55.56,
-          "avg_appraisal": 1128000000,
-          "sale_price_rate": 115.57
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 448000000,
-          "sale_price_rate": 94.17
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 10,
-          "failed": 5,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 562250000,
-          "sale_price_rate": 83.3
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "노유자시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 583000000,
-          "sale_price_rate": 79.07
-        },
-        {
-          "type": "근린상가",
-          "total": 32,
-          "failed": 25,
-          "sold": 4,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 12.5,
-          "avg_appraisal": 569000000,
-          "sale_price_rate": 41.84
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 11689120900,
-          "sale_price_rate": 70.23
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -786,6 +601,114 @@
           "sale_price_rate": 57.56
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "135",
+      "title": "2026. 07 월간매각 통계자료 : 경기 성남시 분당구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 443802000,
+          "sale_price_rate": 25.04
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 2,
+          "sold": 4,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 1373250000,
+          "sale_price_rate": 112.16
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 10,
+          "failed": 6,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 609250000,
+          "sale_price_rate": 74.65
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "노유자시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 27,
+          "failed": 23,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.81,
+          "avg_appraisal": 865250000,
+          "sale_price_rate": 79.97
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -964,22 +887,6 @@
       "bid_date": "26.08.03",
       "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2449831,
-      "case_no": "2025-52865",
-      "item_no": null,
-      "court": "성남4계",
-      "type": "임야",
-      "address": "경기도 성남시 분당구 율동 산55-1 외 4필지",
-      "area": "토지 8562㎡(2590.005평)",
-      "appraisal": 839670000,
-      "min_price": 587769000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2463980,
@@ -1194,7 +1101,7 @@
       "case_no": "2025-1728",
       "item_no": null,
       "court": "성남1계",
-      "type": "자동차관련시설",
+      "type": "오피스텔(주거)",
       "address": "경기도 성남시 분당구 서현동 275 라포르테블랑서현 414호 외 1개호",
       "area": "건물 105.051㎡(31.778평) 대지권 18.426㎡(5.574평) / 토지별도등기있음",
       "appraisal": 1035000000,
@@ -1250,7 +1157,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명,선순위 가등기,선순위 가처분",
+      "special": "농지취득자격증명,맹지,선순위 가등기,선순위 가처분",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -1275,7 +1182,7 @@
       "item_no": null,
       "court": "성남6계",
       "type": "근린상가",
-      "address": "경기도 성남시 분당구 야탑동 367-4",
+      "address": "경기도 성남시 분당구 야탑로 95, 3층301호 (야탑동,세신옴니코아빌딩)",
       "area": "건물 34.42㎡(10.412평) 토지 7.69㎡(2.326평) / 미등기감정가격포함",
       "appraisal": 100162200,
       "min_price": 49080000,
@@ -1430,22 +1337,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2463967,
-      "case_no": "2025-53072",
-      "item_no": 1,
-      "court": "성남6계",
-      "type": "근린상가",
-      "address": "경기도 성남시 분당구 금곡동 133-1 2층201호",
-      "area": "건물 378.94㎡(114.629평) 대지권 141.13㎡(42.692평)",
-      "appraisal": 1950000000,
-      "min_price": 1365000000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.10",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2543626,
       "case_no": "2025-53072",
       "item_no": 2,
@@ -1522,8 +1413,72 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "분묘기지권,선순위 가처분",
+      "special": "분묘기지권,맹지,선순위 가처분",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2452216,
+      "case_no": "2025-4253",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "전",
+      "address": "경기도 성남시 분당구 율동 170",
+      "area": "토지 1319㎡(398.998평)",
+      "appraisal": 571127000,
+      "min_price": 571127000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2456585,
+      "case_no": "2025-4406",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 분당구 대장동 618-1 4층404호",
+      "area": "건물 72.16㎡(21.828평) 대지권 35.784㎡(10.825평)",
+      "appraisal": 818000000,
+      "min_price": 818000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2462953,
+      "case_no": "2025-4727",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "아파트",
+      "address": "경기도 성남시 분당구 분당동 66 71건영아파트 127동 8층804호 외 5필지",
+      "area": "건물 101.82㎡(30.801평) 대지권 70.83㎡(21.426평)",
+      "appraisal": 1243000000,
+      "min_price": 1243000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2466302,
+      "case_no": "2025-4826",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 분당구 백현동 540 힐스테이트판교역(7-1블럭)오피스텔 102동 16층1610호",
+      "area": "건물 84.93㎡(25.691평) 대지권 14.21㎡(4.299평)",
+      "appraisal": 1450000000,
+      "min_price": 1450000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2392774,
@@ -1635,6 +1590,86 @@
       "status": "유찰 1회",
       "bid_date": "26.08.14",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2437703,
+      "case_no": "2025-52676",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "아파트",
+      "address": "경기 성남시 분당구 대장동 595, 힐스테이트판교엘포레에이6비엘 605동 9층901호",
+      "area": "건물 64.108㎡(19.393평) 대지권 40.374㎡(12.213평)",
+      "appraisal": 915000000,
+      "min_price": 915000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2452217,
+      "case_no": "2025-52939",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "노유자시설",
+      "address": "경기도 성남시 분당구 금곡동 305-2 더헤리티지 108동 1층106호 외 2필지",
+      "area": "건물 164.5621㎡(49.78평) 대지권 240.3524㎡(72.707평)",
+      "appraisal": 1230000000,
+      "min_price": 1230000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2460337,
+      "case_no": "2025-53149",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 분당구 야탑동 341 성남(분당)여객자동차터미널및복합건물 1층170호",
+      "area": "건물 5.17㎡(1.564평) 대지권 2.4102㎡(0.729평)",
+      "appraisal": 31000000,
+      "min_price": 31000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2462955,
+      "case_no": "2025-53190",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 분당구 야탑동 341 성남(분당)여객자동차터미널및복합건물 2층301호",
+      "area": "건물 6.2㎡(1.876평) 대지권 3.1877㎡(0.964평)",
+      "appraisal": 35000000,
+      "min_price": 35000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2469479,
+      "case_no": "2025-53347",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "아파트",
+      "address": "경기도 성남시 분당구 수내동 73 푸른마을 301동 1층105호",
+      "area": "건물 131.4㎡(39.749평) 대지권 80.128㎡(24.239평)",
+      "appraisal": 1899000000,
+      "min_price": 1899000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1860,22 +1895,6 @@
       "bid_date": "26.08.24",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2492195,
-      "case_no": "2026-50026",
-      "item_no": null,
-      "court": "성남2계",
-      "type": "아파트",
-      "address": "경기도 성남시 분당구 대장동 634, 힐스테이트판교엘포레에이4비엘 401동 6층603호",
-      "area": "건물 65.7995㎡(19.904평) 대지권 41.468㎡(12.544평)",
-      "appraisal": 1733158000,
-      "min_price": 1213211000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.24",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2497589,

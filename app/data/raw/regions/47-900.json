@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "47",
     "guCd": "900",
@@ -7,147 +7,6 @@
     "name": "예천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "47",
-      "guCd": "900",
-      "title": "2026. 01 월간매각 통계자료 : 경북 예천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 18,
-          "failed": 13,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 16.67,
-          "avg_appraisal": 9940208,
-          "sale_price_rate": 27.21
-        },
-        {
-          "type": "답",
-          "total": 15,
-          "failed": 10,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 266721333,
-          "sale_price_rate": 40.72
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 4221050,
-          "sale_price_rate": 35.77
-        },
-        {
-          "type": "임야",
-          "total": 11,
-          "failed": 6,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 6,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 16.67,
-          "avg_appraisal": 13200000,
-          "sale_price_rate": 84.47
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 17722860,
-          "sale_price_rate": 88.98
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 162000000,
-          "sale_price_rate": 86.42
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 133000000,
-          "sale_price_rate": 82.4
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 160000000,
-          "sale_price_rate": 10.75
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -769,6 +628,147 @@
           "failed": 1,
           "sold": 0,
           "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "47",
+      "guCd": "900",
+      "title": "2026. 07 월간매각 통계자료 : 경북 예천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 15,
+          "failed": 9,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 26.67,
+          "avg_appraisal": 117119750,
+          "sale_price_rate": 25.1
+        },
+        {
+          "type": "답",
+          "total": 11,
+          "failed": 8,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 446953800,
+          "sale_price_rate": 26.31
+        },
+        {
+          "type": "임야",
+          "total": 10,
+          "failed": 6,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 65502425,
+          "sale_price_rate": 45.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 12037050,
+          "sale_price_rate": 49.85
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 27697950,
+          "sale_price_rate": 49.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 109000000,
+          "sale_price_rate": 75.78
+        },
+        {
+          "type": "근린상가",
+          "total": 11,
+          "failed": 11,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "기타",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
           "withdrawn": 0,
           "sold_rate": 0.0,
           "avg_appraisal": 0,

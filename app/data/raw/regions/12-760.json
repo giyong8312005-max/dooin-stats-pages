@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "12",
     "guCd": "760",
@@ -7,15 +7,6 @@
     "name": "화순군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "12",
-      "guCd": "760",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 2,
@@ -181,57 +172,150 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "12",
+      "guCd": "760",
+      "title": "2026. 07 월간매각 통계자료 : 광주 화순군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 22,
+          "failed": 16,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 18.18,
+          "avg_appraisal": 240717000,
+          "sale_price_rate": 36.34
+        },
+        {
+          "type": "답",
+          "total": 11,
+          "failed": 10,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 138639800,
+          "sale_price_rate": 47.2
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 29,
+          "failed": 14,
+          "sold": 9,
+          "changed": 1,
+          "withdrawn": 4,
+          "sold_rate": 31.03,
+          "avg_appraisal": 57638076,
+          "sale_price_rate": 51.35
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 6,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 86657600,
+          "sale_price_rate": 77.2
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 1,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 57.14,
+          "avg_appraisal": 375250000,
+          "sale_price_rate": 106.63
+        },
+        {
+          "type": "숙박시설",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 3195202000,
+          "sale_price_rate": 56.71
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2391210,
-      "case_no": "2025-32145",
-      "item_no": null,
-      "court": "광주7계",
-      "type": "창고시설",
-      "address": "전라남도 화순군 사평면 원리 155 외 1필지",
-      "area": "건물 498.54㎡(150.808평) 토지 794㎡(240.185평)",
-      "appraisal": 457014200,
-      "min_price": 255928000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2472608,
-      "case_no": "2025-34369",
-      "item_no": null,
-      "court": "광주7계",
-      "type": "단독주택",
-      "address": "전라남도 화순군 사평면 벽송리 658-13",
-      "area": "건물 29.53㎡(8.933평) 토지 87㎡(26.318평)",
-      "appraisal": 47598750,
-      "min_price": 26656000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2409452,
-      "case_no": "2025-3218",
-      "item_no": null,
-      "court": "광주10계",
-      "type": "전",
-      "address": "전라남도 화순군 도곡면 원화리 188-1 외 3필지",
-      "area": "토지 3717㎡(1124.393평)",
-      "appraisal": 484418000,
-      "min_price": 339093000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
     {
       "tid": 2388914,
       "case_no": "2025-769",
@@ -526,8 +610,8 @@
       "item_no": null,
       "court": "광주4계",
       "type": "단독주택",
-      "address": "전라남도 화순군 능주면 잠정리 250",
-      "area": "건물 144.16㎡(43.608평) 토지 327㎡(98.918평)",
+      "address": "전남광주통합특별시 화순군 능주면 잠정리 250",
+      "area": "건물 109.08㎡(32.997평) 토지 327㎡(98.918평)",
       "appraisal": 90705180,
       "min_price": 90705180,
       "min_price_pct": 100,
@@ -1041,7 +1125,7 @@
       "address": "전라남도 화순군 춘양면 가동리 599-6",
       "area": "토지 274.6㎡(83.067평)",
       "appraisal": 6041200,
-      "min_price": 2166000,
+      "min_price": 2167000,
       "min_price_pct": 36,
       "status": "유찰 4회",
       "bid_date": "26.08.26",
@@ -1207,6 +1291,54 @@
       "bid_date": "26.08.27",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2391210,
+      "case_no": "2025-32145",
+      "item_no": null,
+      "court": "광주7계",
+      "type": "창고시설",
+      "address": "전라남도 화순군 사평면 원리 155 외 1필지",
+      "area": "건물 498.54㎡(150.808평) 토지 794㎡(240.185평)",
+      "appraisal": 457014200,
+      "min_price": 204743000,
+      "min_price_pct": 45,
+      "status": "유찰 3회",
+      "bid_date": "26.09.08",
+      "special": "농지취득자격증명,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2472608,
+      "case_no": "2025-34369",
+      "item_no": null,
+      "court": "광주7계",
+      "type": "단독주택",
+      "address": "전라남도 화순군 사평면 벽송리 658-13",
+      "area": "건물 29.53㎡(8.933평) 토지 87㎡(26.318평)",
+      "appraisal": 47598750,
+      "min_price": 21325000,
+      "min_price_pct": 45,
+      "status": "유찰 3회",
+      "bid_date": "26.09.08",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2409452,
+      "case_no": "2025-3218",
+      "item_no": null,
+      "court": "광주10계",
+      "type": "전",
+      "address": "전라남도 화순군 도곡면 원화리 188-1 외 3필지",
+      "area": "토지 3717㎡(1124.393평)",
+      "appraisal": 484418000,
+      "min_price": 271275000,
+      "min_price_pct": 56,
+      "status": "유찰 2회",
+      "bid_date": "26.09.11",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2376448,

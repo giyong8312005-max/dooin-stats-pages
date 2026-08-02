@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "111",
@@ -7,81 +7,6 @@
     "name": "수원시 장안구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "111",
-      "title": "2026. 01 월간매각 통계자료 : 경기 수원시 장안구",
-      "rows": [
-        {
-          "type": "아파트",
-          "total": 6,
-          "failed": 1,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 769500000,
-          "sale_price_rate": 85.55
-        },
-        {
-          "type": "다세대주택",
-          "total": 9,
-          "failed": 3,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 219500000,
-          "sale_price_rate": 69.81
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1565963840,
-          "sale_price_rate": 64.64
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 14,
-          "failed": 4,
-          "sold": 9,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 64.29,
-          "avg_appraisal": 279111111,
-          "sale_price_rate": 67.86
-        },
-        {
-          "type": "화물차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -643,6 +568,125 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "111",
+      "title": "2026. 07 월간매각 통계자료 : 경기 수원시 장안구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 6786650000,
+          "sale_price_rate": 56.16
+        },
+        {
+          "type": "도로",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 28215000,
+          "sale_price_rate": 56.67
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 3,
+          "sold": 6,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 467333333,
+          "sale_price_rate": 92.32
+        },
+        {
+          "type": "다세대주택",
+          "total": 8,
+          "failed": 7,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 239000000,
+          "sale_price_rate": 76.1
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 2300968440,
+          "sale_price_rate": 78.66
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 361000000,
+          "sale_price_rate": 2.49
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 9,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 209000000,
+          "sale_price_rate": 76.1
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -699,7 +743,7 @@
       "case_no": "2025-57221",
       "item_no": null,
       "court": "수원16계",
-      "type": "단독주택",
+      "type": "다가구주택",
       "address": "경기도 수원시 장안구 조원동 783-14",
       "area": "건물 287.02㎡(86.824평) 토지 161.8㎡(48.945평)",
       "appraisal": 597635500,
@@ -707,7 +751,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -900,6 +944,54 @@
       "status": "유찰 1회",
       "bid_date": "26.08.24",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499832,
+      "case_no": "2024-98555",
+      "item_no": 2,
+      "court": "수원20계",
+      "type": "도시형생활주택",
+      "address": "경기 수원시 장안구 영화동 408-20, 2층201호",
+      "area": "건물 37.99㎡(11.492평) 대지권 27.1㎡(8.198평)",
+      "appraisal": 244000000,
+      "min_price": 83692000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.08.25",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499838,
+      "case_no": "2024-98555",
+      "item_no": 8,
+      "court": "수원20계",
+      "type": "도시형생활주택",
+      "address": "경기 수원시 장안구 영화동 408-20, 3층303호",
+      "area": "건물 37.42㎡(11.32평) 대지권 26.69㎡(8.074평)",
+      "appraisal": 243000000,
+      "min_price": 83349000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.08.25",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499840,
+      "case_no": "2024-98555",
+      "item_no": 10,
+      "court": "수원20계",
+      "type": "도시형생활주택",
+      "address": "경기 수원시 장안구 영화동 408-20, 4층401호",
+      "area": "건물 37.99㎡(11.492평) 대지권 27.1㎡(8.198평)",
+      "appraisal": 246000000,
+      "min_price": 84378000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.08.25",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {

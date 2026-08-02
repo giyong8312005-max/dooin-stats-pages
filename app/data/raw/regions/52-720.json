@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "52",
     "guCd": "720",
@@ -7,125 +7,6 @@
     "name": "진안군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "52",
-      "guCd": "720",
-      "title": "2026. 01 월간매각 통계자료 : 전북 진안군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 7259000,
-          "sale_price_rate": 38.09
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 95328090,
-          "sale_price_rate": 52.59
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 266320000,
-          "sale_price_rate": 19.45
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 46640000,
-          "sale_price_rate": 51.01
-        },
-        {
-          "type": "하천",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 6730000,
-          "sale_price_rate": 51.56
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 152000000,
-          "sale_price_rate": 7.9
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -544,41 +425,106 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "52",
+      "guCd": "720",
+      "title": "2026. 07 월간매각 통계자료 : 전북 진안군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 21782500,
+          "sale_price_rate": 24.33
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 127640000,
+          "sale_price_rate": 57.8
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1970035240,
+          "sale_price_rate": 24.02
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2394350,
-      "case_no": "2025-635",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "숙박시설",
-      "address": "전북특별자치도 진안군 백운면 신암리 89",
-      "area": "건물 745.21㎡(225.426평) 토지 4991㎡(1509.778평)",
-      "appraisal": 1011936960,
-      "min_price": 495849000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2452436,
-      "case_no": "2025-31708",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "연립주택",
-      "address": "전북특별자치도 진안군 진안읍 군하리 372-43 마이하우스 5층 501호",
-      "area": "건물 59.94㎡(18.132평) 대지권 99.909㎡(30.222평)",
-      "appraisal": 132000000,
-      "min_price": 132000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2358128,
       "case_no": "2024-6651",
@@ -642,22 +588,6 @@
       "bid_date": "26.08.03",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2433936,
-      "case_no": "2025-31535",
-      "item_no": null,
-      "court": "전주7계",
-      "type": "임야",
-      "address": "전북특별자치도 진안군 진안읍 운산리 산182",
-      "area": "토지 4304.33㎡(1302.06평)",
-      "appraisal": 18508610,
-      "min_price": 9069000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.03",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
       "tid": 2453113,
@@ -752,7 +682,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,선순위 가등기",
       "dpsl": "토지지분매각"
     },
     {
@@ -768,7 +698,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지지분매각"
     },
     {
@@ -784,7 +714,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
@@ -800,7 +730,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -874,7 +804,7 @@
       "court": "전주2계",
       "type": "단독주택",
       "address": "전북특별자치도 진안군 진안읍 군상리 922-3",
-      "area": "건물 56.35㎡(17.046평) 토지 209㎡(63.223평)",
+      "area": "건물 84.03㎡(25.419평) 토지 209㎡(63.223평)",
       "appraisal": 47540600,
       "min_price": 47540600,
       "min_price_pct": 100,
@@ -1026,6 +956,38 @@
       "bid_date": "26.09.07",
       "special": "분묘기지권,맹지",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2394350,
+      "case_no": "2025-635",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "숙박시설",
+      "address": "전북특별자치도 진안군 백운면 신암리 89",
+      "area": "건물 745.21㎡(225.426평) 토지 4991㎡(1509.778평)",
+      "appraisal": 1011936960,
+      "min_price": 347094000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2452436,
+      "case_no": "2025-31708",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "연립주택",
+      "address": "전북특별자치도 진안군 진안읍 군하리 372-43 마이하우스 5층 501호",
+      "area": "건물 59.94㎡(18.132평) 대지권 99.909㎡(30.222평)",
+      "appraisal": 132000000,
+      "min_price": 92400000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

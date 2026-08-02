@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "43",
     "guCd": "745",
@@ -7,125 +7,6 @@
     "name": "증평군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "43",
-      "guCd": "745",
-      "title": "2026. 01 월간매각 통계자료 : 충북 증평군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 142380000,
-          "sale_price_rate": 28.91
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 421361100,
-          "sale_price_rate": 50.22
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 230000000,
-          "sale_price_rate": 85.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -654,25 +535,84 @@
           "sale_price_rate": 40.47
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "43",
+      "guCd": "745",
+      "title": "2026. 07 월간매각 통계자료 : 충북 증평군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 93632000,
+          "sale_price_rate": 45.39
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 233152340,
+          "sale_price_rate": 35.17
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 49545000,
+          "sale_price_rate": 53.04
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 286447480,
+          "sale_price_rate": 61.63
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2497088,
-      "case_no": "2026-26",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "아파트",
-      "address": "충청북도 증평군 증평읍 장동리 350 보창아파트 2층206호",
-      "area": "건물 35.2139㎡(10.652평) 대지권 23.589㎡(7.136평) / 토지별도등기있음",
-      "appraisal": 53300000,
-      "min_price": 37310000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2450734,
       "case_no": "2025-51775",
@@ -818,70 +758,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2531925,
-      "case_no": "2025-51994",
-      "item_no": 1,
-      "court": "청주6계",
-      "type": "답",
-      "address": "충청북도 증평군 증평읍 초중리 344-10",
-      "area": "토지 198㎡(59.895평)",
-      "appraisal": 86526000,
-      "min_price": 42397000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.06",
-      "special": "임금채권자",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2531926,
-      "case_no": "2025-51994",
-      "item_no": 2,
-      "court": "청주6계",
-      "type": "답",
-      "address": "충청북도 증평군 증평읍 초중리 344-11",
-      "area": "토지 198㎡(59.895평)",
-      "appraisal": 86526000,
-      "min_price": 42397000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.06",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2462555,
-      "case_no": "2025-5165",
-      "item_no": null,
-      "court": "청주7계",
-      "type": "답",
-      "address": "충청북도 증평군 증평읍 덕상리 555 외 2필지",
-      "area": "토지 4880㎡(1476.2평)",
-      "appraisal": 594050000,
-      "min_price": 291085000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.13",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2491286,
-      "case_no": "2026-10",
-      "item_no": null,
-      "court": "청주4계",
-      "type": "대지",
-      "address": "충청북도 증평군 증평읍 연탄리 773-3 외 3필지",
-      "area": "토지 7883㎡(2384.608평)",
-      "appraisal": 970303000,
-      "min_price": 678809000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.19",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2503718,
       "case_no": "2026-43",
       "item_no": null,
@@ -928,22 +804,6 @@
       "bid_date": "26.08.25",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2435148,
-      "case_no": "2025-51543",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "전",
-      "address": "충청북도 증평군 증평읍 내성리 509 외 2필지",
-      "area": "토지 1164.69㎡(352.319평)",
-      "appraisal": 302438100,
-      "min_price": 103737000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.25",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
     }
   ]
 }

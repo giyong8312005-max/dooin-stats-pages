@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "31",
     "guCd": "170",
@@ -7,158 +7,6 @@
     "name": "동구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "31",
-      "guCd": "170",
-      "title": "2026. 01 월간매각 통계자료 : 울산 동구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 74356600,
-          "sale_price_rate": 52.42
-        },
-        {
-          "type": "다가구주택",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 25,
-          "failed": 13,
-          "sold": 10,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 40.0,
-          "avg_appraisal": 143820000,
-          "sale_price_rate": 78.52
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 22,
-          "failed": 8,
-          "sold": 14,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 63.64,
-          "avg_appraisal": 82285714,
-          "sale_price_rate": 66.34
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 86500000,
-          "sale_price_rate": 54.49
-        },
-        {
-          "type": "노유자시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -951,121 +799,150 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "31",
+      "guCd": "170",
+      "title": "2026. 07 월간매각 통계자료 : 울산 동구",
+      "rows": [
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 14,
+          "failed": 7,
+          "sold": 6,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 42.86,
+          "avg_appraisal": 201750000,
+          "sale_price_rate": 76.82
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 13,
+          "failed": 13,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 4,
+          "failed": 1,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 3577817000,
+          "sale_price_rate": 49.19
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2387674,
-      "case_no": "2025-930",
-      "item_no": null,
-      "court": "울산8계",
-      "type": "임야",
-      "address": "울산광역시 동구 주전동 707-12 외 5필지",
-      "area": "토지 2041.57㎡(617.575평)",
-      "appraisal": 3525143010,
-      "min_price": 2467600000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2453727,
-      "case_no": "2025-12589",
-      "item_no": null,
-      "court": "울산8계",
-      "type": "아파트",
-      "address": "울산광역시 동구 전하동 301-28 전하대경넥스빌 106동 3층 310호 외 6필지",
-      "area": "건물 83.7657㎡(25.339평) 대지권 30.1849㎡(9.131평)",
-      "appraisal": 256000000,
-      "min_price": 125440000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.28",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2427043,
-      "case_no": "2025-1264",
-      "item_no": null,
-      "court": "울산6계",
-      "type": "상가주택",
-      "address": "울산광역시 동구 일산동 576-16",
-      "area": "건물 193.8㎡(58.625평) 토지 86.4㎡(26.136평)",
-      "appraisal": 369135600,
-      "min_price": 258395000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2404649,
-      "case_no": "2025-11719",
-      "item_no": null,
-      "court": "울산6계",
-      "type": "근린생활시설",
-      "address": "울산광역시 동구 일산동 465-15",
-      "area": "건물 1784.58㎡(539.835평) 토지 765.3㎡(231.503평)",
-      "appraisal": 3656203690,
-      "min_price": 1254078000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2404651,
-      "case_no": "2025-11736",
-      "item_no": null,
-      "court": "울산6계",
-      "type": "아파트",
-      "address": "울산광역시 동구 방어동 931-7 명성블루빌2차 3층302호",
-      "area": "건물 84.7968㎡(25.651평) 대지권 24.1742㎡(7.313평)",
-      "appraisal": 210000000,
-      "min_price": 72030000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.07.29",
-      "special": "선순위 전세권설정",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2416196,
-      "case_no": "2025-11906",
-      "item_no": null,
-      "court": "울산6계",
-      "type": "아파트",
-      "address": "울산광역시 동구 서부동 248-24 서부성원상떼빌 103동 1층103호 외 17필지",
-      "area": "건물 84.85㎡(25.667평) 대지권 32.88㎡(9.946평)",
-      "appraisal": 277000000,
-      "min_price": 193900000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2416201,
-      "case_no": "2025-11955",
-      "item_no": null,
-      "court": "울산6계",
-      "type": "단독주택",
-      "address": "울산광역시 동구 일산동 573-2",
-      "area": "건물 122.88㎡(37.171평) 토지 158㎡(47.795평)",
-      "appraisal": 240880640,
-      "min_price": 118031000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2430123,
       "case_no": "2024-107568",
@@ -1291,6 +1168,38 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2436168,
+      "case_no": "2025-12278",
+      "item_no": null,
+      "court": "울산2계",
+      "type": "아파트",
+      "address": "울산광역시 동구 동부동 665 영진청구아파트 102동 15층1509호",
+      "area": "건물 75.94㎡(22.972평) 대지권 30.475㎡(9.219평)",
+      "appraisal": 130000000,
+      "min_price": 130000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2436169,
+      "case_no": "2025-12282",
+      "item_no": null,
+      "court": "울산2계",
+      "type": "아파트",
+      "address": "울산광역시 동구 화정동 653-5 여명빌라 2층201호",
+      "area": "건물 84.19㎡(25.467평) 대지권 66.42㎡(20.092평)",
+      "appraisal": 129000000,
+      "min_price": 129000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.13",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2431958,
       "case_no": "2025-12215",
       "item_no": null,
@@ -1411,11 +1320,11 @@
       "address": "울산광역시 동구 동부동 350-1 아성오우션맨션아파트 101동 8층807호",
       "area": "건물 70.02㎡(21.181평) 대지권 33.04㎡(9.995평)",
       "appraisal": 131000000,
-      "min_price": 64190000,
-      "min_price_pct": 49,
+      "min_price": 131000000,
+      "min_price_pct": 100,
       "status": "유찰 2회",
       "bid_date": "26.08.19",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1787,6 +1696,54 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
+      "tid": 2453727,
+      "case_no": "2025-12589",
+      "item_no": null,
+      "court": "울산8계",
+      "type": "아파트",
+      "address": "울산광역시 동구 전하동 301-28 전하대경넥스빌 106동 3층 310호 외 6필지",
+      "area": "건물 83.7657㎡(25.339평) 대지권 30.1849㎡(9.131평)",
+      "appraisal": 256000000,
+      "min_price": 87808000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.01",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2427043,
+      "case_no": "2025-1264",
+      "item_no": null,
+      "court": "울산6계",
+      "type": "상가주택",
+      "address": "울산광역시 동구 일산동 576-16",
+      "area": "건물 193.8㎡(58.625평) 토지 86.4㎡(26.136평)",
+      "appraisal": 369135600,
+      "min_price": 180877000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2404651,
+      "case_no": "2025-11736",
+      "item_no": null,
+      "court": "울산6계",
+      "type": "아파트",
+      "address": "울산광역시 동구 방어동 931-7 명성블루빌2차 3층302호",
+      "area": "건물 84.7968㎡(25.651평) 대지권 24.1742㎡(7.313평)",
+      "appraisal": 210000000,
+      "min_price": 50421000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.09.02",
+      "special": "선순위 전세권설정",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2410345,
       "case_no": "2025-11798",
       "item_no": null,
@@ -1803,6 +1760,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2416201,
+      "case_no": "2025-11955",
+      "item_no": null,
+      "court": "울산6계",
+      "type": "단독주택",
+      "address": "울산광역시 동구 일산동 573-2",
+      "area": "건물 122.88㎡(37.171평) 토지 158㎡(47.795평)",
+      "appraisal": 240880640,
+      "min_price": 82622000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2444701,
       "case_no": "2025-12434",
       "item_no": null,
@@ -1815,7 +1788,7 @@
       "min_price_pct": 100,
       "status": "유찰 1회",
       "bid_date": "26.09.09",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

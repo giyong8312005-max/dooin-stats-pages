@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "11",
     "guCd": "170",
@@ -7,81 +7,6 @@
     "name": "용산구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "11",
-      "guCd": "170",
-      "title": "2026. 01 월간매각 통계자료 : 서울 용산구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1440000000,
-          "sale_price_rate": 100.31
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 8,
-          "failed": 1,
-          "sold": 0,
-          "changed": 6,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 3,
-          "failed": 0,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 406000000,
-          "sale_price_rate": 169.46
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -566,41 +491,95 @@
           "sale_price_rate": 80.03
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "11",
+      "guCd": "170",
+      "title": "2026. 07 월간매각 통계자료 : 서울 용산구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 6270000000,
+          "sale_price_rate": 100.24
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2456478,
-      "case_no": "2025-51955",
-      "item_no": null,
-      "court": "서울서부7계",
-      "type": "아파트",
-      "address": "서울특별시 용산구 이촌동 411 동아그린아파트 105동 12층1203호",
-      "area": "건물 114.96㎡(34.775평) 대지권 36.79㎡(11.129평)",
-      "appraisal": 2240000000,
-      "min_price": 2240000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2467154,
-      "case_no": "2025-52130",
-      "item_no": null,
-      "court": "서울서부7계",
-      "type": "대지",
-      "address": "서울특별시 용산구 원효로3가 168 외 2필지",
-      "area": "토지 333.9㎡(101.005평)",
-      "appraisal": 6049860000,
-      "min_price": 6049860000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.28",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2357685,
       "case_no": "2024-2988",
@@ -615,22 +594,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.04",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2479905,
-      "case_no": "2025-2473",
-      "item_no": null,
-      "court": "서울서부1계",
-      "type": "아파트",
-      "address": "서울특별시 용산구 이촌동 199-23 4층1호",
-      "area": "건물 24㎡(7.26평) 대지권 13.65㎡(4.129평)",
-      "appraisal": 560000000,
-      "min_price": 560000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.04",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -744,6 +707,38 @@
       "bid_date": "26.08.25",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2456478,
+      "case_no": "2025-51955",
+      "item_no": null,
+      "court": "서울서부7계",
+      "type": "아파트",
+      "address": "서울특별시 용산구 이촌동 411 동아그린아파트 105동 12층1203호",
+      "area": "건물 114.96㎡(34.775평) 대지권 36.79㎡(11.129평)",
+      "appraisal": 2240000000,
+      "min_price": 1792000000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.09.01",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2467154,
+      "case_no": "2025-52130",
+      "item_no": null,
+      "court": "서울서부7계",
+      "type": "대지",
+      "address": "서울특별시 용산구 원효로3가 168 외 2필지",
+      "area": "토지 333.9㎡(101.005평)",
+      "appraisal": 6049860000,
+      "min_price": 4839888000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.09.01",
+      "special": "",
+      "dpsl": "토지 매각"
     }
   ]
 }

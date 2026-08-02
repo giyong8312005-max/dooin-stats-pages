@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "52",
     "guCd": "750",
@@ -7,103 +7,6 @@
     "name": "임실군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "52",
-      "guCd": "750",
-      "title": "2026. 01 월간매각 통계자료 : 전북 임실군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 4998000,
-          "sale_price_rate": 22.01
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 41620200,
-          "sale_price_rate": 77.13
-        },
-        {
-          "type": "임야",
-          "total": 17,
-          "failed": 9,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 11.76,
-          "avg_appraisal": 103415800,
-          "sale_price_rate": 46.9
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1062225200,
-          "sale_price_rate": 37.6
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -610,121 +513,95 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "52",
+      "guCd": "750",
+      "title": "2026. 07 월간매각 통계자료 : 전북 임실군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 26515200,
+          "sale_price_rate": 48.61
+        },
+        {
+          "type": "답",
+          "total": 9,
+          "failed": 5,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 44.44,
+          "avg_appraisal": 44685175,
+          "sale_price_rate": 63.93
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 5,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 15535620,
+          "sale_price_rate": 49.05
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2396233,
-      "case_no": "2025-639",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "단독주택",
-      "address": "전북특별자치도 임실군 관촌면 상월리 254 제1동 외 1필지",
-      "area": "건물 215㎡(65.037평) 토지 1806㎡(546.315평)",
-      "appraisal": 306257700,
-      "min_price": 306257700,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "농지취득자격증명,위반건축물",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2535088,
-      "case_no": "2025-31340",
-      "item_no": 4,
-      "court": "전주6계",
-      "type": "대지",
-      "address": "전북특별자치도 임실군 운암면 지천리 492 외 1필지",
-      "area": "토지 21682㎡(6558.805평)",
-      "appraisal": 39552600,
-      "min_price": 27687000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.27",
-      "special": "맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2535089,
-      "case_no": "2025-31340",
-      "item_no": 5,
-      "court": "전주6계",
-      "type": "답",
-      "address": "전북특별자치도 임실군 운암면 지천리 586-3",
-      "area": "토지 64㎡(19.36평)",
-      "appraisal": 256000,
-      "min_price": 179000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2446740,
-      "case_no": "2025-31660",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "단독주택",
-      "address": "전북특별자치도 임실군 임실읍 두곡리 259",
-      "area": "건물 177.44㎡(53.676평) 토지 264㎡(79.86평)",
-      "appraisal": 33150200,
-      "min_price": 33150200,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2449609,
-      "case_no": "2025-31683",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "답",
-      "address": "전북특별자치도 임실군 지사면 영천리 1107 외 1필지",
-      "area": "토지 3872㎡(1171.28평)",
-      "appraisal": 130873600,
-      "min_price": 130873600,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2466511,
-      "case_no": "2025-31695",
-      "item_no": null,
-      "court": "전주6계",
-      "type": "답",
-      "address": "전북특별자치도 임실군 신덕면 신덕리 353-1",
-      "area": "토지 1864㎡(563.86평)",
-      "appraisal": 46600000,
-      "min_price": 46600000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2389580,
-      "case_no": "2025-537",
-      "item_no": null,
-      "court": "전주7계",
-      "type": "숙박시설",
-      "address": "전북특별자치도 임실군 관촌면 용산리 176-21 외 1필지",
-      "area": "건물 1460.74㎡(441.874평) 토지 1857㎡(561.743평)",
-      "appraisal": 2030485280,
-      "min_price": 341264000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.08.03",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2461639,
       "case_no": "2025-994",
@@ -774,22 +651,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2389595,
-      "case_no": "2025-31003",
-      "item_no": null,
-      "court": "전주7계",
-      "type": "전",
-      "address": "전북특별자치도 임실군 강진면 문방리 740-1",
-      "area": "토지 3980㎡(1203.95평)",
-      "appraisal": 433820000,
-      "min_price": 104160000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.08.03",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2427110,
       "case_no": "2025-31449",
       "item_no": 1,
@@ -820,22 +681,6 @@
       "bid_date": "26.08.03",
       "special": "법정지상권,농지취득자격증명",
       "dpsl": "토지만 매각이며,지분 매각임"
-    },
-    {
-      "tid": 2472652,
-      "case_no": "2025-31947",
-      "item_no": null,
-      "court": "전주7계",
-      "type": "전",
-      "address": "전북특별자치도 임실군 오수면 둔기리 133-1 외 3필지",
-      "area": "건물은 매각제외 토지 4409㎡(1333.722평)",
-      "appraisal": 160290000,
-      "min_price": 160290000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.03",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각"
     },
     {
       "tid": 2516060,
@@ -931,7 +776,7 @@
       "status": "신건",
       "bid_date": "26.08.10",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2558515,
@@ -946,8 +791,8 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2558516,
@@ -962,8 +807,8 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2558517,
@@ -978,8 +823,8 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2558518,
@@ -994,7 +839,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1138,7 +983,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1154,7 +999,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1170,7 +1015,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1412,6 +1257,70 @@
       "bid_date": "26.09.07",
       "special": "맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2396233,
+      "case_no": "2025-639",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "단독주택",
+      "address": "전북특별자치도 임실군 관촌면 상월리 254 제1동 외 1필지",
+      "area": "건물 215㎡(65.037평) 토지 1806㎡(546.315평)",
+      "appraisal": 306257700,
+      "min_price": 214380000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.14",
+      "special": "농지취득자격증명,위반건축물",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2535088,
+      "case_no": "2025-31340",
+      "item_no": 4,
+      "court": "전주6계",
+      "type": "대지",
+      "address": "전북특별자치도 임실군 운암면 지천리 492 외 1필지",
+      "area": "토지 21682㎡(6558.805평)",
+      "appraisal": 39552600,
+      "min_price": 19381000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.14",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2446740,
+      "case_no": "2025-31660",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "단독주택",
+      "address": "전북특별자치도 임실군 임실읍 두곡리 259",
+      "area": "건물 177.44㎡(53.676평) 토지 264㎡(79.86평)",
+      "appraisal": 33150200,
+      "min_price": 23205000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2449609,
+      "case_no": "2025-31683",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "답",
+      "address": "전북특별자치도 임실군 지사면 영천리 1107 외 1필지",
+      "area": "토지 3872㎡(1171.28평)",
+      "appraisal": 130873600,
+      "min_price": 91612000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

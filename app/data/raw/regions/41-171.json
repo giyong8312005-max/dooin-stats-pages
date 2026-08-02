@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "171",
@@ -7,125 +7,6 @@
     "name": "안양시 만안구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "171",
-      "title": "2026. 01 월간매각 통계자료 : 경기 안양시 만안구",
-      "rows": [
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 115145560,
-          "sale_price_rate": 60.36
-        },
-        {
-          "type": "다가구주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1817300050,
-          "sale_price_rate": 59.76
-        },
-        {
-          "type": "아파트",
-          "total": 9,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 474666667,
-          "sale_price_rate": 80.01
-        },
-        {
-          "type": "다세대주택",
-          "total": 26,
-          "failed": 17,
-          "sold": 5,
-          "changed": 3,
-          "withdrawn": 1,
-          "sold_rate": 19.23,
-          "avg_appraisal": 254600000,
-          "sale_price_rate": 60.71
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 977279600,
-          "sale_price_rate": 55.59
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 20,
-          "failed": 10,
-          "sold": 4,
-          "changed": 6,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 260750000,
-          "sale_price_rate": 57.28
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 21,
-          "failed": 14,
-          "sold": 4,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 19.05,
-          "avg_appraisal": 222500000,
-          "sale_price_rate": 90.89
-        },
-        {
-          "type": "근린상가",
-          "total": 19,
-          "failed": 18,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 230000000,
-          "sale_price_rate": 64.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -720,6 +601,136 @@
           "sale_price_rate": 66.51
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "171",
+      "title": "2026. 07 월간매각 통계자료 : 경기 안양시 만안구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 371739180,
+          "sale_price_rate": 83.39
+        },
+        {
+          "type": "다가구주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 443000000,
+          "sale_price_rate": 124.42
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 37,
+          "failed": 26,
+          "sold": 9,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 24.32,
+          "avg_appraisal": 221111111,
+          "sale_price_rate": 81.66
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 14,
+          "failed": 12,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 361000000,
+          "sale_price_rate": 77.68
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 22,
+          "failed": 20,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 167250000,
+          "sale_price_rate": 49.51
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 5,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 410500000,
+          "sale_price_rate": 56.03
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -922,13 +933,13 @@
       "court": "안양4계",
       "type": "숙박시설",
       "address": "경기도 안양시 만안구 안양동 534-6",
-      "area": "건물 617.01㎡(186.646평) 토지 224.8㎡(68.002평)",
+      "area": "건물 740.01㎡(223.853평) 토지 224.8㎡(68.002평)",
       "appraisal": 2591304160,
       "min_price": 2591304160,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "위반건축물",
+      "special": "위반건축물,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1120,7 +1131,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1200,7 +1211,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.11",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1217,22 +1228,6 @@
       "status": "신건",
       "bid_date": "26.08.11",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2448889,
-      "case_no": "2025-101407",
-      "item_no": null,
-      "court": "안양4계",
-      "type": "도시형생활주택",
-      "address": "경기도 안양시 만안구 안양동 752-2 더베이타운주건축물제1동 2층203호 외 5필지",
-      "area": "건물 51.51㎡(15.582평) 대지권 36.46㎡(11.029평)",
-      "appraisal": 305000000,
-      "min_price": 305000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.11",
-      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1281,6 +1276,22 @@
       "status": "유찰 10회",
       "bid_date": "26.08.18",
       "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2383830,
+      "case_no": "2025-100804",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "아파트",
+      "address": "경기도 안양시 만안구 석수동 182-2 석수이-편한세상아파트 113동 7층703호 외 1필지",
+      "area": "건물 84.87㎡(25.673평) 대지권 27.117㎡(8.203평)",
+      "appraisal": 593000000,
+      "min_price": 593000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.18",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {

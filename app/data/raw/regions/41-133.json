@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "133",
@@ -7,158 +7,6 @@
     "name": "성남시 중원구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "133",
-      "title": "2026. 01 월간매각 통계자료 : 경기 성남시 중원구",
-      "rows": [
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 677068000,
-          "sale_price_rate": 87.04
-        },
-        {
-          "type": "아파트",
-          "total": 6,
-          "failed": 1,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 3,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 4,
-          "failed": 1,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 273500000,
-          "sale_price_rate": 94.41
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 14,
-          "failed": 9,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 21.43,
-          "avg_appraisal": 263666667,
-          "sale_price_rate": 70.07
-        },
-        {
-          "type": "근린생활시설",
-          "total": 3,
-          "failed": 1,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 15,
-          "failed": 13,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 6.67,
-          "avg_appraisal": 441000000,
-          "sale_price_rate": 70.09
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -731,6 +579,103 @@
           "sale_price_rate": 59.42
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "133",
+      "title": "2026. 07 월간매각 통계자료 : 경기 성남시 중원구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 749239600,
+          "sale_price_rate": 74.21
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 204000000,
+          "sale_price_rate": 79.32
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 12,
+          "failed": 7,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 203750000,
+          "sale_price_rate": 62.12
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 407000000,
+          "sale_price_rate": 58.48
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 11751562800,
+          "sale_price_rate": 49.87
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -796,22 +741,6 @@
       "status": "유찰 7회",
       "bid_date": "26.08.03",
       "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2426361,
-      "case_no": "2025-52489",
-      "item_no": null,
-      "court": "성남7계",
-      "type": "다세대주택",
-      "address": "경기도 성남시 중원구 하대원동 135-11 4층 402호",
-      "area": "건물 60.1㎡(18.18평) 대지권 32.43㎡(9.81평)",
-      "appraisal": 285000000,
-      "min_price": 199500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.03",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -923,7 +852,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -955,7 +884,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.10",
-      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1007,19 +936,67 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2523168,
-      "case_no": "2024-67349",
-      "item_no": 3,
-      "court": "성남3계",
-      "type": "오피스텔(주거)",
-      "address": "경기 성남시 중원구 성남동 3130, 7층703호 (성남동,위클리오피스텔)",
-      "area": "건물 64.36㎡(19.469평) 대지권 15.88㎡(4.804평)",
-      "appraisal": 431000000,
-      "min_price": 147833000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
+      "tid": 2382750,
+      "case_no": "2025-541",
+      "item_no": 1,
+      "court": "성남5계",
+      "type": "답",
+      "address": "경기도 성남시 중원구 갈현동 500-4",
+      "area": "토지 1578㎡(477.345평)",
+      "appraisal": 886180000,
+      "min_price": 886180000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.14",
-      "special": "대항력 있는 임차인",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2485334,
+      "case_no": "2025-541",
+      "item_no": 2,
+      "court": "성남5계",
+      "type": "근린생활시설",
+      "address": "경기도 성남시 중원구 갈현동 500-8",
+      "area": "건물 191.73㎡(57.998평) 토지 330㎡(99.825평)",
+      "appraisal": 1186929150,
+      "min_price": 1186929150,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "맹지",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2485335,
+      "case_no": "2025-541",
+      "item_no": 3,
+      "court": "성남5계",
+      "type": "근린생활시설",
+      "address": "경기도 성남시 중원구 갈현동 500-9 외 1필지",
+      "area": "건물 272.69㎡(82.489평) 토지 630㎡(190.575평)",
+      "appraisal": 1814149950,
+      "min_price": 1814149950,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "맹지",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2458210,
+      "case_no": "2025-4581",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 중원구 성남동 4163 오라타워 5층524호 외 4필지",
+      "area": "건물 4.2㎡(1.271평) 대지권 0.9627㎡(0.291평)",
+      "appraisal": 17000000,
+      "min_price": 17000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1052,6 +1029,70 @@
       "status": "유찰 1회",
       "bid_date": "26.08.14",
       "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2433299,
+      "case_no": "2025-52601",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 중원구 도촌동 562 으뜸이레가 7층707호",
+      "area": "건물 48.331㎡(14.62평) 대지권 17.827㎡(5.393평)",
+      "appraisal": 280000000,
+      "min_price": 280000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2438819,
+      "case_no": "2025-52724",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "근린상가",
+      "address": "경기도 성남시 중원구 성남동 4933 성남아리스타 1층131호",
+      "area": "건물 57.24㎡(17.315평) 대지권 16.673㎡(5.044평)",
+      "appraisal": 2230000000,
+      "min_price": 2230000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2447421,
+      "case_no": "2025-52919",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 중원구 성남동 4933 성남아리스타 1층 130호 외 1필지",
+      "area": "건물 34.56㎡(10.454평) 대지권 10.0666㎡(3.045평)",
+      "appraisal": 1300000000,
+      "min_price": 1300000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2473956,
+      "case_no": "2025-53385",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "아파트",
+      "address": "경기도 성남시 중원구 하대원동 539 성남자이 111동 11층1101호",
+      "area": "건물 59.99㎡(18.147평) 대지권 32.37㎡(9.792평)",
+      "appraisal": 647000000,
+      "min_price": 647000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1095,7 +1136,7 @@
       "address": "경기도 성남시 중원구 성남동 2164 영건센스빌오피스텔 3층 301호 외 1개호 외 1필지",
       "area": "건물 191.21㎡(57.841평) 대지권 30.48㎡(9.22평)",
       "appraisal": 1365000000,
-      "min_price": 327736000,
+      "min_price": 327737000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.08.24",
@@ -1130,6 +1171,22 @@
       "min_price": 156800000,
       "min_price_pct": 70,
       "status": "유찰 5회",
+      "bid_date": "26.08.24",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2430246,
+      "case_no": "2025-52591",
+      "item_no": null,
+      "court": "성남2계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 중원구 도촌동 562 으뜸이레가 4층401호",
+      "area": "건물 28.187㎡(8.527평) 대지권 10.397㎡(3.145평)",
+      "appraisal": 155000000,
+      "min_price": 155000000,
+      "min_price_pct": 100,
+      "status": "유찰 3회",
       "bid_date": "26.08.24",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"

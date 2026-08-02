@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "593",
@@ -7,180 +7,6 @@
     "name": "화성시 효행구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "593",
-      "title": "2026. 01 월간매각 통계자료 : 경기 화성시 효행구",
-      "rows": [
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 856093000,
-          "sale_price_rate": 49.06
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 147000000,
-          "sale_price_rate": 57.12
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 336000000,
-          "sale_price_rate": 28.29
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "화물차",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 12000000,
-          "sale_price_rate": 61.25
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -962,6 +788,147 @@
           "sale_price_rate": 95.29
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "593",
+      "title": "2026. 07 월간매각 통계자료 : 경기 화성시 효행구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 254214000,
+          "sale_price_rate": 81.82
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 742118000,
+          "sale_price_rate": 55.99
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 204680000,
+          "sale_price_rate": 71.18
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 633259600,
+          "sale_price_rate": 39.49
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 820355800,
+          "sale_price_rate": 36.09
+        },
+        {
+          "type": "아파트",
+          "total": 6,
+          "failed": 2,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 330000000,
+          "sale_price_rate": 77.87
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 6,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 8,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 5148193090,
+          "sale_price_rate": 92.9
+        },
+        {
+          "type": "승용차",
+          "total": 12,
+          "failed": 8,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 25666667,
+          "sale_price_rate": 78.25
+        },
+        {
+          "type": "화물차",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 18000000,
+          "sale_price_rate": 95.72
+        }
+      ]
     }
   ],
   "listings": [
@@ -1179,8 +1146,8 @@
       "item_no": null,
       "court": "수원1계",
       "type": "승용차",
-      "address": "경기 화성시 효행구 봉담읍 상리 475-4",
-      "area": "(G80 / 2024년식)",
+      "address": "경기도 화성시 효행구 봉담읍 상리 475-4",
+      "area": "(G80 / 2024년식 / 54,945㎞)",
       "appraisal": 43000000,
       "min_price": 43000000,
       "min_price_pct": 100,
@@ -1219,6 +1186,54 @@
       "status": "유찰 1회",
       "bid_date": "26.08.12",
       "special": "임금채권자",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2524860,
+      "case_no": "2026-51141",
+      "item_no": 1,
+      "court": "수원4계",
+      "type": "기타중기",
+      "address": "경기 화성시 효행구 봉담읍 상리 475-12, 스카이물류",
+      "area": "(로더 / 2017년식)",
+      "appraisal": 44000000,
+      "min_price": 44000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2560476,
+      "case_no": "2026-51141",
+      "item_no": 2,
+      "court": "수원4계",
+      "type": "기타중기",
+      "address": "경기 화성시 효행구 봉담읍 상리 475-12, 스카이물류",
+      "area": "(롤러 / 2016년식)",
+      "appraisal": 30000000,
+      "min_price": 30000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2300613,
+      "case_no": "2024-70625",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "단독주택",
+      "address": "경기도 화성시 정남면 고지리 166-72 외 2필지",
+      "area": "건물 305.01㎡(92.266평) 토지 538㎡(162.745평)",
+      "appraisal": 758447500,
+      "min_price": 758447500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
       "dpsl": "건물전부, 토지지분"
     },
     {
@@ -1363,6 +1378,22 @@
       "status": "유찰 4회",
       "bid_date": "26.08.18",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2369625,
+      "case_no": "2025-50949",
+      "item_no": null,
+      "court": "수원2계",
+      "type": "아파트",
+      "address": "경기 화성시 효행구 봉담읍 유리 100-1, 104동 7층707호 (봉담베스트빌아파트) 외 3필지",
+      "area": "건물 84.9692㎡(25.703평) 대지권 70.3897㎡(21.293평)",
+      "appraisal": 230000000,
+      "min_price": 161000000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.18",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {

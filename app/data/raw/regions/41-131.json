@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "131",
@@ -7,147 +7,6 @@
     "name": "성남시 수정구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "131",
-      "title": "2026. 01 월간매각 통계자료 : 경기 성남시 수정구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 6,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 826500000,
-          "sale_price_rate": 97.34
-        },
-        {
-          "type": "다세대주택",
-          "total": 7,
-          "failed": 3,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 225333333,
-          "sale_price_rate": 85.89
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 5,
-          "failed": 2,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 248000000,
-          "sale_price_rate": 83.35
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 10,
-          "failed": 4,
-          "sold": 3,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 30.0,
-          "avg_appraisal": 730000000,
-          "sale_price_rate": 49.64
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -753,6 +612,114 @@
           "sale_price_rate": 41.93
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "131",
+      "title": "2026. 07 월간매각 통계자료 : 경기 성남시 수정구",
+      "rows": [
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 996000000,
+          "sale_price_rate": 138.68
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 4723508958,
+          "sale_price_rate": 66.22
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 650000000,
+          "sale_price_rate": 95.04
+        },
+        {
+          "type": "근린상가",
+          "total": 11,
+          "failed": 5,
+          "sold": 1,
+          "changed": 5,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 257000000,
+          "sale_price_rate": 8.4
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -994,22 +961,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.10",
       "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2471235,
-      "case_no": "2025-53327",
-      "item_no": null,
-      "court": "성남9계",
-      "type": "다가구주택",
-      "address": "경기도 성남시 수정구 창곡동 580 주건축물제1동",
-      "area": "건물 459.19㎡(138.905평) 토지 290㎡(87.725평)",
-      "appraisal": 4289214400,
-      "min_price": 3002450000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.10",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {

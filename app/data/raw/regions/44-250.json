@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "44",
     "guCd": "250",
@@ -7,81 +7,6 @@
     "name": "계룡시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "44",
-      "guCd": "250",
-      "title": "2026. 01 월간매각 통계자료 : 충남 계룡시",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 704449200,
-          "sale_price_rate": 71.45
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 280000000,
-          "sale_price_rate": 84.68
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -346,57 +271,95 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "44",
+      "guCd": "250",
+      "title": "2026. 07 월간매각 통계자료 : 충남 계룡시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 8,
+          "failed": 5,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 310000000,
+          "sale_price_rate": 71.38
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2481226,
-      "case_no": "2025-520",
-      "item_no": null,
-      "court": "논산3계",
-      "type": "아파트",
-      "address": "충청남도 계룡시 두마면 농소리 970 계룡자이 507동 2층201호",
-      "area": "건물 84.996㎡(25.711평) 대지권 44.5504㎡(13.476평)",
-      "appraisal": 434000000,
-      "min_price": 434000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2429464,
-      "case_no": "2025-20417",
-      "item_no": null,
-      "court": "논산3계",
-      "type": "아파트",
-      "address": "충청남도 계룡시 두마면 두계리 67 계룡더샵아파트 110동 4층401호",
-      "area": "건물 101.96㎡(30.843평) 대지권 59.082㎡(17.872평)",
-      "appraisal": 320000000,
-      "min_price": 224000000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2458631,
-      "case_no": "2025-20515",
-      "item_no": null,
-      "court": "논산3계",
-      "type": "아파트",
-      "address": "충청남도 계룡시 금암동 167-1 우림루미아트 109동 1층105호",
-      "area": "건물 123.6361㎡(37.4평) 대지권 78.7884㎡(23.833평)",
-      "appraisal": 313000000,
-      "min_price": 313000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.07.27",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2448388,
       "case_no": "2025-20490",
@@ -551,6 +514,38 @@
       "area": "건물 84.979㎡(25.706평) 대지권 57.7652㎡(17.474평)",
       "appraisal": 218000000,
       "min_price": 152600000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2481226,
+      "case_no": "2025-520",
+      "item_no": null,
+      "court": "논산3계",
+      "type": "아파트",
+      "address": "충청남도 계룡시 두마면 농소리 970 계룡자이 507동 2층201호",
+      "area": "건물 84.996㎡(25.711평) 대지권 44.5504㎡(13.476평)",
+      "appraisal": 434000000,
+      "min_price": 303800000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2458631,
+      "case_no": "2025-20515",
+      "item_no": null,
+      "court": "논산3계",
+      "type": "아파트",
+      "address": "충청남도 계룡시 금암동 167-1 우림루미아트 109동 1층105호",
+      "area": "건물 123.6361㎡(37.4평) 대지권 78.7884㎡(23.833평)",
+      "appraisal": 313000000,
+      "min_price": 219100000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.08.31",

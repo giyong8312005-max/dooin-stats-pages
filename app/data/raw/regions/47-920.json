@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "47",
     "guCd": "920",
@@ -7,169 +7,6 @@
     "name": "봉화군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "47",
-      "guCd": "920",
-      "title": "2026. 01 월간매각 통계자료 : 경북 봉화군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 3,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 57.14,
-          "avg_appraisal": 85603500,
-          "sale_price_rate": 32.71
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 73020000,
-          "sale_price_rate": 34.31
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 129000000,
-          "sale_price_rate": 85.78
-        },
-        {
-          "type": "노유자시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 935171100,
-          "sale_price_rate": 51.92
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 196234750,
-          "sale_price_rate": 34.54
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 236835200,
-          "sale_price_rate": 49.03
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -610,6 +447,114 @@
           "sale_price_rate": 66.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "47",
+      "guCd": "920",
+      "title": "2026. 07 월간매각 통계자료 : 경북 봉화군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 12,
+          "failed": 10,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 161912250,
+          "sale_price_rate": 47.64
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 10362000,
+          "sale_price_rate": 101.54
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 43000000,
+          "sale_price_rate": 85.53
+        },
+        {
+          "type": "노유자시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -676,22 +621,6 @@
       "bid_date": "26.08.03",
       "special": "",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2396920,
-      "case_no": "2025-10440",
-      "item_no": null,
-      "court": "안동2계",
-      "type": "단독주택",
-      "address": "경상북도 봉화군 재산면 현동리 1175-1",
-      "area": "건물 280.21㎡(84.764평) 토지 1541㎡(466.153평)",
-      "appraisal": 260553500,
-      "min_price": 182387000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.03",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2416722,
@@ -948,22 +877,6 @@
       "bid_date": "26.08.24",
       "special": "맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2414556,
-      "case_no": "2025-100370",
-      "item_no": 1,
-      "court": "안동1계",
-      "type": "임야",
-      "address": "경상북도 봉화군 물야면 북지리 산64-1",
-      "area": "토지 23816㎡(7204.34평)",
-      "appraisal": 38105600,
-      "min_price": 18672000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.24",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2417127,

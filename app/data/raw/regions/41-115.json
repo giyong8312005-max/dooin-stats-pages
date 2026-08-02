@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "41",
     "guCd": "115",
@@ -7,114 +7,6 @@
     "name": "수원시 팔달구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "41",
-      "guCd": "115",
-      "title": "2026. 01 월간매각 통계자료 : 경기 수원시 팔달구",
-      "rows": [
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 3,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 513000000,
-          "sale_price_rate": 93.06
-        },
-        {
-          "type": "연립주택",
-          "total": 23,
-          "failed": 20,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 13.04,
-          "avg_appraisal": 304000000,
-          "sale_price_rate": 81.72
-        },
-        {
-          "type": "다세대주택",
-          "total": 26,
-          "failed": 24,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 7.69,
-          "avg_appraisal": 122500000,
-          "sale_price_rate": 89.71
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 3408486820,
-          "sale_price_rate": 70.09
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 4,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 25.0,
-          "avg_appraisal": 145000000,
-          "sale_price_rate": 77.72
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 126,
-          "failed": 82,
-          "sold": 21,
-          "changed": 20,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 196190476,
-          "sale_price_rate": 66.17
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 497000000,
-          "sale_price_rate": 52.96
-        },
-        {
-          "type": "근린상가",
-          "total": 14,
-          "failed": 10,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 7.14,
-          "avg_appraisal": 1060000000,
-          "sale_price_rate": 70.11
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -687,6 +579,103 @@
           "sale_price_rate": 31.77
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "41",
+      "guCd": "115",
+      "title": "2026. 07 월간매각 통계자료 : 경기 수원시 팔달구",
+      "rows": [
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 811000000,
+          "sale_price_rate": 108.08
+        },
+        {
+          "type": "다세대주택",
+          "total": 19,
+          "failed": 7,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 15.79,
+          "avg_appraisal": 266000000,
+          "sale_price_rate": 101.2
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 13,
+          "failed": 9,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 23.08,
+          "avg_appraisal": 245333333,
+          "sale_price_rate": 84.07
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 141,
+          "failed": 108,
+          "sold": 30,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 21.28,
+          "avg_appraisal": 169000000,
+          "sale_price_rate": 50.43
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 24,
+          "failed": 19,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 512666667,
+          "sale_price_rate": 47.07
+        }
+      ]
     }
   ],
   "listings": [
@@ -819,22 +808,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2248347,
-      "case_no": "2023-13274",
-      "item_no": 1,
-      "court": "수원17계",
-      "type": "다세대주택",
-      "address": "경기 수원시 팔달구 우만동 111-11, 2층201호",
-      "area": "건물 29.094㎡(8.801평) 대지권 20.69㎡(6.259평)",
-      "appraisal": 177000000,
-      "min_price": 60711000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.05",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2491025,
       "case_no": "2023-13274",
       "item_no": 2,
@@ -876,22 +849,6 @@
       "area": "건물 29.094㎡(8.801평) 대지권 20.69㎡(6.259평)",
       "appraisal": 179000000,
       "min_price": 61397000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.05",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2491033,
-      "case_no": "2023-13274",
-      "item_no": 10,
-      "court": "수원17계",
-      "type": "다세대주택",
-      "address": "경기 수원시 팔달구 우만동 111-11, 4층402호",
-      "area": "건물 29.942㎡(9.057평) 대지권 21.29㎡(6.44평)",
-      "appraisal": 184000000,
-      "min_price": 63112000,
       "min_price_pct": 34,
       "status": "유찰 3회",
       "bid_date": "26.08.05",
@@ -1443,19 +1400,19 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2349948,
-      "case_no": "2024-96153",
-      "item_no": 1,
+      "tid": 2253143,
+      "case_no": "2024-50690",
+      "item_no": null,
       "court": "수원4계",
-      "type": "근린상가",
-      "address": "경기 수원시 팔달구 인계동 1022-3, 2층201호 (인계동,센트럴하임)",
-      "area": "건물 100.41㎡(30.374평) 대지권 38.75㎡(11.722평)",
-      "appraisal": 924000000,
-      "min_price": 221852000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
+      "type": "상가주택",
+      "address": "경기도 수원시 팔달구 인계동 248-9",
+      "area": "건물 2908.01㎡(879.673평) 토지 369㎡(111.623평)",
+      "appraisal": 6682072700,
+      "min_price": 6682072700,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.12",
-      "special": "",
+      "special": "유치권,유치권배제",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1491,6 +1448,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2397160,
+      "case_no": "2025-55433",
+      "item_no": null,
+      "court": "수원4계",
+      "type": "아파트",
+      "address": "경기도 수원시 팔달구 고등동 310 수원역푸르지오자이 116동 3층303호",
+      "area": "건물 84.98㎡(25.706평) 대지권 57.6437㎡(17.437평)",
+      "appraisal": 853000000,
+      "min_price": 853000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.12",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2342749,
+      "case_no": "2024-10814",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "도시형생활주택",
+      "address": "경기 수원시 팔달구 우만동 508-7, 에이동 5층501호 (우만동,오성플러스)",
+      "area": "건물 55.19㎡(16.695평) 대지권 32.27㎡(9.762평)",
+      "appraisal": 253000000,
+      "min_price": 253000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2347360,
       "case_no": "2024-94331",
       "item_no": null,
@@ -1504,22 +1493,6 @@
       "status": "유찰 2회",
       "bid_date": "26.08.14",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2361608,
-      "case_no": "2024-100809",
-      "item_no": null,
-      "court": "수원5계",
-      "type": "도시형생활주택",
-      "address": "경기 수원시 팔달구 인계동 1036-13, 3층306호 (인계동,센트럴시티아리스타)",
-      "area": "건물 15.5㎡(4.689평) 대지권 6.0523㎡(1.831평)",
-      "appraisal": 141000000,
-      "min_price": 48363000,
-      "min_price_pct": 34,
-      "status": "유찰 5회",
-      "bid_date": "26.08.14",
-      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1747,6 +1720,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2382585,
+      "case_no": "2025-54057",
+      "item_no": null,
+      "court": "수원19계",
+      "type": "다세대주택",
+      "address": "경기 수원시 팔달구 고등동 30-3, 3층302호 (고등동,가온누리)",
+      "area": "건물 38.91㎡(11.77평) 대지권 28.27㎡(8.552평)",
+      "appraisal": 220000000,
+      "min_price": 220000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2382042,
       "case_no": "2025-54945",
       "item_no": null,
@@ -1757,7 +1746,7 @@
       "appraisal": 111325520,
       "min_price": 111325520,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "토지만 매각이며,지분 매각임"
@@ -1821,7 +1810,7 @@
       "appraisal": 331000000,
       "min_price": 331000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.08.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

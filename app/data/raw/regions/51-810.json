@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-07-27",
+  "collected_at": "2026-08-03",
   "region": {
     "siCd": "51",
     "guCd": "810",
@@ -7,125 +7,6 @@
     "name": "인제군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 1,
-      "siCd": "51",
-      "guCd": "810",
-      "title": "2026. 01 월간매각 통계자료 : 강원 인제군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 14,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 6.25,
-          "avg_appraisal": 44112000,
-          "sale_price_rate": 77.46
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 172087000,
-          "sale_price_rate": 41.96
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 203139000,
-          "sale_price_rate": 104.2
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 173768800,
-          "sale_price_rate": 70.21
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 791357600,
-          "sale_price_rate": 48.02
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 2,
@@ -588,25 +469,95 @@
           "sale_price_rate": 58.06
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 7,
+      "siCd": "51",
+      "guCd": "810",
+      "title": "2026. 07 월간매각 통계자료 : 강원 인제군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "목장용지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 11513590,
+          "sale_price_rate": 28.95
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 795482400,
+          "sale_price_rate": 53.15
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2437731,
-      "case_no": "2025-50848",
-      "item_no": null,
-      "court": "춘천3계",
-      "type": "단독주택",
-      "address": "강원특별자치도 인제군 남면 어론리 549",
-      "area": "건물 47.06㎡(14.236평) 토지 80㎡(24.2평)",
-      "appraisal": 22277660,
-      "min_price": 10916000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.07.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
-    },
     {
       "tid": 2426917,
       "case_no": "2025-1548",
@@ -894,6 +845,22 @@
       "bid_date": "26.08.31",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2437731,
+      "case_no": "2025-50848",
+      "item_no": null,
+      "court": "춘천3계",
+      "type": "단독주택",
+      "address": "강원특별자치도 인제군 남면 어론리 549",
+      "area": "건물 47.06㎡(14.236평) 토지 80㎡(24.2평)",
+      "appraisal": 22277660,
+      "min_price": 7641000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.14",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
     }
   ]
 }
