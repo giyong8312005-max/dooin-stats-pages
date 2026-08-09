@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-03",
+  "collected_at": "2026-08-10",
   "region": {
     "siCd": "47",
     "guCd": "730",
@@ -1551,22 +1551,6 @@
       "status": "유찰 4회",
       "bid_date": "26.08.19",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2420046,
-      "case_no": "2025-10200",
-      "item_no": null,
-      "court": "의성2계",
-      "type": "대지",
-      "address": "경상북도 의성군 안평면 도옥리 205-10",
-      "area": "토지 288㎡(87.12평)",
-      "appraisal": 6336000,
-      "min_price": 1523000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.08.19",
-      "special": "맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {

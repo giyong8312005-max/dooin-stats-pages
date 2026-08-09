@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-03",
+  "collected_at": "2026-08-10",
   "region": {
     "siCd": "51",
     "guCd": "170",
@@ -573,6 +573,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2333719,
+      "case_no": "2024-54173",
+      "item_no": 1,
+      "court": "강릉3계",
+      "type": "전",
+      "address": "강원특별자치도 동해시 망상동 284",
+      "area": "토지 407㎡(123.117평)",
+      "appraisal": 76516000,
+      "min_price": 76516000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.24",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2562908,
+      "case_no": "2024-54173",
+      "item_no": 2,
+      "court": "강릉3계",
+      "type": "전",
+      "address": "강원특별자치도 동해시 망상동 286",
+      "area": "토지 215㎡(65.037평)",
+      "appraisal": 36765000,
+      "min_price": 36765000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.24",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2405525,
       "case_no": "2025-208",
       "item_no": null,
@@ -664,6 +696,22 @@
       "min_price": 8820000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.08.24",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2530144,
+      "case_no": "2026-50140",
+      "item_no": null,
+      "court": "강릉3계",
+      "type": "승용차",
+      "address": "강원특별자치도 동해시 이도동 39-2, 주기장 내",
+      "area": "(모닝 / 2012년식)",
+      "appraisal": 2800000,
+      "min_price": 2800000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.24",
       "special": "",
       "dpsl": ""

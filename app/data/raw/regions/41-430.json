@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-03",
+  "collected_at": "2026-08-10",
   "region": {
     "siCd": "41",
     "guCd": "430",
@@ -1194,6 +1194,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2469522,
+      "case_no": "2025-1826",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "근린상가",
+      "address": "경기도 의왕시 내손동 757 신우프라자 1층102호 외 1필지",
+      "area": "건물 52.35㎡(15.836평) 대지권 17.11㎡(5.176평)",
+      "appraisal": 654000000,
+      "min_price": 654000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.25",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2408335,
       "case_no": "2025-101078",
       "item_no": null,
@@ -1242,6 +1258,22 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
+      "tid": 2469525,
+      "case_no": "2025-101570",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "다세대주택",
+      "address": "경기도 의왕시 내손동 637-16 라성다세대 비동 4층402호",
+      "area": "건물 57.99㎡(17.542평) 대지권 29.6㎡(8.954평)",
+      "appraisal": 352000000,
+      "min_price": 352000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.25",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2499553,
       "case_no": "2026-100066",
       "item_no": null,
@@ -1253,6 +1285,38 @@
       "min_price": 16896000,
       "min_price_pct": 51,
       "status": "유찰 3회",
+      "bid_date": "26.08.25",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2518467,
+      "case_no": "2026-100143",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "승용차",
+      "address": "경기 의왕시 이동 328",
+      "area": "(엑센트 (ACCENT) / 2014년식)",
+      "appraisal": 2500000,
+      "min_price": 2500000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.25",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2532162,
+      "case_no": "2026-100382",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "화물차",
+      "address": "경기 의왕시 이동 328",
+      "area": "(마이티 / 2024년식)",
+      "appraisal": 60000000,
+      "min_price": 60000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.25",
       "special": "",
       "dpsl": ""
