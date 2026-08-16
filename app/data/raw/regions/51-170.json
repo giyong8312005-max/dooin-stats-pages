@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-10",
+  "collected_at": "2026-08-17",
   "region": {
     "siCd": "51",
     "guCd": "170",
@@ -525,22 +525,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2384014,
-      "case_no": "2025-30481",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "단독주택",
-      "address": "강원특별자치도 동해시 발한동 100-18",
-      "area": "건물 85.28㎡(25.797평) 토지 196㎡(59.29평)",
-      "appraisal": 97547380,
-      "min_price": 47798000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.18",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2427823,
       "case_no": "2025-30630",
       "item_no": null,
@@ -749,6 +733,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2481192,
+      "case_no": "2025-286",
+      "item_no": null,
+      "court": "강릉2계",
+      "type": "아파트",
+      "address": "강원특별자치도 동해시 구미동 551 유성타워 4층401호",
+      "area": "건물 84.01㎡(25.413평) 대지권 31.9317㎡(9.659평)",
+      "appraisal": 95000000,
+      "min_price": 95000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2402302,
       "case_no": "2025-30013",
       "item_no": 1,
@@ -893,6 +893,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2479207,
+      "case_no": "2025-30892",
+      "item_no": null,
+      "court": "강릉2계",
+      "type": "답",
+      "address": "강원특별자치도 동해시 쇄운동 618-6",
+      "area": "토지 257㎡(77.742평)",
+      "appraisal": 16705000,
+      "min_price": 16705000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.31",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2502632,
       "case_no": "2025-30895",
       "item_no": null,
@@ -904,6 +920,38 @@
       "min_price": 6300000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2487648,
+      "case_no": "2025-30926",
+      "item_no": null,
+      "court": "강릉2계",
+      "type": "아파트",
+      "address": "강원특별자치도 동해시 이도동 155 동해이도(1)주공아파트 103동 13층 1301호",
+      "area": "건물 49.62㎡(15.01평) 대지권 39.0236㎡(11.805평)",
+      "appraisal": 73000000,
+      "min_price": 73000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2539447,
+      "case_no": "2026-50173",
+      "item_no": null,
+      "court": "강릉2계",
+      "type": "승용차",
+      "address": "강원특별자치도 동해시 평릉동 467-3",
+      "area": "(그랜저(GRANDEUR) / 2023년식 / 24,787㎞)",
+      "appraisal": 29000000,
+      "min_price": 29000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.08.31",
       "special": "",
       "dpsl": ""
