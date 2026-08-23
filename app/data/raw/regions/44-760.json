@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "44",
     "guCd": "760",
@@ -1250,22 +1250,6 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2505933,
-      "case_no": "2026-26",
-      "item_no": null,
-      "court": "논산1계",
-      "type": "단독주택",
-      "address": "충청남도 부여군 구룡면 구봉리 39",
-      "area": "건물 226.6㎡(68.547평) 토지 555㎡(167.888평)",
-      "appraisal": 97474000,
-      "min_price": 97474000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.24",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2488705,
       "case_no": "2026-20001",
       "item_no": null,
@@ -1554,22 +1538,6 @@
       "dpsl": "토지만 매각"
     },
     {
-      "tid": 2459999,
-      "case_no": "2025-20520",
-      "item_no": null,
-      "court": "논산3계",
-      "type": "근린생활시설",
-      "address": "충청남도 부여군 충화면 오덕리 187",
-      "area": "건물 534.9㎡(161.807평) 토지 1984㎡(600.16평)",
-      "appraisal": 327465700,
-      "min_price": 229226000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.31",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2460000,
       "case_no": "2025-20522",
       "item_no": null,
@@ -1682,6 +1650,54 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2473090,
+      "case_no": "2025-489",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "임야",
+      "address": "충청남도 부여군 세도면 사산리 산9-1",
+      "area": "토지 22045㎡(6668.613평)",
+      "appraisal": 213836500,
+      "min_price": 213836000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2469016,
+      "case_no": "2025-503",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "공장",
+      "address": "충청남도 부여군 초촌면 송정리 539-1",
+      "area": "건물 2056.57㎡(622.112평) 토지 6607.5㎡(1998.769평)",
+      "appraisal": 1678019500,
+      "min_price": 1678019000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2482216,
+      "case_no": "2025-516",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "임야",
+      "address": "충청남도 부여군 은산면 경둔리 44-4",
+      "area": "토지 324㎡(98.01평)",
+      "appraisal": 16848000,
+      "min_price": 16848000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2441329,
       "case_no": "2025-20455",
       "item_no": 1,
@@ -1791,6 +1807,54 @@
       "status": "유찰 3회",
       "bid_date": "26.09.07",
       "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2466858,
+      "case_no": "2025-20544",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "답",
+      "address": "충청남도 부여군 외산면 복덕리 362-14",
+      "area": "토지 317.1667㎡(95.943평)",
+      "appraisal": 6026230,
+      "min_price": 6026000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2468384,
+      "case_no": "2025-20548",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "임야",
+      "address": "충청남도 부여군 규암면 신성리 산57",
+      "area": "토지 28364㎡(8580.11평)",
+      "appraisal": 365968000,
+      "min_price": 365968000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2184316,
+      "case_no": "2023-21197",
+      "item_no": null,
+      "court": "논산2계",
+      "type": "답",
+      "address": "충청남도 부여군 규암면 금암리 455-3",
+      "area": "토지 727㎡(219.918평)",
+      "appraisal": 36350000,
+      "min_price": 36350000,
+      "min_price_pct": 100,
+      "status": "유찰 1회",
+      "bid_date": "26.10.12",
+      "special": "농지취득자격증명",
       "dpsl": "토지 매각"
     }
   ]

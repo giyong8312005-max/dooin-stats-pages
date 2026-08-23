@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "47",
     "guCd": "210",
@@ -1440,6 +1440,22 @@
       "bid_date": "26.09.07",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2433827,
+      "case_no": "2025-100414",
+      "item_no": null,
+      "court": "안동3계",
+      "type": "대지",
+      "address": "경상북도 영주시 평은면 평은리 923",
+      "area": "토지 506㎡(153.065평)",
+      "appraisal": 22314600,
+      "min_price": 22314600,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2440843,

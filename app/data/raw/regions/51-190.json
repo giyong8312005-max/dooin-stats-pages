@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "51",
     "guCd": "190",
@@ -766,6 +766,22 @@
       "bid_date": "26.09.08",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2475618,
+      "case_no": "2025-30647",
+      "item_no": null,
+      "court": "영월3계",
+      "type": "목장용지",
+      "address": "강원특별자치도 태백시 황지동 498-4 외 3필지",
+      "area": "토지 5826㎡(1762.365평)",
+      "appraisal": 1325940000,
+      "min_price": 1325940000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.08",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2404127,

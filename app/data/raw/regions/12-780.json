@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "12",
     "guCd": "780",
@@ -769,38 +769,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2406152,
-      "case_no": "2025-5258",
-      "item_no": 1,
-      "court": "장흥2계",
-      "type": "답",
-      "address": "전라남도 강진군 마량면 마량리 264-1 외 1필지",
-      "area": "토지 833㎡(251.983평)",
-      "appraisal": 19992000,
-      "min_price": 8189000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.09.14",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2499957,
-      "case_no": "2025-5258",
-      "item_no": 2,
-      "court": "장흥2계",
-      "type": "답",
-      "address": "전라남도 강진군 마량면 마량리 283-2 외 1필지",
-      "area": "토지 2388㎡(722.37평)",
-      "appraisal": 54924000,
-      "min_price": 22497000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.09.14",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2406990,
       "case_no": "2025-5260",
       "item_no": null,
@@ -1263,6 +1231,38 @@
       "bid_date": "26.09.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2406152,
+      "case_no": "2025-5258",
+      "item_no": 1,
+      "court": "장흥2계",
+      "type": "답",
+      "address": "전라남도 강진군 마량면 마량리 264-1 외 1필지",
+      "area": "토지 833㎡(251.983평)",
+      "appraisal": 19992000,
+      "min_price": 8189000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.10.26",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2499957,
+      "case_no": "2025-5258",
+      "item_no": 2,
+      "court": "장흥2계",
+      "type": "답",
+      "address": "전라남도 강진군 마량면 마량리 283-2 외 1필지",
+      "area": "토지 2388㎡(722.37평)",
+      "appraisal": 54924000,
+      "min_price": 22497000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.10.26",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     }
   ]
 }

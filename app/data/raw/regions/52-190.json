@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "52",
     "guCd": "190",
@@ -1347,7 +1347,7 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.08.31",
-      "special": "",
+      "special": "공유자우선매수",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1363,7 +1363,7 @@
       "min_price_pct": 34,
       "status": "유찰 3회",
       "bid_date": "26.08.31",
-      "special": "농지취득자격증명",
+      "special": "공유자우선매수,농지취득자격증명",
       "dpsl": "토지지분매각"
     },
     {
@@ -1619,7 +1619,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.31",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1669,6 +1669,22 @@
       "bid_date": "26.08.31",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2532362,
+      "case_no": "2026-30042",
+      "item_no": null,
+      "court": "남원2계",
+      "type": "화물차",
+      "address": "전북특별자치도 남원시 죽항동 80",
+      "area": "(렉스턴스포츠 칸 / 6729년식 / 93,090㎞)",
+      "appraisal": 21000000,
+      "min_price": 21000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.08.31",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2534547,

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "52",
     "guCd": "750",
@@ -619,38 +619,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2434402,
-      "case_no": "2025-856",
-      "item_no": 1,
-      "court": "전주1계",
-      "type": "전",
-      "address": "전북특별자치도 임실군 덕치면 두지리 300",
-      "area": "토지 2278㎡(689.095평)",
-      "appraisal": 50838000,
-      "min_price": 12515000,
-      "min_price_pct": 25,
-      "status": "유찰 3회",
-      "bid_date": "26.08.24",
-      "special": "법정지상권,분묘기지권,농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2510177,
-      "case_no": "2025-856",
-      "item_no": 2,
-      "court": "전주1계",
-      "type": "대지",
-      "address": "전북특별자치도 임실군 덕치면 두지리 304",
-      "area": "토지 337㎡(101.943평)",
-      "appraisal": 11795000,
-      "min_price": 4046000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.24",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2368136,
       "case_no": "2024-41784",
       "item_no": null,
@@ -727,7 +695,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.08.31",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
     },
     {
@@ -793,6 +761,54 @@
       "bid_date": "26.09.07",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2450026,
+      "case_no": "2025-949",
+      "item_no": null,
+      "court": "전주4계",
+      "type": "대지",
+      "address": "전북특별자치도 임실군 오수면 둔덕리 312-1 외 4필지",
+      "area": "토지 693.0909㎡(209.66평)",
+      "appraisal": 21212640,
+      "min_price": 21212640,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2464922,
+      "case_no": "2025-1001",
+      "item_no": null,
+      "court": "전주4계",
+      "type": "전",
+      "address": "전북특별자치도 임실군 강진면 옥정리 34 외 6필지",
+      "area": "토지 4450㎡(1346.125평)",
+      "appraisal": 777851800,
+      "min_price": 777851800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2494367,
+      "case_no": "2025-1108",
+      "item_no": null,
+      "court": "전주4계",
+      "type": "임야",
+      "address": "전북특별자치도 임실군 신덕면 수천리 산169",
+      "area": "토지 4165㎡(1259.913평)",
+      "appraisal": 4998000,
+      "min_price": 4998000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2419525,
@@ -920,6 +936,22 @@
       "status": "유찰 1회",
       "bid_date": "26.09.07",
       "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2475142,
+      "case_no": "2025-31969",
+      "item_no": null,
+      "court": "전주4계",
+      "type": "답",
+      "address": "전북특별자치도 임실군 성수면 삼봉리 994-4",
+      "area": "토지 1917.2㎡(579.953평)",
+      "appraisal": 49847200,
+      "min_price": 49847200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.07",
+      "special": "농지취득자격증명",
       "dpsl": "토지 매각"
     },
     {

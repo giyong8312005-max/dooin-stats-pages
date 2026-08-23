@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-17",
+  "collected_at": "2026-08-24",
   "region": {
     "siCd": "44",
     "guCd": "790",
@@ -526,70 +526,6 @@
   ],
   "listings": [
     {
-      "tid": 2216636,
-      "case_no": "2023-21575",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "다가구주택",
-      "address": "충남 청양군 청양읍 교월리 30 외 1필지",
-      "area": "건물 501.91㎡(151.828평) 토지 388㎡(117.37평)",
-      "appraisal": 549389200,
-      "min_price": 15519035,
-      "min_price_pct": 3,
-      "status": "유찰 10회",
-      "bid_date": "26.08.18",
-      "special": "위반건축물,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2344432,
-      "case_no": "2024-1233",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "전",
-      "address": "충청남도 청양군 화성면 구재리 87",
-      "area": "토지 2165㎡(654.913평)",
-      "appraisal": 82270000,
-      "min_price": 9678983,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.08.18",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2340175,
-      "case_no": "2024-21992",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 청양군 비봉면 방한리 547-1",
-      "area": "토지 247㎡(74.718평)",
-      "appraisal": 8151000,
-      "min_price": 958957,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.08.18",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2530503,
-      "case_no": "2025-90",
-      "item_no": 2,
-      "court": "공주2계",
-      "type": "동물및식물관련시설",
-      "address": "충청남도 청양군 장평면 죽림리 12-1 외 4필지",
-      "area": "건물 1409.5㎡(426.374평) 토지 3329㎡(1007.022평)",
-      "appraisal": 181207200,
-      "min_price": 88791528,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.18",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2526873,
       "case_no": "2024-1134",
       "item_no": 2,
@@ -652,6 +588,38 @@
       "bid_date": "26.09.15",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2344432,
+      "case_no": "2024-1233",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "전",
+      "address": "충청남도 청양군 화성면 구재리 87",
+      "area": "토지 2165㎡(654.913평)",
+      "appraisal": 82270000,
+      "min_price": 6775288,
+      "min_price_pct": 8,
+      "status": "유찰 7회",
+      "bid_date": "26.09.29",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2340175,
+      "case_no": "2024-21992",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "답",
+      "address": "충청남도 청양군 비봉면 방한리 547-1",
+      "area": "토지 247㎡(74.718평)",
+      "appraisal": 8151000,
+      "min_price": 671270,
+      "min_price_pct": 8,
+      "status": "유찰 7회",
+      "bid_date": "26.09.29",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
     }
   ]
 }
