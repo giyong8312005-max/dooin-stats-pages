@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-24",
+  "collected_at": "2026-08-31",
   "region": {
     "siCd": "47",
     "guCd": "280",
@@ -1577,6 +1577,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2413165,
+      "case_no": "2025-184",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 문경시 흥덕동 537-1",
+      "area": "토지 2412㎡(729.63평)",
+      "appraisal": 438984000,
+      "min_price": 438984000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2418880,
       "case_no": "2025-188",
       "item_no": null,
@@ -1607,6 +1623,22 @@
       "bid_date": "26.09.15",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2436687,
+      "case_no": "2025-204",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "전",
+      "address": "경상북도 문경시 영순면 율곡리 588",
+      "area": "토지 2450㎡(741.125평)",
+      "appraisal": 98000000,
+      "min_price": 98000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2386587,
@@ -1751,6 +1783,70 @@
       "bid_date": "26.09.15",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2440864,
+      "case_no": "2025-5408",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "아파트",
+      "address": "경상북도 문경시 모전동 386-3 에이스빌라3차 5층501호",
+      "area": "건물 79.98㎡(24.194평) 대지권 81.35㎡(24.608평)",
+      "appraisal": 106000000,
+      "min_price": 106000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2445099,
+      "case_no": "2025-5422",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 문경시 산북면 대상리 115-2",
+      "area": "토지 382.1818㎡(115.61평)",
+      "appraisal": 20255540,
+      "min_price": 20255540,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2397746,
+      "case_no": "2025-5287",
+      "item_no": null,
+      "court": "상주1계",
+      "type": "전",
+      "address": "경상북도 문경시 마성면 외어리 960-2",
+      "area": "토지 267㎡(80.768평)",
+      "appraisal": 24670800,
+      "min_price": 5924000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.13",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2411003,
+      "case_no": "2025-5339",
+      "item_no": null,
+      "court": "상주1계",
+      "type": "답",
+      "address": "경상북도 문경시 마성면 상내리 199",
+      "area": "토지 2909㎡(879.973평)",
+      "appraisal": 152431600,
+      "min_price": 74693000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.13",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]
 }

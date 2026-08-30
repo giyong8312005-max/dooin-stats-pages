@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-24",
+  "collected_at": "2026-08-31",
   "region": {
     "siCd": "48",
     "guCd": "870",
@@ -852,7 +852,7 @@
       "min_price_pct": 49,
       "status": "유찰 2회",
       "bid_date": "26.10.16",
-      "special": "공유자우선매수,대항력 있는 임차인",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1008,7 +1008,7 @@
       "address": "경상남도 함양군 휴천면 문정리 산5-1",
       "area": "토지 47603㎡(14399.908평)",
       "appraisal": 76164800,
-      "min_price": 37320000,
+      "min_price": 37321000,
       "min_price_pct": 49,
       "status": "유찰 2회",
       "bid_date": "26.10.16",

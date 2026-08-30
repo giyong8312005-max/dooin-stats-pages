@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-24",
+  "collected_at": "2026-08-31",
   "region": {
     "siCd": "52",
     "guCd": "720",
@@ -526,22 +526,6 @@
   ],
   "listings": [
     {
-      "tid": 2448052,
-      "case_no": "2025-31685",
-      "item_no": null,
-      "court": "전주1계",
-      "type": "임야",
-      "address": "전북특별자치도 진안군 마령면 계서리 산95-1",
-      "area": "토지 4264㎡(1289.86평)",
-      "appraisal": 31553600,
-      "min_price": 10823000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.08.24",
-      "special": "분묘기지권",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2462232,
       "case_no": "2025-1002",
       "item_no": null,
@@ -556,22 +540,6 @@
       "bid_date": "26.08.31",
       "special": "",
       "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2477876,
-      "case_no": "2025-1074",
-      "item_no": null,
-      "court": "전주5계",
-      "type": "답",
-      "address": "전북특별자치도 진안군 진안읍 구룡리 61 외 1필지",
-      "area": "토지 2572㎡(778.03평)",
-      "appraisal": 63944000,
-      "min_price": 63944000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.31",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2563987,
@@ -730,7 +698,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.07",
-      "special": "",
+      "special": "맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -876,6 +844,54 @@
       "bid_date": "26.09.14",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2458006,
+      "case_no": "2025-31751",
+      "item_no": null,
+      "court": "전주6계",
+      "type": "임야",
+      "address": "전북특별자치도 진안군 부귀면 수항리 산82-5",
+      "area": "토지 1640㎡(496.1평)",
+      "appraisal": 7052000,
+      "min_price": 7052000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.14",
+      "special": "분묘기지권",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2458359,
+      "case_no": "2025-31773",
+      "item_no": 1,
+      "court": "전주6계",
+      "type": "전",
+      "address": "전북특별자치도 진안군 용담면 송풍리 329-1 외 2필지",
+      "area": "토지 2945㎡(890.863평)",
+      "appraisal": 99422000,
+      "min_price": 99422000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2570202,
+      "case_no": "2025-31773",
+      "item_no": 2,
+      "court": "전주6계",
+      "type": "답",
+      "address": "전북특별자치도 진안군 용담면 송풍리 412",
+      "area": "토지 1848㎡(559.02평)",
+      "appraisal": 55440000,
+      "min_price": 55440000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2358128,
