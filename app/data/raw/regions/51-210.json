@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "210",
@@ -7,191 +7,6 @@
     "name": "속초시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "210",
-      "title": "2026. 02 월간매각 통계자료 : 강원 속초시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 118858000,
-          "sale_price_rate": 60.66
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 1,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 6,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 11.11,
-          "avg_appraisal": 67588000,
-          "sale_price_rate": 34.19
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 323047480,
-          "sale_price_rate": 53.74
-        },
-        {
-          "type": "아파트",
-          "total": 5,
-          "failed": 2,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 40.0,
-          "avg_appraisal": 106500000,
-          "sale_price_rate": 75.01
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1655974900,
-          "sale_price_rate": 49.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 26,
-          "failed": 20,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 23.08,
-          "avg_appraisal": 194333333,
-          "sale_price_rate": 37.79
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 9300000,
-          "sale_price_rate": 89.25
-        },
-        {
-          "type": "승합차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 526786550,
-          "sale_price_rate": 87.64
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -973,6 +788,191 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "210",
+      "title": "2026. 08 월간매각 통계자료 : 강원 속초시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 312654000,
+          "sale_price_rate": 48.3
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 460278000,
+          "sale_price_rate": 53.66
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 133200000,
+          "sale_price_rate": 118.02
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 94159160,
+          "sale_price_rate": 40.99
+        },
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 1,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 75.0,
+          "avg_appraisal": 295666667,
+          "sale_price_rate": 68.65
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 717000000,
+          "sale_price_rate": 54.6
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 148000000,
+          "sale_price_rate": 25.07
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 13,
+          "failed": 9,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 7.69,
+          "avg_appraisal": 157000000,
+          "sale_price_rate": 35.1
+        },
+        {
+          "type": "근린상가",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 875000000,
+          "sale_price_rate": 34.71
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1297,22 +1297,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2507706,
-      "case_no": "2026-26",
-      "item_no": null,
-      "court": "속초2계",
-      "type": "단독주택",
-      "address": "강원특별자치도 속초시 도문동 483-5",
-      "area": "건물 179.92㎡(54.426평) 토지 625㎡(189.063평)",
-      "appraisal": 405848800,
-      "min_price": 405848800,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.09",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2489379,
       "case_no": "2026-10000",
       "item_no": null,
@@ -1455,6 +1439,22 @@
       "bid_date": "26.09.23",
       "special": "유치권,임금채권자",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2384146,
+      "case_no": "2025-183",
+      "item_no": 3,
+      "court": "속초1계",
+      "type": "잡종지",
+      "address": "강원특별자치도 속초시 동명동 595-20",
+      "area": "토지 493㎡(149.133평)",
+      "appraisal": 156281000,
+      "min_price": 156281000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "맹지",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2458997,
@@ -1601,6 +1601,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2504983,
+      "case_no": "2026-21",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "대지",
+      "address": "강원특별자치도 속초시 청학동 483-69",
+      "area": "건물은 매각제외 토지 37㎡(11.192평)",
+      "appraisal": 53650000,
+      "min_price": 53650000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2507705,
+      "case_no": "2026-25",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "아파트",
+      "address": "강원특별자치도 속초시 교동 781-1 동부아파트 106동 3층304호",
+      "area": "건물 60㎡(18.15평) 대지권 31.586㎡(9.555평)",
+      "appraisal": 143000000,
+      "min_price": 143000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2494188,
       "case_no": "2026-10013",
       "item_no": null,
@@ -1628,6 +1660,86 @@
       "min_price": 32200000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2572132,
+      "case_no": "2026-10019",
+      "item_no": 2,
+      "court": "속초1계",
+      "type": "아파트",
+      "address": "강원특별자치도 속초시 조양동 1294-23 성호아파트 102동 9층 907호 외 20필지",
+      "area": "건물 59.76㎡(18.077평) 대지권 22.412㎡(6.78평)",
+      "appraisal": 156000000,
+      "min_price": 156000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499069,
+      "case_no": "2026-10023",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "근린상가",
+      "address": "강원특별자치도 속초시 조양동 1411-146 속초조양코아루아리스타 2층201호",
+      "area": "건물 193.2392㎡(58.455평) 대지권 32.3603㎡(9.789평)",
+      "appraisal": 1060000000,
+      "min_price": 1060000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2503241,
+      "case_no": "2026-10031",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "숙박(콘도등)",
+      "address": "강원특별자치도 속초시 조양동 1464-4 리센오션파크속초 에이동 6층 633호 외 4필지",
+      "area": "건물 22.51㎡(6.809평) 대지권 9.44㎡(2.856평)",
+      "appraisal": 149000000,
+      "min_price": 149000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2523909,
+      "case_no": "2026-10077",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "화물차",
+      "address": "강원특별자치도 속초시 노학동 1000-549, 태원주차장",
+      "area": "(봉고Ⅲ 1톤 / 2022년식 / 46,016㎞)",
+      "appraisal": 13000000,
+      "min_price": 13000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2533720,
+      "case_no": "2026-10091",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "승용차",
+      "address": "강원특별자치도 속초시 노학동 1000-549, 태원주차장",
+      "area": "(G80 / 2022년식 / 84,257㎞)",
+      "appraisal": 31000000,
+      "min_price": 31000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
       "bid_date": "26.09.23",
       "special": "",
       "dpsl": ""

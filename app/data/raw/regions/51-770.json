@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "770",
@@ -7,103 +7,6 @@
     "name": "정선군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "770",
-      "title": "2026. 02 월간매각 통계자료 : 강원 정선군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 13,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 18.75,
-          "avg_appraisal": 132587333,
-          "sale_price_rate": 27.33
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 262586000,
-          "sale_price_rate": 39.99
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 8,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 6,
-          "failed": 3,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 4491755000,
-          "sale_price_rate": 34.44
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 110810500,
-          "sale_price_rate": 58.28
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 71100000,
-          "sale_price_rate": 95.64
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 10,
-          "failed": 10,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -654,6 +557,103 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "770",
+      "title": "2026. 08 월간매각 통계자료 : 강원 정선군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 33,
+          "failed": 30,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 3.03,
+          "avg_appraisal": 271594000,
+          "sale_price_rate": 38.66
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 6,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 38623667,
+          "sale_price_rate": 42.48
+        },
+        {
+          "type": "대지",
+          "total": 7,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 23779500,
+          "sale_price_rate": 32.82
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 999781000,
+          "sale_price_rate": 7.7
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1070,7 +1070,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1088,6 +1088,22 @@
       "bid_date": "26.09.29",
       "special": "",
       "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2427420,
+      "case_no": "2025-1007",
+      "item_no": null,
+      "court": "영월1계",
+      "type": "전",
+      "address": "강원특별자치도 정선군 여량면 여량리 298-4 외 2필지",
+      "area": "토지 1374㎡(415.635평)",
+      "appraisal": 213955000,
+      "min_price": 213955000,
+      "min_price_pct": 100,
+      "status": "유찰 4회",
+      "bid_date": "26.09.29",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2436611,
@@ -1250,22 +1266,6 @@
       "dpsl": "토지지분매각"
     },
     {
-      "tid": 2499300,
-      "case_no": "2025-30367",
-      "item_no": 4,
-      "court": "영월1계",
-      "type": "전",
-      "address": "강원특별자치도 정선군 정선읍 애산리 359",
-      "area": "토지 1084㎡(327.91평)",
-      "appraisal": 13008000,
-      "min_price": 1530000,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2393635,
       "case_no": "2025-30416",
       "item_no": 1,
@@ -1392,6 +1392,22 @@
       "bid_date": "26.09.29",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2398961,
+      "case_no": "2025-30440",
+      "item_no": 1,
+      "court": "영월1계",
+      "type": "임야",
+      "address": "강원특별자치도 정선군 화암면 화암리 산461",
+      "area": "토지 20171㎡(6101.728평)",
+      "appraisal": 17952000,
+      "min_price": 8796000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.29",
+      "special": "맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2420525,

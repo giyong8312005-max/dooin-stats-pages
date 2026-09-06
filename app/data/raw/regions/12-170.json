@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "170",
@@ -7,15 +7,6 @@
     "name": "나주시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "170",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -566,6 +557,246 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "170",
+      "title": "2026. 08 월간매각 통계자료 : 광주 나주시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 31,
+          "failed": 16,
+          "sold": 4,
+          "changed": 10,
+          "withdrawn": 0,
+          "sold_rate": 12.9,
+          "avg_appraisal": 250428000,
+          "sale_price_rate": 49.56
+        },
+        {
+          "type": "답",
+          "total": 35,
+          "failed": 23,
+          "sold": 4,
+          "changed": 6,
+          "withdrawn": 1,
+          "sold_rate": 11.43,
+          "avg_appraisal": 34924750,
+          "sale_price_rate": 42.55
+        },
+        {
+          "type": "과수원",
+          "total": 7,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 18,
+          "failed": 16,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 5.56,
+          "avg_appraisal": 80524500,
+          "sale_price_rate": 23.89
+        },
+        {
+          "type": "대지",
+          "total": 9,
+          "failed": 6,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 24542000,
+          "sale_price_rate": 62.69
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "주차장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 14,
+          "failed": 8,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 21.43,
+          "avg_appraisal": 131826467,
+          "sale_price_rate": 44.46
+        },
+        {
+          "type": "아파트",
+          "total": 18,
+          "failed": 10,
+          "sold": 6,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 235166667,
+          "sale_price_rate": 68.93
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 97000000,
+          "sale_price_rate": 77.32
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 10,
+          "failed": 4,
+          "sold": 6,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 74333333,
+          "sale_price_rate": 63.22
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 78000000,
+          "sale_price_rate": 56.65
+        },
+        {
+          "type": "근린생활시설",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 565219300,
+          "sale_price_rate": 39.28
+        },
+        {
+          "type": "근린상가",
+          "total": 98,
+          "failed": 58,
+          "sold": 11,
+          "changed": 22,
+          "withdrawn": 6,
+          "sold_rate": 11.22,
+          "avg_appraisal": 443181818,
+          "sale_price_rate": 17.68
+        },
+        {
+          "type": "공장",
+          "total": 6,
+          "failed": 4,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 1469921460,
+          "sale_price_rate": 56.14
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 21,
+          "failed": 14,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 5,
+          "sold_rate": 9.52,
+          "avg_appraisal": 201500000,
+          "sale_price_rate": 30.08
+        }
+      ]
     }
   ],
   "listings": [
@@ -1063,22 +1294,6 @@
       "status": "신건",
       "bid_date": "26.09.08",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2270251,
-      "case_no": "2024-1666",
-      "item_no": null,
-      "court": "광주10계",
-      "type": "단독주택",
-      "address": "전라남도 나주시 산포면 내기리 822-2 외 1필지",
-      "area": "건물 518.57㎡(156.867평) 토지 456㎡(137.94평)",
-      "appraisal": 292983160,
-      "min_price": 292983160,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.11",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1850,6 +2065,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2518156,
+      "case_no": "2026-30898",
+      "item_no": null,
+      "court": "광주13계",
+      "type": "근린상가",
+      "address": "전남광주통합특별시 나주시 빛가람동 286-4 휴먼스프라자주건축물제1동 2층204호",
+      "area": "건물 74.1079㎡(22.418평) 대지권 18.4866㎡(5.592평)",
+      "appraisal": 114000000,
+      "min_price": 114000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2357195,
       "case_no": "2024-3457",
       "item_no": 2,
@@ -2074,6 +2305,38 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2573031,
+      "case_no": "2025-905",
+      "item_no": 2,
+      "court": "광주2계",
+      "type": "임야",
+      "address": "전남광주통합특별시 나주시 산포면 신도리 756-103",
+      "area": "토지 349㎡(105.572평)",
+      "appraisal": 97022000,
+      "min_price": 97022000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2573032,
+      "case_no": "2025-905",
+      "item_no": 3,
+      "court": "광주2계",
+      "type": "임야",
+      "address": "전남광주통합특별시 나주시 산포면 신도리 756-104 외 1필지",
+      "area": "토지 548㎡(165.77평)",
+      "appraisal": 153552000,
+      "min_price": 153552000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2437896,
       "case_no": "2025-5252",
       "item_no": null,
@@ -2168,6 +2431,38 @@
       "bid_date": "26.09.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2533900,
+      "case_no": "2026-4194",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 나주시 성북동 11 성북아파트 106동 2층203호",
+      "area": "건물 39.69㎡(12.006평) 대지권 48.37㎡(14.632평)",
+      "appraisal": 59000000,
+      "min_price": 59000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2526160,
+      "case_no": "2026-31130",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "답",
+      "address": "전남광주통합특별시 나주시 다시면 죽산리 314-5",
+      "area": "토지 2010㎡(608.025평)",
+      "appraisal": 72360000,
+      "min_price": 72360000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2418347,
@@ -2378,6 +2673,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2448551,
+      "case_no": "2025-33830",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "오피스텔(주거)",
+      "address": "전라남도 나주시 빛가람동 200 중흥에스-클래스메가티움2차 3층비328호",
+      "area": "건물 28.4189㎡(8.597평) 대지권 6.1471㎡(1.859평)",
+      "appraisal": 63000000,
+      "min_price": 44100000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.22",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2453775,
       "case_no": "2025-33833",
       "item_no": null,
@@ -2426,22 +2737,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2484398,
-      "case_no": "2025-34551",
-      "item_no": null,
-      "court": "광주4계",
-      "type": "과수원",
-      "address": "전남광주통합특별시 나주시 봉황면 와우리 545-3 외 4필지",
-      "area": "토지 4694㎡(1419.935평)",
-      "appraisal": 326838000,
-      "min_price": 228787000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.22",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
       "tid": 2480792,
       "case_no": "2025-34607",
       "item_no": null,
@@ -2472,6 +2767,22 @@
       "bid_date": "26.09.22",
       "special": "",
       "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2538935,
+      "case_no": "2026-4432",
+      "item_no": 2,
+      "court": "광주4계",
+      "type": "임야",
+      "address": "전남광주통합특별시 나주시 반남면 신촌리 산8-2",
+      "area": "토지 37727㎡(11412.418평)",
+      "appraisal": 426315100,
+      "min_price": 426315100,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "분묘기지권",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2365368,
@@ -2935,6 +3246,22 @@
       "status": "유찰 1회",
       "bid_date": "26.09.29",
       "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2298286,
+      "case_no": "2024-72385",
+      "item_no": null,
+      "court": "광주11계",
+      "type": "근린상가",
+      "address": "전남 나주시 빛가람동 345, 1층114호 (빛가람동,도원상가빌딩)",
+      "area": "건물 67.165㎡(20.317평) 대지권 28.19㎡(8.527평)",
+      "appraisal": 591000000,
+      "min_price": 86760000,
+      "min_price_pct": 15,
+      "status": "유찰 8회",
+      "bid_date": "26.09.29",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4890,22 +5217,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2456954,
-      "case_no": "2025-6200",
-      "item_no": null,
-      "court": "광주8계",
-      "type": "답",
-      "address": "전라남도 나주시 남외동 202-1",
-      "area": "토지 3455㎡(1045.138평)",
-      "appraisal": 891390000,
-      "min_price": 319474000,
-      "min_price_pct": 36,
-      "status": "유찰 4회",
-      "bid_date": "26.10.08",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2479813,
       "case_no": "2025-6842",
       "item_no": null,
@@ -5080,6 +5391,22 @@
       "bid_date": "26.10.08",
       "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2388611,
+      "case_no": "2025-998",
+      "item_no": 2,
+      "court": "광주1계",
+      "type": "답",
+      "address": "전라남도 나주시 세지면 오봉리 126-10",
+      "area": "토지 990㎡(299.475평)",
+      "appraisal": 36645000,
+      "min_price": 25651500,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.10.28",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2496229,

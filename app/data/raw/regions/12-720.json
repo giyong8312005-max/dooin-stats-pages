@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "720",
@@ -7,15 +7,6 @@
     "name": "곡성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "720",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -274,6 +265,158 @@
           "failed": 1,
           "sold": 0,
           "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "720",
+      "title": "2026. 08 월간매각 통계자료 : 광주 곡성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 11,
+          "failed": 7,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 27.27,
+          "avg_appraisal": 41764667,
+          "sale_price_rate": 72.89
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 39164400,
+          "sale_price_rate": 84.54
+        },
+        {
+          "type": "임야",
+          "total": 8,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 23644000,
+          "sale_price_rate": 100.6
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고용지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 8864000,
+          "sale_price_rate": 114.06
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 175000000,
+          "sale_price_rate": 81.68
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 438495120,
+          "sale_price_rate": 70.83
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2894092440,
+          "sale_price_rate": 79.47
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "분뇨및쓰레기처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
           "withdrawn": 0,
           "sold_rate": 0.0,
           "avg_appraisal": 0,

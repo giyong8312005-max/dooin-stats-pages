@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "44",
     "guCd": "150",
@@ -7,136 +7,6 @@
     "name": "공주시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "44",
-      "guCd": "150",
-      "title": "2026. 02 월간매각 통계자료 : 충남 공주시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 8,
-          "failed": 6,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 41670000,
-          "sale_price_rate": 25.55
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 166779000,
-          "sale_price_rate": 54.77
-        },
-        {
-          "type": "임야",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 287662200,
-          "sale_price_rate": 17.13
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 93090000,
-          "sale_price_rate": 130.94
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 3,
-          "failed": 0,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 393928700,
-          "sale_price_rate": 20.84
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1072,6 +942,213 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "44",
+      "guCd": "150",
+      "title": "2026. 08 월간매각 통계자료 : 충남 공주시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 17,
+          "failed": 9,
+          "sold": 7,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 41.18,
+          "avg_appraisal": 197987857,
+          "sale_price_rate": 28.56
+        },
+        {
+          "type": "답",
+          "total": 22,
+          "failed": 15,
+          "sold": 3,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 13.64,
+          "avg_appraisal": 74550333,
+          "sale_price_rate": 33.81
+        },
+        {
+          "type": "임야",
+          "total": 21,
+          "failed": 15,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 84004000,
+          "sale_price_rate": 27.41
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 1,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 109458800,
+          "sale_price_rate": 46.42
+        },
+        {
+          "type": "단독주택",
+          "total": 13,
+          "failed": 8,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 30.77,
+          "avg_appraisal": 222525790,
+          "sale_price_rate": 67.88
+        },
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 81500000,
+          "sale_price_rate": 58.53
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 817405100,
+          "sale_price_rate": 39.22
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "업무시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 824534560,
+          "sale_price_rate": 36.38
+        },
+        {
+          "type": "숙박시설",
+          "total": 3,
+          "failed": 0,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 17,
+          "failed": 15,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 11.76,
+          "avg_appraisal": 2033500000,
+          "sale_price_rate": 54.12
+        },
+        {
+          "type": "공장",
+          "total": 7,
+          "failed": 5,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 3268682160,
+          "sale_price_rate": 72.39
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "굴삭기",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 140000000,
+          "sale_price_rate": 39.72
+        }
+      ]
     }
   ],
   "listings": [
@@ -1252,6 +1329,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2376381,
+      "case_no": "2024-964",
+      "item_no": null,
+      "court": "공주1계",
+      "type": "동물및식물관련시설",
+      "address": "충청남도 공주시 계룡면 경천리 135",
+      "area": "건물 3000.35㎡(907.606평) 토지 5600.5㎡(1694.151평)",
+      "appraisal": 1531060400,
+      "min_price": 1531060400,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "법정지상권,맹지",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2571598,
       "case_no": "2024-1165",
       "item_no": 1,
@@ -1314,6 +1407,22 @@
       "bid_date": "26.09.15",
       "special": "맹지",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2356613,
+      "case_no": "2024-1387",
+      "item_no": null,
+      "court": "공주1계",
+      "type": "상가주택",
+      "address": "충청남도 공주시 유구읍 석남리 244-17 외 1필지",
+      "area": "건물 206.44㎡(62.448평) 토지 195㎡(58.988평)",
+      "appraisal": 309904600,
+      "min_price": 216933000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.15",
+      "special": "법정지상권",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2360168,
@@ -1382,18 +1491,18 @@
     {
       "tid": 2308989,
       "case_no": "2024-21084",
-      "item_no": 1,
+      "item_no": null,
       "court": "공주1계",
       "type": "답",
-      "address": "충청남도 공주시 금학동 333-2 외 1필지",
-      "area": "토지 2536㎡(767.14평)",
+      "address": "충청남도 공주시 금학동 333-2 외 4필지",
+      "area": "건물은 매각제외 토지 3754㎡(1135.585평)",
       "appraisal": 447014000,
       "min_price": 447014000,
       "min_price_pct": 100,
       "status": "유찰 1회",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지만 매각"
     },
     {
       "tid": 2319953,
@@ -1642,7 +1751,7 @@
       "court": "공주1계",
       "type": "공장",
       "address": "충청남도 공주시 유구읍 녹천리 22-5 외 8필지",
-      "area": "건물 1792.72㎡(542.298평) 토지 4425㎡(1338.563평)",
+      "area": "건물 1187.32㎡(359.164평) 토지 4425㎡(1338.563평)",
       "appraisal": 1151254400,
       "min_price": 1151254400,
       "min_price_pct": 100,
@@ -1776,7 +1885,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "법정지상권,농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명,대항력 있는 임차인",
       "dpsl": "토지만 매각"
     },
     {
@@ -1792,7 +1901,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "법정지상권,농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명,대항력 있는 임차인",
       "dpsl": "토지만 매각"
     },
     {
@@ -1810,22 +1919,6 @@
       "bid_date": "26.09.15",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2418243,
-      "case_no": "2025-20250",
-      "item_no": null,
-      "court": "공주1계",
-      "type": "임야",
-      "address": "충청남도 공주시 의당면 수촌리 133-11 외 9필지",
-      "area": "건물 175.5㎡(53.089평) 건물은 매각제외 토지 17050㎡(5157.625평)",
-      "appraisal": 8300175000,
-      "min_price": 4067085000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.15",
-      "special": "유치권,법정지상권",
-      "dpsl": "토지만 매각"
     },
     {
       "tid": 2401408,
@@ -1946,7 +2039,7 @@
       "court": "공주1계",
       "type": "전",
       "address": "충청남도 공주시 사곡면 가교리 682",
-      "area": "토지 836㎡(252.89평)",
+      "area": "토지 229.46㎡(69.412평)",
       "appraisal": 103257000,
       "min_price": 103257000,
       "min_price_pct": 100,
@@ -2064,8 +2157,24 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2460007,
+      "case_no": "2025-20389",
+      "item_no": null,
+      "court": "공주1계",
+      "type": "숙박시설",
+      "address": "충청남도 공주시 반포면 학봉리 904",
+      "area": "건물 4336.57㎡(1311.812평) 토지 1749.6㎡(529.254평)",
+      "appraisal": 5524133040,
+      "min_price": 5524133040,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.15",
+      "special": "유치권",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2496109,
@@ -2404,6 +2513,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2401897,
+      "case_no": "2025-58",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "임야",
+      "address": "충청남도 공주시 반포면 봉곡리 산12-12 외 4필지",
+      "area": "토지 11117㎡(3362.893평)",
+      "appraisal": 2207261000,
+      "min_price": 757091000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.29",
+      "special": "유치권,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
       "tid": 2407340,
       "case_no": "2025-61",
       "item_no": null,
@@ -2498,6 +2623,22 @@
       "bid_date": "26.09.29",
       "special": "맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2430311,
+      "case_no": "2025-82",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "임야",
+      "address": "충청남도 공주시 반포면 봉곡리 산56-29 외 14필지",
+      "area": "토지 23012㎡(6961.13평)",
+      "appraisal": 3566860000,
+      "min_price": 1747761000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.29",
+      "special": "맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2441809,

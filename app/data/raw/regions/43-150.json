@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "43",
     "guCd": "150",
@@ -7,169 +7,6 @@
     "name": "제천시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "43",
-      "guCd": "150",
-      "title": "2026. 02 월간매각 통계자료 : 충북 제천시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 22,
-          "failed": 16,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 18.18,
-          "avg_appraisal": 173806250,
-          "sale_price_rate": 21.49
-        },
-        {
-          "type": "답",
-          "total": 9,
-          "failed": 8,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 11.11,
-          "avg_appraisal": 156585000,
-          "sale_price_rate": 47.71
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 17,
-          "failed": 12,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 23.53,
-          "avg_appraisal": 1458386400,
-          "sale_price_rate": 36.58
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 9598500,
-          "sale_price_rate": 80.0
-        },
-        {
-          "type": "도로",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 26670400,
-          "sale_price_rate": 26.66
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 225539740,
-          "sale_price_rate": 41.23
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 294000000,
-          "sale_price_rate": 81.71
-        },
-        {
-          "type": "상가주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 1873573320,
-          "sale_price_rate": 52.91
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 7,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 765642200,
-          "sale_price_rate": 74.06
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "화물차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1270,6 +1107,312 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "43",
+      "guCd": "150",
+      "title": "2026. 08 월간매각 통계자료 : 충북 제천시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 37,
+          "failed": 34,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 5.41,
+          "avg_appraisal": 70233000,
+          "sale_price_rate": 17.93
+        },
+        {
+          "type": "답",
+          "total": 12,
+          "failed": 9,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 8.33,
+          "avg_appraisal": 438246000,
+          "sale_price_rate": 23.33
+        },
+        {
+          "type": "과수원",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 3463654510,
+          "sale_price_rate": 19.92
+        },
+        {
+          "type": "임야",
+          "total": 53,
+          "failed": 44,
+          "sold": 8,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 15.09,
+          "avg_appraisal": 567742338,
+          "sale_price_rate": 22.95
+        },
+        {
+          "type": "대지",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "주차장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고용지",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 26670400,
+          "sale_price_rate": 30.0
+        },
+        {
+          "type": "유지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 16,
+          "failed": 10,
+          "sold": 2,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 188604980,
+          "sale_price_rate": 36.86
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 80700000,
+          "sale_price_rate": 80.01
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 83000000,
+          "sale_price_rate": 51.35
+        },
+        {
+          "type": "상가주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 5,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "교육연구시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "업무시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 217900000,
+          "sale_price_rate": 16.78
+        },
+        {
+          "type": "공장",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1718591000,
+          "sale_price_rate": 51.44
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 125000000,
+          "sale_price_rate": 49.68
+        },
+        {
+          "type": "기타차량",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "덤프트럭",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 120000000,
+          "sale_price_rate": 72.94
+        },
+        {
+          "type": "기타중기",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1818,38 +1961,6 @@
       "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
-      "tid": 2479228,
-      "case_no": "2025-186",
-      "item_no": 1,
-      "court": "제천2계",
-      "type": "근린상가",
-      "address": "충청북도 제천시 강제동 275-16 더캐슬몰 비동 1층112호",
-      "area": "건물 45.6875㎡(13.82평) 대지권 74.5㎡(22.536평)",
-      "appraisal": 265000000,
-      "min_price": 169600000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.09.14",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2540105,
-      "case_no": "2025-186",
-      "item_no": 2,
-      "court": "제천2계",
-      "type": "근린상가",
-      "address": "충청북도 제천시 강제동 275-16 더캐슬몰 비동 1층113호",
-      "area": "건물 42.5㎡(12.856평) 대지권 69.31㎡(20.966평)",
-      "appraisal": 210900000,
-      "min_price": 134976000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.09.14",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2482726,
       "case_no": "2025-188",
       "item_no": null,
@@ -1896,22 +2007,6 @@
       "bid_date": "26.09.14",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2384616,
-      "case_no": "2025-5276",
-      "item_no": null,
-      "court": "제천2계",
-      "type": "답",
-      "address": "충청북도 제천시 고암동 905 외 1필지",
-      "area": "토지 3073㎡(929.583평)",
-      "appraisal": 802025000,
-      "min_price": 410637000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.09.14",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2384618,
@@ -2346,22 +2441,6 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2439387,
-      "case_no": "2025-5400",
-      "item_no": null,
-      "court": "제천2계",
-      "type": "창고용지",
-      "address": "충청북도 제천시 신월동 1136-37 외 5필지",
-      "area": "토지 10564㎡(3195.61평)",
-      "appraisal": 4241282000,
-      "min_price": 1737230000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.09.14",
-      "special": "맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2449876,
       "case_no": "2025-5414",
       "item_no": null,
@@ -2392,22 +2471,6 @@
       "bid_date": "26.09.14",
       "special": "농지취득자격증명,임금채권자",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2449878,
-      "case_no": "2025-5422",
-      "item_no": null,
-      "court": "제천2계",
-      "type": "전",
-      "address": "충청북도 제천시 금성면 위림리 200 외 1필지",
-      "area": "토지 1843㎡(557.507평)",
-      "appraisal": 61544000,
-      "min_price": 25208000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.09.14",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2452936,
@@ -2694,7 +2757,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2856,6 +2919,22 @@
       "bid_date": "26.10.12",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2392843,
+      "case_no": "2025-93",
+      "item_no": null,
+      "court": "제천1계",
+      "type": "근린생활시설",
+      "address": "충청북도 제천시 영천동 2198",
+      "area": "건물 211.1㎡(63.858평) 토지 698.9㎡(211.417평)",
+      "appraisal": 759831000,
+      "min_price": 389034000,
+      "min_price_pct": 51,
+      "status": "유찰 3회",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2397688,
@@ -3144,6 +3223,22 @@
       "bid_date": "26.10.12",
       "special": "맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2413954,
+      "case_no": "2025-5333",
+      "item_no": null,
+      "court": "제천1계",
+      "type": "대지",
+      "address": "충청북도 제천시 남천동 432",
+      "area": "건물은 매각제외 토지 178㎡(53.845평)",
+      "appraisal": 311500000,
+      "min_price": 127590000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.10.12",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각"
     },
     {
       "tid": 2416036,
@@ -3546,6 +3641,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2434248,
+      "case_no": "2025-5385",
+      "item_no": null,
+      "court": "제천1계",
+      "type": "임야",
+      "address": "충청북도 제천시 청풍면 단리 산31-12 외 3필지",
+      "area": "토지 11166㎡(3377.715평)",
+      "appraisal": 280370000,
+      "min_price": 224296000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.12",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2435166,
       "case_no": "2025-5387",
       "item_no": 2,
@@ -3687,6 +3798,22 @@
       "status": "유찰 2회",
       "bid_date": "26.10.12",
       "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2465277,
+      "case_no": "2025-5455",
+      "item_no": null,
+      "court": "제천1계",
+      "type": "단독주택",
+      "address": "충청북도 제천시 의림동 216-59",
+      "area": "건물 98.7㎡(29.857평) 토지 237㎡(71.693평)",
+      "appraisal": 143590600,
+      "min_price": 114872000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.12",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {

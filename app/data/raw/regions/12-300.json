@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "300",
@@ -7,15 +7,6 @@
     "name": "북구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "300",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -498,6 +489,235 @@
           "sold_rate": 0.0,
           "avg_appraisal": 0,
           "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "300",
+      "title": "2026. 08 월간매각 통계자료 : 광주 북구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 51666000,
+          "sale_price_rate": 43.12
+        },
+        {
+          "type": "답",
+          "total": 17,
+          "failed": 10,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 17.65,
+          "avg_appraisal": 1962070000,
+          "sale_price_rate": 59.65
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 358888000,
+          "sale_price_rate": 56.13
+        },
+        {
+          "type": "도로",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 4550000,
+          "sale_price_rate": 28.79
+        },
+        {
+          "type": "구거",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 11,
+          "failed": 8,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 233495380,
+          "sale_price_rate": 41.96
+        },
+        {
+          "type": "다가구주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 85,
+          "failed": 48,
+          "sold": 26,
+          "changed": 7,
+          "withdrawn": 2,
+          "sold_rate": 30.59,
+          "avg_appraisal": 182038462,
+          "sale_price_rate": 75.93
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 79,
+          "failed": 79,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 3129232700,
+          "sale_price_rate": 48.25
+        },
+        {
+          "type": "노유자시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 22,
+          "failed": 19,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 4.55,
+          "avg_appraisal": 424000000,
+          "sale_price_rate": 21.92
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 8,
+          "failed": 5,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 619000000,
+          "sale_price_rate": 52.84
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 25000000,
+          "sale_price_rate": 52.76
         }
       ]
     }
@@ -1352,22 +1572,6 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
-      "tid": 2388912,
-      "case_no": "2025-31947",
-      "item_no": null,
-      "court": "광주13계",
-      "type": "답",
-      "address": "광주광역시 북구 신용동 478-3",
-      "area": "토지 3002㎡(908.105평)",
-      "appraisal": 3962640000,
-      "min_price": 1775263000,
-      "min_price_pct": 45,
-      "status": "유찰 3회",
-      "bid_date": "26.09.16",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2388826,
       "case_no": "2025-31981",
       "item_no": null,
@@ -1464,6 +1668,102 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
+      "tid": 2518153,
+      "case_no": "2026-2664",
+      "item_no": null,
+      "court": "광주13계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 각화동 614 무등산한국아델리움어반센트럴 101동 24층2404호",
+      "area": "건물 84.2102㎡(25.474평) 대지권 20.7866㎡(6.288평)",
+      "appraisal": 423000000,
+      "min_price": 423000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2531312,
+      "case_no": "2026-3990",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "근린상가",
+      "address": "광주광역시 북구 신안동 134-7 2층206호",
+      "area": "건물 164.58㎡(49.785평) 대지권 44.07㎡(13.331평)",
+      "appraisal": 124000000,
+      "min_price": 124000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2518155,
+      "case_no": "2026-30874",
+      "item_no": null,
+      "court": "광주13계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 용봉동 1475 용봉동 도나우270 102동 14층1404호",
+      "area": "건물 56.9432㎡(17.225평) 대지권 34.3313㎡(10.385평)",
+      "appraisal": 260000000,
+      "min_price": 260000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2523544,
+      "case_no": "2026-31063",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "오피스텔(주거)",
+      "address": "광주광역시 북구 신안동 121-2 광주역한국아델리움 15층1519호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 230000000,
+      "min_price": 230000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2528359,
+      "case_no": "2026-31284",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "오피스텔(주거)",
+      "address": "광주광역시 북구 신안동 121-2 광주역한국아델리움 10층1021호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 234000000,
+      "min_price": 234000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2554224,
+      "case_no": "2026-31760",
+      "item_no": null,
+      "court": "광주13계",
+      "type": "승용차",
+      "address": "전남광주통합특별시 북구 삼각동 754-3",
+      "area": "(GV80 / 2022년식 / 41,857㎞)",
+      "appraisal": 51000000,
+      "min_price": 51000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": ""
+    },
+    {
       "tid": 2236243,
       "case_no": "2023-79921",
       "item_no": null,
@@ -1544,6 +1844,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2482423,
+      "case_no": "2025-3997",
+      "item_no": 2,
+      "court": "광주2계",
+      "type": "지식산업센터",
+      "address": "광주광역시 북구 연제동 1038-6 첨단리채비즈타워지식산업센터 12층비-1202호",
+      "area": "건물 160.95㎡(48.687평) 대지권 61.65㎡(18.649평)",
+      "appraisal": 563000000,
+      "min_price": 201780000,
+      "min_price_pct": 36,
+      "status": "유찰 4회",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2425604,
+      "case_no": "2025-33206",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "공장",
+      "address": "전남광주통합특별시 북구 연제동 1090 에이동",
+      "area": "건물 7716.7㎡(2334.302평) 토지 매각제외",
+      "appraisal": 5875001350,
+      "min_price": 5875001350,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "대항력 있는 임차인",
+      "dpsl": "건물만 매각"
+    },
+    {
       "tid": 2433889,
       "case_no": "2025-33363",
       "item_no": null,
@@ -1592,6 +1924,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2492406,
+      "case_no": "2026-29",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 각화동 721 각화센트럴파크3차 301동 24층 2402호",
+      "area": "건물 59.9987㎡(18.15평) 대지권 19.7936㎡(5.988평)",
+      "appraisal": 295000000,
+      "min_price": 295000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499718,
+      "case_no": "2026-1236",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 매곡동 42-2 101동 17층1709호",
+      "area": "건물 126.84㎡(38.369평) 대지권 49.931㎡(15.104평)",
+      "appraisal": 263000000,
+      "min_price": 263000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2505667,
       "case_no": "2026-1389",
       "item_no": null,
@@ -1605,6 +1969,22 @@
       "status": "유찰 1회",
       "bid_date": "26.09.17",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2490123,
+      "case_no": "2026-30001",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "오피스텔(주거)",
+      "address": "전남광주통합특별시 북구 신안동 121-2 광주역한국아델리움 8층819호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 207000000,
+      "min_price": 207000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1637,6 +2017,22 @@
       "status": "유찰 2회",
       "bid_date": "26.09.17",
       "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2491880,
+      "case_no": "2026-30063",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 매곡동 214-16 1동 2층207호",
+      "area": "건물 59.94㎡(18.132평) 대지권 24.65㎡(7.457평)",
+      "appraisal": 90000000,
+      "min_price": 90000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1683,6 +2079,22 @@
       "min_price": 165900000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.17",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2521654,
+      "case_no": "2026-31064",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "오피스텔(주거)",
+      "address": "전남광주통합특별시 북구 신안동 121-2 광주역한국아델리움 9층905호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 227000000,
+      "min_price": 227000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.17",
       "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
@@ -1800,6 +2212,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2388926,
+      "case_no": "2025-32159",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "아파트",
+      "address": "광주광역시 북구 각화동 724 더샵광주포레스트 제102동 제28층 제2801호",
+      "area": "건물 101.9965㎡(30.854평) 대지권 27.1㎡(8.198평)",
+      "appraisal": 653000000,
+      "min_price": 653000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2421946,
       "case_no": "2025-33135",
       "item_no": null,
@@ -1862,22 +2290,6 @@
       "bid_date": "26.09.22",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2459155,
-      "case_no": "2025-34108",
-      "item_no": null,
-      "court": "광주4계",
-      "type": "답",
-      "address": "광주광역시 북구 효령동 434-33",
-      "area": "토지 2109㎡(637.973평)",
-      "appraisal": 360639000,
-      "min_price": 201959000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.09.22",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2459664,
@@ -2264,6 +2676,54 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2530375,
+      "case_no": "2026-31378",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "오피스텔(주거)",
+      "address": "전남광주통합특별시 북구 신안동 121-2 광주역한국아델리움 19층1909호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 214000000,
+      "min_price": 214000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2536796,
+      "case_no": "2026-31586",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 북구 문흥동 919 103동 7층719호",
+      "area": "건물 37.08㎡(11.217평) 대지권 21.45㎡(6.489평)",
+      "appraisal": 60000000,
+      "min_price": 60000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2536799,
+      "case_no": "2026-31614",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "오피스텔(주거)",
+      "address": "전남광주통합특별시 북구 신안동 121-2 광주역한국아델리움 10층1004호",
+      "area": "건물 49.0765㎡(14.846평) 대지권 7.35㎡(2.223평)",
+      "appraisal": 221000000,
+      "min_price": 221000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2424212,
       "case_no": "2025-4297",
       "item_no": null,
@@ -2277,6 +2737,22 @@
       "status": "유찰 5회",
       "bid_date": "26.09.23",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2388871,
+      "case_no": "2025-32231",
+      "item_no": null,
+      "court": "광주9계",
+      "type": "근린생활시설",
+      "address": "광주광역시 북구 우산동 555-22 외 6필지",
+      "area": "건물 6119.98㎡(1851.294평) 토지 1609.3㎡(486.813평)",
+      "appraisal": 9430633300,
+      "min_price": 9430633300,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2533,6 +3009,22 @@
       "status": "유찰 15회",
       "bid_date": "26.09.29",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2334059,
+      "case_no": "2024-81211",
+      "item_no": null,
+      "court": "광주11계",
+      "type": "업무시설",
+      "address": "광주광역시 북구 동림동 150-1",
+      "area": "건물 217.32㎡(65.739평) 토지 1251㎡(378.428평)",
+      "appraisal": 2141970000,
+      "min_price": 767684000,
+      "min_price_pct": 36,
+      "status": "유찰 4회",
+      "bid_date": "26.09.29",
+      "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {

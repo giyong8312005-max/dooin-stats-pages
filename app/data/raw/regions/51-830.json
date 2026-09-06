@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "830",
@@ -7,147 +7,6 @@
     "name": "양양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "830",
-      "title": "2026. 02 월간매각 통계자료 : 강원 양양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 123744500,
-          "sale_price_rate": 46.45
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 394200000,
-          "sale_price_rate": 33.64
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 66021000,
-          "sale_price_rate": 48.62
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 217500000,
-          "sale_price_rate": 77.06
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1816985450,
-          "sale_price_rate": 50.09
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 6359760220,
-          "sale_price_rate": 43.24
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -775,6 +634,125 @@
           "sale_price_rate": 132.08
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "830",
+      "title": "2026. 08 월간매각 통계자료 : 강원 양양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 9,
+          "failed": 6,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 9,
+          "failed": 5,
+          "sold": 1,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 197340000,
+          "sale_price_rate": 36.94
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 380900500,
+          "sale_price_rate": 39.38
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 39204000,
+          "sale_price_rate": 10.97
+        }
+      ]
     }
   ],
   "listings": [
@@ -857,22 +835,6 @@
       "bid_date": "26.09.09",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2452254,
-      "case_no": "2025-10371",
-      "item_no": null,
-      "court": "속초2계",
-      "type": "잡종지",
-      "address": "강원특별자치도 양양군 강현면 주청리 2-24",
-      "area": "토지 1292㎡(390.83평)",
-      "appraisal": 8721000000,
-      "min_price": 2991303000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.09",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2521785,
@@ -1163,22 +1125,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2473991,
-      "case_no": "2025-10417",
-      "item_no": null,
-      "court": "속초1계",
-      "type": "임야",
-      "address": "강원특별자치도 양양군 서면 영덕리 산2",
-      "area": "토지 21471㎡(6494.978평)",
-      "appraisal": 118090500,
-      "min_price": 28354000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.23",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2476176,
       "case_no": "2025-10423",
       "item_no": 3,
@@ -1193,6 +1139,22 @@
       "bid_date": "26.09.23",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2477686,
+      "case_no": "2025-10431",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "아파트",
+      "address": "강원특별자치도 양양군 현북면 중광정리 176-1 102동 7층707호",
+      "area": "건물 38.6106㎡(11.68평) 대지권 34.3701㎡(10.397평)",
+      "appraisal": 139000000,
+      "min_price": 139000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2479671,
@@ -1302,6 +1264,38 @@
       "min_price": 38976000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.23",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2500237,
+      "case_no": "2026-10025",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "공장",
+      "address": "강원특별자치도 양양군 양양읍 포월리 248",
+      "area": "건물 1081.32㎡(327.099평) 토지 2415.8㎡(730.78평)",
+      "appraisal": 960474800,
+      "min_price": 960474800,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2507238,
+      "case_no": "2026-10045",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "전",
+      "address": "강원특별자치도 양양군 양양읍 송암리 575-1",
+      "area": "토지 407㎡(123.117평)",
+      "appraisal": 43956000,
+      "min_price": 43956000,
+      "min_price_pct": 100,
+      "status": "예정물건",
       "bid_date": "26.09.23",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "43",
     "guCd": "720",
@@ -7,114 +7,6 @@
     "name": "보은군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "43",
-      "guCd": "720",
-      "title": "2026. 02 월간매각 통계자료 : 충북 보은군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 15,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 6.25,
-          "avg_appraisal": 23928380,
-          "sale_price_rate": 38.44
-        },
-        {
-          "type": "답",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 20906020,
-          "sale_price_rate": 46.32
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 16295220,
-          "sale_price_rate": 153.48
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 4,
-          "failed": 2,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 450610000,
-          "sale_price_rate": 53.77
-        },
-        {
-          "type": "창고시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -742,89 +634,172 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "43",
+      "guCd": "720",
+      "title": "2026. 08 월간매각 통계자료 : 충북 보은군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 12,
+          "failed": 7,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 18370500,
+          "sale_price_rate": 42.5
+        },
+        {
+          "type": "답",
+          "total": 8,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 161312000,
+          "sale_price_rate": 26.35
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 23206000,
+          "sale_price_rate": 74.53
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 152208000,
+          "sale_price_rate": 60.59
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 179000000,
+          "sale_price_rate": 95.02
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 0,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 55000000,
+          "sale_price_rate": 59.08
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2402927690,
+          "sale_price_rate": 58.72
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 441819200,
+          "sale_price_rate": 28.72
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2451763,
-      "case_no": "2025-51784",
-      "item_no": 1,
-      "court": "청주5계",
-      "type": "답",
-      "address": "충청북도 보은군 탄부면 벽지리 786",
-      "area": "토지 661.06㎡(199.971평)",
-      "appraisal": 21153920,
-      "min_price": 5079000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2516704,
-      "case_no": "2025-51784",
-      "item_no": 2,
-      "court": "청주5계",
-      "type": "답",
-      "address": "충청북도 보은군 탄부면 벽지리 787",
-      "area": "토지 291.68㎡(88.233평)",
-      "appraisal": 8750400,
-      "min_price": 2101000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2516705,
-      "case_no": "2025-51784",
-      "item_no": 3,
-      "court": "청주5계",
-      "type": "답",
-      "address": "충청북도 보은군 탄부면 벽지리 299",
-      "area": "토지 173.6㎡(52.514평)",
-      "appraisal": 4166400,
-      "min_price": 1000000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.02",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2516706,
-      "case_no": "2025-51784",
-      "item_no": 4,
-      "court": "청주5계",
-      "type": "전",
-      "address": "충청북도 보은군 탄부면 벽지리 300",
-      "area": "건물은 매각제외 토지 37.6㎡(11.374평)",
-      "appraisal": 1015200,
-      "min_price": 172000,
-      "min_price_pct": 17,
-      "status": "유찰 4회",
-      "bid_date": "26.09.02",
-      "special": "법정지상권,농지취득자격증명,맹지",
-      "dpsl": "토지만 매각이며,지분 매각임"
-    },
-    {
-      "tid": 2470104,
-      "case_no": "2025-52011",
-      "item_no": null,
-      "court": "청주5계",
-      "type": "임야",
-      "address": "충청북도 보은군 보은읍 노티리 산50",
-      "area": "토지 28496㎡(8620.04평)",
-      "appraisal": 56992000,
-      "min_price": 13657000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.02",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각(제시외기타 포함)"
-    },
     {
       "tid": 2520489,
       "case_no": "2026-50393",
@@ -1304,6 +1279,86 @@
       "bid_date": "26.09.29",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2451763,
+      "case_no": "2025-51784",
+      "item_no": 1,
+      "court": "청주5계",
+      "type": "답",
+      "address": "충청북도 보은군 탄부면 벽지리 786",
+      "area": "토지 661.06㎡(199.971평)",
+      "appraisal": 21153920,
+      "min_price": 3555000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.10.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2516704,
+      "case_no": "2025-51784",
+      "item_no": 2,
+      "court": "청주5계",
+      "type": "답",
+      "address": "충청북도 보은군 탄부면 벽지리 787",
+      "area": "토지 291.68㎡(88.233평)",
+      "appraisal": 8750400,
+      "min_price": 1471000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.10.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2516705,
+      "case_no": "2025-51784",
+      "item_no": 3,
+      "court": "청주5계",
+      "type": "답",
+      "address": "충청북도 보은군 탄부면 벽지리 299",
+      "area": "토지 173.6㎡(52.514평)",
+      "appraisal": 4166400,
+      "min_price": 700000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.10.07",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2516706,
+      "case_no": "2025-51784",
+      "item_no": 4,
+      "court": "청주5계",
+      "type": "전",
+      "address": "충청북도 보은군 탄부면 벽지리 300",
+      "area": "건물은 매각제외 토지 37.6㎡(11.374평)",
+      "appraisal": 1015200,
+      "min_price": 120000,
+      "min_price_pct": 12,
+      "status": "유찰 5회",
+      "bid_date": "26.10.07",
+      "special": "법정지상권,농지취득자격증명,맹지",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2470104,
+      "case_no": "2025-52011",
+      "item_no": null,
+      "court": "청주5계",
+      "type": "임야",
+      "address": "충청북도 보은군 보은읍 노티리 산50",
+      "area": "토지 28496㎡(8620.04평)",
+      "appraisal": 56992000,
+      "min_price": 9560000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.10.07",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각(제시외기타 포함)"
     }
   ]
 }

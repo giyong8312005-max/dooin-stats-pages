@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "43",
     "guCd": "800",
@@ -7,114 +7,6 @@
     "name": "단양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "43",
-      "guCd": "800",
-      "title": "2026. 02 월간매각 통계자료 : 충북 단양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 12,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 12.5,
-          "avg_appraisal": 40836000,
-          "sale_price_rate": 29.34
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1814681000,
-          "sale_price_rate": 26.45
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 76017400,
-          "sale_price_rate": 92.74
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -556,6 +448,114 @@
         },
         {
           "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "43",
+      "guCd": "800",
+      "title": "2026. 08 월간매각 통계자료 : 충북 단양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 24,
+          "failed": 17,
+          "sold": 4,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 101260500,
+          "sale_price_rate": 45.59
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 103796000,
+          "sale_price_rate": 58.77
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 94748000,
+          "sale_price_rate": 89.71
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 204608400,
+          "sale_price_rate": 71.85
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1415200950,
+          "sale_price_rate": 36.04
+        },
+        {
+          "type": "창고시설",
           "total": 1,
           "failed": 1,
           "sold": 0,

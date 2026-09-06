@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "41",
     "guCd": "135",
@@ -7,136 +7,6 @@
     "name": "성남시 분당구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "41",
-      "guCd": "135",
-      "title": "2026. 02 월간매각 통계자료 : 경기 성남시 분당구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 651434000,
-          "sale_price_rate": 61.56
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 1330112000,
-          "sale_price_rate": 31.34
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 141700000,
-          "sale_price_rate": 12.96
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1349627130,
-          "sale_price_rate": 102.62
-        },
-        {
-          "type": "아파트",
-          "total": 8,
-          "failed": 1,
-          "sold": 4,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1378000000,
-          "sale_price_rate": 112.98
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 497000000,
-          "sale_price_rate": 80.68
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 7,
-          "failed": 4,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 671000000,
-          "sale_price_rate": 100.07
-        },
-        {
-          "type": "근린상가",
-          "total": 28,
-          "failed": 18,
-          "sold": 9,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 32.14,
-          "avg_appraisal": 357000000,
-          "sale_price_rate": 46.56
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -709,6 +579,136 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "41",
+      "guCd": "135",
+      "title": "2026. 08 월간매각 통계자료 : 경기 성남시 분당구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 3,
+          "sold": 1,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 11.11,
+          "avg_appraisal": 178524000,
+          "sale_price_rate": 144.44
+        },
+        {
+          "type": "아파트",
+          "total": 16,
+          "failed": 5,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 5,
+          "sold_rate": 31.25,
+          "avg_appraisal": 1080000000,
+          "sale_price_rate": 107.24
+        },
+        {
+          "type": "연립주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 17,
+          "failed": 13,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 11.76,
+          "avg_appraisal": 278500000,
+          "sale_price_rate": 71.68
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "노유자시설",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 35,
+          "failed": 28,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 53472440,
+          "sale_price_rate": 56.93
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1109,7 +1109,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1125,7 +1125,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1269,7 +1269,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1524,6 +1524,22 @@
       "min_price": 1329300000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2485482,
+      "case_no": "2025-53691",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 분당구 야탑동 341 성남(분당)여객자동차터미널및복합건물 제지2층 제341호",
+      "area": "건물 6.9㎡(2.087평) 대지권 3.0902㎡(0.935평)",
+      "appraisal": 53000000,
+      "min_price": 53000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.21",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

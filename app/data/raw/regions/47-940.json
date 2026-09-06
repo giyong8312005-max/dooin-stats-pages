@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "940",
@@ -7,37 +7,6 @@
     "name": "울릉군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "940",
-      "title": "2026. 02 월간매각 통계자료 : 경북 울릉군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 246330000,
-          "sale_price_rate": 88.0
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -335,6 +304,59 @@
           "sale_price_rate": 129.35
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "940",
+      "title": "2026. 08 월간매각 통계자료 : 경북 울릉군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 10168000,
+          "sale_price_rate": 24.29
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -401,6 +423,22 @@
       "bid_date": "26.09.07",
       "special": "분묘기지권,농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2418883,
+      "case_no": "2025-390",
+      "item_no": null,
+      "court": "포항4계",
+      "type": "전",
+      "address": "경상북도 울릉군 북면 나리 149",
+      "area": "토지 17491㎡(5291.028평)",
+      "appraisal": 1311825000,
+      "min_price": 449957000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.28",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]
 }

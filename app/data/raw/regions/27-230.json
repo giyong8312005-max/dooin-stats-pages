@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "27",
     "guCd": "230",
@@ -7,158 +7,6 @@
     "name": "북구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "27",
-      "guCd": "230",
-      "title": "2026. 02 월간매각 통계자료 : 대구 북구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 475800000,
-          "sale_price_rate": 42.27
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 1,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 71.43,
-          "avg_appraisal": 407400000,
-          "sale_price_rate": 81.98
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 192500000,
-          "sale_price_rate": 62.15
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 580905600,
-          "sale_price_rate": 56.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 4,
-          "failed": 2,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 239000000,
-          "sale_price_rate": 59.02
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 209000000,
-          "sale_price_rate": 47.85
-        },
-        {
-          "type": "목욕탕",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 10,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 30.0,
-          "avg_appraisal": 43833333,
-          "sale_price_rate": 67.6
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1314,41 +1162,216 @@
           "sale_price_rate": 78.93
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "27",
+      "guCd": "230",
+      "title": "2026. 08 월간매각 통계자료 : 대구 북구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 673260000,
+          "sale_price_rate": 61.05
+        },
+        {
+          "type": "단독주택",
+          "total": 12,
+          "failed": 10,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 10,
+          "failed": 7,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 30.0,
+          "avg_appraisal": 523005680,
+          "sale_price_rate": 41.95
+        },
+        {
+          "type": "아파트",
+          "total": 60,
+          "failed": 34,
+          "sold": 21,
+          "changed": 3,
+          "withdrawn": 1,
+          "sold_rate": 35.0,
+          "avg_appraisal": 245857143,
+          "sale_price_rate": 81.82
+        },
+        {
+          "type": "다세대주택",
+          "total": 7,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 6,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 9,
+          "failed": 5,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 125000000,
+          "sale_price_rate": 81.25
+        },
+        {
+          "type": "근린생활시설",
+          "total": 6,
+          "failed": 2,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "업무시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 16,
+          "failed": 15,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 6.25,
+          "avg_appraisal": 24000000,
+          "sale_price_rate": 22.92
+        },
+        {
+          "type": "공장",
+          "total": 7,
+          "failed": 1,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 28.57,
+          "avg_appraisal": 3622504366,
+          "sale_price_rate": 80.09
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 38,
+          "failed": 22,
+          "sold": 14,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 36.84,
+          "avg_appraisal": 25621429,
+          "sale_price_rate": 73.82
+        },
+        {
+          "type": "화물차",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 18000000,
+          "sale_price_rate": 70.61
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2474511,
-      "case_no": "2025-9753",
-      "item_no": null,
-      "court": "대구3계",
-      "type": "숙박시설",
-      "address": "대구광역시 북구 금호동 813",
-      "area": "건물 2364.06㎡(715.128평) 토지 1092㎡(330.33평)",
-      "appraisal": 5908573260,
-      "min_price": 2895201000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.07",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2476216,
-      "case_no": "2025-9813",
-      "item_no": null,
-      "court": "대구3계",
-      "type": "아파트",
-      "address": "대구광역시 북구 서변동 1775 화성리버파크1단지 101동 14층1403호",
-      "area": "건물 84.9318㎡(25.692평) 대지권 49.383㎡(14.938평)",
-      "appraisal": 239000000,
-      "min_price": 167300000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.07",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2482225,
       "case_no": "2025-10026",
@@ -2102,22 +2125,6 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
-      "tid": 2539674,
-      "case_no": "2025-8205",
-      "item_no": null,
-      "court": "대구10계",
-      "type": "공장",
-      "address": "대구광역시 북구 검단동 887-88",
-      "area": "건물 1883.48㎡(569.753평) 토지 1481㎡(448.003평)",
-      "appraisal": 4627631740,
-      "min_price": 4627631740,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.10",
-      "special": "임금채권자",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2423710,
       "case_no": "2025-8433",
       "item_no": null,
@@ -2210,7 +2217,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2492,7 +2499,7 @@
       "court": "대구9계",
       "type": "공장",
       "address": "대구광역시 북구 노원동3가 380-8 외 1필지",
-      "area": "건물 1334.5277㎡(403.695평) 토지 1275.3㎡(385.778평)",
+      "area": "건물 1154.53㎡(349.245평) 토지 1275.3㎡(385.778평)",
       "appraisal": 3614885130,
       "min_price": 3614885130,
       "min_price_pct": 100,
@@ -2572,7 +2579,7 @@
       "court": "대구9계",
       "type": "승용차",
       "address": "대구 북구 검단동 1393-106, 동광물류",
-      "area": "(K8 / 2022년식)",
+      "area": "(K8 / 2022년식 / 44,105㎞)",
       "appraisal": 25500000,
       "min_price": 25500000,
       "min_price_pct": 100,
@@ -2596,6 +2603,22 @@
       "bid_date": "26.09.15",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2466396,
+      "case_no": "2025-1193",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "전",
+      "address": "대구광역시 북구 읍내동 786-3",
+      "area": "토지 412㎡(124.63평)",
+      "appraisal": 1108280000,
+      "min_price": 1108280000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2396077,
@@ -2694,6 +2717,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2463041,
+      "case_no": "2025-9490",
+      "item_no": 1,
+      "court": "대구4계",
+      "type": "대지",
+      "address": "대구광역시 북구 매천동 90",
+      "area": "토지 317㎡(95.893평)",
+      "appraisal": 494520000,
+      "min_price": 494520000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2572060,
+      "case_no": "2025-9490",
+      "item_no": 2,
+      "court": "대구4계",
+      "type": "노유자시설",
+      "address": "대구광역시 북구 매천동 72",
+      "area": "건물 713.71㎡(215.897평) 토지 565㎡(170.913평)",
+      "appraisal": 1903867180,
+      "min_price": 1903867180,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2469580,
       "case_no": "2025-9549",
       "item_no": null,
@@ -2724,6 +2779,70 @@
       "bid_date": "26.09.16",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2472495,
+      "case_no": "2025-9754",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "아파트",
+      "address": "대구광역시 북구 복현동 713 이편한세상복현 109동 3층302호",
+      "area": "건물 59.9707㎡(18.141평) 대지권 34.3158㎡(10.381평)",
+      "appraisal": 394000000,
+      "min_price": 394000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2474513,
+      "case_no": "2025-9814",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "아파트",
+      "address": "대구광역시 북구 복현동 539-111 복현대백맨션 101동 16층1601호",
+      "area": "건물 84.99㎡(25.709평) 대지권 41.2㎡(12.463평)",
+      "appraisal": 204000000,
+      "min_price": 204000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2479280,
+      "case_no": "2025-9920",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "아파트",
+      "address": "대구광역시 북구 칠성동2가 350-6 우방플러스빌 101동 6층608호",
+      "area": "건물 84.99㎡(25.709평) 대지권 52.5637㎡(15.901평)",
+      "appraisal": 185000000,
+      "min_price": 185000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2536001,
+      "case_no": "2026-1223",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "승용차",
+      "address": "대구 북구 검단동 1393-108, 동광물류내",
+      "area": "(팰리세이드(PALISADE) / 2022년식 / 71,782㎞)",
+      "appraisal": 30000000,
+      "min_price": 30000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2534875,
@@ -2950,6 +3069,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2475035,
+      "case_no": "2025-9799",
+      "item_no": null,
+      "court": "대구12계",
+      "type": "단독주택",
+      "address": "대구광역시 북구 산격동 1223-12",
+      "area": "건물 156.13㎡(47.229평) 토지 122.4㎡(37.026평)",
+      "appraisal": 251320630,
+      "min_price": 251320630,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2516466,
       "case_no": "2026-100438",
       "item_no": null,
@@ -3046,6 +3181,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2490913,
+      "case_no": "2025-1350",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "아파트",
+      "address": "대구광역시 북구 구암동 695-1 칠곡동서영남아파트 102동 5층501호",
+      "area": "건물 59.84㎡(18.102평) 대지권 32.0784㎡(9.704평)",
+      "appraisal": 134000000,
+      "min_price": 134000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2492296,
+      "case_no": "2025-1361",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "다가구주택",
+      "address": "대구광역시 북구 동변동 690-6",
+      "area": "건물 341.85㎡(103.41평) 토지 198.2㎡(59.955평)",
+      "appraisal": 450056100,
+      "min_price": 450056100,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2407354,
       "case_no": "2025-8010",
       "item_no": null,
@@ -3075,22 +3242,6 @@
       "status": "유찰 3회",
       "bid_date": "26.09.22",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2442879,
-      "case_no": "2025-9002",
-      "item_no": null,
-      "court": "대구5계",
-      "type": "단독주택",
-      "address": "대구광역시 북구 산격동 1310-21",
-      "area": "건물 142.193㎡(43.013평) 토지 111.4㎡(33.699평)",
-      "appraisal": 172033120,
-      "min_price": 59007000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.22",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -3156,6 +3307,22 @@
       "bid_date": "26.09.22",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2499626,
+      "case_no": "2025-10178",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "아파트",
+      "address": "대구광역시 북구 노원동2가 246 노원보성타운 101동 5층501호",
+      "area": "건물 59.985㎡(18.145평) 대지권 30.4644㎡(9.215평)",
+      "appraisal": 149000000,
+      "min_price": 149000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2499112,
@@ -3254,6 +3421,22 @@
       "dpsl": ""
     },
     {
+      "tid": 2533787,
+      "case_no": "2026-100911",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "승용차",
+      "address": "대구광역시 북구 검단동 1393-327",
+      "area": "(쏘렌토 / 2015년식)",
+      "appraisal": 8500000,
+      "min_price": 8500000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": ""
+    },
+    {
       "tid": 2533225,
       "case_no": "2026-101001",
       "item_no": null,
@@ -3265,6 +3448,22 @@
       "min_price": 9800000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2529750,
+      "case_no": "2026-101041",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "승용차",
+      "address": "대구광역시 북구 금호동 416, 오토마트대구보관소",
+      "area": "(BMW X4 xDrive20i / 2022년식)",
+      "appraisal": 35000000,
+      "min_price": 35000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.22",
       "special": "",
       "dpsl": ""
@@ -3316,22 +3515,6 @@
       "bid_date": "26.09.23",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2563912,
-      "case_no": "2025-8921",
-      "item_no": 2,
-      "court": "대구13계",
-      "type": "근린상가",
-      "address": "대구광역시 북구 태전동 1103 태전휴먼시아1단지 분산상가동 1층2층3층105호",
-      "area": "건물 701.613㎡(212.238평) 대지권 983.77㎡(297.59평)",
-      "appraisal": 1230000000,
-      "min_price": 861000000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.23",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2450777,
@@ -3414,6 +3597,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2506221,
+      "case_no": "2026-100250",
+      "item_no": null,
+      "court": "대구13계",
+      "type": "화물차",
+      "address": "대구 북구 검단동 1393-106, 동광물류",
+      "area": "(포터11하이냉동탑차 (P0RTER 11) / 2024년식 / 29,938㎞)",
+      "appraisal": 28000000,
+      "min_price": 19600000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": ""
+    },
+    {
       "tid": 2541908,
       "case_no": "2026-101022",
       "item_no": null,
@@ -3428,22 +3627,6 @@
       "bid_date": "26.09.23",
       "special": "",
       "dpsl": ""
-    },
-    {
-      "tid": 2485192,
-      "case_no": "2025-1327",
-      "item_no": null,
-      "court": "대구8계",
-      "type": "아파트",
-      "address": "대구광역시 북구 구암동 786 그린빌3 314동 1층104호",
-      "area": "건물 49.71㎡(15.037평) 대지권 33.1785㎡(10.036평)",
-      "appraisal": 127000000,
-      "min_price": 88900000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.30",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2416084,
@@ -3540,6 +3723,22 @@
       "bid_date": "26.09.30",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2501367,
+      "case_no": "2026-100078",
+      "item_no": null,
+      "court": "대구8계",
+      "type": "승용차",
+      "address": "대구 북구 검단동 1393-327",
+      "area": "(Lincoln Aviator 3.0 / 2021년식 / 117,952㎞)",
+      "appraisal": 34000000,
+      "min_price": 23800000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.30",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2515939,

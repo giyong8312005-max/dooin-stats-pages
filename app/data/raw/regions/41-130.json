@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "41",
     "guCd": "130",
@@ -7,191 +7,6 @@
     "name": "성남시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "41",
-      "guCd": "130",
-      "title": "2026. 02 월간매각 통계자료 : 경기 성남시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 651434000,
-          "sale_price_rate": 61.56
-        },
-        {
-          "type": "임야",
-          "total": 8,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 37.5,
-          "avg_appraisal": 901215813,
-          "sale_price_rate": 27.42
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 0,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 1095347000,
-          "sale_price_rate": 33.35
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1349627130,
-          "sale_price_rate": 102.62
-        },
-        {
-          "type": "아파트",
-          "total": 18,
-          "failed": 3,
-          "sold": 9,
-          "changed": 4,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1114822222,
-          "sale_price_rate": 106.77
-        },
-        {
-          "type": "연립주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 14,
-          "failed": 7,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 35.71,
-          "avg_appraisal": 329570000,
-          "sale_price_rate": 72.56
-        },
-        {
-          "type": "상가주택",
-          "total": 6,
-          "failed": 3,
-          "sold": 0,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 23,
-          "failed": 17,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 21.74,
-          "avg_appraisal": 516702458,
-          "sale_price_rate": 70.84
-        },
-        {
-          "type": "근린생활시설",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 11010445650,
-          "sale_price_rate": 60.86
-        },
-        {
-          "type": "근린상가",
-          "total": 47,
-          "failed": 33,
-          "sold": 12,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 25.53,
-          "avg_appraisal": 276350000,
-          "sale_price_rate": 39.18
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 3,
-          "failed": 0,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 641333333,
-          "sale_price_rate": 71.02
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 20000000,
-          "sale_price_rate": 70.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1094,6 +909,202 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "41",
+      "guCd": "130",
+      "title": "2026. 08 월간매각 통계자료 : 경기 성남시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 6,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 3,
+          "sold": 1,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 11.11,
+          "avg_appraisal": 178524000,
+          "sale_price_rate": 144.44
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "주차장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1079351350,
+          "sale_price_rate": 41.95
+        },
+        {
+          "type": "다가구주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 19,
+          "failed": 5,
+          "sold": 6,
+          "changed": 3,
+          "withdrawn": 5,
+          "sold_rate": 31.58,
+          "avg_appraisal": 1043833333,
+          "sale_price_rate": 110.18
+        },
+        {
+          "type": "연립주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 9,
+          "failed": 2,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 260333333,
+          "sale_price_rate": 70.49
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1197846320,
+          "sale_price_rate": 72.95
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 35,
+          "failed": 27,
+          "sold": 5,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 195800000,
+          "sale_price_rate": 61.16
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "노유자시설",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 61,
+          "failed": 43,
+          "sold": 12,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 19.67,
+          "avg_appraisal": 543363517,
+          "sale_price_rate": 60.73
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 381000000,
+          "sale_price_rate": 59.33
+        }
+      ]
     }
   ],
   "listings": [
@@ -1846,7 +1857,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1862,7 +1873,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1959,22 +1970,6 @@
       "status": "유찰 1회",
       "bid_date": "26.09.14",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2402266,
-      "case_no": "2025-52058",
-      "item_no": null,
-      "court": "성남1계",
-      "type": "오피스텔(주거)",
-      "address": "경기도 성남시 중원구 도촌동 562 으뜸이레가 3층307호",
-      "area": "건물 48.331㎡(14.62평) 대지권 17.827㎡(5.393평)",
-      "appraisal": 268000000,
-      "min_price": 64347000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.14",
-      "special": "선순위 전세권설정,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2102,7 +2097,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -2362,6 +2357,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2444008,
+      "case_no": "2025-3717",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "근린상가",
+      "address": "경기도 성남시 수정구 창곡동 562 아이페리온 7층705호",
+      "area": "건물 167.28㎡(50.602평) 대지권 28.98㎡(8.766평)",
+      "appraisal": 1250000000,
+      "min_price": 1250000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2446469,
+      "case_no": "2025-3847",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "근린상가",
+      "address": "경기도 성남시 중원구 성남동 3499 니즈몰 6층6004호 외 2필지",
+      "area": "건물 3.739㎡(1.131평) 대지권 1.044㎡(0.316평)",
+      "appraisal": 23000000,
+      "min_price": 23000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2452216,
       "case_no": "2025-4253",
       "item_no": null,
@@ -2506,6 +2533,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2444012,
+      "case_no": "2025-52824",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "근린상가",
+      "address": "경기도 성남시 중원구 성남동 4933 성남아리스타 1층123호 외 1필지",
+      "area": "건물 33.34㎡(10.085평) 대지권 9.7112㎡(2.938평)",
+      "appraisal": 1300000000,
+      "min_price": 1300000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2446474,
+      "case_no": "2025-52891",
+      "item_no": null,
+      "court": "성남5계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 중원구 도촌동 562 으뜸이레가 2층205호",
+      "area": "건물 51.608㎡(15.611평) 대지권 19.035㎡(5.758평)",
+      "appraisal": 290000000,
+      "min_price": 290000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2447421,
       "case_no": "2025-52919",
       "item_no": null,
@@ -2596,9 +2655,73 @@
       "appraisal": 647000000,
       "min_price": 647000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.09.21",
       "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2485480,
+      "case_no": "2025-53678",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "아파트",
+      "address": "경기도 성남시 수정구 신흥동 125-2 셀레스빌 15층1505호 외 6필지",
+      "area": "건물 76.876㎡(23.255평) 대지권 13.857㎡(4.192평)",
+      "appraisal": 583000000,
+      "min_price": 583000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "선순위 전세권설정",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2485482,
+      "case_no": "2025-53691",
+      "item_no": null,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 분당구 야탑동 341 성남(분당)여객자동차터미널및복합건물 제지2층 제341호",
+      "area": "건물 6.9㎡(2.087평) 대지권 3.0902㎡(0.935평)",
+      "appraisal": 53000000,
+      "min_price": 53000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2517050,
+      "case_no": "2026-115",
+      "item_no": 1,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 수정구 고등동 593 더판교이룸 2층202호 외 1개호 외 1필지",
+      "area": "건물 126.4㎡(38.236평) 대지권 55.52㎡(16.795평)",
+      "appraisal": 1082000000,
+      "min_price": 1082000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2572093,
+      "case_no": "2026-115",
+      "item_no": 2,
+      "court": "성남3계",
+      "type": "근린상가",
+      "address": "경기도 성남시 수정구 고등동 593 더판교이룸 2층204호 외 1개호 외 1필지",
+      "area": "건물 126.4㎡(38.236평) 대지권 55.52㎡(16.795평)",
+      "appraisal": 1082000000,
+      "min_price": 1082000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -3143,6 +3266,22 @@
       "status": "유찰 1회",
       "bid_date": "26.09.28",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2402266,
+      "case_no": "2025-52058",
+      "item_no": null,
+      "court": "성남1계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 성남시 중원구 도촌동 562 으뜸이레가 3층307호",
+      "area": "건물 48.331㎡(14.62평) 대지권 17.827㎡(5.393평)",
+      "appraisal": 268000000,
+      "min_price": 268000000,
+      "min_price_pct": 100,
+      "status": "유찰 4회",
+      "bid_date": "26.10.19",
+      "special": "선순위 전세권설정,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

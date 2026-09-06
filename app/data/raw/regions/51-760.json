@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "760",
@@ -7,169 +7,6 @@
     "name": "평창군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "760",
-      "title": "2026. 02 월간매각 통계자료 : 강원 평창군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 42,
-          "failed": 28,
-          "sold": 3,
-          "changed": 5,
-          "withdrawn": 5,
-          "sold_rate": 7.14,
-          "avg_appraisal": 817253000,
-          "sale_price_rate": 26.94
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 34,
-          "failed": 23,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 3,
-          "sold_rate": 17.65,
-          "avg_appraisal": 155607000,
-          "sale_price_rate": 57.58
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 462216000,
-          "sale_price_rate": 80.7
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 3390000,
-          "sale_price_rate": 55.13
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 910780000,
-          "sale_price_rate": 92.17
-        },
-        {
-          "type": "단독주택",
-          "total": 7,
-          "failed": 4,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 163386333,
-          "sale_price_rate": 60.28
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 230000000,
-          "sale_price_rate": 54.67
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 8,
-          "failed": 7,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 12.5,
-          "avg_appraisal": 194000000,
-          "sale_price_rate": 11.99
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 101000000,
-          "sale_price_rate": 16.83
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 518754000,
-          "sale_price_rate": 66.91
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1072,6 +909,136 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "760",
+      "title": "2026. 08 월간매각 통계자료 : 강원 평창군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 42,
+          "failed": 32,
+          "sold": 9,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 21.43,
+          "avg_appraisal": 172162333,
+          "sale_price_rate": 37.32
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 221131000,
+          "sale_price_rate": 26.31
+        },
+        {
+          "type": "임야",
+          "total": 20,
+          "failed": 11,
+          "sold": 5,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 108647000,
+          "sale_price_rate": 28.19
+        },
+        {
+          "type": "대지",
+          "total": 6,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 9555000,
+          "sale_price_rate": 34.3
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 216724000,
+          "sale_price_rate": 35.99
+        },
+        {
+          "type": "단독주택",
+          "total": 8,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 148217000,
+          "sale_price_rate": 88.45
+        },
+        {
+          "type": "연립주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 54000000,
+          "sale_price_rate": 29.05
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 10,
+          "failed": 10,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1588,22 +1555,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2435147,
-      "case_no": "2025-30543",
-      "item_no": null,
-      "court": "영월3계",
-      "type": "숙박(콘도등)",
-      "address": "강원특별자치도 평창군 대관령면 횡계리 245-66 라마다호텔앤스위트강원평창 1(호텔)동 3층에이-334호 외 4필지",
-      "area": "건물 26.5㎡(8.016평) 대지권 43.32㎡(13.104평)",
-      "appraisal": 214000000,
-      "min_price": 104860000,
-      "min_price_pct": 49,
-      "status": "유찰 1회",
-      "bid_date": "26.09.08",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2436037,
       "case_no": "2025-30546",
       "item_no": null,
@@ -2052,22 +2003,6 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2466594,
-      "case_no": "2024-33625",
-      "item_no": 2,
-      "court": "영월2계",
-      "type": "공장",
-      "address": "강원특별자치도 평창군 대관령면 유천리 117",
-      "area": "건물 439.87㎡(133.061평) 토지 1355㎡(409.888평)",
-      "appraisal": 508930000,
-      "min_price": 59875000,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.09.15",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2368341,
       "case_no": "2025-28",
       "item_no": null,
@@ -2210,22 +2145,6 @@
       "bid_date": "26.09.15",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2405533,
-      "case_no": "2025-554",
-      "item_no": null,
-      "court": "영월2계",
-      "type": "숙박시설",
-      "address": "강원특별자치도 평창군 봉평면 무이리 358",
-      "area": "건물 279.3㎡(84.488평) 토지 857㎡(259.243평)",
-      "appraisal": 407312000,
-      "min_price": 97796000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.15",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2397668,
@@ -2736,7 +2655,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -2752,7 +2671,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
@@ -3265,6 +3184,22 @@
       "status": "유찰 2회",
       "bid_date": "26.09.29",
       "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2444601,
+      "case_no": "2025-30562",
+      "item_no": null,
+      "court": "영월1계",
+      "type": "임야",
+      "address": "강원특별자치도 평창군 대관령면 차항리 123-14 외 1필지",
+      "area": "토지 709㎡(214.473평)",
+      "appraisal": 42327000,
+      "min_price": 42327000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.29",
+      "special": "맹지",
       "dpsl": "토지지분매각"
     },
     {

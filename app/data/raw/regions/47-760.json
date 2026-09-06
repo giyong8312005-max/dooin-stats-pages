@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "760",
@@ -7,81 +7,6 @@
     "name": "영양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "760",
-      "title": "2026. 02 월간매각 통계자료 : 경북 영양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 80100000,
-          "sale_price_rate": 31.21
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1106034000,
-          "sale_price_rate": 70.07
-        },
-        {
-          "type": "임야",
-          "total": 21,
-          "failed": 15,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 197834220,
-          "sale_price_rate": 56.78
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -355,6 +280,59 @@
           "sold_rate": 50.0,
           "avg_appraisal": 313527680,
           "sale_price_rate": 21.05
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "760",
+      "title": "2026. 08 월간매각 통계자료 : 경북 영양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 14,
+          "failed": 11,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 72096500,
+          "sale_price_rate": 48.55
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
         }
       ]
     }

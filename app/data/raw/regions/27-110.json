@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "27",
     "guCd": "110",
@@ -7,70 +7,6 @@
     "name": "중구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "27",
-      "guCd": "110",
-      "title": "2026. 02 월간매각 통계자료 : 대구 중구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 4,
-          "failed": 0,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 334500000,
-          "sale_price_rate": 84.85
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 6,
-          "failed": 2,
-          "sold": 0,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -575,6 +511,103 @@
           "sold_rate": 3.85,
           "avg_appraisal": 83533000,
           "sale_price_rate": 36.06
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "27",
+      "guCd": "110",
+      "title": "2026. 08 월간매각 통계자료 : 대구 중구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 14290840000,
+          "sale_price_rate": 39.19
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 8,
+          "failed": 5,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 405000000,
+          "sale_price_rate": 87.57
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1255774500,
+          "sale_price_rate": 72.08
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 25,
+          "failed": 17,
+          "sold": 7,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 28.0,
+          "avg_appraisal": 119857143,
+          "sale_price_rate": 63.05
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 30,
+          "failed": 22,
+          "sold": 3,
+          "changed": 5,
+          "withdrawn": 0,
+          "sold_rate": 10.0,
+          "avg_appraisal": 505333333,
+          "sale_price_rate": 21.8
         },
         {
           "type": "창고시설",
@@ -1244,7 +1277,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각"
     },
     {
@@ -1376,6 +1409,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2471864,
+      "case_no": "2025-9774",
+      "item_no": null,
+      "court": "대구12계",
+      "type": "근린상가",
+      "address": "대구광역시 중구 대신동 2105 서문시장2지구종합상가 4층354호",
+      "area": "건물 7.6㎡(2.299평) 대지권 3.3889㎡(1.025평)",
+      "appraisal": 97000000,
+      "min_price": 97000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2465314,
       "case_no": "2025-1207",
       "item_no": null,
@@ -1405,6 +1454,22 @@
       "status": "유찰 1회",
       "bid_date": "26.09.22",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2490044,
+      "case_no": "2025-10237",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "단독주택",
+      "address": "대구광역시 중구 남산동 2380-46 외 1필지",
+      "area": "건물 66.08㎡(19.989평) 토지 93㎡(28.133평)",
+      "appraisal": 168116960,
+      "min_price": 168116960,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1451,22 +1516,6 @@
       "min_price": 585045000,
       "min_price_pct": 49,
       "status": "유찰 2회",
-      "bid_date": "26.09.30",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2564963,
-      "case_no": "2025-1245",
-      "item_no": 3,
-      "court": "대구8계",
-      "type": "오피스텔(주거)",
-      "address": "대구광역시 중구 남일동 29-3 동성로하우스디어반 25층2510호 외 1필지",
-      "area": "건물 25.1142㎡(7.597평) 대지권 3.3231㎡(1.005평)",
-      "appraisal": 120000000,
-      "min_price": 84000000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
       "bid_date": "26.09.30",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"

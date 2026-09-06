@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "710",
@@ -7,15 +7,6 @@
     "name": "담양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "710",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -388,6 +379,180 @@
           "sold_rate": 0.0,
           "avg_appraisal": 0,
           "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "710",
+      "title": "2026. 08 월간매각 통계자료 : 광주 담양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 1506856500,
+          "sale_price_rate": 63.69
+        },
+        {
+          "type": "답",
+          "total": 13,
+          "failed": 11,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 7.69,
+          "avg_appraisal": 24205000,
+          "sale_price_rate": 45.86
+        },
+        {
+          "type": "임야",
+          "total": 16,
+          "failed": 11,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 18.75,
+          "avg_appraisal": 24817573,
+          "sale_price_rate": 39.04
+        },
+        {
+          "type": "대지",
+          "total": 12,
+          "failed": 10,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 8.33,
+          "avg_appraisal": 58793000,
+          "sale_price_rate": 26.46
+        },
+        {
+          "type": "주차장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 15,
+          "failed": 10,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 13.33,
+          "avg_appraisal": 333478900,
+          "sale_price_rate": 51.29
+        },
+        {
+          "type": "다세대주택",
+          "total": 10,
+          "failed": 8,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 280500000,
+          "sale_price_rate": 53.36
+        },
+        {
+          "type": "기숙사",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 356437120,
+          "sale_price_rate": 44.89
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1472655400,
+          "sale_price_rate": 59.82
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 3400850560,
+          "sale_price_rate": 50.05
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 388276000,
+          "sale_price_rate": 60.0
         }
       ]
     }
@@ -858,22 +1023,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2405673,
-      "case_no": "2025-32688",
-      "item_no": null,
-      "court": "광주2계",
-      "type": "단독주택",
-      "address": "전라남도 담양군 담양읍 객사리 56-9",
-      "area": "건물 51.33㎡(15.527평) 토지 76㎡(22.99평)",
-      "appraisal": 72237260,
-      "min_price": 25891200,
-      "min_price_pct": 36,
-      "status": "유찰 4회",
-      "bid_date": "26.09.17",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2450002,
       "case_no": "2025-33864",
       "item_no": null,
@@ -954,6 +1103,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2503800,
+      "case_no": "2026-30501",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "단독주택",
+      "address": "전남광주통합특별시 담양군 월산면 중월리 638",
+      "area": "건물 99.77㎡(30.18평) 토지 379.8㎡(114.89평)",
+      "appraisal": 434428800,
+      "min_price": 434428800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2388709,
       "case_no": "2025-32037",
       "item_no": null,
@@ -1032,6 +1197,54 @@
       "bid_date": "26.09.22",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2532823,
+      "case_no": "2026-31415",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "연립주택",
+      "address": "전남광주통합특별시 담양군 담양읍 객사리 92 일신프레뷰연립주택 101동 2층201호 외 1필지",
+      "area": "건물 96.5077㎡(29.194평) 대지권 113.0889㎡(34.209평)",
+      "appraisal": 343000000,
+      "min_price": 343000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2536798,
+      "case_no": "2026-31602",
+      "item_no": 1,
+      "court": "광주4계",
+      "type": "대지",
+      "address": "전남광주통합특별시 담양군 담양읍 학동리 723",
+      "area": "토지 1943.1㎡(587.788평)",
+      "appraisal": 940460400,
+      "min_price": 940460400,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2573083,
+      "case_no": "2026-31602",
+      "item_no": 2,
+      "court": "광주4계",
+      "type": "대지",
+      "address": "전남광주통합특별시 담양군 담양읍 학동리 724",
+      "area": "토지 754.2㎡(228.146평)",
+      "appraisal": 423106200,
+      "min_price": 423106200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2426582,
@@ -1258,6 +1471,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2348050,
+      "case_no": "2024-84814",
+      "item_no": null,
+      "court": "광주11계",
+      "type": "임야",
+      "address": "전라남도 담양군 담양읍 양각리 86-4 외 2필지",
+      "area": "토지 6266㎡(1895.465평)",
+      "appraisal": 1154503000,
+      "min_price": 413776000,
+      "min_price_pct": 36,
+      "status": "유찰 4회",
+      "bid_date": "26.09.29",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2467006,
       "case_no": "2025-6897",
       "item_no": null,
@@ -1292,18 +1521,18 @@
     {
       "tid": 2562315,
       "case_no": "2025-33506",
-      "item_no": 1,
+      "item_no": null,
       "court": "광주11계",
       "type": "답",
-      "address": "전라남도 담양군 수북면 대방리 825-1",
-      "area": "토지 1699㎡(513.948평)",
+      "address": "전라남도 담양군 수북면 대방리 825-1 외 4필지",
+      "area": "토지 9276㎡(2805.99평)",
       "appraisal": 3151865000,
       "min_price": 3151865000,
       "min_price_pct": 100,
       "status": "예정물건",
       "bid_date": "26.09.29",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2480797,

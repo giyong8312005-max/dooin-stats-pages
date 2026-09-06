@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "11",
     "guCd": "170",
@@ -7,81 +7,6 @@
     "name": "용산구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "11",
-      "guCd": "170",
-      "title": "2026. 02 월간매각 통계자료 : 서울 용산구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 3403611800,
-          "sale_price_rate": 144.88
-        },
-        {
-          "type": "아파트",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 2110000000,
-          "sale_price_rate": 118.53
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 0,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 368000000,
-          "sale_price_rate": 121.4
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 707000000,
-          "sale_price_rate": 101.43
-        },
-        {
-          "type": "업무시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -577,57 +502,106 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "11",
+      "guCd": "170",
+      "title": "2026. 08 월간매각 통계자료 : 서울 용산구",
+      "rows": [
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 3144000000,
+          "sale_price_rate": 68.42
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 731000000,
+          "sale_price_rate": 65.67
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2252187,
-      "case_no": "2024-50154",
-      "item_no": null,
-      "court": "서울서부5계",
-      "type": "아파트",
-      "address": "서울 용산구 한강로3가 91, 104동 12층1204호 (한강로3가,한강로우림필유아파트)",
-      "area": "건물 84.99㎡(25.709평) 대지권 53.6485㎡(16.229평)",
-      "appraisal": 2160000000,
-      "min_price": 2160000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.01",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2313283,
-      "case_no": "2024-56435",
-      "item_no": null,
-      "court": "서울서부5계",
-      "type": "아파트",
-      "address": "서울 용산구 이촌동 406, 219동 7층704호 (이촌동,한가람아파트) 외 7필지",
-      "area": "건물 114.96㎡(34.775평) 대지권 39.279㎡(11.882평)",
-      "appraisal": 2520000000,
-      "min_price": 2520000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.01",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각 / 중복"
-    },
-    {
-      "tid": 2456478,
-      "case_no": "2025-51955",
-      "item_no": null,
-      "court": "서울서부7계",
-      "type": "아파트",
-      "address": "서울특별시 용산구 이촌동 411 동아그린아파트 105동 12층1203호",
-      "area": "건물 114.96㎡(34.775평) 대지권 36.79㎡(11.129평)",
-      "appraisal": 2240000000,
-      "min_price": 1792000000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.09.01",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2357685,
       "case_no": "2024-2988",
@@ -738,6 +712,70 @@
       "status": "유찰 1회",
       "bid_date": "26.09.29",
       "special": "",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2252187,
+      "case_no": "2024-50154",
+      "item_no": null,
+      "court": "서울서부5계",
+      "type": "아파트",
+      "address": "서울 용산구 한강로3가 91, 104동 12층1204호 (한강로3가,한강로우림필유아파트)",
+      "area": "건물 84.99㎡(25.709평) 대지권 53.6485㎡(16.229평)",
+      "appraisal": 2160000000,
+      "min_price": 1728000000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.06",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2313283,
+      "case_no": "2024-56435",
+      "item_no": null,
+      "court": "서울서부5계",
+      "type": "아파트",
+      "address": "서울 용산구 이촌동 406, 219동 7층704호 (이촌동,한가람아파트) 외 7필지",
+      "area": "건물 114.96㎡(34.775평) 대지권 39.279㎡(11.882평)",
+      "appraisal": 2520000000,
+      "min_price": 2016000000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.06",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각 / 중복"
+    },
+    {
+      "tid": 2303868,
+      "case_no": "2024-56954",
+      "item_no": null,
+      "court": "서울서부3계",
+      "type": "대지",
+      "address": "서울특별시 용산구 용산동2가 29-10",
+      "area": "건물은 매각제외 토지 75.05㎡(22.703평)",
+      "appraisal": 761757500,
+      "min_price": 487525000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.12.08",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2312408,
+      "case_no": "2024-57926",
+      "item_no": null,
+      "court": "서울서부3계",
+      "type": "다세대주택",
+      "address": "서울 용산구 이촌동 301-153,3층 302호",
+      "area": "건물 132.1㎡(39.96평) 토지 64.1278㎡(19.399평) / 미등기감정가격포함",
+      "appraisal": 1630000000,
+      "min_price": 1304000000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.12.08",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "건물전부, 토지지분"
     }
   ]

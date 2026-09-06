@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "130",
@@ -7,213 +7,6 @@
     "name": "경주시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "130",
-      "title": "2026. 02 월간매각 통계자료 : 경북 경주시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 34,
-          "failed": 25,
-          "sold": 6,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 17.65,
-          "avg_appraisal": 1088123167,
-          "sale_price_rate": 37.7
-        },
-        {
-          "type": "답",
-          "total": 29,
-          "failed": 18,
-          "sold": 3,
-          "changed": 6,
-          "withdrawn": 0,
-          "sold_rate": 10.34,
-          "avg_appraisal": 48627333,
-          "sale_price_rate": 51.19
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 22,
-          "failed": 16,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 18.18,
-          "avg_appraisal": 192489453,
-          "sale_price_rate": 54.83
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 11,
-          "failed": 7,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 27.27,
-          "avg_appraisal": 278939027,
-          "sale_price_rate": 53.28
-        },
-        {
-          "type": "아파트",
-          "total": 4,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 50.0,
-          "avg_appraisal": 340000000,
-          "sale_price_rate": 88.3
-        },
-        {
-          "type": "다세대주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 8,
-          "failed": 2,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 25.0,
-          "avg_appraisal": 1230235150,
-          "sale_price_rate": 67.21
-        },
-        {
-          "type": "숙박시설",
-          "total": 8,
-          "failed": 4,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 37.5,
-          "avg_appraisal": 5530916023,
-          "sale_price_rate": 48.14
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 9,
-          "failed": 5,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 22.22,
-          "avg_appraisal": 2956896015,
-          "sale_price_rate": 45.11
-        },
-        {
-          "type": "창고시설",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 4,
-          "failed": 1,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 18000000,
-          "sale_price_rate": 95.15
-        },
-        {
-          "type": "선박",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 165501000,
-          "sale_price_rate": 51.69
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1809,6 +1602,312 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "130",
+      "title": "2026. 08 월간매각 통계자료 : 경북 경주시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 49,
+          "failed": 38,
+          "sold": 5,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 10.2,
+          "avg_appraisal": 89935000,
+          "sale_price_rate": 26.25
+        },
+        {
+          "type": "답",
+          "total": 72,
+          "failed": 54,
+          "sold": 12,
+          "changed": 5,
+          "withdrawn": 1,
+          "sold_rate": 16.67,
+          "avg_appraisal": 223836533,
+          "sale_price_rate": 41.12
+        },
+        {
+          "type": "임야",
+          "total": 50,
+          "failed": 39,
+          "sold": 4,
+          "changed": 3,
+          "withdrawn": 2,
+          "sold_rate": 8.0,
+          "avg_appraisal": 380369753,
+          "sale_price_rate": 34.68
+        },
+        {
+          "type": "대지",
+          "total": 14,
+          "failed": 12,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 746288000,
+          "sale_price_rate": 73.7
+        },
+        {
+          "type": "창고용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "유지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 601524000,
+          "sale_price_rate": 30.76
+        },
+        {
+          "type": "묘지",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 305515000,
+          "sale_price_rate": 35.12
+        },
+        {
+          "type": "단독주택",
+          "total": 29,
+          "failed": 17,
+          "sold": 10,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 34.48,
+          "avg_appraisal": 320931392,
+          "sale_price_rate": 47.96
+        },
+        {
+          "type": "다가구주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 971899000,
+          "sale_price_rate": 56.77
+        },
+        {
+          "type": "아파트",
+          "total": 19,
+          "failed": 12,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 26.32,
+          "avg_appraisal": 212400000,
+          "sale_price_rate": 77.96
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 456037860,
+          "sale_price_rate": 17.11
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 11,
+          "failed": 2,
+          "sold": 1,
+          "changed": 7,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 63000000,
+          "sale_price_rate": 34.3
+        },
+        {
+          "type": "근린생활시설",
+          "total": 6,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 16.67,
+          "avg_appraisal": 558945200,
+          "sale_price_rate": 48.99
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 888300475,
+          "sale_price_rate": 46.58
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 174727000,
+          "sale_price_rate": 49.79
+        },
+        {
+          "type": "공장",
+          "total": 9,
+          "failed": 3,
+          "sold": 1,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 11.11,
+          "avg_appraisal": 1547405350,
+          "sale_price_rate": 77.55
+        },
+        {
+          "type": "창고시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 519829800,
+          "sale_price_rate": 49.06
+        },
+        {
+          "type": "승용차",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 38000000,
+          "sale_price_rate": 67.76
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -2099,22 +2198,6 @@
       "bid_date": "26.09.08",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2466898,
-      "case_no": "2025-571",
-      "item_no": null,
-      "court": "경주2계",
-      "type": "전",
-      "address": "경상북도 경주시 외동읍 죽동리 586 외 6필지",
-      "area": "토지 1861㎡(562.953평)",
-      "appraisal": 550857000,
-      "min_price": 132261000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.08",
-      "special": "농지취득자격증명,맹지,대항력 있는 임차인",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2466899,
@@ -3205,22 +3288,6 @@
       "dpsl": "건물전부, 토지지분"
     },
     {
-      "tid": 2507771,
-      "case_no": "2026-10092",
-      "item_no": null,
-      "court": "경주2계",
-      "type": "답",
-      "address": "경상북도 경주시 배동 105-6 외 3필지",
-      "area": "토지 2604㎡(787.71평)",
-      "appraisal": 636052000,
-      "min_price": 636052000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.08",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2510813,
       "case_no": "2026-10100",
       "item_no": null,
@@ -3719,11 +3786,11 @@
     {
       "tid": 2482791,
       "case_no": "2025-608",
-      "item_no": 1,
+      "item_no": null,
       "court": "경주3계",
       "type": "근린상가",
-      "address": "경상북도 경주시 황성동 521-76 황성상가 제2층 제201호",
-      "area": "건물 30㎡(9.075평) 대지권 36.4308㎡(11.02평)",
+      "address": "경상북도 경주시 황성동 521-76 황성상가 제2층 제201호 외 1개호",
+      "area": "건물 60㎡(18.15평) 대지권 72.8616㎡(22.041평)",
       "appraisal": 98000000,
       "min_price": 98000000,
       "min_price_pct": 100,
@@ -4209,7 +4276,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4251,13 +4318,13 @@
       "court": "경주3계",
       "type": "답",
       "address": "경상북도 경주시 양남면 신대리 1008 외 2필지",
-      "area": "토지 5229.7519㎡(1582평)",
+      "area": "토지 5230.37㎡(1582.187평)",
       "appraisal": 58896455,
       "min_price": 58896455,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
     },
     {
@@ -4321,7 +4388,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
@@ -4353,7 +4420,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4417,7 +4484,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4433,7 +4500,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "법정지상권,분묘기지권",
+      "special": "법정지상권,분묘기지권,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -4443,13 +4510,13 @@
       "court": "경주3계",
       "type": "과수원",
       "address": "경상북도 경주시 천북면 신당리 256 외 3필지",
-      "area": "토지 259.6471㎡(78.543평)",
+      "area": "토지 259.64㎡(78.541평)",
       "appraisal": 46025580,
       "min_price": 46025580,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
@@ -5381,6 +5448,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2156472,
+      "case_no": "2023-53",
+      "item_no": null,
+      "court": "경주1계",
+      "type": "공장",
+      "address": "경상북도 경주시 강동면 유금리 309-2 외 1필지",
+      "area": "건물 2859㎡(864.848평) 토지 7170㎡(2168.925평)",
+      "appraisal": 3895508000,
+      "min_price": 1908799000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.06",
+      "special": "유치권,유치권배제,임금채권자,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2351880,
       "case_no": "2024-3509",
       "item_no": null,
@@ -5395,6 +5478,22 @@
       "bid_date": "26.10.06",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2319082,
+      "case_no": "2024-12787",
+      "item_no": null,
+      "court": "경주1계",
+      "type": "전",
+      "address": "경상북도 경주시 북군동 326-5",
+      "area": "토지 562㎡(170.005평)",
+      "appraisal": 58448000,
+      "min_price": 2359000,
+      "min_price_pct": 4,
+      "status": "유찰 9회",
+      "bid_date": "26.10.06",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2412687,
@@ -6259,6 +6358,22 @@
       "bid_date": "26.10.13",
       "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2489186,
+      "case_no": "2025-473",
+      "item_no": 2,
+      "court": "경주4계",
+      "type": "답",
+      "address": "경상북도 경주시 강동면 유금리 851-1",
+      "area": "토지 767㎡(232.017평)",
+      "appraisal": 34515000,
+      "min_price": 8287000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.27",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     }
   ]
 }

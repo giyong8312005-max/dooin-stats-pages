@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "820",
@@ -7,180 +7,6 @@
     "name": "고성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "820",
-      "title": "2026. 02 월간매각 통계자료 : 강원 고성군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 5,
-          "failed": 3,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 5,
-          "failed": 1,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 40.0,
-          "avg_appraisal": 174526000,
-          "sale_price_rate": 83.31
-        },
-        {
-          "type": "임야",
-          "total": 13,
-          "failed": 10,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 15.38,
-          "avg_appraisal": 223152700,
-          "sale_price_rate": 87.46
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 105754000,
-          "sale_price_rate": 70.45
-        },
-        {
-          "type": "묘지",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 111289720,
-          "sale_price_rate": 59.31
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 8,
-          "failed": 0,
-          "sold": 8,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 208375000,
-          "sale_price_rate": 38.85
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -866,6 +692,103 @@
           "type": "동물및식물관련시설",
           "total": 2,
           "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "820",
+      "title": "2026. 08 월간매각 통계자료 : 강원 고성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 17,
+          "failed": 8,
+          "sold": 3,
+          "changed": 4,
+          "withdrawn": 2,
+          "sold_rate": 17.65,
+          "avg_appraisal": 235972667,
+          "sale_price_rate": 34.16
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 8,
+          "failed": 6,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 2176013640,
+          "sale_price_rate": 52.85
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1669508900,
+          "sale_price_rate": 91.26
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 1,
           "sold": 0,
           "changed": 0,
           "withdrawn": 0,
@@ -1710,6 +1633,38 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2419331,
+      "case_no": "2025-10291",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "창고시설",
+      "address": "강원특별자치도 고성군 거진읍 화포리 산157-7",
+      "area": "건물 106.45㎡(32.201평) 토지 7982㎡(2414.555평)",
+      "appraisal": 418332400,
+      "min_price": 418332400,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "법정지상권,분묘기지권",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2421163,
+      "case_no": "2025-10293",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "공장",
+      "address": "강원특별자치도 고성군 죽왕면 오호리 278-23 외 1필지",
+      "area": "건물 6685.55㎡(2022.379평) 토지 6810.3㎡(2060.116평)",
+      "appraisal": 6752804680,
+      "min_price": 6752804680,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "위반건축물,임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2444598,
       "case_no": "2025-10355",
       "item_no": null,
@@ -1758,6 +1713,54 @@
       "dpsl": "건물만 매각"
     },
     {
+      "tid": 2494180,
+      "case_no": "2026-5",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "임야",
+      "address": "강원특별자치도 고성군 죽왕면 가진리 233-1 외 1필지",
+      "area": "토지 4312㎡(1304.38평)",
+      "appraisal": 1250284000,
+      "min_price": 1250284000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2510666,
+      "case_no": "2026-29",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "숙박(콘도등)",
+      "address": "강원특별자치도 고성군 죽왕면 삼포리 243-13 (삼포리조트 휴양콘도미니엄) 2층221호 외 1필지",
+      "area": "건물 4.236㎡(1.281평) 대지권 6.193㎡(1.873평)",
+      "appraisal": 3000000,
+      "min_price": 2100000,
+      "min_price_pct": 70,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2494185,
+      "case_no": "2026-10007",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "동물및식물관련시설",
+      "address": "강원특별자치도 고성군 현내면 대진리 154-16 외 5필지",
+      "area": "건물 1152㎡(348.48평) 토지 16634㎡(5031.785평)",
+      "appraisal": 2318320000,
+      "min_price": 2318320000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "분묘기지권",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2494186,
       "case_no": "2026-10009",
       "item_no": null,
@@ -1772,6 +1775,54 @@
       "bid_date": "26.09.23",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2495637,
+      "case_no": "2026-10017",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "전",
+      "address": "강원특별자치도 고성군 토성면 천진리 180-38 외 1필지",
+      "area": "토지 394㎡(119.185평)",
+      "appraisal": 223190000,
+      "min_price": 223190000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2495638,
+      "case_no": "2026-10019",
+      "item_no": 1,
+      "court": "속초1계",
+      "type": "답",
+      "address": "강원도 고성군 현내면 제진리 409",
+      "area": "토지 1818㎡(549.945평)",
+      "appraisal": 85446000,
+      "min_price": 85446000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2503714,
+      "case_no": "2026-10035",
+      "item_no": null,
+      "court": "속초1계",
+      "type": "임야",
+      "address": "강원특별자치도 고성군 토성면 용암리 산48-15 외 1필지",
+      "area": "토지 1198㎡(362.395평)",
+      "appraisal": 179302000,
+      "min_price": 179302000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "분묘기지권",
+      "dpsl": "토지 매각"
     }
   ]
 }

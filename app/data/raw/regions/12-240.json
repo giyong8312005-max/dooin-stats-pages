@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "240",
@@ -7,15 +7,6 @@
     "name": "서구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "240",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -465,6 +456,191 @@
           "sold_rate": 33.33,
           "avg_appraisal": 35000000,
           "sale_price_rate": 66.18
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "240",
+      "title": "2026. 08 월간매각 통계자료 : 광주 서구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 23234250,
+          "sale_price_rate": 46.7
+        },
+        {
+          "type": "단독주택",
+          "total": 7,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 297577140,
+          "sale_price_rate": 57.69
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 37,
+          "failed": 15,
+          "sold": 11,
+          "changed": 5,
+          "withdrawn": 3,
+          "sold_rate": 29.73,
+          "avg_appraisal": 335572727,
+          "sale_price_rate": 80.09
+        },
+        {
+          "type": "다세대주택",
+          "total": 6,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1042879960,
+          "sale_price_rate": 58.29
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 12,
+          "failed": 9,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 16.67,
+          "avg_appraisal": 153500000,
+          "sale_price_rate": 57.79
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 67000000,
+          "sale_price_rate": 29.12
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 3424894050,
+          "sale_price_rate": 61.98
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 20,
+          "failed": 15,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 3044250000,
+          "sale_price_rate": 36.02
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 11500000,
+          "sale_price_rate": 67.83
         }
       ]
     }
@@ -935,6 +1111,70 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2494817,
+      "case_no": "2025-34475",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "전",
+      "address": "광주광역시 서구 매월동 32",
+      "area": "토지 1675㎡(506.688평)",
+      "appraisal": 1926250000,
+      "min_price": 1926250000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "선순위 가등기,선순위 가처분",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2497242,
+      "case_no": "2026-30285",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "근린상가",
+      "address": "광주광역시 서구 화정동 1611 유니버시아드힐스테이트 상가1동 1층103호",
+      "area": "건물 169.71㎡(51.337평) 대지권 86.2917㎡(26.103평)",
+      "appraisal": 1030000000,
+      "min_price": 1030000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2531313,
+      "case_no": "2026-31129",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "오피스텔(주거)",
+      "address": "광주광역시 서구 농성동 417-18 골든힐스타워 12층1227호 외 4필지",
+      "area": "건물 22.23㎡(6.725평) 대지권 5.224㎡(1.58평)",
+      "appraisal": 51000000,
+      "min_price": 51000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2540433,
+      "case_no": "2026-31587",
+      "item_no": null,
+      "court": "광주1계",
+      "type": "화물차",
+      "address": "전남광주통합특별시 서구 벽진동 537-1, 하나로에프앤씨",
+      "area": "(포터Ⅱ (PORTERⅡ) / 2023년식 / 67,639㎞)",
+      "appraisal": 18000000,
+      "min_price": 18000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "",
+      "dpsl": ""
+    },
+    {
       "tid": 2474119,
       "case_no": "2025-7470",
       "item_no": 1,
@@ -1063,6 +1303,54 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2498733,
+      "case_no": "2026-30316",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 서구 내방동 848 화정센트럴파크 110동 5층505호",
+      "area": "건물 4.5531㎡(1.377평) 대지권 2.4918㎡(0.754평)",
+      "appraisal": 14100000,
+      "min_price": 14100000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2518585,
+      "case_no": "2026-30899",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "답",
+      "address": "전남광주통합특별시 서구 세하동 577-3",
+      "area": "토지 1018㎡(307.945평)",
+      "appraisal": 207672000,
+      "min_price": 207672000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2523093,
+      "case_no": "2026-31089",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "근린상가",
+      "address": "전남광주통합특별시 서구 마륵동 30-5 마륵시티 201호",
+      "area": "건물 62.9㎡(19.027평) 대지권 55.3㎡(16.728평)",
+      "appraisal": 225000000,
+      "min_price": 225000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2426106,
       "case_no": "2025-4341",
       "item_no": null,
@@ -1159,6 +1447,22 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
+      "tid": 2533332,
+      "case_no": "2026-4228",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 서구 금호동 240-2 종원팰리스빌아파트 110동 3층307호 외 6필지",
+      "area": "건물 84.9831㎡(25.707평) 대지권 47.9628㎡(14.509평)",
+      "appraisal": 283000000,
+      "min_price": 283000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2509975,
       "case_no": "2026-30656",
       "item_no": null,
@@ -1199,8 +1503,8 @@
       "address": "광주광역시 서구 동천동 615 호반베르디움 501동 14층1402호",
       "area": "건물 144.4825㎡(43.706평) 대지권 79.3163㎡(23.993평)",
       "appraisal": 768000000,
-      "min_price": 614400000,
-      "min_price_pct": 80,
+      "min_price": 537600000,
+      "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.09.23",
       "special": "",

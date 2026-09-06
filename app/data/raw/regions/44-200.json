@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "44",
     "guCd": "200",
@@ -7,191 +7,6 @@
     "name": "아산시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "44",
-      "guCd": "200",
-      "title": "2026. 02 월간매각 통계자료 : 충남 아산시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 14,
-          "failed": 11,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 21.43,
-          "avg_appraisal": 573014967,
-          "sale_price_rate": 59.69
-        },
-        {
-          "type": "답",
-          "total": 10,
-          "failed": 7,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 10.0,
-          "avg_appraisal": 76109000,
-          "sale_price_rate": 72.44
-        },
-        {
-          "type": "임야",
-          "total": 10,
-          "failed": 6,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 512071000,
-          "sale_price_rate": 24.87
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 20.0,
-          "avg_appraisal": 1022461300,
-          "sale_price_rate": 55.36
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 10,
-          "failed": 7,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 248059500,
-          "sale_price_rate": 83.57
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1598734960,
-          "sale_price_rate": 70.84
-        },
-        {
-          "type": "아파트",
-          "total": 26,
-          "failed": 10,
-          "sold": 13,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 202923077,
-          "sale_price_rate": 87.29
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 66.67,
-          "avg_appraisal": 683414140,
-          "sale_price_rate": 68.4
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 153000000,
-          "sale_price_rate": 60.81
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 20,
-          "failed": 19,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 5.0,
-          "avg_appraisal": 143000000,
-          "sale_price_rate": 45.46
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 4646632800,
-          "sale_price_rate": 76.79
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 448000000,
-          "sale_price_rate": 35.74
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1644,6 +1459,235 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "44",
+      "guCd": "200",
+      "title": "2026. 08 월간매각 통계자료 : 충남 아산시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 14,
+          "failed": 9,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 49740240,
+          "sale_price_rate": 36.61
+        },
+        {
+          "type": "답",
+          "total": 6,
+          "failed": 3,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 12,
+          "failed": 6,
+          "sold": 3,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1859797220,
+          "sale_price_rate": 41.69
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 2,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 99056167,
+          "sale_price_rate": 37.43
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 8,
+          "failed": 5,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1453689600,
+          "sale_price_rate": 63.91
+        },
+        {
+          "type": "아파트",
+          "total": 30,
+          "failed": 21,
+          "sold": 8,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 26.67,
+          "avg_appraisal": 222250000,
+          "sale_price_rate": 85.6
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 1271297550,
+          "sale_price_rate": 65.55
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 5,
+          "failed": 2,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 140500000,
+          "sale_price_rate": 58.1
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 55000000,
+          "sale_price_rate": 66.36
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 222000000,
+          "sale_price_rate": 62.43
+        },
+        {
+          "type": "공장",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 9,
+          "failed": 8,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 117000000,
+          "sale_price_rate": 32.57
+        }
+      ]
     }
   ],
   "listings": [
@@ -1712,22 +1756,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2453632,
-      "case_no": "2025-712",
-      "item_no": null,
-      "court": "천안6계",
-      "type": "공장",
-      "address": "충청남도 아산시 음봉면 산동리 171-6 외 24필지",
-      "area": "건물 1043.3㎡(315.598평) 토지 2128.5631㎡(643.89평)",
-      "appraisal": 1953056515,
-      "min_price": 1367140000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.08",
-      "special": "위반건축물,대항력 있는 임차인",
-      "dpsl": "건물전부, 토지지분"
-    },
-    {
       "tid": 2459029,
       "case_no": "2025-747",
       "item_no": null,
@@ -1785,22 +1813,6 @@
       "area": "건물 59.34㎡(17.95평) 대지권 40.5674㎡(12.272평)",
       "appraisal": 59000000,
       "min_price": 41300000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.08",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2412262,
-      "case_no": "2025-11684",
-      "item_no": null,
-      "court": "천안6계",
-      "type": "아파트",
-      "address": "충청남도 아산시 모종동 847 모종금호어울림아이퍼스트아파트 101동 15층1505호 외 1필지",
-      "area": "건물 59.9666㎡(18.14평) 대지권 35.5147㎡(10.743평)",
-      "appraisal": 274000000,
-      "min_price": 191800000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.09.08",
@@ -2048,22 +2060,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2347768,
-      "case_no": "2024-102881",
-      "item_no": 9,
-      "court": "천안5계",
-      "type": "근린상가",
-      "address": "충남 아산시 방축동 773, 상가동 2층201호 (방축동,삼일파라뷰더스테이)",
-      "area": "건물 64.38㎡(19.475평) 대지권 43.4441㎡(13.142평)",
-      "appraisal": 143000000,
-      "min_price": 49049000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.09",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2286900,
       "case_no": "2024-104863",
       "item_no": null,
@@ -2142,22 +2138,6 @@
       "bid_date": "26.09.09",
       "special": "",
       "dpsl": "건물전부, 토지지분"
-    },
-    {
-      "tid": 2424534,
-      "case_no": "2025-582",
-      "item_no": null,
-      "court": "천안5계",
-      "type": "공장",
-      "address": "충청남도 아산시 염치읍 서원리 70-4 외 1필지",
-      "area": "건물 3125㎡(945.313평) 토지 12660㎡(3829.65평)",
-      "appraisal": 4760080000,
-      "min_price": 2332439000,
-      "min_price_pct": 49,
-      "status": "유찰 3회",
-      "bid_date": "26.09.09",
-      "special": "맹지",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2433787,
@@ -2477,7 +2457,7 @@
       "status": "신건",
       "bid_date": "26.09.14",
       "special": "법정지상권,농지취득자격증명,맹지",
-      "dpsl": "건물전부, 토지지분"
+      "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
       "tid": 2451307,
@@ -2574,22 +2554,6 @@
       "bid_date": "26.09.14",
       "special": "",
       "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2401894,
-      "case_no": "2025-11573",
-      "item_no": null,
-      "court": "천안4계",
-      "type": "근린상가",
-      "address": "충청남도 아산시 탕정면 용두리 704 갤럭시엠타워 1층106호",
-      "area": "건물 48.1㎡(14.55평) 대지권 10.14㎡(3.067평)",
-      "appraisal": 739000000,
-      "min_price": 124204000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.09.14",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2481682,
@@ -2784,22 +2748,6 @@
       "dpsl": ""
     },
     {
-      "tid": 2492280,
-      "case_no": "2025-855",
-      "item_no": null,
-      "court": "천안7계",
-      "type": "공장",
-      "address": "충청남도 아산시 선장면 선창리 198-62 외 13필지",
-      "area": "건물 1721.34㎡(520.705평) 토지 50269㎡(15206.373평)",
-      "appraisal": 15793901530,
-      "min_price": 15793901530,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.15",
-      "special": "농지취득자격증명",
-      "dpsl": "건물전부, 토지지분"
-    },
-    {
       "tid": 2391727,
       "case_no": "2025-11410",
       "item_no": null,
@@ -2992,22 +2940,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2494720,
-      "case_no": "2026-10050",
-      "item_no": 1,
-      "court": "천안7계",
-      "type": "근린상가",
-      "address": "충남 아산시 탕정면 용두리 728, 유니콘101 2동 1층123비호 외 1개호",
-      "area": "건물 71.34㎡(21.58평) 대지권 23.6702㎡(7.16평)",
-      "appraisal": 810000000,
-      "min_price": 396900000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.15",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2498612,
       "case_no": "2026-10110",
       "item_no": null,
@@ -3078,7 +3010,7 @@
       "court": "천안7계",
       "type": "임야",
       "address": "충청남도 아산시 초사동 669-6",
-      "area": "건물은 매각제외 토지 8030.6667㎡(2429.277평)",
+      "area": "건물은 매각제외 토지 8030.67㎡(2429.278평)",
       "appraisal": 200766750,
       "min_price": 200766750,
       "min_price_pct": 100,
@@ -3216,6 +3148,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2371444,
+      "case_no": "2024-6686",
+      "item_no": null,
+      "court": "천안2계",
+      "type": "근린상가",
+      "address": "충남 아산시 배방읍 장재리 1767, 202동 2층이216호 (요진와이시티)",
+      "area": "건물 42.84㎡(12.959평) 대지권 20.8272㎡(6.3평)",
+      "appraisal": 341000000,
+      "min_price": 81874000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.09.21",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2312126,
       "case_no": "2024-109226",
       "item_no": null,
@@ -3230,6 +3178,22 @@
       "bid_date": "26.09.21",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2349549,
+      "case_no": "2024-115054",
+      "item_no": null,
+      "court": "천안2계",
+      "type": "유지",
+      "address": "충청남도 아산시 도고면 석당리 산73-2 외 1필지",
+      "area": "토지 3273㎡(990.083평)",
+      "appraisal": 30438900,
+      "min_price": 30438900,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "맹지",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2408768,
@@ -3392,6 +3356,22 @@
       "dpsl": "건물전부, 토지지분"
     },
     {
+      "tid": 2441331,
+      "case_no": "2025-12195",
+      "item_no": null,
+      "court": "천안2계",
+      "type": "공장용지",
+      "address": "충청남도 아산시 영인면 신봉리 499-1 외 5필지",
+      "area": "토지 18981㎡(5741.753평)",
+      "appraisal": 3334074000,
+      "min_price": 3334074000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2455186,
       "case_no": "2025-12428",
       "item_no": null,
@@ -3435,6 +3415,22 @@
       "min_price": 68784000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2469566,
+      "case_no": "2025-12646",
+      "item_no": null,
+      "court": "천안2계",
+      "type": "오피스텔(주거)",
+      "address": "충청남도 아산시 탕정면 용두리 730 브라운스톤갤럭시 9층996호",
+      "area": "건물 21.202㎡(6.414평) 대지권 7.7664㎡(2.349평)",
+      "appraisal": 141000000,
+      "min_price": 141000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.21",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -3536,6 +3532,70 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2494712,
+      "case_no": "2026-10048",
+      "item_no": null,
+      "court": "천안2계",
+      "type": "아파트",
+      "address": "충청남도 아산시 용화동 713 모아미래도 101동 12층1201호",
+      "area": "건물 84.98㎡(25.706평) 대지권 55.0831㎡(16.663평)",
+      "appraisal": 201000000,
+      "min_price": 201000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2495244,
+      "case_no": "2026-10067",
+      "item_no": 1,
+      "court": "천안2계",
+      "type": "오피스텔(주거)",
+      "address": "충청남도 아산시 배방읍 장재리 1723 1동 6층605호",
+      "area": "",
+      "appraisal": 161000000,
+      "min_price": 161000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2574046,
+      "case_no": "2026-10067",
+      "item_no": 2,
+      "court": "천안2계",
+      "type": "오피스텔(주거)",
+      "address": "충청남도 아산시 배방읍 장재리 1723 1동 7층705호",
+      "area": "",
+      "appraisal": 161000000,
+      "min_price": 161000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2270068,
+      "case_no": "2024-102157",
+      "item_no": null,
+      "court": "천안1계",
+      "type": "단독주택",
+      "address": "충청남도 아산시 영인면 신봉리 산141-3 외 16필지",
+      "area": "건물 1441.9㎡(436.175평) 토지 11838.6㎡(3581.177평)",
+      "appraisal": 5148438100,
+      "min_price": 5148438100,
+      "min_price_pct": 100,
+      "status": "유찰 1회",
+      "bid_date": "26.09.29",
+      "special": "유치권,유치권배제",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
       "tid": 2287440,
       "case_no": "2024-105415",
       "item_no": 1,
@@ -3618,17 +3678,17 @@
     {
       "tid": 2475658,
       "case_no": "2025-775",
-      "item_no": 1,
+      "item_no": null,
       "court": "천안1계",
       "type": "단독주택",
-      "address": "충청남도 아산시 도고면 신언리 159 외 1필지",
-      "area": "건물 216.7㎡(65.552평) 토지 584㎡(176.66평)",
+      "address": "충청남도 아산시 도고면 신언리 159 외 2필지",
+      "area": "건물 474.55㎡(143.551평) 토지 1436㎡(434.39평)",
       "appraisal": 533980000,
       "min_price": 533980000,
       "min_price_pct": 100,
       "status": "예정물건",
       "bid_date": "26.09.29",
-      "special": "",
+      "special": "유치권,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4221,6 +4281,22 @@
       "status": "유찰 3회",
       "bid_date": "26.10.13",
       "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2424534,
+      "case_no": "2025-582",
+      "item_no": null,
+      "court": "천안5계",
+      "type": "공장",
+      "address": "충청남도 아산시 염치읍 서원리 70-4 외 1필지",
+      "area": "건물 3125㎡(945.313평) 토지 12660㎡(3829.65평)",
+      "appraisal": 4730080000,
+      "min_price": 4730080000,
+      "min_price_pct": 100,
+      "status": "유찰 3회",
+      "bid_date": "26.10.14",
+      "special": "맹지",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

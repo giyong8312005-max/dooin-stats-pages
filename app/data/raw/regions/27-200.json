@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "27",
     "guCd": "200",
@@ -7,70 +7,6 @@
     "name": "남구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "27",
-      "guCd": "200",
-      "title": "2026. 02 월간매각 통계자료 : 대구 남구",
-      "rows": [
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1190469060,
-          "sale_price_rate": 53.67
-        },
-        {
-          "type": "아파트",
-          "total": 6,
-          "failed": 2,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 335500000,
-          "sale_price_rate": 73.54
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -500,6 +436,103 @@
           "sale_price_rate": 51.16
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "27",
+      "guCd": "200",
+      "title": "2026. 08 월간매각 통계자료 : 대구 남구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 3,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 7610760,
+          "sale_price_rate": 102.15
+        },
+        {
+          "type": "단독주택",
+          "total": 15,
+          "failed": 9,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 403667324,
+          "sale_price_rate": 51.37
+        },
+        {
+          "type": "다가구주택",
+          "total": 7,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 16,
+          "failed": 12,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 18.75,
+          "avg_appraisal": 417666667,
+          "sale_price_rate": 74.02
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 7,
+          "failed": 4,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 2113167180,
+          "sale_price_rate": 56.92
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -533,22 +566,6 @@
       "status": "유찰 2회",
       "bid_date": "26.09.07",
       "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2472494,
-      "case_no": "2025-9765",
-      "item_no": null,
-      "court": "대구3계",
-      "type": "단독주택",
-      "address": "대구광역시 남구 대명동 1556-3",
-      "area": "건물 180.96㎡(54.74평) 토지 135.9㎡(41.11평)",
-      "appraisal": 376190040,
-      "min_price": 129033000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.07",
-      "special": "임금채권자,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -920,22 +937,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2412674,
-      "case_no": "2025-8179",
-      "item_no": null,
-      "court": "대구12계",
-      "type": "다가구주택",
-      "address": "대구광역시 남구 대명동 1488-12",
-      "area": "건물 509.93㎡(154.254평) 토지 283.7㎡(85.819평)",
-      "appraisal": 786671800,
-      "min_price": 132216000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.09.21",
-      "special": "선순위 전세권설정,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2437809,
       "case_no": "2025-8808",
       "item_no": null,
@@ -1144,22 +1145,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2464076,
-      "case_no": "2025-1197",
-      "item_no": null,
-      "court": "대구8계",
-      "type": "단독주택",
-      "address": "대구광역시 남구 대명동 480-16",
-      "area": "건물 139.67㎡(42.25평) 토지 218.8㎡(66.187평)",
-      "appraisal": 486255000,
-      "min_price": 238264000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.30",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2564962,
       "case_no": "2025-1245",
       "item_no": 2,
@@ -1286,6 +1271,22 @@
       "bid_date": "26.10.01",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2147001,
+      "case_no": "2022-7037",
+      "item_no": null,
+      "court": "대구2계",
+      "type": "아파트",
+      "address": "대구 남구 대명동 2680-17, 102동 10층1005호 (대명동,보성청록타운)",
+      "area": "건물 120.84㎡(36.554평) 대지권 62.6654㎡(18.956평)",
+      "appraisal": 357000000,
+      "min_price": 249900000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.10.06",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "30",
     "guCd": "230",
@@ -7,125 +7,6 @@
     "name": "대덕구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "30",
-      "guCd": "230",
-      "title": "2026. 02 월간매각 통계자료 : 대전 대덕구",
-      "rows": [
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 7658358000,
-          "sale_price_rate": 56.58
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 43012200,
-          "sale_price_rate": 40.04
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 142359664,
-          "sale_price_rate": 37.85
-        },
-        {
-          "type": "다가구주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 16,
-          "failed": 9,
-          "sold": 7,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 43.75,
-          "avg_appraisal": 142600000,
-          "sale_price_rate": 60.82
-        },
-        {
-          "type": "다세대주택",
-          "total": 6,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 609403360,
-          "sale_price_rate": 45.13
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 341000000,
-          "sale_price_rate": 35.55
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -819,89 +700,161 @@
           "sale_price_rate": 15.57
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "30",
+      "guCd": "230",
+      "title": "2026. 08 월간매각 통계자료 : 대전 대덕구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 13,
+          "failed": 6,
+          "sold": 7,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 53.85,
+          "avg_appraisal": 202385714,
+          "sale_price_rate": 85.7
+        },
+        {
+          "type": "다세대주택",
+          "total": 14,
+          "failed": 13,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "종교시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1554507140,
+          "sale_price_rate": 50.18
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 280000000,
+          "sale_price_rate": 40.3
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 187000000,
+          "sale_price_rate": 37.97
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2449426,
-      "case_no": "2025-503404",
-      "item_no": null,
-      "court": "대전12계",
-      "type": "근린상가",
-      "address": "대전광역시 대덕구 송촌동 447-4 아카데미타워 401호",
-      "area": "건물 234.18㎡(70.839평) 대지권 68.2111㎡(20.634평)",
-      "appraisal": 423000000,
-      "min_price": 207270000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.01",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2464753,
-      "case_no": "2025-503719",
-      "item_no": null,
-      "court": "대전12계",
-      "type": "다세대주택",
-      "address": "대전광역시 대덕구 덕암동 71-1 비동 1층101호",
-      "area": "건물 50.4㎡(15.246평) 대지권 36.4479㎡(11.025평)",
-      "appraisal": 58000000,
-      "min_price": 58000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.01",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2252396,
-      "case_no": "2024-100312",
-      "item_no": null,
-      "court": "대전5계",
-      "type": "단독주택",
-      "address": "대전광역시 대덕구 비래동 559-33 외 1필지",
-      "area": "건물 137.09㎡(41.47평) 토지 222.35㎡(67.261평)",
-      "appraisal": 258345090,
-      "min_price": 88612000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.02",
-      "special": "",
-      "dpsl": "건물전부, 토지지분"
-    },
-    {
-      "tid": 2471822,
-      "case_no": "2025-503824",
-      "item_no": null,
-      "court": "대전5계",
-      "type": "다가구주택",
-      "address": "대전광역시 대덕구 덕암동 7-34",
-      "area": "건물 690.34㎡(208.828평) 토지 402㎡(121.605평)",
-      "appraisal": 1771220400,
-      "min_price": 607529000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.02",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2507726,
-      "case_no": "2026-600407",
-      "item_no": null,
-      "court": "대전5계",
-      "type": "다세대주택",
-      "address": "대전광역시 대덕구 목상동 222-1 두레타운 101동 2층201호",
-      "area": "건물 64.6734㎡(19.564평) 대지권 56.5755㎡(17.114평)",
-      "appraisal": 160000000,
-      "min_price": 112000000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.02",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2462020,
       "case_no": "2025-503641",
@@ -1191,22 +1144,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2465778,
-      "case_no": "2025-3956",
-      "item_no": null,
-      "court": "대전10계",
-      "type": "아파트",
-      "address": "대전광역시 대덕구 법동 448 이편한세상대전법동 106동 6층601호",
-      "area": "건물 74.9979㎡(22.687평) 대지권 41.3399㎡(12.505평)",
-      "appraisal": 449000000,
-      "min_price": 314300000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.17",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2403358,
       "case_no": "2025-502361",
       "item_no": null,
@@ -1234,6 +1171,22 @@
       "min_price": 24010000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2522053,
+      "case_no": "2026-600706",
+      "item_no": null,
+      "court": "대전10계",
+      "type": "다세대주택",
+      "address": "대전광역시 대덕구 비래동 115-4 비동 2층201호",
+      "area": "건물 49.39㎡(14.94평) 대지권 34.55㎡(10.451평)",
+      "appraisal": 73000000,
+      "min_price": 73000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1284,6 +1237,22 @@
       "status": "유찰 2회",
       "bid_date": "26.09.29",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2501924,
+      "case_no": "2026-600261",
+      "item_no": null,
+      "court": "대전7계",
+      "type": "아파트",
+      "address": "대전광역시 대덕구 법동 195-1 그린타운아파트 107동 1층106호",
+      "area": "건물 59.34㎡(17.95평) 대지권 30.6039㎡(9.258평)",
+      "appraisal": 182000000,
+      "min_price": 127400000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.29",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1363,7 +1332,7 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.09.30",
-      "special": "임차권등기,대항력 있는 임차인",
+      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1396,6 +1365,54 @@
       "status": "유찰 2회",
       "bid_date": "26.10.01",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2252396,
+      "case_no": "2024-100312",
+      "item_no": null,
+      "court": "대전5계",
+      "type": "단독주택",
+      "address": "대전광역시 대덕구 비래동 559-33 외 1필지",
+      "area": "건물 137.09㎡(41.47평) 토지 222.35㎡(67.261평)",
+      "appraisal": 258345090,
+      "min_price": 62028000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.07",
+      "special": "",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2507726,
+      "case_no": "2026-600407",
+      "item_no": null,
+      "court": "대전5계",
+      "type": "다세대주택",
+      "address": "대전광역시 대덕구 목상동 222-1 두레타운 101동 2층201호",
+      "area": "건물 64.6734㎡(19.564평) 대지권 56.5755㎡(17.114평)",
+      "appraisal": 160000000,
+      "min_price": 78400000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.07",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2464753,
+      "case_no": "2025-503719",
+      "item_no": null,
+      "court": "대전12계",
+      "type": "다세대주택",
+      "address": "대전광역시 대덕구 덕암동 71-1 비동 1층101호",
+      "area": "건물 50.4㎡(15.246평) 대지권 36.4479㎡(11.025평)",
+      "appraisal": 58000000,
+      "min_price": 40600000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.10.13",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

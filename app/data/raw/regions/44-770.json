@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "44",
     "guCd": "770",
@@ -7,147 +7,6 @@
     "name": "서천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "44",
-      "guCd": "770",
-      "title": "2026. 02 월간매각 통계자료 : 충남 서천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 6,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 215582667,
-          "sale_price_rate": 33.46
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 202512600,
-          "sale_price_rate": 34.45
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 88000000,
-          "sale_price_rate": 49.0
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 268500800,
-          "sale_price_rate": 55.87
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 8,
-          "failed": 3,
-          "sold": 5,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 62.5,
-          "avg_appraisal": 342249082,
-          "sale_price_rate": 87.71
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -929,57 +788,172 @@
           "sale_price_rate": 53.83
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "44",
+      "guCd": "770",
+      "title": "2026. 08 월간매각 통계자료 : 충남 서천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 2,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 77592000,
+          "sale_price_rate": 37.63
+        },
+        {
+          "type": "답",
+          "total": 8,
+          "failed": 4,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 37.5,
+          "avg_appraisal": 103318667,
+          "sale_price_rate": 71.39
+        },
+        {
+          "type": "임야",
+          "total": 8,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 12.5,
+          "avg_appraisal": 152209200,
+          "sale_price_rate": 36.13
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 9,
+          "failed": 5,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 3,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 200382040,
+          "sale_price_rate": 56.89
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 203000000,
+          "sale_price_rate": 60.1
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 796264390,
+          "sale_price_rate": 42.7
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2462585,
-      "case_no": "2025-1146",
-      "item_no": null,
-      "court": "홍성5계",
-      "type": "선박",
-      "address": "충남 서천군 장항읍 신창리, 장항항 인근 해상",
-      "area": "(103장덕호)",
-      "appraisal": 743330740,
-      "min_price": 364232000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.01",
-      "special": "",
-      "dpsl": ""
-    },
-    {
-      "tid": 2472473,
-      "case_no": "2025-1220",
-      "item_no": null,
-      "court": "홍성5계",
-      "type": "단독주택",
-      "address": "충청남도 서천군 기산면 화산리 326 외 1필지",
-      "area": "건물 99.81㎡(30.193평) 토지 2166㎡(655.215평)",
-      "appraisal": 280323060,
-      "min_price": 196226000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.01",
-      "special": "법정지상권,농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2451783,
-      "case_no": "2025-15996",
-      "item_no": null,
-      "court": "홍성5계",
-      "type": "아파트",
-      "address": "충청남도 서천군 장항읍 신창리 160 2층203호 외 1필지",
-      "area": "건물 49.8824㎡(15.089평) 대지권 42.1756㎡(12.758평)",
-      "appraisal": 142000000,
-      "min_price": 69580000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.01",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2126879,
       "case_no": "2022-18511",
@@ -1074,38 +1048,6 @@
       "status": "유찰 1회",
       "bid_date": "26.09.08",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2392367,
-      "case_no": "2025-15615",
-      "item_no": null,
-      "court": "홍성2계",
-      "type": "도로",
-      "address": "충청남도 서천군 장항읍 송림리 760-24 외 1필지",
-      "area": "토지 231.33㎡(69.977평)",
-      "appraisal": 70803980,
-      "min_price": 24286000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.08",
-      "special": "",
-      "dpsl": "토지지분매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2478966,
-      "case_no": "2025-15739",
-      "item_no": null,
-      "court": "홍성2계",
-      "type": "공장",
-      "address": "충청남도 서천군 장항읍 옥남리 962",
-      "area": "건물 4722.64㎡(1428.599평) 토지 7886.8㎡(2385.757평)",
-      "appraisal": 4264135480,
-      "min_price": 2089427000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.08",
-      "special": "임금채권자",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1491,6 +1433,86 @@
       "bid_date": "26.09.29",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2462585,
+      "case_no": "2025-1146",
+      "item_no": null,
+      "court": "홍성5계",
+      "type": "선박",
+      "address": "충남 서천군 장항읍 신창리, 장항항 인근 해상",
+      "area": "(103장덕호)",
+      "appraisal": 743330740,
+      "min_price": 254962000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.06",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2472473,
+      "case_no": "2025-1220",
+      "item_no": null,
+      "court": "홍성5계",
+      "type": "단독주택",
+      "address": "충청남도 서천군 기산면 화산리 326 외 1필지",
+      "area": "건물 99.81㎡(30.193평) 토지 2166㎡(655.215평)",
+      "appraisal": 280323060,
+      "min_price": 137358000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.06",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2436645,
+      "case_no": "2025-15887",
+      "item_no": 1,
+      "court": "홍성5계",
+      "type": "임야",
+      "address": "충청남도 서천군 한산면 동산리 산2-1 외 3필지",
+      "area": "토지 53117㎡(16067.893평)",
+      "appraisal": 980171200,
+      "min_price": 980171200,
+      "min_price_pct": 100,
+      "status": "유찰 3회",
+      "bid_date": "26.10.06",
+      "special": "맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2451783,
+      "case_no": "2025-15996",
+      "item_no": null,
+      "court": "홍성5계",
+      "type": "아파트",
+      "address": "충청남도 서천군 장항읍 신창리 160 2층203호 외 1필지",
+      "area": "건물 49.8824㎡(15.089평) 대지권 42.1756㎡(12.758평)",
+      "appraisal": 142000000,
+      "min_price": 48706000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.06",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2455743,
+      "case_no": "2025-1172",
+      "item_no": null,
+      "court": "홍성4계",
+      "type": "근린생활시설",
+      "address": "충청남도 서천군 서면 도둔리 436-1",
+      "area": "건물 371㎡(112.227평) 토지 496㎡(150.04평)",
+      "appraisal": 598400300,
+      "min_price": 293216000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.20",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

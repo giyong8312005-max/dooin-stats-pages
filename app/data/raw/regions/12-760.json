@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "760",
@@ -7,15 +7,6 @@
     "name": "화순군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "760",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -313,6 +304,158 @@
           "sale_price_rate": 56.71
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "760",
+      "title": "2026. 08 월간매각 통계자료 : 광주 화순군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 18,
+          "failed": 12,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 3,
+          "sold_rate": 5.56,
+          "avg_appraisal": 173330000,
+          "sale_price_rate": 18.57
+        },
+        {
+          "type": "답",
+          "total": 15,
+          "failed": 10,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 20.0,
+          "avg_appraisal": 122950200,
+          "sale_price_rate": 60.73
+        },
+        {
+          "type": "과수원",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 11,
+          "failed": 8,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 31711500,
+          "sale_price_rate": 34.69
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 29240000,
+          "sale_price_rate": 26.63
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 6,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 106000000,
+          "sale_price_rate": 70.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 2816896300,
+          "sale_price_rate": 35.5
+        },
+        {
+          "type": "근린상가",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 640470800,
+          "sale_price_rate": 36.09
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -507,6 +650,22 @@
       "bid_date": "26.09.16",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2521649,
+      "case_no": "2026-30984",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "근린생활시설",
+      "address": "전남광주통합특별시 화순군 화순읍 앵남리 58-4",
+      "area": "건물 97.82㎡(29.591평) 토지 447㎡(135.218평)",
+      "appraisal": 205398780,
+      "min_price": 205398780,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2453997,

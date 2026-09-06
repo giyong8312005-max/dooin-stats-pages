@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "43",
     "guCd": "730",
@@ -7,147 +7,6 @@
     "name": "옥천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "43",
-      "guCd": "730",
-      "title": "2026. 02 월간매각 통계자료 : 충북 옥천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 13,
-          "failed": 11,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 7.69,
-          "avg_appraisal": 26663000,
-          "sale_price_rate": 24.38
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 403740000,
-          "sale_price_rate": 36.03
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 759505500,
-          "sale_price_rate": 66.41
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 171105000,
-          "sale_price_rate": 40.97
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 20.0,
-          "avg_appraisal": 319775400,
-          "sale_price_rate": 58.44
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 649911880,
-          "sale_price_rate": 52.48
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -825,6 +684,136 @@
           "sold": 0,
           "changed": 0,
           "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "43",
+      "guCd": "730",
+      "title": "2026. 08 월간매각 통계자료 : 충북 옥천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 18,
+          "failed": 16,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 5.56,
+          "avg_appraisal": 13598000,
+          "sale_price_rate": 26.47
+        },
+        {
+          "type": "답",
+          "total": 14,
+          "failed": 13,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 41984000,
+          "sale_price_rate": 43.14
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 412546000,
+          "sale_price_rate": 68.12
+        },
+        {
+          "type": "임야",
+          "total": 9,
+          "failed": 6,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 22.22,
+          "avg_appraisal": 496432500,
+          "sale_price_rate": 54.22
+        },
+        {
+          "type": "단독주택",
+          "total": 11,
+          "failed": 10,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 6,
+          "failed": 0,
+          "sold": 0,
+          "changed": 6,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "의료시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
           "sold_rate": 0.0,
           "avg_appraisal": 0,
           "sale_price_rate": 0.0
@@ -1968,6 +1957,22 @@
       "bid_date": "26.10.13",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2349530,
+      "case_no": "2024-841",
+      "item_no": null,
+      "court": "영동1계",
+      "type": "전",
+      "address": "충청북도 옥천군 청성면 고당리 142-2",
+      "area": "토지 4116㎡(1245.09평)",
+      "appraisal": 41160000,
+      "min_price": 5525000,
+      "min_price_pct": 13,
+      "status": "유찰 9회",
+      "bid_date": "26.10.20",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     }
   ]
 }

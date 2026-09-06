@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "290",
@@ -7,191 +7,6 @@
     "name": "경산시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "290",
-      "title": "2026. 02 월간매각 통계자료 : 경북 경산시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1035315000,
-          "sale_price_rate": 50.33
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 104099000,
-          "sale_price_rate": 52.61
-        },
-        {
-          "type": "아파트",
-          "total": 9,
-          "failed": 4,
-          "sold": 2,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 22.22,
-          "avg_appraisal": 408500000,
-          "sale_price_rate": 95.54
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "종교시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "노유자시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "목욕탕",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 7,
-          "failed": 2,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 872619897,
-          "sale_price_rate": 42.77
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -1314,6 +1129,202 @@
           "sale_price_rate": 46.01
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "290",
+      "title": "2026. 08 월간매각 통계자료 : 경북 경산시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 12,
+          "failed": 8,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 8.33,
+          "avg_appraisal": 307216000,
+          "sale_price_rate": 44.12
+        },
+        {
+          "type": "답",
+          "total": 26,
+          "failed": 21,
+          "sold": 3,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 11.54,
+          "avg_appraisal": 276431500,
+          "sale_price_rate": 36.9
+        },
+        {
+          "type": "과수원",
+          "total": 3,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 10,
+          "failed": 7,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 44495300,
+          "sale_price_rate": 23.76
+        },
+        {
+          "type": "대지",
+          "total": 7,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "구거",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 7,
+          "failed": 4,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 418624400,
+          "sale_price_rate": 73.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 30,
+          "failed": 18,
+          "sold": 7,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 23.33,
+          "avg_appraisal": 195714286,
+          "sale_price_rate": 65.92
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 85000000,
+          "sale_price_rate": 52.26
+        },
+        {
+          "type": "상가주택",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 869765500,
+          "sale_price_rate": 60.79
+        },
+        {
+          "type": "근린생활시설",
+          "total": 7,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 787883710,
+          "sale_price_rate": 55.97
+        },
+        {
+          "type": "근린상가",
+          "total": 9,
+          "failed": 5,
+          "sold": 1,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 890000000,
+          "sale_price_rate": 11.1
+        },
+        {
+          "type": "공장",
+          "total": 14,
+          "failed": 8,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 988462070,
+          "sale_price_rate": 62.5
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1947,8 +1958,8 @@
       "item_no": 3,
       "court": "대구7계",
       "type": "임야",
-      "address": "경상북도 경산시 진량읍 평사리(平沙里) 산32-5",
-      "area": "건물은 매각제외 토지 232㎡(70.18평)",
+      "address": "경상북도 경산시 진량읍 평사리(平沙里) 산32-5 외 1필지",
+      "area": "건물은 매각제외 토지 270㎡(81.675평)",
       "appraisal": 60604000,
       "min_price": 35240000,
       "min_price_pct": 58,
@@ -1971,22 +1982,6 @@
       "status": "유찰 1회",
       "bid_date": "26.09.14",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2526911,
-      "case_no": "2025-6745",
-      "item_no": 5,
-      "court": "대구7계",
-      "type": "답",
-      "address": "경상북도 경산시 진량읍 평사리(平沙里) 903-11",
-      "area": "토지 38㎡(11.495평)",
-      "appraisal": 10260000,
-      "min_price": 7182000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.14",
-      "special": "",
       "dpsl": "토지 매각"
     },
     {
@@ -2099,22 +2094,6 @@
       "status": "유찰 1회",
       "bid_date": "26.09.14",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2439429,
-      "case_no": "2025-8970",
-      "item_no": null,
-      "court": "대구7계",
-      "type": "다가구주택",
-      "address": "경상북도 경산시 진량읍 평사리(平沙里) 562-12 외 1필지",
-      "area": "건물 666.78㎡(201.701평) 토지 542㎡(163.955평)",
-      "appraisal": 963457680,
-      "min_price": 963457680,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.14",
-      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2390,20 +2369,20 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2401415,
-      "case_no": "2025-7921",
+      "tid": 2469032,
+      "case_no": "2025-1229",
       "item_no": null,
       "court": "대구4계",
-      "type": "대지",
-      "address": "경상북도 경산시 하양읍 서사리 335",
-      "area": "토지 831.7㎡(251.589평)",
-      "appraisal": 3509774000,
-      "min_price": 842696000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
+      "type": "아파트",
+      "address": "경상북도 경산시 옥산동 884 옥산협화타운 106동 5층505호",
+      "area": "건물 56.56㎡(17.109평) 대지권 37.073㎡(11.215평) / 토지별도등기있음",
+      "appraisal": 80000000,
+      "min_price": 80000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.16",
-      "special": "유치권",
-      "dpsl": "토지만 매각(제시외기타제외)"
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2417629,
@@ -2518,6 +2497,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2474514,
+      "case_no": "2025-9851",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "공장",
+      "address": "경상북도 경산시 남천면 협석리 227-1 외 2필지",
+      "area": "건물 452.95㎡(137.017평) 토지 707㎡(213.868평)",
+      "appraisal": 472708600,
+      "min_price": 472708600,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "법정지상권,임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2356627,
       "case_no": "2024-126901",
       "item_no": null,
@@ -2532,6 +2527,38 @@
       "bid_date": "26.09.21",
       "special": "임금채권자,임차권등기",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2472507,
+      "case_no": "2025-1248",
+      "item_no": 1,
+      "court": "대구12계",
+      "type": "근린생활시설",
+      "address": "경상북도 경산시 중방동 363-4",
+      "area": "건물 503.62㎡(152.345평) 토지 191㎡(57.777평)",
+      "appraisal": 737710990,
+      "min_price": 737710990,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2573423,
+      "case_no": "2025-1248",
+      "item_no": 2,
+      "court": "대구12계",
+      "type": "대지",
+      "address": "경상북도 경산시 중방동 353-3 외 1필지",
+      "area": "토지 298㎡(90.145평)",
+      "appraisal": 348660000,
+      "min_price": 348660000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2372565,
@@ -2611,6 +2638,38 @@
       "status": "유찰 1회",
       "bid_date": "26.09.21",
       "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2475038,
+      "case_no": "2025-9859",
+      "item_no": null,
+      "court": "대구12계",
+      "type": "아파트",
+      "address": "경상북도 경산시 정평동 255-39 경산한서고층아파트 101동 8층806호",
+      "area": "건물 84.82㎡(25.658평) 대지권 20.9011㎡(6.323평)",
+      "appraisal": 152000000,
+      "min_price": 152000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2264603,
+      "case_no": "2024-102622",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "과수원",
+      "address": "경상북도 경산시 남천면 흥산리 603",
+      "area": "토지 919㎡(277.998평)",
+      "appraisal": 33084000,
+      "min_price": 1336000,
+      "min_price_pct": 4,
+      "status": "유찰 9회",
+      "bid_date": "26.09.22",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -2902,6 +2961,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2492796,
+      "case_no": "2026-100049",
+      "item_no": 1,
+      "court": "대구6계",
+      "type": "전",
+      "address": "경상북도 경산시 여천동 35-48 외 1필지",
+      "area": "토지 489㎡(147.922평)",
+      "appraisal": 300246000,
+      "min_price": 300246000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2573454,
+      "case_no": "2026-100049",
+      "item_no": 2,
+      "court": "대구6계",
+      "type": "전",
+      "address": "경상북도 경산시 여천동 35-22 외 1필지",
+      "area": "토지 665㎡(201.163평)",
+      "appraisal": 395010000,
+      "min_price": 395010000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2446600,
       "case_no": "2025-1083",
       "item_no": 1,
@@ -2948,6 +3039,22 @@
       "bid_date": "26.09.23",
       "special": "맹지",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2434751,
+      "case_no": "2025-8741",
+      "item_no": null,
+      "court": "대구13계",
+      "type": "과수원",
+      "address": "경상북도 경산시 와촌면 음양리 775-10",
+      "area": "토지 964㎡(291.61평)",
+      "appraisal": 330899500,
+      "min_price": 162141000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.23",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2440814,
@@ -3282,6 +3389,54 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.10.01",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2385688,
+      "case_no": "2025-6608",
+      "item_no": null,
+      "court": "대구2계",
+      "type": "공장",
+      "address": "경상북도 경산시 와촌면 소월리 1310-10",
+      "area": "건물 7181.93㎡(2172.534평) 토지 15727㎡(4757.418평)",
+      "appraisal": 10206744950,
+      "min_price": 3500915000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.06",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2454365,
+      "case_no": "2025-9311",
+      "item_no": null,
+      "court": "대구3계",
+      "type": "단독주택",
+      "address": "경상북도 경산시 남산면 상대리 237-2 외 1필지",
+      "area": "건물 150.77㎡(45.608평) 토지 331㎡(100.128평)",
+      "appraisal": 157288310,
+      "min_price": 53950000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.08",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2392865,
+      "case_no": "2025-7702",
+      "item_no": null,
+      "court": "대구4계",
+      "type": "공장",
+      "address": "경상북도 경산시 와촌면 계당리 153-1",
+      "area": "건물 833.83㎡(252.234평) 토지 879㎡(265.898평)",
+      "appraisal": 665716210,
+      "min_price": 228341000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.13",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     }

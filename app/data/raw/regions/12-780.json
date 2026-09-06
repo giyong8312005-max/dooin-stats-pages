@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "780",
@@ -7,15 +7,6 @@
     "name": "강진군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "780",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -445,6 +436,15 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "780",
+      "title": "",
+      "rows": [],
+      "unavailable": true
     }
   ],
   "listings": [
@@ -1389,7 +1389,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1405,7 +1405,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명",
       "dpsl": "토지만 매각"
     },
     {
@@ -1437,7 +1437,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.14",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
@@ -1455,6 +1455,22 @@
       "bid_date": "26.09.14",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2354239,
+      "case_no": "2024-6537",
+      "item_no": null,
+      "court": "장흥1계",
+      "type": "공장",
+      "address": "전라남도 강진군 마량면 수인리 산143-6 외 1필지",
+      "area": "건물 2506.66㎡(758.265평) 토지 8455㎡(2557.638평)",
+      "appraisal": 3267158240,
+      "min_price": 1338228000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.10.26",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2406152,

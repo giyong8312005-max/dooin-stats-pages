@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "820",
@@ -7,81 +7,6 @@
     "name": "청도군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "820",
-      "title": "2026. 02 월간매각 통계자료 : 경북 청도군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 100800000,
-          "sale_price_rate": 24.32
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1761127800,
-          "sale_price_rate": 30.74
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -786,6 +711,147 @@
           "sale_price_rate": 23.77
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "820",
+      "title": "2026. 08 월간매각 통계자료 : 경북 청도군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 19,
+          "failed": 12,
+          "sold": 4,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 21.05,
+          "avg_appraisal": 48870525,
+          "sale_price_rate": 47.94
+        },
+        {
+          "type": "답",
+          "total": 14,
+          "failed": 10,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 21.43,
+          "avg_appraisal": 150006333,
+          "sale_price_rate": 36.79
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 25,
+          "failed": 17,
+          "sold": 2,
+          "changed": 4,
+          "withdrawn": 1,
+          "sold_rate": 8.0,
+          "avg_appraisal": 102806360,
+          "sale_price_rate": 16.18
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 14,
+          "failed": 13,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 7769100,
+          "sale_price_rate": 51.49
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "의료시설",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 4306038400,
+          "sale_price_rate": 22.3
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -868,22 +934,6 @@
       "bid_date": "26.09.07",
       "special": "맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2464786,
-      "case_no": "2025-9572",
-      "item_no": null,
-      "court": "대구3계",
-      "type": "임야",
-      "address": "경상북도 청도군 이서면 대전리 산133-2 외 3필지",
-      "area": "토지 25489㎡(7710.423평)",
-      "appraisal": 1784044000,
-      "min_price": 611927000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.07",
-      "special": "분묘기지권",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2486039,
@@ -1350,70 +1400,6 @@
       "dpsl": "토지만 매각"
     },
     {
-      "tid": 2340755,
-      "case_no": "2024-9556",
-      "item_no": 1,
-      "court": "대구7계",
-      "type": "임야",
-      "address": "경상북도 청도군 이서면 가금리 산26 외 8필지",
-      "area": "토지 8746㎡(2645.665평)",
-      "appraisal": 796771000,
-      "min_price": 273292000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.14",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2505796,
-      "case_no": "2024-9556",
-      "item_no": 2,
-      "court": "대구7계",
-      "type": "임야",
-      "address": "경상북도 청도군 이서면 가금리 산26-3",
-      "area": "토지 33㎡(9.983평)",
-      "appraisal": 2970000,
-      "min_price": 1019000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.14",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2505797,
-      "case_no": "2024-9556",
-      "item_no": 3,
-      "court": "대구7계",
-      "type": "임야",
-      "address": "경상북도 청도군 이서면 가금리 산26-10 외 1필지",
-      "area": "토지 1884㎡(569.91평)",
-      "appraisal": 363441800,
-      "min_price": 124660000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.14",
-      "special": "분묘기지권",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2505798,
-      "case_no": "2024-9556",
-      "item_no": 4,
-      "court": "대구7계",
-      "type": "전",
-      "address": "경상북도 청도군 각북면 명대리 689-2",
-      "area": "토지 476㎡(143.99평)",
-      "appraisal": 99960000,
-      "min_price": 34286000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.14",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2396563,
       "case_no": "2025-700",
       "item_no": null,
@@ -1506,7 +1492,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "맹지",
+      "special": "법정지상권,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -1532,14 +1518,14 @@
       "court": "대구9계",
       "type": "전",
       "address": "경상북도 청도군 화양읍 진라리 324",
-      "area": "토지 148.7603㎡(45평)",
+      "area": "토지 149㎡(45.073평)",
       "appraisal": 13864000,
       "min_price": 13864000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지지분매각"
+      "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
       "tid": 2571603,
@@ -1555,7 +1541,7 @@
       "status": "신건",
       "bid_date": "26.09.15",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2571604,
@@ -1586,7 +1572,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "농지취득자격증명,맹지",
+      "special": "법정지상권,농지취득자격증명,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -1603,7 +1589,7 @@
       "status": "신건",
       "bid_date": "26.09.15",
       "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2397253,
@@ -1634,7 +1620,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.09.15",
-      "special": "맹지",
+      "special": "법정지상권,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -1766,6 +1752,54 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
+      "tid": 2464792,
+      "case_no": "2025-9609",
+      "item_no": 1,
+      "court": "대구4계",
+      "type": "전",
+      "address": "경상북도 청도군 금천면 소천리 472 외 1필지",
+      "area": "토지 396㎡(119.79평)",
+      "appraisal": 15135000,
+      "min_price": 15135000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2572058,
+      "case_no": "2025-9609",
+      "item_no": 2,
+      "court": "대구4계",
+      "type": "답",
+      "address": "경상북도 청도군 금천면 소천리 645",
+      "area": "토지 179㎡(54.148평)",
+      "appraisal": 7876000,
+      "min_price": 7876000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2572059,
+      "case_no": "2025-9609",
+      "item_no": 3,
+      "court": "대구4계",
+      "type": "전",
+      "address": "경상북도 청도군 금천면 소천리 918",
+      "area": "토지 46㎡(13.915평)",
+      "appraisal": 4094000,
+      "min_price": 4094000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2459060,
       "case_no": "2025-1166",
       "item_no": 2,
@@ -1780,6 +1814,38 @@
       "bid_date": "26.09.21",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2480182,
+      "case_no": "2025-1284",
+      "item_no": 1,
+      "court": "대구12계",
+      "type": "전",
+      "address": "경상북도 청도군 각남면 함박리 423",
+      "area": "토지 942.1487㎡(285평)",
+      "appraisal": 95142000,
+      "min_price": 95142000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2573422,
+      "case_no": "2025-1284",
+      "item_no": 2,
+      "court": "대구12계",
+      "type": "답",
+      "address": "경상북도 청도군 각남면 함박리 407-6",
+      "area": "토지 335㎡(101.337평)",
+      "appraisal": 27135000,
+      "min_price": 27135000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.21",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2462610,
@@ -1809,6 +1875,22 @@
       "min_price": 632791000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.09.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2479292,
+      "case_no": "2025-9869",
+      "item_no": null,
+      "court": "대구12계",
+      "type": "단독주택",
+      "address": "경상북도 청도군 청도읍 월곡리 539-1",
+      "area": "건물 96.25㎡(29.116평) 토지 241㎡(72.903평)",
+      "appraisal": 118245500,
+      "min_price": 118245500,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.21",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1990,6 +2072,22 @@
       "dpsl": "토지지분매각"
     },
     {
+      "tid": 2485187,
+      "case_no": "2025-10124",
+      "item_no": null,
+      "court": "대구6계",
+      "type": "단독주택",
+      "address": "경상북도 청도군 운문면 신원리 110 외 6필지",
+      "area": "건물 550.96㎡(166.665평) 토지 3370㎡(1019.425평)",
+      "appraisal": 1412453460,
+      "min_price": 1412453460,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2445068,
       "case_no": "2025-1071",
       "item_no": null,
@@ -2036,6 +2134,38 @@
       "bid_date": "26.09.23",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2412272,
+      "case_no": "2025-8029",
+      "item_no": null,
+      "court": "대구13계",
+      "type": "상가주택",
+      "address": "경상북도 청도군 금천면 김전리 1106",
+      "area": "건물 820.36㎡(248.159평) 토지 1359㎡(411.097평)",
+      "appraisal": 647101680,
+      "min_price": 317080000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.23",
+      "special": "임금채권자,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2442210,
+      "case_no": "2025-8918",
+      "item_no": null,
+      "court": "대구13계",
+      "type": "답",
+      "address": "경상북도 청도군 청도읍 유호리 549 외 2필지",
+      "area": "토지 2639㎡(798.298평)",
+      "appraisal": 208099000,
+      "min_price": 145669000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.23",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2445076,
@@ -2227,6 +2357,38 @@
       "status": "유찰 4회",
       "bid_date": "26.10.01",
       "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2385751,
+      "case_no": "2025-7319",
+      "item_no": 1,
+      "court": "대구3계",
+      "type": "답",
+      "address": "경상북도 청도군 풍각면 화산리 37",
+      "area": "토지 988㎡(298.87평)",
+      "appraisal": 62244000,
+      "min_price": 10462000,
+      "min_price_pct": 17,
+      "status": "유찰 5회",
+      "bid_date": "26.10.08",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2482993,
+      "case_no": "2025-7319",
+      "item_no": 2,
+      "court": "대구3계",
+      "type": "과수원",
+      "address": "경상북도 청도군 풍각면 화산리 689 외 1필지",
+      "area": "토지 1385㎡(418.963평)",
+      "appraisal": 96950000,
+      "min_price": 23278000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.08",
+      "special": "농지취득자격증명",
       "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]

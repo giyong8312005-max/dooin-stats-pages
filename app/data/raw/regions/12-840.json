@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "12",
     "guCd": "840",
@@ -7,15 +7,6 @@
     "name": "장성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "12",
-      "guCd": "840",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 3,
@@ -280,6 +271,125 @@
           "sale_price_rate": 60.62
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "12",
+      "guCd": "840",
+      "title": "2026. 08 월간매각 통계자료 : 광주 장성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 13,
+          "failed": 10,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 23.08,
+          "avg_appraisal": 77268800,
+          "sale_price_rate": 34.72
+        },
+        {
+          "type": "답",
+          "total": 8,
+          "failed": 4,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 1,
+          "sold_rate": 12.5,
+          "avg_appraisal": 738492000,
+          "sale_price_rate": 47.83
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 16,
+          "failed": 12,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 121174860,
+          "sale_price_rate": 78.27
+        },
+        {
+          "type": "대지",
+          "total": 8,
+          "failed": 4,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 2,
+          "sold_rate": 12.5,
+          "avg_appraisal": 29274000,
+          "sale_price_rate": 46.15
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 6,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -460,6 +570,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2482313,
+      "case_no": "2025-7593",
+      "item_no": null,
+      "court": "광주2계",
+      "type": "아파트",
+      "address": "전남광주통합특별시 장성군 장성읍 영천리 845-1 부강아트빌 5층506호 외 2필지",
+      "area": "건물 59.55㎡(18.014평) 대지권 28.9823㎡(8.767평)",
+      "appraisal": 84000000,
+      "min_price": 84000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2410389,
       "case_no": "2025-32825",
       "item_no": null,
@@ -490,6 +616,54 @@
       "bid_date": "26.09.17",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2531315,
+      "case_no": "2026-31428",
+      "item_no": 1,
+      "court": "광주2계",
+      "type": "답",
+      "address": "전남광주통합특별시 장성군 장성읍 안평리 696-5",
+      "area": "토지 950.5㎡(287.526평)",
+      "appraisal": 56079500,
+      "min_price": 56079500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2573027,
+      "case_no": "2026-31428",
+      "item_no": 2,
+      "court": "광주2계",
+      "type": "전",
+      "address": "전남광주통합특별시 장성군 서삼면 송현리 581",
+      "area": "토지 76㎡(22.99평)",
+      "appraisal": 1824000,
+      "min_price": 1824000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2573028,
+      "case_no": "2026-31428",
+      "item_no": 3,
+      "court": "광주2계",
+      "type": "임야",
+      "address": "전남광주통합특별시 장성군 서삼면 송현리 산132",
+      "area": "토지 2304.75㎡(697.187평)",
+      "appraisal": 7144720,
+      "min_price": 7144720,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.17",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2477281,
@@ -538,6 +712,22 @@
       "bid_date": "26.09.22",
       "special": "법정지상권",
       "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2513770,
+      "case_no": "2026-30788",
+      "item_no": null,
+      "court": "광주4계",
+      "type": "공장",
+      "address": "전라남도 장성군 동화면 구림리 200-6",
+      "area": "건물 2777.4㎡(840.164평) 토지 69146㎡(20916.665평)",
+      "appraisal": 1699176300,
+      "min_price": 1699176300,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.09.22",
+      "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2121946,
@@ -970,6 +1160,22 @@
       "bid_date": "26.10.08",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2445629,
+      "case_no": "2025-5511",
+      "item_no": null,
+      "court": "광주3계",
+      "type": "임야",
+      "address": "전라남도 장성군 삼계면 생촌리 산33",
+      "area": "토지 24793㎡(7499.883평)",
+      "appraisal": 39668800,
+      "min_price": 27769000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.12",
+      "special": "맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]
 }

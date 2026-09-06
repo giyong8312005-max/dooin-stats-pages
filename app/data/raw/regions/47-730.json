@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "47",
     "guCd": "730",
@@ -7,136 +7,6 @@
     "name": "의성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "47",
-      "guCd": "730",
-      "title": "2026. 02 월간매각 통계자료 : 경북 의성군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 12,
-          "failed": 7,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 37044750,
-          "sale_price_rate": 37.17
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 2,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 9184000,
-          "sale_price_rate": 34.32
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 8,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 14257600,
-          "sale_price_rate": 80.66
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 187000000,
-          "sale_price_rate": 72.47
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 229000000,
-          "sale_price_rate": 28.38
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -830,6 +700,147 @@
           "sale_price_rate": 59.23
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "47",
+      "guCd": "730",
+      "title": "2026. 08 월간매각 통계자료 : 경북 의성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 17,
+          "failed": 13,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 11.76,
+          "avg_appraisal": 87261000,
+          "sale_price_rate": 37.76
+        },
+        {
+          "type": "답",
+          "total": 19,
+          "failed": 15,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 15.79,
+          "avg_appraisal": 115013000,
+          "sale_price_rate": 55.73
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 5,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 124419600,
+          "sale_price_rate": 70.33
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 15464000,
+          "sale_price_rate": 26.42
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 0,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 83132467,
+          "sale_price_rate": 47.14
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 120000000,
+          "sale_price_rate": 71.75
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1035084220,
+          "sale_price_rate": 40.73
+        }
+      ]
     }
   ],
   "listings": [
@@ -848,22 +859,6 @@
       "bid_date": "26.09.09",
       "special": "맹지,임금채권자",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2252063,
-      "case_no": "2023-12031",
-      "item_no": null,
-      "court": "의성1계",
-      "type": "전",
-      "address": "경상북도 의성군 의성읍 중리리 233",
-      "area": "토지 1931㎡(584.127평)",
-      "appraisal": 90563900,
-      "min_price": 21744800,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.09",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2386609,
@@ -912,22 +907,6 @@
       "bid_date": "26.09.09",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2386604,
-      "case_no": "2025-10127",
-      "item_no": null,
-      "court": "의성1계",
-      "type": "대지",
-      "address": "경상북도 의성군 사곡면 작승리 576-3",
-      "area": "토지 90.2㎡(27.286평)",
-      "appraisal": 5231600,
-      "min_price": 1796000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.09",
-      "special": "",
-      "dpsl": "토지지분매각"
     },
     {
       "tid": 2386612,
@@ -1410,6 +1389,38 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2401919,
+      "case_no": "2025-10170",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "상가주택",
+      "address": "경상북도 의성군 다인면 서릉리 150-12",
+      "area": "건물 51.2572㎡(15.505평) 토지 40㎡(12.1평)",
+      "appraisal": 28334200,
+      "min_price": 28334200,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2572133,
+      "case_no": "2025-10170",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "상가주택",
+      "address": "경상북도 의성군 다인면 서릉리 150-9",
+      "area": "건물 65.6172㎡(19.849평) 토지 50㎡(15.125평)",
+      "appraisal": 35449400,
+      "min_price": 35449400,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
       "tid": 2420048,
       "case_no": "2025-10204",
       "item_no": 1,
@@ -1472,6 +1483,38 @@
       "bid_date": "26.09.23",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2430855,
+      "case_no": "2025-10232",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "단독주택",
+      "address": "경상북도 의성군 다인면 양서리 617 외 1필지",
+      "area": "건물 178.39㎡(53.963평) 토지 355㎡(107.388평)",
+      "appraisal": 96820020,
+      "min_price": 96820020,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2429974,
+      "case_no": "2025-10234",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "창고시설",
+      "address": "경상북도 의성군 다인면 양서리 622",
+      "area": "건물 199.24㎡(60.27평) 토지 357㎡(107.992평)",
+      "appraisal": 66448240,
+      "min_price": 66448240,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2431924,
@@ -1554,6 +1597,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2442242,
+      "case_no": "2025-10266",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "전",
+      "address": "경상북도 의성군 안계면 도덕리 354",
+      "area": "토지 721㎡(218.103평)",
+      "appraisal": 8652000,
+      "min_price": 8652000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2445576,
+      "case_no": "2025-10270",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "임야",
+      "address": "경상북도 의성군 안사면 신수리 산120",
+      "area": "토지 302281㎡(91440.003평)",
+      "appraisal": 278098520,
+      "min_price": 278098520,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2456853,
       "case_no": "2025-10276",
       "item_no": null,
@@ -1568,6 +1643,22 @@
       "bid_date": "26.09.23",
       "special": "",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2446638,
+      "case_no": "2025-10278",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "다가구주택",
+      "address": "경상북도 의성군 의성읍 후죽리 484-5",
+      "area": "건물 584.98㎡(176.956평) 토지 436㎡(131.89평)",
+      "appraisal": 1415703200,
+      "min_price": 1415703200,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.09.23",
+      "special": "선순위 전세권설정,임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

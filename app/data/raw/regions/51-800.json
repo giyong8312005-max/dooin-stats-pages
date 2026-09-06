@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-31",
+  "collected_at": "2026-09-07",
   "region": {
     "siCd": "51",
     "guCd": "800",
@@ -7,81 +7,6 @@
     "name": "양구군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 2,
-      "siCd": "51",
-      "guCd": "800",
-      "title": "2026. 02 월간매각 통계자료 : 강원 양구군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 9,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 10.0,
-          "avg_appraisal": 77740000,
-          "sale_price_rate": 50.17
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 69014650,
-          "sale_price_rate": 60.03
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 147923030,
-          "sale_price_rate": 60.84
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 3,
@@ -357,89 +282,84 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "siCd": "51",
+      "guCd": "800",
+      "title": "2026. 08 월간매각 통계자료 : 강원 양구군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 270687930,
+          "sale_price_rate": 75.81
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2447897,
-      "case_no": "2025-2121",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "동물및식물관련시설",
-      "address": "강원특별자치도 양구군 동면 덕곡리 469 외 3필지",
-      "area": "건물 1399.59㎡(423.376평) 토지 9801㎡(2964.803평)",
-      "appraisal": 1214807750,
-      "min_price": 595256000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.08.31",
-      "special": "농지취득자격증명,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2471268,
-      "case_no": "2025-50968",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "임야",
-      "address": "강원특별자치도 양구군 양구읍 상무룡리 865 외 1필지",
-      "area": "토지 10033㎡(3034.983평)",
-      "appraisal": 9786230,
-      "min_price": 6850000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.31",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2478797,
-      "case_no": "2025-51036",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "공장",
-      "address": "강원특별자치도 양구군 양구읍 고대리 324-1 외 4필지",
-      "area": "건물 2405.64㎡(727.706평) 토지 10265㎡(3105.163평)",
-      "appraisal": 1715660800,
-      "min_price": 1715660800,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.08.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2487643,
-      "case_no": "2025-51085",
-      "item_no": 1,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 양구읍 하리 256-2",
-      "area": "토지 60㎡(18.15평)",
-      "appraisal": 10140000,
-      "min_price": 7098000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2551067,
-      "case_no": "2025-51085",
-      "item_no": 2,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 양구읍 하리 259",
-      "area": "토지 4294㎡(1298.935평)",
-      "appraisal": 708510000,
-      "min_price": 495957000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.08.31",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
     {
       "tid": 2461431,
       "case_no": "2025-2343",
@@ -631,6 +551,54 @@
       "bid_date": "26.09.21",
       "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2447897,
+      "case_no": "2025-2121",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "동물및식물관련시설",
+      "address": "강원특별자치도 양구군 동면 덕곡리 469 외 3필지",
+      "area": "건물 1399.59㎡(423.376평) 토지 9801㎡(2964.803평)",
+      "appraisal": 1214807750,
+      "min_price": 416679000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.09.28",
+      "special": "농지취득자격증명,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2471268,
+      "case_no": "2025-50968",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "임야",
+      "address": "강원특별자치도 양구군 양구읍 상무룡리 865 외 1필지",
+      "area": "토지 10033㎡(3034.983평)",
+      "appraisal": 9786230,
+      "min_price": 4795000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.09.28",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2478797,
+      "case_no": "2025-51036",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "공장",
+      "address": "강원특별자치도 양구군 양구읍 고대리 324-1 외 4필지",
+      "area": "건물 2405.64㎡(727.706평) 토지 10265㎡(3105.163평)",
+      "appraisal": 1715660800,
+      "min_price": 1200963000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.09.28",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }
