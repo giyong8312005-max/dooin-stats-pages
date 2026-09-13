@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-07",
+  "collected_at": "2026-09-14",
   "region": {
     "siCd": "41",
     "guCd": "290",
@@ -339,38 +339,6 @@
   ],
   "listings": [
     {
-      "tid": 2276771,
-      "case_no": "2024-102524",
-      "item_no": null,
-      "court": "안양4계",
-      "type": "임야",
-      "address": "경기도 과천시 과천동 산69-13 외 2필지",
-      "area": "토지 2572㎡(778.03평)",
-      "appraisal": 705280000,
-      "min_price": 705280000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.08",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2341208,
-      "case_no": "2024-108539",
-      "item_no": null,
-      "court": "안양4계",
-      "type": "임야",
-      "address": "경기도 과천시 갈현동 산126-2",
-      "area": "토지 581.7㎡(175.964평)",
-      "appraisal": 199523100,
-      "min_price": 65379000,
-      "min_price_pct": 33,
-      "status": "유찰 5회",
-      "bid_date": "26.09.08",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2231229,
       "case_no": "2023-106802",
       "item_no": null,
@@ -689,6 +657,38 @@
       "bid_date": "26.10.06",
       "special": "분묘기지권,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2276771,
+      "case_no": "2024-102524",
+      "item_no": null,
+      "court": "안양4계",
+      "type": "임야",
+      "address": "경기도 과천시 과천동 산69-13 외 2필지",
+      "area": "토지 2572㎡(778.03평)",
+      "appraisal": 705280000,
+      "min_price": 564224000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.13",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2341208,
+      "case_no": "2024-108539",
+      "item_no": null,
+      "court": "안양4계",
+      "type": "임야",
+      "address": "경기도 과천시 갈현동 산126-2",
+      "area": "토지 581.7㎡(175.964평)",
+      "appraisal": 199523100,
+      "min_price": 52303000,
+      "min_price_pct": 26,
+      "status": "유찰 6회",
+      "bid_date": "26.10.13",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각"
     }
   ]
 }
