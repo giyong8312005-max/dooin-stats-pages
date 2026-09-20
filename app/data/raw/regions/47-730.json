@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "47",
     "guCd": "730",
@@ -1275,6 +1275,22 @@
       "bid_date": "26.10.14",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2408833,
+      "case_no": "2025-10181",
+      "item_no": null,
+      "court": "의성1계",
+      "type": "전",
+      "address": "경상북도 의성군 가음면 장리 864",
+      "area": "토지 1600㎡(484평)",
+      "appraisal": 40000000,
+      "min_price": 19600000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2413474,

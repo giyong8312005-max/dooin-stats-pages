@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "43",
     "guCd": "720",
@@ -801,22 +801,6 @@
   ],
   "listings": [
     {
-      "tid": 2499080,
-      "case_no": "2026-50166",
-      "item_no": null,
-      "court": "청주7계",
-      "type": "단독주택",
-      "address": "충청북도 보은군 보은읍 강신리 164-3 주1동",
-      "area": "건물 122.24㎡(36.978평) 토지 486㎡(147.015평)",
-      "appraisal": 167182690,
-      "min_price": 117028000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.17",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2455162,
       "case_no": "2025-4698",
       "item_no": 1,
@@ -1437,6 +1421,22 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.10.15",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499080,
+      "case_no": "2026-50166",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "단독주택",
+      "address": "충청북도 보은군 보은읍 강신리 164-3 주1동",
+      "area": "건물 122.24㎡(36.978평) 토지 486㎡(147.015평)",
+      "appraisal": 167182690,
+      "min_price": 81920000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.22",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     }

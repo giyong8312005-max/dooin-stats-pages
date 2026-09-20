@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "47",
     "guCd": "760",
@@ -528,22 +528,6 @@
       "status": "유찰 3회",
       "bid_date": "26.10.23",
       "special": "법정지상권",
-      "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2436134,
-      "case_no": "2025-10295",
-      "item_no": null,
-      "court": "영덕1계",
-      "type": "전",
-      "address": "경상북도 영양군 수비면 본신리 285-1",
-      "area": "건물은 매각제외 토지 2092㎡(632.83평)",
-      "appraisal": 64852000,
-      "min_price": 45397000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.23",
-      "special": "농지취득자격증명",
       "dpsl": "토지만 매각"
     },
     {

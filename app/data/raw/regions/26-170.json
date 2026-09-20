@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "26",
     "guCd": "170",
@@ -710,10 +710,26 @@
       "appraisal": 203594800,
       "min_price": 203594800,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
+      "bid_date": "26.09.30",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2516513,
+      "case_no": "2026-10386",
+      "item_no": null,
+      "court": "부산11계",
+      "type": "선박",
+      "address": "부산 동구 초량동 1239, 부산항 제5부두 해상",
+      "area": "(조성호)",
+      "appraisal": 429008000,
+      "min_price": 429008000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.09.30",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
+      "dpsl": ""
     },
     {
       "tid": 2254197,
@@ -794,6 +810,38 @@
       "bid_date": "26.10.02",
       "special": "",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2453002,
+      "case_no": "2025-22721",
+      "item_no": null,
+      "court": "부산2계",
+      "type": "오피스텔(주거)",
+      "address": "부산광역시 동구 범일동 830-140 동일타워 15층1543호",
+      "area": "건물 42.28㎡(12.79평) 대지권 4.9701㎡(1.503평)",
+      "appraisal": 135000000,
+      "min_price": 135000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.02",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2473153,
+      "case_no": "2025-23090",
+      "item_no": null,
+      "court": "부산2계",
+      "type": "단독주택",
+      "address": "부산광역시 동구 수정동 971-1",
+      "area": "건물 33.89㎡(10.252평) 토지 54.06㎡(16.353평)",
+      "appraisal": 86922700,
+      "min_price": 86922700,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.02",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2341834,

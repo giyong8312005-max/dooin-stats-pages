@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "51",
     "guCd": "830",
@@ -757,22 +757,6 @@
   ],
   "listings": [
     {
-      "tid": 2384151,
-      "case_no": "2025-193",
-      "item_no": null,
-      "court": "속초1계",
-      "type": "임야",
-      "address": "강원특별자치도 양양군 현남면 정자리 산37-2",
-      "area": "토지 3306㎡(1000.065평)",
-      "appraisal": 294234000,
-      "min_price": 49452000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.09.23",
-      "special": "분묘기지권",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2384171,
       "case_no": "2025-211",
       "item_no": null,
@@ -1075,54 +1059,6 @@
       "bid_date": "26.10.14",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2521785,
-      "case_no": "2025-10376",
-      "item_no": 2,
-      "court": "속초2계",
-      "type": "전",
-      "address": "강원특별자치도 양양군 현남면 견불리 112",
-      "area": "토지 221㎡(66.852평)",
-      "appraisal": 4420000,
-      "min_price": 743000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.10.14",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2521786,
-      "case_no": "2025-10376",
-      "item_no": 3,
-      "court": "속초2계",
-      "type": "전",
-      "address": "강원특별자치도 양양군 현남면 견불리 29",
-      "area": "토지 274㎡(82.885평)",
-      "appraisal": 10138000,
-      "min_price": 1705000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.10.14",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2534084,
-      "case_no": "2025-10380",
-      "item_no": 2,
-      "court": "속초2계",
-      "type": "임야",
-      "address": "강원특별자치도 양양군 현북면 중광정리 산35 외 1필지",
-      "area": "토지 495㎡(149.737평)",
-      "appraisal": 3399000,
-      "min_price": 816000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.10.14",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각"
     },
     {
       "tid": 2466349,

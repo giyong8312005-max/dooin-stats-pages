@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-14",
+  "collected_at": "2026-09-21",
   "region": {
     "siCd": "52",
     "guCd": "740",
@@ -683,6 +683,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2389821,
+      "case_no": "2025-1121",
+      "item_no": null,
+      "court": "남원2계",
+      "type": "창고시설",
+      "address": "전북특별자치도 장수군 계남면 화양리 615",
+      "area": "건물 165㎡(49.913평) 토지 매각제외",
+      "appraisal": 59400000,
+      "min_price": 59400000,
+      "min_price_pct": 100,
+      "status": "유찰 7회",
+      "bid_date": "26.10.12",
+      "special": "법정지상권",
+      "dpsl": "건물만 매각"
+    },
+    {
       "tid": 2526959,
       "case_no": "2025-1165",
       "item_no": 3,
@@ -691,7 +707,7 @@
       "address": "전북특별자치도 장수군 장수읍 수분리 953",
       "area": "토지 377㎡(114.042평)",
       "appraisal": 2375100,
-      "min_price": 570000,
+      "min_price": 571000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.10.12",
@@ -761,6 +777,22 @@
       "bid_date": "26.10.12",
       "special": "",
       "dpsl": "건물만 매각"
+    },
+    {
+      "tid": 2526370,
+      "case_no": "2025-1176",
+      "item_no": 2,
+      "court": "남원1계",
+      "type": "답",
+      "address": "전북특별자치도 장수군 산서면 오성리 1292",
+      "area": "토지 383.3㎡(115.948평)",
+      "appraisal": 11882300,
+      "min_price": 5823000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2456980,
