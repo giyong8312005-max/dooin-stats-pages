@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "44",
     "guCd": "150",
@@ -1521,54 +1521,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2427861,
-      "case_no": "2025-76",
-      "item_no": 1,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 공주시 정안면 태성리 122 외 3필지",
-      "area": "토지 2919㎡(882.998평)",
-      "appraisal": 111117000,
-      "min_price": 26679000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2515126,
-      "case_no": "2025-76",
-      "item_no": 2,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 공주시 정안면 태성리 217",
-      "area": "토지 73㎡(22.083평)",
-      "appraisal": 2336000,
-      "min_price": 561000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2515127,
-      "case_no": "2025-76",
-      "item_no": 3,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 공주시 정안면 태성리 218",
-      "area": "토지 278㎡(84.095평)",
-      "appraisal": 9730000,
-      "min_price": 2336000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2419383,
       "case_no": "2025-79",
       "item_no": null,
@@ -1647,22 +1599,6 @@
       "bid_date": "26.09.29",
       "special": "농지취득자격증명,맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2449888,
-      "case_no": "2025-110",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "임야",
-      "address": "충청남도 공주시 탄천면 운곡리 산9 외 1필지",
-      "area": "토지 17124㎡(5180.01평)",
-      "appraisal": 171240000,
-      "min_price": 58735320,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.29",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2452956,

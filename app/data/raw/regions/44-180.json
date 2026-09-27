@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "44",
     "guCd": "180",
@@ -1063,22 +1063,6 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
-      "tid": 2385040,
-      "case_no": "2025-15598",
-      "item_no": null,
-      "court": "홍성3계",
-      "type": "전",
-      "address": "충청남도 보령시 청라면 내현리 251 외 11필지",
-      "area": "토지 18572㎡(5618.03평)",
-      "appraisal": 909147000,
-      "min_price": 152800000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
       "tid": 2538003,
       "case_no": "2025-15665",
       "item_no": 1,
@@ -1793,7 +1777,7 @@
       "appraisal": 182595000,
       "min_price": 182595000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.13",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1809,7 +1793,7 @@
       "appraisal": 143245500,
       "min_price": 143245500,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.13",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -2021,6 +2005,22 @@
       "bid_date": "26.10.13",
       "special": "",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2520002,
+      "case_no": "2026-15059",
+      "item_no": null,
+      "court": "홍성2계",
+      "type": "선박",
+      "address": "충남 보령시 신흑동, 대천항",
+      "area": "(동강2호)",
+      "appraisal": 404989800,
+      "min_price": 404989800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.13",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2484298,

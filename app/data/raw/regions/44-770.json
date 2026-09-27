@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "44",
     "guCd": "770",
@@ -1275,6 +1275,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2437224,
+      "case_no": "2025-1106",
+      "item_no": null,
+      "court": "홍성2계",
+      "type": "근린생활시설",
+      "address": "충청남도 서천군 서천읍 군사리 504 외 1필지",
+      "area": "건물 271.46㎡(82.117평) 토지 296㎡(89.54평)",
+      "appraisal": 545616800,
+      "min_price": 545616800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.13",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2474483,
       "case_no": "2025-1221",
       "item_no": null,
@@ -1333,7 +1349,7 @@
       "appraisal": 68000000,
       "min_price": 68000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.13",
       "special": "",
       "dpsl": ""

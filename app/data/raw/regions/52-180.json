@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "52",
     "guCd": "180",
@@ -1141,6 +1141,22 @@
     }
   ],
   "listings": [
+    {
+      "tid": 2450428,
+      "case_no": "2025-346",
+      "item_no": null,
+      "court": "정읍1계",
+      "type": "전",
+      "address": "전북특별자치도 정읍시 정우면 수금리 513-5",
+      "area": "토지 785㎡(237.463평)",
+      "appraisal": 31400000,
+      "min_price": 10770000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
     {
       "tid": 2470311,
       "case_no": "2025-380",

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "11",
     "guCd": "350",
@@ -848,6 +848,22 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
+      "tid": 2515177,
+      "case_no": "2026-10505",
+      "item_no": null,
+      "court": "서울북부5계",
+      "type": "아파트",
+      "address": "서울특별시 노원구 상계동 647 상계주공아파트 1211동 5층 501호",
+      "area": "건물 29.005㎡(8.774평) 대지권 19.23㎡(5.817평)",
+      "appraisal": 288500000,
+      "min_price": 288500000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.07",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
       "tid": 2514708,
       "case_no": "2026-10525",
       "item_no": null,
@@ -858,7 +874,7 @@
       "appraisal": 1190000000,
       "min_price": 1190000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.07",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -874,7 +890,7 @@
       "appraisal": 622000000,
       "min_price": 622000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.07",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -890,9 +906,9 @@
       "appraisal": 314000000,
       "min_price": 314000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.07",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1020,6 +1036,22 @@
       "min_price_pct": 111,
       "status": "유찰 1회",
       "bid_date": "26.11.03",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2291575,
+      "case_no": "2024-108231",
+      "item_no": null,
+      "court": "서울북부8계",
+      "type": "아파트",
+      "address": "서울 노원구 하계동 256-5, 5동 6층608호 (하계동,한신.동성아파트)",
+      "area": "건물 112.24㎡(33.953평) 대지권 53.56㎡(16.202평)",
+      "appraisal": 990000000,
+      "min_price": 792000000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.11.10",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "47",
     "guCd": "930",
@@ -973,7 +973,7 @@
       "address": "경상북도 울진군 후포면 삼율리 531",
       "area": "토지 314㎡(94.985평)",
       "appraisal": 26303000,
-      "min_price": 6316000,
+      "min_price": 6317000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.10.23",
@@ -989,7 +989,7 @@
       "address": "경상북도 울진군 후포면 삼율리 530-6 외 1필지",
       "area": "토지 412㎡(124.63평)",
       "appraisal": 42782000,
-      "min_price": 10272000,
+      "min_price": 10273000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.10.23",
@@ -1155,6 +1155,22 @@
       "bid_date": "26.10.23",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2442907,
+      "case_no": "2025-783",
+      "item_no": null,
+      "court": "영덕2계",
+      "type": "답",
+      "address": "경상북도 울진군 후포면 삼율리 164-3 외 2필지",
+      "area": "토지 1463㎡(442.558평)",
+      "appraisal": 1107288000,
+      "min_price": 775102000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.10.23",
+      "special": "맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2455793,

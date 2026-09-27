@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "41",
     "guCd": "593",
@@ -933,22 +933,6 @@
   ],
   "listings": [
     {
-      "tid": 2364551,
-      "case_no": "2024-102096",
-      "item_no": 1,
-      "court": "수원3계",
-      "type": "답",
-      "address": "경기도 화성시 정남면 보통리 406",
-      "area": "토지 688㎡(208.12평)",
-      "appraisal": 300656000,
-      "min_price": 103125000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.21",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2448817,
       "case_no": "2025-1684",
       "item_no": null,
@@ -1397,6 +1381,38 @@
       "dpsl": ""
     },
     {
+      "tid": 2556978,
+      "case_no": "2026-53244",
+      "item_no": null,
+      "court": "수원7계",
+      "type": "승용차",
+      "address": "경기 화성시 효행구 봉담읍 상리 475-12, 스카이물류",
+      "area": "(A200 / 2017년식 / 89,960㎞)",
+      "appraisal": 12000000,
+      "min_price": 12000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2439315,
+      "case_no": "2025-57399",
+      "item_no": null,
+      "court": "수원13계",
+      "type": "아파트",
+      "address": "경기도 화성시 기안동 290 광도와이드빌 110동 1층101호",
+      "area": "건물 84.8415㎡(25.665평) 대지권 58.5379㎡(17.708평)",
+      "appraisal": 259000000,
+      "min_price": 259000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.13",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2511977,
       "case_no": "2025-59251",
       "item_no": null,
@@ -1408,6 +1424,22 @@
       "min_price": 10290000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.10.13",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2555538,
+      "case_no": "2026-52386",
+      "item_no": null,
+      "court": "수원13계",
+      "type": "승용차",
+      "address": "경기 화성시 효행구 봉담읍 상리 475-12, 스카이물류",
+      "area": "(모하비 / 2020년식)",
+      "appraisal": 26000000,
+      "min_price": 26000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.13",
       "special": "",
       "dpsl": ""
@@ -1427,6 +1459,22 @@
       "bid_date": "26.10.14",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2553058,
+      "case_no": "2026-52516",
+      "item_no": null,
+      "court": "수원18계",
+      "type": "승용차",
+      "address": "경기 화성시 효행구 봉담읍 상리 475-12",
+      "area": "(QM6 / 2020년식)",
+      "appraisal": 16000000,
+      "min_price": 16000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.14",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2486709,
@@ -1731,6 +1779,22 @@
       "bid_date": "26.10.27",
       "special": "",
       "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2364551,
+      "case_no": "2024-102096",
+      "item_no": 1,
+      "court": "수원3계",
+      "type": "답",
+      "address": "경기도 화성시 정남면 보통리 406",
+      "area": "토지 688㎡(208.12평)",
+      "appraisal": 300656000,
+      "min_price": 72188000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.30",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     }
   ]
 }

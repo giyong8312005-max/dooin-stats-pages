@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-21",
+  "collected_at": "2026-09-28",
   "region": {
     "siCd": "47",
     "guCd": "280",
@@ -1266,6 +1266,22 @@
       "bid_date": "26.10.13",
       "special": "분묘기지권,맹지",
       "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2442239,
+      "case_no": "2025-5409",
+      "item_no": null,
+      "court": "상주1계",
+      "type": "답",
+      "address": "경상북도 문경시 윤직동 239",
+      "area": "토지 2585㎡(781.963평)",
+      "appraisal": 162855000,
+      "min_price": 162855000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.13",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2528205,
