@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "41",
     "guCd": "430",
@@ -7,136 +7,6 @@
     "name": "의왕시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "41",
-      "guCd": "430",
-      "title": "2026. 03 월간매각 통계자료 : 경기 의왕시",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 4,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 543333333,
-          "sale_price_rate": 89.62
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 440000000,
-          "sale_price_rate": 2.05
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 4,
-          "failed": 2,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 75000000,
-          "sale_price_rate": 92.92
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 16,
-          "failed": 11,
-          "sold": 3,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 18.75,
-          "avg_appraisal": 379666667,
-          "sale_price_rate": 60.61
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 33000000,
-          "sale_price_rate": 77.12
-        },
-        {
-          "type": "화물차",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -775,6 +645,147 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "41",
+      "guCd": "430",
+      "title": "2026. 09 월간매각 통계자료 : 경기 의왕시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 4,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 8,
+          "failed": 3,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 62.5,
+          "avg_appraisal": 649800000,
+          "sale_price_rate": 92.41
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 620000000,
+          "sale_price_rate": 51.31
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 271000000,
+          "sale_price_rate": 70.98
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 13,
+          "failed": 12,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.69,
+          "avg_appraisal": 225000000,
+          "sale_price_rate": 68.09
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 35500000,
+          "sale_price_rate": 78.35
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -891,54 +902,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2473986,
-      "case_no": "2025-101596",
-      "item_no": 1,
-      "court": "안양1계",
-      "type": "전",
-      "address": "경기도 의왕시 학의동 123-4",
-      "area": "토지 605㎡(183.013평)",
-      "appraisal": 707850000,
-      "min_price": 707850000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.06",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2579147,
-      "case_no": "2025-101596",
-      "item_no": 2,
-      "court": "안양1계",
-      "type": "전",
-      "address": "경기도 의왕시 학의동 106-1",
-      "area": "토지 486㎡(147.015평)",
-      "appraisal": 477252000,
-      "min_price": 477252000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.06",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2579148,
-      "case_no": "2025-101596",
-      "item_no": 3,
-      "court": "안양1계",
-      "type": "도로",
-      "address": "경기도 의왕시 학의동 110-1",
-      "area": "토지 100㎡(30.25평)",
-      "appraisal": 138000000,
-      "min_price": 138000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.06",
-      "special": "",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2475593,
       "case_no": "2025-101608",
       "item_no": null,
@@ -998,22 +961,6 @@
       "min_price": 439200000,
       "min_price_pct": 80,
       "status": "유찰 1회",
-      "bid_date": "26.10.13",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2466339,
-      "case_no": "2025-1802",
-      "item_no": null,
-      "court": "안양4계",
-      "type": "아파트",
-      "address": "경기도 의왕시 학의동 1122 백운호수해링턴플레이스5단지 505동 3층302호",
-      "area": "건물 84.9404㎡(25.694평) 대지권 90.2009㎡(27.286평)",
-      "appraisal": 842000000,
-      "min_price": 842000000,
-      "min_price_pct": 100,
-      "status": "신건",
       "bid_date": "26.10.13",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1207,7 +1154,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1291,6 +1238,54 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2430764,
+      "case_no": "2025-101265",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "임야",
+      "address": "경기도 의왕시 초평동 산52-3 외 1필지",
+      "area": "토지 2014㎡(609.235평)",
+      "appraisal": 181863000,
+      "min_price": 181863000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2447450,
+      "case_no": "2025-101391",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "도시형생활주택",
+      "address": "경기도 의왕시 삼동 199-10 다온캐슬 1동 4층402호 외 1필지",
+      "area": "건물 48.27㎡(14.602평) 대지권 26.76㎡(8.095평)",
+      "appraisal": 297000000,
+      "min_price": 297000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "선순위 가등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2449864,
+      "case_no": "2025-101414",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "아파트",
+      "address": "경기도 의왕시 오전동 388-1 민들레베스파트 104동 10층1004호",
+      "area": "건물 115.558㎡(34.956평) 대지권 44.034㎡(13.32평)",
+      "appraisal": 589000000,
+      "min_price": 589000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2494662,
       "case_no": "2025-101667",
       "item_no": null,
@@ -1302,6 +1297,70 @@
       "min_price": 13600000,
       "min_price_pct": 80,
       "status": "유찰 1회",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2543853,
+      "case_no": "2026-84",
+      "item_no": 1,
+      "court": "안양3계",
+      "type": "화물차",
+      "address": "경기 의왕시 삼동 337-1",
+      "area": "(대우16톤 카고트럭 / 2003년식)",
+      "appraisal": 20000000,
+      "min_price": 20000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2583400,
+      "case_no": "2026-84",
+      "item_no": 2,
+      "court": "안양3계",
+      "type": "화물차",
+      "address": "경기 의왕시 삼동 337-1",
+      "area": "(봉고 Ⅲ, 1톤 / 2011년식)",
+      "appraisal": 1000000,
+      "min_price": 1000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2583401,
+      "case_no": "2026-84",
+      "item_no": 3,
+      "court": "안양3계",
+      "type": "기타중기",
+      "address": "경기 의왕시 삼동 337-1",
+      "area": "(콘크리트 믹서트럭 / 2002년식)",
+      "appraisal": 30000000,
+      "min_price": 30000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2583402,
+      "case_no": "2026-84",
+      "item_no": 4,
+      "court": "안양3계",
+      "type": "기타중기",
+      "address": "경기 의왕시 삼동 337-1",
+      "area": "(콘크리트 믹서트럭 / 1997년식)",
+      "appraisal": 23000000,
+      "min_price": 23000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.20",
       "special": "",
       "dpsl": ""

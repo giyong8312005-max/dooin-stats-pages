@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "47",
     "guCd": "900",
@@ -7,125 +7,6 @@
     "name": "예천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "47",
-      "guCd": "900",
-      "title": "2026. 03 월간매각 통계자료 : 경북 예천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 17,
-          "failed": 13,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 5.88,
-          "avg_appraisal": 70785000,
-          "sale_price_rate": 25.57
-        },
-        {
-          "type": "답",
-          "total": 17,
-          "failed": 10,
-          "sold": 6,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 35.29,
-          "avg_appraisal": 117863417,
-          "sale_price_rate": 33.07
-        },
-        {
-          "type": "임야",
-          "total": 12,
-          "failed": 9,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 16.67,
-          "avg_appraisal": 616495140,
-          "sale_price_rate": 32.73
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 120292000,
-          "sale_price_rate": 28.26
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 1,
-          "sold": 0,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -797,6 +678,136 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "47",
+      "guCd": "900",
+      "title": "2026. 09 월간매각 통계자료 : 경북 예천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 267022000,
+          "sale_price_rate": 25.29
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1319640000,
+          "sale_price_rate": 28.11
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 0,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 409845100,
+          "sale_price_rate": 54.41
+        },
+        {
+          "type": "근린상가",
+          "total": 14,
+          "failed": 12,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 7.14,
+          "avg_appraisal": 484000000,
+          "sale_price_rate": 34.32
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "자동차관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -895,22 +906,6 @@
       "bid_date": "26.10.13",
       "special": "",
       "dpsl": "건물만 매각"
-    },
-    {
-      "tid": 2393743,
-      "case_no": "2025-5261",
-      "item_no": null,
-      "court": "상주1계",
-      "type": "근린상가",
-      "address": "경상북도 예천군 예천읍 동본리 495-4 가동 5층501호",
-      "area": "건물 206.58㎡(62.49평) 대지권 52.4092㎡(15.854평)",
-      "appraisal": 362000000,
-      "min_price": 29813000,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.10.13",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2401447,
@@ -1054,7 +1049,7 @@
       "status": "신건",
       "bid_date": "26.10.13",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2444139,
@@ -1071,6 +1066,22 @@
       "bid_date": "26.10.13",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2327564,
+      "case_no": "2024-72198",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "동물및식물관련시설",
+      "address": "경상북도 예천군 보문면 간방리 695 외 19필지",
+      "area": "건물 3266.94㎡(988.249평) 토지 43596.2904㎡(13187.878평)",
+      "appraisal": 1813479450,
+      "min_price": 1813479450,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "법정지상권,분묘기지권,농지취득자격증명",
+      "dpsl": "건물전부, 토지지분"
     },
     {
       "tid": 2395208,
@@ -1105,6 +1116,54 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2426046,
+      "case_no": "2025-190",
+      "item_no": 1,
+      "court": "상주2계",
+      "type": "전",
+      "address": "경상북도 예천군 지보면 소화리 342",
+      "area": "토지 793.5㎡(240.034평)",
+      "appraisal": 76969500,
+      "min_price": 76969500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2550654,
+      "case_no": "2025-190",
+      "item_no": 2,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 예천군 지보면 소화리 344-4",
+      "area": "토지 1335.6㎡(404.019평)",
+      "appraisal": 116197200,
+      "min_price": 116197200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2550655,
+      "case_no": "2025-190",
+      "item_no": 3,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 예천군 지보면 소화리 344-5",
+      "area": "토지 734.1㎡(222.065평)",
+      "appraisal": 73410000,
+      "min_price": 73410000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
       "tid": 2429973,
       "case_no": "2025-202",
       "item_no": 1,
@@ -1132,6 +1191,38 @@
       "min_price": 423085000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.10.20",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2449495,
+      "case_no": "2025-230",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "오피스텔(주거)",
+      "address": "경상북도 예천군 호명읍 산합리 1151 에비뉴시티 가동 6층씨-609호",
+      "area": "건물 24.38㎡(7.375평) 대지권 9.5019㎡(2.874평)",
+      "appraisal": 63000000,
+      "min_price": 63000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "임금채권자,임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2452351,
+      "case_no": "2025-236",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 예천군 풍양면 낙상리 556",
+      "area": "토지 1926㎡(582.615평)",
+      "appraisal": 75114000,
+      "min_price": 75114000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.20",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1361,6 +1452,102 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2448463,
+      "case_no": "2025-5432",
+      "item_no": 1,
+      "court": "상주2계",
+      "type": "근린생활시설",
+      "address": "경상북도 예천군 호명읍 산합리 1496",
+      "area": "건물 1129.38㎡(341.637평) 토지 1165㎡(352.412평)",
+      "appraisal": 5443165200,
+      "min_price": 5443165200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2582993,
+      "case_no": "2025-5432",
+      "item_no": 2,
+      "court": "상주2계",
+      "type": "근린상가",
+      "address": "경상북도 예천군 호명읍 산합리 1404 골드온천타워 지1층101호",
+      "area": "건물 319.7825㎡(96.734평) 대지권 30.64㎡(9.269평)",
+      "appraisal": 844000000,
+      "min_price": 844000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2582994,
+      "case_no": "2025-5432",
+      "item_no": 3,
+      "court": "상주2계",
+      "type": "근린상가",
+      "address": "경상북도 예천군 호명읍 산합리 1404 골드온천타워 지1층102호",
+      "area": "건물 604.674㎡(182.914평) 대지권 55.84㎡(16.892평)",
+      "appraisal": 1600000000,
+      "min_price": 1600000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2582995,
+      "case_no": "2025-5432",
+      "item_no": 4,
+      "court": "상주2계",
+      "type": "근린상가",
+      "address": "경상북도 예천군 호명읍 산합리 1404 골드온천타워 지1층103호",
+      "area": "건물 290.5744㎡(87.899평) 대지권 27.85㎡(8.425평)",
+      "appraisal": 767000000,
+      "min_price": 767000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2457957,
+      "case_no": "2025-5456",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "임야",
+      "address": "경상북도 예천군 은풍면 송월리 103-9",
+      "area": "건물은 매각제외 토지 205㎡(62.012평)",
+      "appraisal": 8815000,
+      "min_price": 8815000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2490930,
+      "case_no": "2026-3002",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "대지",
+      "address": "경상북도 예천군 호명읍 금능리 768",
+      "area": "토지 1126.7㎡(340.827평)",
+      "appraisal": 1381334200,
+      "min_price": 1381334200,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2547314,
       "case_no": "2026-3108",
       "item_no": null,
@@ -1375,6 +1562,22 @@
       "bid_date": "26.10.20",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2550658,
+      "case_no": "2024-71119",
+      "item_no": 2,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 예천군 용궁면 금남리 736",
+      "area": "건물은 매각제외 토지 937.5㎡(283.594평)",
+      "appraisal": 22687500,
+      "min_price": 15881000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.17",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지만 매각"
     }
   ]
 }

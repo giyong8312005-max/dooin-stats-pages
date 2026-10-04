@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "12",
     "guCd": "730",
@@ -7,15 +7,6 @@
     "name": "구례군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "12",
-      "guCd": "730",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 4,
@@ -313,89 +304,95 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "12",
+      "guCd": "730",
+      "title": "2026. 09 월간매각 통계자료 : 광주 구례군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 17818000,
+          "sale_price_rate": 31.65
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2484413,
-      "case_no": "2025-739",
-      "item_no": null,
-      "court": "순천4계",
-      "type": "전",
-      "address": "전라남도 구례군 광의면 연파리 114-1",
-      "area": "토지 1083㎡(327.608평)",
-      "appraisal": 46988000,
-      "min_price": 21051000,
-      "min_price_pct": 45,
-      "status": "유찰 3회",
-      "bid_date": "26.09.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2520097,
-      "case_no": "2026-50398",
-      "item_no": 1,
-      "court": "순천4계",
-      "type": "근린생활시설",
-      "address": "전라남도 구례군 구례읍 백련리 224 외 4필지",
-      "area": "건물 1731.4㎡(523.749평) 토지 2986㎡(903.265평)",
-      "appraisal": 1810583040,
-      "min_price": 1810583040,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2576364,
-      "case_no": "2026-50398",
-      "item_no": 2,
-      "court": "순천4계",
-      "type": "임야",
-      "address": "전라남도 구례군 구례읍 산성리 74-3 외 1필지",
-      "area": "토지 2378㎡(719.345평)",
-      "appraisal": 28408900,
-      "min_price": 28408900,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2533351,
-      "case_no": "2026-50636",
-      "item_no": null,
-      "court": "순천4계",
-      "type": "단독주택",
-      "address": "전라남도 구례군 광의면 대산리 221-1",
-      "area": "건물 97.32㎡(29.439평) 토지 343.6㎡(103.939평)",
-      "appraisal": 96790600,
-      "min_price": 96790600,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2545660,
-      "case_no": "2026-50799",
-      "item_no": null,
-      "court": "순천4계",
-      "type": "공장",
-      "address": "전라남도 구례군 용방면 죽정리 926",
-      "area": "건물 1904.5㎡(576.111평) 토지 3742.2㎡(1132.016평)",
-      "appraisal": 2207311350,
-      "min_price": 2207311350,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2464914,
       "case_no": "2025-52228",
@@ -457,7 +454,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -589,6 +586,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2519698,
+      "case_no": "2026-50445",
+      "item_no": null,
+      "court": "순천9계",
+      "type": "대지",
+      "address": "전라남도 구례군 광의면 지천리 377-1",
+      "area": "건물은 매각제외 토지 131.6㎡(39.809평)",
+      "appraisal": 12502000,
+      "min_price": 12502000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
       "tid": 2483602,
       "case_no": "2025-738",
       "item_no": null,
@@ -665,6 +678,22 @@
       "min_price_pct": 56,
       "status": "유찰 2회",
       "bid_date": "26.10.26",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2414112,
+      "case_no": "2025-404",
+      "item_no": 1,
+      "court": "순천8계",
+      "type": "단독주택",
+      "address": "전라남도 구례군 산동면 좌사리 971-2",
+      "area": "건물 243.08㎡(73.532평) 토지 704㎡(212.96평)",
+      "appraisal": 225707400,
+      "min_price": 101117000,
+      "min_price_pct": 45,
+      "status": "유찰 3회",
+      "bid_date": "26.11.09",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
@@ -811,6 +840,86 @@
       "bid_date": "26.11.09",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2484413,
+      "case_no": "2025-739",
+      "item_no": null,
+      "court": "순천4계",
+      "type": "전",
+      "address": "전라남도 구례군 광의면 연파리 114-1",
+      "area": "토지 1083㎡(327.608평)",
+      "appraisal": 46988000,
+      "min_price": 16841000,
+      "min_price_pct": 36,
+      "status": "유찰 4회",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2520097,
+      "case_no": "2026-50398",
+      "item_no": 1,
+      "court": "순천4계",
+      "type": "근린생활시설",
+      "address": "전라남도 구례군 구례읍 백련리 224 외 4필지",
+      "area": "건물 1731.4㎡(523.749평) 토지 2986㎡(903.265평)",
+      "appraisal": 1810583040,
+      "min_price": 1267408000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2576364,
+      "case_no": "2026-50398",
+      "item_no": 2,
+      "court": "순천4계",
+      "type": "임야",
+      "address": "전라남도 구례군 구례읍 산성리 74-3 외 1필지",
+      "area": "토지 2378㎡(719.345평)",
+      "appraisal": 28408900,
+      "min_price": 19886000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2533351,
+      "case_no": "2026-50636",
+      "item_no": null,
+      "court": "순천4계",
+      "type": "단독주택",
+      "address": "전라남도 구례군 광의면 대산리 221-1",
+      "area": "건물 97.32㎡(29.439평) 토지 343.6㎡(103.939평)",
+      "appraisal": 96790600,
+      "min_price": 67753000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2545660,
+      "case_no": "2026-50799",
+      "item_no": null,
+      "court": "순천4계",
+      "type": "공장",
+      "address": "전라남도 구례군 용방면 죽정리 926",
+      "area": "건물 1904.5㎡(576.111평) 토지 3742.2㎡(1132.016평)",
+      "appraisal": 2207311350,
+      "min_price": 1545118000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "27",
     "guCd": "720",
@@ -7,114 +7,6 @@
     "name": "군위군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "27",
-      "guCd": "720",
-      "title": "2026. 03 월간매각 통계자료 : 대구 군위군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 9,
-          "failed": 5,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 11.11,
-          "avg_appraisal": 200924000,
-          "sale_price_rate": 50.27
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 68835000,
-          "sale_price_rate": 12.61
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 0,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 107869000,
-          "sale_price_rate": 37.72
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "하천",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1605895850,
-          "sale_price_rate": 40.48
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -566,25 +458,95 @@
           "sale_price_rate": 34.32
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "27",
+      "guCd": "720",
+      "title": "2026. 09 월간매각 통계자료 : 대구 군위군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 6,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 49248000,
+          "sale_price_rate": 26.15
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 79230000,
+          "sale_price_rate": 38.5
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 126552050,
+          "sale_price_rate": 30.05
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2534629,
-      "case_no": "2023-11489",
-      "item_no": 2,
-      "court": "의성1계",
-      "type": "임야",
-      "address": "대구광역시 군위군 소보면 위성리 산70",
-      "area": "토지 72622㎡(21968.155평)",
-      "appraisal": 232390400,
-      "min_price": 55798000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.10.14",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
     {
       "tid": 2267763,
       "case_no": "2024-141",
@@ -890,6 +852,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2448465,
+      "case_no": "2025-10280",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "임야",
+      "address": "대구광역시 군위군 산성면 무암리 산30",
+      "area": "토지 63471㎡(19199.978평)",
+      "appraisal": 107900700,
+      "min_price": 107900700,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2455792,
       "case_no": "2025-10296",
       "item_no": null,
@@ -904,6 +882,38 @@
       "bid_date": "26.10.21",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2496152,
+      "case_no": "2025-10362",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "단독주택",
+      "address": "대구광역시 군위군 군위읍 정리 421-1",
+      "area": "건물 56.8㎡(17.182평) 토지 104㎡(31.46평)",
+      "appraisal": 76188400,
+      "min_price": 76188400,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2364661,
+      "case_no": "2024-12168",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "대지",
+      "address": "대구광역시 군위군 군위읍 용대리 234-5",
+      "area": "건물은 매각제외 토지 358㎡(108.295평)",
+      "appraisal": 51552000,
+      "min_price": 36087000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.18",
+      "special": "법정지상권,맹지,대항력 있는 임차인",
+      "dpsl": "토지만 매각"
     }
   ]
 }

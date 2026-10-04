@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "48",
     "guCd": "220",
@@ -7,290 +7,6 @@
     "name": "통영시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "48",
-      "guCd": "220",
-      "title": "2026. 03 월간매각 통계자료 : 경남 통영시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 42,
-          "failed": 22,
-          "sold": 8,
-          "changed": 7,
-          "withdrawn": 2,
-          "sold_rate": 19.05,
-          "avg_appraisal": 54669075,
-          "sale_price_rate": 25.84
-        },
-        {
-          "type": "답",
-          "total": 18,
-          "failed": 15,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 11.11,
-          "avg_appraisal": 91104000,
-          "sale_price_rate": 40.83
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 20,
-          "failed": 15,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 119502178,
-          "sale_price_rate": 27.79
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 81056000,
-          "sale_price_rate": 14.41
-        },
-        {
-          "type": "창고용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 20,
-          "failed": 13,
-          "sold": 5,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 25.0,
-          "avg_appraisal": 399193828,
-          "sale_price_rate": 51.68
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 16,
-          "failed": 8,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 12.5,
-          "avg_appraisal": 65000000,
-          "sale_price_rate": 68.07
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 57500000,
-          "sale_price_rate": 60.95
-        },
-        {
-          "type": "다세대주택",
-          "total": 6,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 866000000,
-          "sale_price_rate": 35.84
-        },
-        {
-          "type": "공장",
-          "total": 4,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 25.0,
-          "avg_appraisal": 776217200,
-          "sale_price_rate": 52.82
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 11500000,
-          "sale_price_rate": 85.24
-        },
-        {
-          "type": "승합차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 20,
-          "failed": 13,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 30.0,
-          "avg_appraisal": 135365683,
-          "sale_price_rate": 54.55
-        },
-        {
-          "type": "어업권",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -1820,6 +1536,224 @@
           "sale_price_rate": 34.3
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "48",
+      "guCd": "220",
+      "title": "2026. 09 월간매각 통계자료 : 경남 통영시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 22,
+          "failed": 14,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 3,
+          "sold_rate": 13.64,
+          "avg_appraisal": 431310667,
+          "sale_price_rate": 26.94
+        },
+        {
+          "type": "답",
+          "total": 10,
+          "failed": 8,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 10,
+          "failed": 8,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 6770100,
+          "sale_price_rate": 19.69
+        },
+        {
+          "type": "대지",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 14,
+          "failed": 10,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 58411600,
+          "sale_price_rate": 63.93
+        },
+        {
+          "type": "다가구주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 15,
+          "failed": 12,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 13.33,
+          "avg_appraisal": 72200000,
+          "sale_price_rate": 51.15
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1103185260,
+          "sale_price_rate": 49.86
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 5,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 345903320,
+          "sale_price_rate": 18.79
+        },
+        {
+          "type": "근린상가",
+          "total": 8,
+          "failed": 3,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 268000000,
+          "sale_price_rate": 47.65
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 25000000,
+          "sale_price_rate": 64.76
+        },
+        {
+          "type": "선박",
+          "total": 8,
+          "failed": 5,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 86402000,
+          "sale_price_rate": 51.25
+        },
+        {
+          "type": "어업권",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 25000000,
+          "sale_price_rate": 100.45
+        }
+      ]
     }
   ],
   "listings": [
@@ -2380,8 +2314,8 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "분묘기지권",
-      "dpsl": "토지지분매각"
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
       "tid": 2505958,
@@ -2470,13 +2404,13 @@
       "court": "통영8계",
       "type": "단독주택",
       "address": "경상남도 통영시 용남면 삼화리 115-7 외 3필지",
-      "area": "건물 93.26㎡(28.211평) 토지 3453.4544㎡(1044.67평)",
+      "area": "건물 93.26㎡(28.211평) 토지 3454㎡(1044.835평)",
       "appraisal": 731491680,
       "min_price": 731491680,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2500,7 +2434,7 @@
       "case_no": "2026-10371",
       "item_no": null,
       "court": "통영8계",
-      "type": "노유자시설",
+      "type": "상가주택",
       "address": "경상남도 통영시 도천동 220-23",
       "area": "건물 370.95㎡(112.212평) 토지 184㎡(55.66평)",
       "appraisal": 430914200,
@@ -2508,7 +2442,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2524,7 +2458,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -2560,6 +2494,22 @@
       "dpsl": ""
     },
     {
+      "tid": 2541988,
+      "case_no": "2026-10548",
+      "item_no": null,
+      "court": "통영8계",
+      "type": "선박",
+      "address": "경남 통영시, 북신만",
+      "area": "(제36태극호)",
+      "appraisal": 2477924000,
+      "min_price": 2477924000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
       "tid": 2538427,
       "case_no": "2026-10560",
       "item_no": null,
@@ -2573,6 +2523,54 @@
       "status": "신건",
       "bid_date": "26.10.12",
       "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2552618,
+      "case_no": "2026-10642",
+      "item_no": null,
+      "court": "통영1계",
+      "type": "선박",
+      "address": "경상남도 통영시 무전동, 무전수변공원 인근 해상",
+      "area": "(제108신광호)",
+      "appraisal": 250717000,
+      "min_price": 250717000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2558895,
+      "case_no": "2026-10747",
+      "item_no": null,
+      "court": "통영8계",
+      "type": "선박",
+      "address": "경남 통영시 산양읍 풍화리, 명지마을 앞 해상",
+      "area": "(뉴딜호)",
+      "appraisal": 133131500,
+      "min_price": 133131500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2224544,
+      "case_no": "2023-4495",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "단독주택",
+      "address": "경상남도 통영시 광도면 죽림리 1076",
+      "area": "건물 96.57㎡(29.212평) 토지 393㎡(118.883평)",
+      "appraisal": 246275610,
+      "min_price": 197020000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.19",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2688,6 +2686,22 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2437979,
+      "case_no": "2025-21266",
+      "item_no": 2,
+      "court": "통영2계",
+      "type": "임야",
+      "address": "경상남도 통영시 사량면 읍덕리 산23-1",
+      "area": "토지 9483.5㎡(2868.759평)",
+      "appraisal": 38882350,
+      "min_price": 3346000,
+      "min_price_pct": 9,
+      "status": "유찰 8회",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각(제시외기타 포함)"
+    },
+    {
       "tid": 2426561,
       "case_no": "2025-21613",
       "item_no": null,
@@ -2702,6 +2716,22 @@
       "bid_date": "26.10.19",
       "special": "",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2431986,
+      "case_no": "2025-21623",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "전",
+      "address": "경상남도 통영시 용남면 장문리 579 외 1필지",
+      "area": "토지 1719㎡(519.997평)",
+      "appraisal": 548580000,
+      "min_price": 268804000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2432959,
@@ -2800,6 +2830,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2437888,
+      "case_no": "2025-21790",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "공장",
+      "address": "경상남도 통영시 도산면 도선리 479 외 2필지",
+      "area": "건물 824.1㎡(249.29평) 토지 2909㎡(879.973평)",
+      "appraisal": 1589601900,
+      "min_price": 1589601900,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명,임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2445158,
       "case_no": "2025-21879",
       "item_no": null,
@@ -2832,6 +2878,22 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
+      "tid": 2446689,
+      "case_no": "2025-21898",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "다세대주택",
+      "address": "경상남도 통영시 미수동 428-2 2층201호",
+      "area": "건물 81.585㎡(24.679평) 대지권 50.09㎡(15.152평)",
+      "appraisal": 62000000,
+      "min_price": 14886000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2450369,
       "case_no": "2025-21915",
       "item_no": 1,
@@ -2848,6 +2910,22 @@
       "dpsl": "토지지분매각"
     },
     {
+      "tid": 2447604,
+      "case_no": "2025-21923",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "임야",
+      "address": "경상남도 통영시 용남면 장평리 산36-1 외 7필지",
+      "area": "토지 22737.68㎡(6878.148평)",
+      "appraisal": 2000065190,
+      "min_price": 686022000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
       "tid": 2448525,
       "case_no": "2025-21932",
       "item_no": null,
@@ -2862,6 +2940,70 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2456929,
+      "case_no": "2025-22018",
+      "item_no": 1,
+      "court": "통영2계",
+      "type": "답",
+      "address": "경상남도 통영시 산양읍 영운리 138-7",
+      "area": "토지 1094㎡(330.935평)",
+      "appraisal": 73298000,
+      "min_price": 73298000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2583383,
+      "case_no": "2025-22018",
+      "item_no": 2,
+      "court": "통영2계",
+      "type": "답",
+      "address": "경상남도 통영시 산양읍 영운리 156-1 외 1필지",
+      "area": "토지 1217㎡(368.143평)",
+      "appraisal": 94926000,
+      "min_price": 94926000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2458323,
+      "case_no": "2025-22058",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "아파트",
+      "address": "경상남도 통영시 광도면 안정리 1075 통영현대성우오스타1단지 106동 4층404호",
+      "area": "건물 84.94㎡(25.694평) 대지권 45.9433㎡(13.898평)",
+      "appraisal": 136000000,
+      "min_price": 136000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2460519,
+      "case_no": "2025-22075",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "전",
+      "address": "경상남도 통영시 미수동 686",
+      "area": "토지 780㎡(235.95평)",
+      "appraisal": 391560000,
+      "min_price": 391560000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2459135,
@@ -3216,6 +3358,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2503376,
+      "case_no": "2026-24",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "전",
+      "address": "경상남도 통영시 용남면 동달리 433-5 외 1필지",
+      "area": "토지 819㎡(247.748평)",
+      "appraisal": 156177000,
+      "min_price": 156177000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2539609,
       "case_no": "2026-92",
       "item_no": null,
@@ -3227,6 +3385,38 @@
       "min_price": 27073000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2548555,
+      "case_no": "2026-98",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "승용차",
+      "address": "경남 통영시 용남면 동달리 863, 그린자동차보관주차장",
+      "area": "(크루즈 1.8 DOHC)",
+      "appraisal": 2000000,
+      "min_price": 2000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": ""
+    },
+    {
+      "tid": 2563234,
+      "case_no": "2026-156",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "선박",
+      "address": "경남 통영시 산양읍 풍화리 1549, 앞 해상(주식회사 육일해양)",
+      "area": "(형제호)",
+      "appraisal": 73572240,
+      "min_price": 73572240,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.19",
       "special": "",
       "dpsl": ""
@@ -3262,6 +3452,86 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2496694,
+      "case_no": "2026-10102",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "아파트",
+      "address": "경상남도 통영시 무전동 1054-5 한진로즈힐비치 202동 4층406호",
+      "area": "건물 106.6018㎡(32.247평) 대지권 64.4501㎡(19.496평)",
+      "appraisal": 323000000,
+      "min_price": 323000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2497819,
+      "case_no": "2026-10109",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "단독주택",
+      "address": "경상남도 통영시 북신동 56-70",
+      "area": "건물 27.29㎡(8.255평) 토지 32㎡(9.68평)",
+      "appraisal": 27778900,
+      "min_price": 27682900,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2506785,
+      "case_no": "2026-10190",
+      "item_no": 1,
+      "court": "통영3계",
+      "type": "아파트",
+      "address": "경상남도 통영시 무전동 1024-1 일성한샘빌라 101동 11층1102호",
+      "area": "건물 84.8812㎡(25.677평) 대지권 45.4604㎡(13.752평)",
+      "appraisal": 216000000,
+      "min_price": 216000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2582949,
+      "case_no": "2026-10190",
+      "item_no": 2,
+      "court": "통영3계",
+      "type": "아파트",
+      "address": "경상남도 통영시 용남면 화삼리 1041-2 미진이지비아 101동 11층1103호",
+      "area": "건물 77.6094㎡(23.477평) 대지권 41.5184㎡(12.559평)",
+      "appraisal": 165000000,
+      "min_price": 165000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2546213,
+      "case_no": "2026-10545",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "승용차",
+      "address": "경남 통영시 용남면 동달리 863, 그린자동차보관주차장",
+      "area": "(싼타페 하이브리드(SANTAFE HYBRID) / 2026년식 / 3,540㎞)",
+      "appraisal": 45000000,
+      "min_price": 45000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2322854,
@@ -3518,6 +3788,22 @@
       "bid_date": "26.10.26",
       "special": "법정지상권,맹지,대항력 있는 임차인",
       "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2448532,
+      "case_no": "2025-21955",
+      "item_no": null,
+      "court": "통영7계",
+      "type": "아파트",
+      "address": "경상남도 통영시 도남동 498-1 성우아파트 1동 4층408호",
+      "area": "건물 67.05㎡(20.283평) 대지권 43.99㎡(13.307평)",
+      "appraisal": 56000000,
+      "min_price": 56000000,
+      "min_price_pct": 100,
+      "status": "유찰 4회",
+      "bid_date": "26.10.26",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2458692,

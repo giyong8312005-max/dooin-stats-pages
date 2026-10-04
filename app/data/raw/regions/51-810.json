@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "51",
     "guCd": "810",
@@ -7,103 +7,6 @@
     "name": "인제군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "51",
-      "guCd": "810",
-      "title": "2026. 03 월간매각 통계자료 : 강원 인제군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 11,
-          "failed": 10,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 9.09,
-          "avg_appraisal": 107640000,
-          "sale_price_rate": 21.08
-        },
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 590809000,
-          "sale_price_rate": 36.59
-        },
-        {
-          "type": "단독주택",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 651033520,
-          "sale_price_rate": 35.94
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -555,121 +458,84 @@
           "sale_price_rate": 12.3
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "51",
+      "guCd": "810",
+      "title": "2026. 09 월간매각 통계자료 : 강원 인제군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 10,
+          "failed": 9,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 10.0,
+          "avg_appraisal": 478960000,
+          "sale_price_rate": 49.0
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 22289350,
+          "sale_price_rate": 62.29
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 1,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 192143620,
+          "sale_price_rate": 42.91
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2194298,
-      "case_no": "2023-52627",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "다세대주택",
-      "address": "강원특별자치도 인제군 북면 원통리 1362, 에이동 3층302호 (스카이파크빌)",
-      "area": "건물 84.73㎡(25.631평) 대지권 136.052㎡(41.156평)",
-      "appraisal": 175000000,
-      "min_price": 122500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2229542,
-      "case_no": "2023-54821",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "다세대주택",
-      "address": "강원특별자치도 인제군 북면 원통리 1362, 비동 4층401호 (스카이파크빌)",
-      "area": "건물 73.88㎡(22.349평) 대지권 118.63㎡(35.886평)",
-      "appraisal": 183000000,
-      "min_price": 89670000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.28",
-      "special": "법정지상권",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2485523,
-      "case_no": "2025-2923",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 인제군 인제읍 귀둔리 949-1 외 2필지",
-      "area": "건물은 매각제외 토지 10143㎡(3068.257평)",
-      "appraisal": 478960000,
-      "min_price": 234690000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.28",
-      "special": "법정지상권,농지취득자격증명",
-      "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2418202,
-      "case_no": "2025-50739",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "단독주택",
-      "address": "강원특별자치도 인제군 남면 소치리 519",
-      "area": "건물 156.63㎡(47.381평) 토지 930㎡(281.325평)",
-      "appraisal": 255256040,
-      "min_price": 87553000,
-      "min_price_pct": 34,
-      "status": "유찰 6회",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2458992,
-      "case_no": "2025-50940",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 인제군 인제읍 귀둔리 961 외 5필지",
-      "area": "토지 6192㎡(1873.08평)",
-      "appraisal": 130050000,
-      "min_price": 44608000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2510651,
-      "case_no": "2026-28",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 인제군 인제읍 덕적리 279 외 1필지",
-      "area": "토지 3455㎡(1045.138평)",
-      "appraisal": 158360000,
-      "min_price": 158360000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2503229,
-      "case_no": "2026-50069",
-      "item_no": null,
-      "court": "춘천2계",
-      "type": "전",
-      "address": "강원특별자치도 인제군 기린면 진동리 569 외 1필지",
-      "area": "토지 4915㎡(1486.788평)",
-      "appraisal": 304891000,
-      "min_price": 213424000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.09.28",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
     {
       "tid": 2489984,
       "case_no": "2025-3018",
@@ -725,7 +591,7 @@
       "court": "춘천3계",
       "type": "임야",
       "address": "강원특별자치도 인제군 인제읍 덕적리 산51",
-      "area": "토지 7939.7699㎡(2401.78평)",
+      "area": "토지 7939.77㎡(2401.78평)",
       "appraisal": 21437370,
       "min_price": 21437370,
       "min_price_pct": 100,
@@ -909,6 +775,86 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2194298,
+      "case_no": "2023-52627",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "다세대주택",
+      "address": "강원특별자치도 인제군 북면 원통리 1362, 에이동 3층302호 (스카이파크빌)",
+      "area": "건물 84.73㎡(25.631평) 대지권 136.052㎡(41.156평)",
+      "appraisal": 175000000,
+      "min_price": 85750000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.11.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2229542,
+      "case_no": "2023-54821",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "다세대주택",
+      "address": "강원특별자치도 인제군 북면 원통리 1362, 비동 4층401호 (스카이파크빌)",
+      "area": "건물 73.88㎡(22.349평) 대지권 118.63㎡(35.886평)",
+      "appraisal": 183000000,
+      "min_price": 62769000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.02",
+      "special": "법정지상권",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2458992,
+      "case_no": "2025-50940",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "전",
+      "address": "강원특별자치도 인제군 인제읍 귀둔리 961 외 5필지",
+      "area": "토지 6192㎡(1873.08평)",
+      "appraisal": 130050000,
+      "min_price": 31226000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.02",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2510651,
+      "case_no": "2026-28",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "전",
+      "address": "강원특별자치도 인제군 인제읍 덕적리 279 외 1필지",
+      "area": "토지 3455㎡(1045.138평)",
+      "appraisal": 158360000,
+      "min_price": 110852000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.02",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2503229,
+      "case_no": "2026-50069",
+      "item_no": null,
+      "court": "춘천2계",
+      "type": "전",
+      "address": "강원특별자치도 인제군 기린면 진동리 569 외 1필지",
+      "area": "토지 4915㎡(1486.788평)",
+      "appraisal": 304891000,
+      "min_price": 149397000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.11.02",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "48",
     "guCd": "870",
@@ -7,147 +7,6 @@
     "name": "함양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "48",
-      "guCd": "870",
-      "title": "2026. 03 월간매각 통계자료 : 경남 함양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 7,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 0,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 75.0,
-          "avg_appraisal": 130739000,
-          "sale_price_rate": 39.96
-        },
-        {
-          "type": "과수원",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 7,
-          "failed": 5,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 105564000,
-          "sale_price_rate": 25.67
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 28831600,
-          "sale_price_rate": 17.34
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 394557270,
-          "sale_price_rate": 34.41
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "업무시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 3350622710,
-          "sale_price_rate": 47.31
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -632,6 +491,15 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "48",
+      "guCd": "870",
+      "title": "",
+      "rows": [],
+      "unavailable": true
     }
   ],
   "listings": [
@@ -802,11 +670,11 @@
       "court": "거창1계",
       "type": "단독주택",
       "address": "경상남도 함양군 안의면 상원리 757-10 외 1필지",
-      "area": "건물 148.96㎡(45.06평) 토지 655㎡(198.138평)",
+      "area": "건물 250.96㎡(75.915평) 토지 655㎡(198.138평)",
       "appraisal": 442720000,
       "min_price": 442720000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -838,9 +706,9 @@
       "appraisal": 6740000,
       "min_price": 6740000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -854,10 +722,10 @@
       "appraisal": 72926000,
       "min_price": 72926000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
-      "dpsl": "토지 매각"
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2470932,
@@ -880,13 +748,13 @@
       "case_no": "2025-611",
       "item_no": null,
       "court": "거창1계",
-      "type": "근린생활시설",
+      "type": "상가주택",
       "address": "경상남도 함양군 함양읍 용평리 900-7",
-      "area": "건물 498.24㎡(150.718평) 토지 317㎡(95.893평)",
+      "area": "건물 385.19㎡(116.52평) 토지 317㎡(95.893평)",
       "appraisal": 655951980,
       "min_price": 655951980,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -902,9 +770,9 @@
       "appraisal": 267130000,
       "min_price": 267130000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1052,38 +920,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2465382,
-      "case_no": "2025-10355",
-      "item_no": 1,
-      "court": "거창1계",
-      "type": "근린생활시설",
-      "address": "경상남도 함양군 마천면 삼정리 717",
-      "area": "건물 105.61㎡(31.947평) 토지 354㎡(107.085평)",
-      "appraisal": 88916620,
-      "min_price": 88916620,
-      "min_price_pct": 100,
-      "status": "예정물건",
-      "bid_date": "26.10.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2579952,
-      "case_no": "2025-10355",
-      "item_no": 2,
-      "court": "거창1계",
-      "type": "전",
-      "address": "경상남도 함양군 마천면 삼정리 896",
-      "area": "토지 73㎡(22.083평)",
-      "appraisal": 306600,
-      "min_price": 306600,
-      "min_price_pct": 100,
-      "status": "예정물건",
-      "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2466481,
       "case_no": "2025-10356",
       "item_no": null,
@@ -1110,10 +946,10 @@
       "appraisal": 115093600,
       "min_price": 115093600,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
-      "dpsl": ""
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2477277,
@@ -1126,7 +962,7 @@
       "appraisal": 39926500,
       "min_price": 39926500,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1142,7 +978,7 @@
       "appraisal": 85917250,
       "min_price": 85917250,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1158,7 +994,7 @@
       "appraisal": 27186000,
       "min_price": 27186000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1174,7 +1010,7 @@
       "appraisal": 34454000,
       "min_price": 34454000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1190,7 +1026,7 @@
       "appraisal": 6270000,
       "min_price": 6270000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1206,7 +1042,7 @@
       "appraisal": 6220200,
       "min_price": 6220200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1218,11 +1054,11 @@
       "court": "거창1계",
       "type": "단독주택",
       "address": "경상남도 함양군 함양읍 죽곡리 757",
-      "area": "건물 12.3975㎡(3.75평) 토지 70.25㎡(21.251평)",
+      "area": "건물 69.5975㎡(21.053평) 토지 70.25㎡(21.251평)",
       "appraisal": 14095120,
       "min_price": 14095120,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
       "dpsl": "토지및건물 지분 매각"
@@ -1238,7 +1074,7 @@
       "appraisal": 3379000,
       "min_price": 3379000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
@@ -1254,9 +1090,9 @@
       "appraisal": 9894000,
       "min_price": 9894000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
     },
     {
@@ -1286,7 +1122,7 @@
       "appraisal": 30840000,
       "min_price": 30840000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
@@ -1302,10 +1138,10 @@
       "appraisal": 97692000,
       "min_price": 97692000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
-      "dpsl": ""
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "51",
     "guCd": "790",
@@ -7,70 +7,6 @@
     "name": "화천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "51",
-      "guCd": "790",
-      "title": "2026. 03 월간매각 통계자료 : 강원 화천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 7,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 6,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 237364500,
-          "sale_price_rate": 35.65
-        },
-        {
-          "type": "임야",
-          "total": 6,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 276384630,
-          "sale_price_rate": 95.19
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 50.0,
-          "avg_appraisal": 978216380,
-          "sale_price_rate": 25.76
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -434,6 +370,81 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "51",
+      "guCd": "790",
+      "title": "2026. 09 월간매각 통계자료 : 강원 화천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 200746400,
+          "sale_price_rate": 34.3
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 1,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 75.0,
+          "avg_appraisal": 187255700,
+          "sale_price_rate": 108.44
+        },
+        {
+          "type": "유지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -564,6 +575,22 @@
       "bid_date": "26.10.19",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2523895,
+      "case_no": "2026-50171",
+      "item_no": null,
+      "court": "춘천4계",
+      "type": "근린생활시설",
+      "address": "강원특별자치도 화천군 사내면 광덕리 426",
+      "area": "건물 394.4㎡(119.306평) 토지 1392㎡(421.08평)",
+      "appraisal": 362237600,
+      "min_price": 362237600,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2467878,

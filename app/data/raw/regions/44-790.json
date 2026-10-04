@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "44",
     "guCd": "790",
@@ -7,92 +7,6 @@
     "name": "청양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "44",
-      "guCd": "790",
-      "title": "2026. 03 월간매각 통계자료 : 충남 청양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 66561000,
-          "sale_price_rate": 49.58
-        },
-        {
-          "type": "답",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 360664200,
-          "sale_price_rate": 41.96
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 33654000,
-          "sale_price_rate": 107.27
-        },
-        {
-          "type": "단독주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -555,73 +469,84 @@
           "sale_price_rate": 101.16
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "44",
+      "guCd": "790",
+      "title": "2026. 09 월간매각 통계자료 : 충남 청양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 82270000,
+          "sale_price_rate": 9.99
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 8151000,
+          "sale_price_rate": 10.1
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 357610200,
+          "sale_price_rate": 38.84
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2344432,
-      "case_no": "2024-1233",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "전",
-      "address": "충청남도 청양군 화성면 구재리 87",
-      "area": "토지 2165㎡(654.913평)",
-      "appraisal": 82270000,
-      "min_price": 6775288,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2340175,
-      "case_no": "2024-21992",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 청양군 비봉면 방한리 547-1",
-      "area": "토지 247㎡(74.718평)",
-      "appraisal": 8151000,
-      "min_price": 671270,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2448402,
-      "case_no": "2025-105",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "답",
-      "address": "충청남도 청양군 정산면 학암리 263-1",
-      "area": "토지 3246㎡(981.915평)",
-      "appraisal": 230466000,
-      "min_price": 230466000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2467912,
-      "case_no": "2025-20419",
-      "item_no": null,
-      "court": "공주2계",
-      "type": "단독주택",
-      "address": "충청남도 청양군 화성면 화강리 563-2 외 5필지",
-      "area": "건물 33.15㎡(10.028평) 토지 27833㎡(8419.483평)",
-      "appraisal": 253868350,
-      "min_price": 253868350,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.29",
-      "special": "법정지상권,농지취득자격증명,맹지,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2526873,
       "case_no": "2024-1134",
@@ -700,6 +625,38 @@
       "status": "유찰 1회",
       "bid_date": "26.10.27",
       "special": "농지취득자격증명,맹지",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2448402,
+      "case_no": "2025-105",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "답",
+      "address": "충청남도 청양군 정산면 학암리 263-1",
+      "area": "토지 3246㎡(981.915평)",
+      "appraisal": 230466000,
+      "min_price": 161326000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.10",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2467912,
+      "case_no": "2025-20419",
+      "item_no": null,
+      "court": "공주2계",
+      "type": "단독주택",
+      "address": "충청남도 청양군 화성면 화강리 563-2 외 5필지",
+      "area": "건물 33.15㎡(10.028평) 토지 27833㎡(8419.483평)",
+      "appraisal": 253868350,
+      "min_price": 177708000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.10",
+      "special": "법정지상권,농지취득자격증명,맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

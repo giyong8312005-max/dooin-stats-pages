@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "11",
     "guCd": "200",
@@ -7,125 +7,6 @@
     "name": "성동구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "11",
-      "guCd": "200",
-      "title": "2026. 03 월간매각 통계자료 : 서울 성동구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 2291400000,
-          "sale_price_rate": 52.41
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 1,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 57.14,
-          "avg_appraisal": 992750000,
-          "sale_price_rate": 112.99
-        },
-        {
-          "type": "다세대주택",
-          "total": 8,
-          "failed": 3,
-          "sold": 1,
-          "changed": 3,
-          "withdrawn": 1,
-          "sold_rate": 12.5,
-          "avg_appraisal": 231000000,
-          "sale_price_rate": 88.66
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 135000000,
-          "sale_price_rate": 99.18
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 186000000,
-          "sale_price_rate": 76.02
-        },
-        {
-          "type": "근린상가",
-          "total": 3,
-          "failed": 0,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1200300000,
-          "sale_price_rate": 118.45
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -797,89 +678,172 @@
           "sale_price_rate": 69.36
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "11",
+      "guCd": "200",
+      "title": "2026. 09 월간매각 통계자료 : 서울 성동구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 623562000,
+          "sale_price_rate": 47.47
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 638328750,
+          "sale_price_rate": 82.06
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 2,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 28.57,
+          "avg_appraisal": 4424000000,
+          "sale_price_rate": 90.15
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 161000000,
+          "sale_price_rate": 83.11
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 9,
+          "failed": 4,
+          "sold": 0,
+          "changed": 5,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(상업)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 8,
+          "failed": 6,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2264396,
-      "case_no": "2024-195",
-      "item_no": null,
-      "court": "서울동부3계",
-      "type": "상가주택",
-      "address": "서울특별시 성동구 사근동 291-25",
-      "area": "건물 87.06㎡(26.336평) 토지 93.5㎡(28.284평)",
-      "appraisal": 780229800,
-      "min_price": 624183000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.09.28",
-      "special": "선순위 전세권설정",
-      "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2377512,
-      "case_no": "2025-238",
-      "item_no": 1,
-      "court": "서울동부3계",
-      "type": "오피스텔(상업)",
-      "address": "서울특별시 성동구 성수동2가 289-18 서울숲코리아아이티센터 1층113호",
-      "area": "건물 23.18㎡(7.012평) 대지권 6.0047㎡(1.816평)",
-      "appraisal": 419000000,
-      "min_price": 214528000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526927,
-      "case_no": "2025-238",
-      "item_no": 2,
-      "court": "서울동부3계",
-      "type": "지식산업센터",
-      "address": "서울특별시 성동구 성수동2가 289-18 서울숲코리아아이티센터 지1층비107호",
-      "area": "건물 36.74㎡(11.114평) 대지권 9.5173㎡(2.879평)",
-      "appraisal": 346000000,
-      "min_price": 177152000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.09.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2422166,
-      "case_no": "2025-51660",
-      "item_no": null,
-      "court": "서울동부3계",
-      "type": "오피스텔(주거)",
-      "address": "서울특별시 성동구 용답동 238-12 서희스타힐스리버파크 11층1130호",
-      "area": "건물 20.21㎡(6.114평) 대지권 4.57㎡(1.382평)",
-      "appraisal": 131000000,
-      "min_price": 131000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.28",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2427230,
-      "case_no": "2025-51710",
-      "item_no": null,
-      "court": "서울동부3계",
-      "type": "단독주택",
-      "address": "서울특별시 성동구 사근동 183-7",
-      "area": "건물 7.28㎡(2.202평) 토지 6㎡(1.815평)",
-      "appraisal": 46904800,
-      "min_price": 37524000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.09.28",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
-    },
     {
       "tid": 2406251,
       "case_no": "2025-309",
@@ -909,7 +873,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1009,22 +973,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2425810,
-      "case_no": "2025-51732",
-      "item_no": null,
-      "court": "서울동부5계",
-      "type": "아파트",
-      "address": "서울특별시 성동구 금호동1가 633 벽산아파트 205동 11층1102호",
-      "area": "건물 84.82㎡(25.658평) 대지권 45.72㎡(13.83평)",
-      "appraisal": 1500000000,
-      "min_price": 1500000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.12",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2448145,
       "case_no": "2025-51790",
       "item_no": null,
@@ -1085,7 +1033,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1233,6 +1181,38 @@
       "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
+      "tid": 2483154,
+      "case_no": "2025-483",
+      "item_no": 1,
+      "court": "서울동부6계",
+      "type": "지식산업센터",
+      "address": "서울특별시 성동구 성수동2가 284-55 서울숲에스케이브이1타워 에이동 16층1609호 외 1필지",
+      "area": "건물 105.99㎡(32.062평) 대지권 27.98㎡(8.464평)",
+      "appraisal": 1620000000,
+      "min_price": 1620000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2582485,
+      "case_no": "2025-483",
+      "item_no": 2,
+      "court": "서울동부6계",
+      "type": "지식산업센터",
+      "address": "서울특별시 성동구 성수동2가 284-55 서울숲에스케이브이1타워 에이동 16층1610호 외 1필지",
+      "area": "건물 130.11㎡(39.358평) 대지권 34.35㎡(10.391평)",
+      "appraisal": 1990000000,
+      "min_price": 1990000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "임금채권자",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2504686,
       "case_no": "2025-51158",
       "item_no": 1,
@@ -1308,6 +1288,38 @@
       "min_price": 149760000,
       "min_price_pct": 64,
       "status": "유찰 2회",
+      "bid_date": "26.10.19",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2479021,
+      "case_no": "2025-52491",
+      "item_no": null,
+      "court": "서울동부1계",
+      "type": "도시형생활주택",
+      "address": "서울특별시 성동구 상왕십리동 12-47 청계센트럴큐브 7층702호",
+      "area": "건물 23.95㎡(7.245평) 대지권 5.8797㎡(1.779평)",
+      "appraisal": 321000000,
+      "min_price": 321000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2491545,
+      "case_no": "2026-50026",
+      "item_no": null,
+      "court": "서울동부1계",
+      "type": "오피스텔(주거)",
+      "address": "서울특별시 성동구 성수동1가 13-117 뚝섬리버빌 2층213호",
+      "area": "건물 42.94㎡(12.989평) 대지권 15.81㎡(4.783평)",
+      "appraisal": 308000000,
+      "min_price": 308000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.19",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
@@ -1519,6 +1531,102 @@
       "bid_date": "26.11.02",
       "special": "선순위 전세권설정,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2264396,
+      "case_no": "2024-195",
+      "item_no": null,
+      "court": "서울동부3계",
+      "type": "상가주택",
+      "address": "서울특별시 성동구 사근동 291-25",
+      "area": "건물 87.06㎡(26.336평) 토지 93.5㎡(28.284평)",
+      "appraisal": 780229800,
+      "min_price": 499346000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.11.09",
+      "special": "선순위 전세권설정",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2377512,
+      "case_no": "2025-238",
+      "item_no": 1,
+      "court": "서울동부3계",
+      "type": "오피스텔(상업)",
+      "address": "서울특별시 성동구 성수동2가 289-18 서울숲코리아아이티센터 1층113호",
+      "area": "건물 23.18㎡(7.012평) 대지권 6.0047㎡(1.816평)",
+      "appraisal": 419000000,
+      "min_price": 171622000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2526927,
+      "case_no": "2025-238",
+      "item_no": 2,
+      "court": "서울동부3계",
+      "type": "지식산업센터",
+      "address": "서울특별시 성동구 성수동2가 289-18 서울숲코리아아이티센터 지1층비107호",
+      "area": "건물 36.74㎡(11.114평) 대지권 9.5173㎡(2.879평)",
+      "appraisal": 346000000,
+      "min_price": 141722000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2398411,
+      "case_no": "2025-51332",
+      "item_no": null,
+      "court": "서울동부3계",
+      "type": "근린상가",
+      "address": "서울특별시 성동구 성수동1가 656-882 더스페이스타워 9층910호",
+      "area": "건물 88.16㎡(26.668평) 대지권 20.97㎡(6.343평)",
+      "appraisal": 1326000000,
+      "min_price": 848640000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2422166,
+      "case_no": "2025-51660",
+      "item_no": null,
+      "court": "서울동부3계",
+      "type": "오피스텔(주거)",
+      "address": "서울특별시 성동구 용답동 238-12 서희스타힐스리버파크 11층1130호",
+      "area": "건물 20.21㎡(6.114평) 대지권 4.57㎡(1.382평)",
+      "appraisal": 131000000,
+      "min_price": 104800000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.11.09",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2427230,
+      "case_no": "2025-51710",
+      "item_no": null,
+      "court": "서울동부3계",
+      "type": "단독주택",
+      "address": "서울특별시 성동구 사근동 183-7",
+      "area": "건물 7.28㎡(2.202평) 토지 6㎡(1.815평)",
+      "appraisal": 46904800,
+      "min_price": 30019000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.11.09",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
     }
   ]
 }

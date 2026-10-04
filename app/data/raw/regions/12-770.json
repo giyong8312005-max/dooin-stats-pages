@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "12",
     "guCd": "770",
@@ -7,15 +7,6 @@
     "name": "장흥군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "12",
-      "guCd": "770",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 4,
@@ -456,6 +447,224 @@
       "title": "",
       "rows": [],
       "unavailable": true
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "12",
+      "guCd": "770",
+      "title": "2026. 09 월간매각 통계자료 : 광주 장흥군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 16,
+          "failed": 15,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 16,
+          "failed": 10,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 31.25,
+          "avg_appraisal": 33856000,
+          "sale_price_rate": 54.65
+        },
+        {
+          "type": "임야",
+          "total": 16,
+          "failed": 12,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 32829600,
+          "sale_price_rate": 55.67
+        },
+        {
+          "type": "대지",
+          "total": 6,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 98280000,
+          "sale_price_rate": 51.05
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 340538600,
+          "sale_price_rate": 26.46
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 1935930,
+          "sale_price_rate": 80.01
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 190061900,
+          "sale_price_rate": 29.35
+        },
+        {
+          "type": "문화및집회시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 11,
+          "failed": 6,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 1709637670,
+          "sale_price_rate": 30.25
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 213331000,
+          "sale_price_rate": 30.47
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "굴삭기",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 38000000,
+          "sale_price_rate": 73.95
+        },
+        {
+          "type": "선박",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -615,22 +824,6 @@
       "min_price": 1683000,
       "min_price_pct": 13,
       "status": "유찰 9회",
-      "bid_date": "26.10.26",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2437463,
-      "case_no": "2024-6278",
-      "item_no": 2,
-      "court": "장흥1계",
-      "type": "전",
-      "address": "전라남도 장흥군 장평면 임리 268",
-      "area": "토지 612㎡(185.13평)",
-      "appraisal": 5569200,
-      "min_price": 934000,
-      "min_price_pct": 17,
-      "status": "유찰 8회",
       "bid_date": "26.10.26",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
@@ -1066,6 +1259,22 @@
       "bid_date": "26.10.26",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2449600,
+      "case_no": "2025-5323",
+      "item_no": null,
+      "court": "장흥1계",
+      "type": "답",
+      "address": "전라남도 장흥군 대덕읍 잠두리 795-1",
+      "area": "토지 3402.8㎡(1029.347평)",
+      "appraisal": 91875600,
+      "min_price": 73500000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.10.26",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2451888,

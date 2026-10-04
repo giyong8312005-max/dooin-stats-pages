@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "43",
     "guCd": "111",
@@ -7,202 +7,6 @@
     "name": "청주시 상당구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "43",
-      "guCd": "111",
-      "title": "2026. 03 월간매각 통계자료 : 충북 청주시 상당구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 7,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 10.0,
-          "avg_appraisal": 44246000,
-          "sale_price_rate": 25.09
-        },
-        {
-          "type": "답",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 44896000,
-          "sale_price_rate": 49.0
-        },
-        {
-          "type": "임야",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 2211219000,
-          "sale_price_rate": 29.45
-        },
-        {
-          "type": "대지",
-          "total": 6,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1295526750,
-          "sale_price_rate": 48.03
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "유원지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "묘지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 6,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 136855200,
-          "sale_price_rate": 51.1
-        },
-        {
-          "type": "아파트",
-          "total": 20,
-          "failed": 15,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 10.0,
-          "avg_appraisal": 166500000,
-          "sale_price_rate": 82.31
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 117000000,
-          "sale_price_rate": 59.83
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 20.0,
-          "avg_appraisal": 319769560,
-          "sale_price_rate": 81.31
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 9,
-          "failed": 7,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 11.11,
-          "avg_appraisal": 1617683200,
-          "sale_price_rate": 18.61
-        },
-        {
-          "type": "근린상가",
-          "total": 17,
-          "failed": 3,
-          "sold": 1,
-          "changed": 8,
-          "withdrawn": 5,
-          "sold_rate": 5.88,
-          "avg_appraisal": 2848000000,
-          "sale_price_rate": 27.95
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -1127,137 +931,172 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "43",
+      "guCd": "111",
+      "title": "2026. 09 월간매각 통계자료 : 충북 청주시 상당구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 7,
+          "failed": 4,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 297653000,
+          "sale_price_rate": 35.34
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 74858000,
+          "sale_price_rate": 34.75
+        },
+        {
+          "type": "목장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 17,
+          "failed": 16,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 6,
+          "failed": 3,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 513151300,
+          "sale_price_rate": 47.6
+        },
+        {
+          "type": "단독주택",
+          "total": 8,
+          "failed": 6,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 548687970,
+          "sale_price_rate": 40.39
+        },
+        {
+          "type": "아파트",
+          "total": 24,
+          "failed": 16,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 16.67,
+          "avg_appraisal": 165250000,
+          "sale_price_rate": 51.28
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 45000000,
+          "sale_price_rate": 39.36
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 7,
+          "failed": 4,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 184203000,
+          "sale_price_rate": 35.34
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 5,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 28.57,
+          "avg_appraisal": 226000000,
+          "sale_price_rate": 38.94
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 363704800,
+          "sale_price_rate": 51.69
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2440754,
-      "case_no": "2025-3930",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "동물및식물관련시설",
-      "address": "충청북도 청주시 상당구 미원면 대덕리 117-1 외 5필지",
-      "area": "건물 1405.5㎡(425.164평) 토지 4658㎡(1409.045평)",
-      "appraisal": 363704800,
-      "min_price": 178215000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2447466,
-      "case_no": "2025-4452",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "근린생활시설",
-      "address": "충청북도 청주시 상당구 수동 22-6",
-      "area": "건물 35.64㎡(10.781평) 토지 138.7㎡(41.957평)",
-      "appraisal": 184203000,
-      "min_price": 63181000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.29",
-      "special": "유치권",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2464699,
-      "case_no": "2025-5219",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "아파트",
-      "address": "충청북도 청주시 상당구 용암동 2108 용암주공아파트1단지 102동 8층805호",
-      "area": "건물 49.8㎡(15.064평) 대지권 29㎡(8.772평)",
-      "appraisal": 100000000,
-      "min_price": 49000000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.29",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2479677,
-      "case_no": "2025-5820",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "아파트",
-      "address": "충청북도 청주시 상당구 용담동 418 가좌마을부영아파트 505동 7층706호",
-      "area": "건물 84.9916㎡(25.71평) 대지권 48.0985㎡(14.55평)",
-      "appraisal": 252000000,
-      "min_price": 252000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2418213,
-      "case_no": "2025-51268",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "공장",
-      "address": "충청북도 청주시 상당구 미원면 쌍이리 256 외 9필지",
-      "area": "건물 6902.27㎡(2087.937평) 토지 23066㎡(6977.465평)",
-      "appraisal": 7898882070,
-      "min_price": 2709316000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2452260,
-      "case_no": "2025-51762",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "임야",
-      "address": "충청북도 청주시 상당구 가덕면 국전리 산15-11 외 2필지",
-      "area": "토지 4126㎡(1248.115평)",
-      "appraisal": 493574000,
-      "min_price": 169296000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2478806,
-      "case_no": "2025-52088",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "근린상가",
-      "address": "충청북도 청주시 상당구 방서동 665 서진빌딩 3층301호",
-      "area": "건물 92.71㎡(28.045평) 대지권 36.19㎡(10.947평)",
-      "appraisal": 324000000,
-      "min_price": 158760000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.09.29",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2533175,
-      "case_no": "2026-173",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "근린상가",
-      "address": "충청북도 청주시 상당구 금천동 77-7 금천뉴타운아파트 상가비동 3층301호 외 6필지",
-      "area": "건물 173.6㎡(52.514평) 대지권 93.23㎡(28.202평)",
-      "appraisal": 127000000,
-      "min_price": 127000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2478814,
       "case_no": "2025-5608",
@@ -1456,15 +1295,15 @@
       "item_no": null,
       "court": "청주1계",
       "type": "근린생활시설",
-      "address": "충청북도 청주시 상당구 미원면 운암리 229-1 외 14필지",
-      "area": "건물 2015.8㎡(609.78평) 토지 54020㎡(16341.05평)",
+      "address": "충청북도 청주시 상당구 미원면 운암리 229-1 외 18필지",
+      "area": "건물 2086.8㎡(631.257평) 토지 60025.5㎡(18157.714평)",
       "appraisal": 4729240080,
       "min_price": 4729240080,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.13",
       "special": "법정지상권,분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지·건물 일괄매각"
+      "dpsl": "건물전부, 토지지분"
     },
     {
       "tid": 2488241,
@@ -1495,7 +1334,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.13",
-      "special": "",
+      "special": "맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1560,7 +1399,7 @@
       "status": "신건",
       "bid_date": "26.10.13",
       "special": "",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2581084,
@@ -1735,7 +1574,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1793,11 +1632,11 @@
       "court": "청주3계",
       "type": "다가구주택",
       "address": "충청북도 청주시 상당구 용정동 733",
-      "area": "건물 415.35㎡(125.643평) 토지 223.5㎡(67.609평)",
+      "area": "건물 474.55㎡(143.551평) 토지 223.5㎡(67.609평)",
       "appraisal": 741954900,
       "min_price": 741954900,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "위반건축물,임차권등기",
       "dpsl": "토지·건물 일괄매각"
@@ -1829,7 +1668,7 @@
       "appraisal": 86920000,
       "min_price": 86920000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "",
       "dpsl": "토지 매각"
@@ -1845,7 +1684,7 @@
       "appraisal": 86940000,
       "min_price": 86940000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1861,7 +1700,7 @@
       "appraisal": 57948000,
       "min_price": 57948000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "",
       "dpsl": "토지 매각"
@@ -1957,7 +1796,7 @@
       "appraisal": 426420000,
       "min_price": 426420000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "",
       "dpsl": "토지 매각"
@@ -1973,7 +1812,7 @@
       "appraisal": 64680000,
       "min_price": 64680000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "",
       "dpsl": "토지 매각"
@@ -1989,9 +1828,9 @@
       "appraisal": 43306000,
       "min_price": 43306000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -2005,7 +1844,7 @@
       "appraisal": 37380000,
       "min_price": 37380000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -2021,9 +1860,9 @@
       "appraisal": 29044000,
       "min_price": 29044000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
@@ -2037,7 +1876,7 @@
       "appraisal": 319000000,
       "min_price": 319000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2049,13 +1888,13 @@
       "court": "청주3계",
       "type": "동물및식물관련시설",
       "address": "충청북도 청주시 상당구 낭성면 관정리 292-1 외 4필지",
-      "area": "건물 197.64㎡(59.786평) 토지 8025㎡(2427.563평)",
+      "area": "건물 248.64㎡(75.214평) 토지 8025㎡(2427.563평)",
       "appraisal": 662264080,
       "min_price": 662264080,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.14",
-      "special": "농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명,맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2155,6 +1994,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2532696,
+      "case_no": "2026-172",
+      "item_no": null,
+      "court": "청주6계",
+      "type": "아파트",
+      "address": "충청북도 청주시 상당구 영운동 33-1 한진신세대아파트 6층610호 외 2필지",
+      "area": "건물 43.24㎡(13.08평) 대지권 14.643㎡(4.43평)",
+      "appraisal": 69500000,
+      "min_price": 69500000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.15",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2550315,
+      "case_no": "2026-251",
+      "item_no": null,
+      "court": "청주6계",
+      "type": "상가주택",
+      "address": "충청북도 청주시 상당구 방서동 696",
+      "area": "건물 486.93㎡(147.296평) 토지 250.7㎡(75.837평)",
+      "appraisal": 1182042000,
+      "min_price": 1182042000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.15",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2490866,
       "case_no": "2026-50049",
       "item_no": null,
@@ -2216,6 +2087,22 @@
       "status": "유찰 2회",
       "bid_date": "26.10.22",
       "special": "유치권,분묘기지권,맹지",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2438873,
+      "case_no": "2025-51623",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "아파트",
+      "address": "충청북도 청주시 상당구 용암동 2083 삼일무지개아파트 107동 11층1103호",
+      "area": "건물 59.94㎡(18.132평) 대지권 30.838㎡(9.328평)",
+      "appraisal": 153000000,
+      "min_price": 12601000,
+      "min_price_pct": 8,
+      "status": "유찰 7회",
+      "bid_date": "26.10.22",
+      "special": "선순위 전세권설정",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2503,6 +2390,86 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.10.28",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2479677,
+      "case_no": "2025-5820",
+      "item_no": null,
+      "court": "청주2계",
+      "type": "아파트",
+      "address": "충청북도 청주시 상당구 용담동 418 가좌마을부영아파트 505동 7층706호",
+      "area": "건물 84.9916㎡(25.71평) 대지권 48.0985㎡(14.55평)",
+      "appraisal": 252000000,
+      "min_price": 176400000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.03",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2418213,
+      "case_no": "2025-51268",
+      "item_no": null,
+      "court": "청주2계",
+      "type": "공장",
+      "address": "충청북도 청주시 상당구 미원면 쌍이리 256 외 9필지",
+      "area": "건물 6902.27㎡(2087.937평) 토지 23066㎡(6977.465평)",
+      "appraisal": 7898882070,
+      "min_price": 1896521000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.03",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2452260,
+      "case_no": "2025-51762",
+      "item_no": null,
+      "court": "청주2계",
+      "type": "임야",
+      "address": "충청북도 청주시 상당구 가덕면 국전리 산15-11 외 2필지",
+      "area": "토지 4126㎡(1248.115평)",
+      "appraisal": 493574000,
+      "min_price": 118507000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.03",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2478806,
+      "case_no": "2025-52088",
+      "item_no": null,
+      "court": "청주2계",
+      "type": "근린상가",
+      "address": "충청북도 청주시 상당구 방서동 665 서진빌딩 3층301호",
+      "area": "건물 92.71㎡(28.045평) 대지권 36.19㎡(10.947평)",
+      "appraisal": 324000000,
+      "min_price": 111132000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.03",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2533175,
+      "case_no": "2026-173",
+      "item_no": null,
+      "court": "청주2계",
+      "type": "근린상가",
+      "address": "충청북도 청주시 상당구 금천동 77-7 금천뉴타운아파트 상가비동 3층301호 외 6필지",
+      "area": "건물 173.6㎡(52.514평) 대지권 93.23㎡(28.202평)",
+      "appraisal": 127000000,
+      "min_price": 88900000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.03",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     }

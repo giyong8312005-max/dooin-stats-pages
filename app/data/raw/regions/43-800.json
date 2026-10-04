@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "43",
     "guCd": "800",
@@ -7,103 +7,6 @@
     "name": "단양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "43",
-      "guCd": "800",
-      "title": "2026. 03 월간매각 통계자료 : 충북 단양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 25,
-          "failed": 21,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 12.0,
-          "avg_appraisal": 170178000,
-          "sale_price_rate": 24.29
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 9,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 330000000,
-          "sale_price_rate": 95.18
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 272095400,
-          "sale_price_rate": 73.5
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -566,6 +469,81 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "43",
+      "guCd": "800",
+      "title": "2026. 09 월간매각 통계자료 : 충북 단양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 15,
+          "failed": 12,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 6.67,
+          "avg_appraisal": 87629800,
+          "sale_price_rate": 125.87
+        },
+        {
+          "type": "답",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -834,8 +812,8 @@
       "address": "충청북도 단양군 단성면 가산리 250",
       "area": "토지 3012㎡(911.13평)",
       "appraisal": 304212000,
-      "min_price": 124606000,
-      "min_price_pct": 41,
+      "min_price": 109030000,
+      "min_price_pct": 36,
       "status": "유찰 4회",
       "bid_date": "26.10.26",
       "special": "농지취득자격증명",
@@ -850,8 +828,8 @@
       "address": "충청북도 단양군 적성면 상원곡리 43",
       "area": "토지 2129㎡(644.023평)",
       "appraisal": 48967000,
-      "min_price": 12837000,
-      "min_price_pct": 26,
+      "min_price": 11232000,
+      "min_price_pct": 23,
       "status": "유찰 6회",
       "bid_date": "26.10.26",
       "special": "농지취득자격증명,맹지",
@@ -866,8 +844,8 @@
       "address": "충청북도 단양군 영춘면 오사리 185",
       "area": "토지 2926㎡(885.115평)",
       "appraisal": 106799000,
-      "min_price": 43745000,
-      "min_price_pct": 41,
+      "min_price": 38277000,
+      "min_price_pct": 36,
       "status": "유찰 4회",
       "bid_date": "26.10.26",
       "special": "농지취득자격증명,맹지",
@@ -914,8 +892,8 @@
       "address": "충청북도 단양군 가곡면 여천리 102",
       "area": "토지 1124㎡(340.01평)",
       "appraisal": 39340000,
-      "min_price": 16114000,
-      "min_price_pct": 41,
+      "min_price": 14099000,
+      "min_price_pct": 36,
       "status": "유찰 4회",
       "bid_date": "26.10.26",
       "special": "분묘기지권,농지취득자격증명",
@@ -994,8 +972,8 @@
       "address": "충청북도 단양군 매포읍 상시리 182 외 3필지",
       "area": "건물 95.4㎡(28.859평) 토지 2457㎡(743.243평)",
       "appraisal": 130701200,
-      "min_price": 53535000,
-      "min_price_pct": 41,
+      "min_price": 46843000,
+      "min_price_pct": 36,
       "status": "유찰 4회",
       "bid_date": "26.10.26",
       "special": "법정지상권",

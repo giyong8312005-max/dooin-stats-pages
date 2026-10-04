@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "52",
     "guCd": "190",
@@ -7,169 +7,6 @@
     "name": "남원시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "52",
-      "guCd": "190",
-      "title": "2026. 03 월간매각 통계자료 : 전북 남원시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 9,
-          "failed": 9,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 8,
-          "failed": 4,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 176669225,
-          "sale_price_rate": 61.47
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 97606800,
-          "sale_price_rate": 27.05
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 8,
-          "failed": 5,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 161515520,
-          "sale_price_rate": 36.96
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "목욕탕",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 119158400,
-          "sale_price_rate": 75.61
-        },
-        {
-          "type": "화물차",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 14000000,
-          "sale_price_rate": 68.42
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -1006,6 +843,37 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "52",
+      "guCd": "190",
+      "title": "2026. 09 월간매각 통계자료 : 전북 남원시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1186,22 +1054,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2427977,
-      "case_no": "2025-30205",
-      "item_no": null,
-      "court": "남원2계",
-      "type": "숙박시설",
-      "address": "전북특별자치도 남원시 인월면 인월리 212-2 외 1필지",
-      "area": "건물 1963.76㎡(594.037평) 토지 1299㎡(392.948평)",
-      "appraisal": 1842486440,
-      "min_price": 631973000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.10.12",
-      "special": "유치권,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2445665,
       "case_no": "2025-30239",
       "item_no": 1,
@@ -1296,22 +1148,6 @@
       "bid_date": "26.10.12",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2453118,
-      "case_no": "2025-30248",
-      "item_no": null,
-      "court": "남원1계",
-      "type": "공장",
-      "address": "전북특별자치도 남원시 이백면 효기리 456-10 외 6필지",
-      "area": "건물 1718.46㎡(519.834평) 토지 93579㎡(28307.648평)",
-      "appraisal": 1963957220,
-      "min_price": 673637000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.10.12",
-      "special": "분묘기지권,맹지,임금채권자",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2478442,
@@ -1464,7 +1300,7 @@
       "court": "남원2계",
       "type": "단독주택",
       "address": "전북특별자치도 남원시 죽항동 137-1",
-      "area": "건물 101.88㎡(30.819평) 토지 314㎡(94.985평)",
+      "area": "건물 125.08㎡(37.837평) 토지 314㎡(94.985평)",
       "appraisal": 134155060,
       "min_price": 134155060,
       "min_price_pct": 100,
@@ -1522,22 +1358,6 @@
       "dpsl": ""
     },
     {
-      "tid": 2522667,
-      "case_no": "2026-30059",
-      "item_no": null,
-      "court": "남원1계",
-      "type": "숙박시설",
-      "address": "전북특별자치도 남원시 주천면 용담리 277-1",
-      "area": "건물 2025.06㎡(612.581평) 토지 2230㎡(674.575평)",
-      "appraisal": 1283162640,
-      "min_price": 1283162640,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.12",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2528375,
       "case_no": "2026-30063",
       "item_no": null,
@@ -1552,6 +1372,22 @@
       "bid_date": "26.10.12",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2558483,
+      "case_no": "2026-30098",
+      "item_no": null,
+      "court": "남원2계",
+      "type": "승합차",
+      "address": "전북특별자치도 남원시 죽항동 79, 지산주차장",
+      "area": "(그랜드 스타렉스(GRAND STAREX) / 2019년식 / 115,348㎞)",
+      "appraisal": 12000000,
+      "min_price": 12000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2565432,

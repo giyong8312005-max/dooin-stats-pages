@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "48",
     "guCd": "820",
@@ -7,202 +7,6 @@
     "name": "고성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "48",
-      "guCd": "820",
-      "title": "2026. 03 월간매각 통계자료 : 경남 고성군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 21,
-          "failed": 10,
-          "sold": 9,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 42.86,
-          "avg_appraisal": 279399433,
-          "sale_price_rate": 30.9
-        },
-        {
-          "type": "답",
-          "total": 30,
-          "failed": 18,
-          "sold": 5,
-          "changed": 4,
-          "withdrawn": 1,
-          "sold_rate": 16.67,
-          "avg_appraisal": 101530400,
-          "sale_price_rate": 25.41
-        },
-        {
-          "type": "임야",
-          "total": 21,
-          "failed": 13,
-          "sold": 5,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 23.81,
-          "avg_appraisal": 34175280,
-          "sale_price_rate": 31.32
-        },
-        {
-          "type": "대지",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "수도용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 7,
-          "failed": 4,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 107000000,
-          "sale_price_rate": 83.04
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 73000000,
-          "sale_price_rate": 50.41
-        },
-        {
-          "type": "다세대주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 4,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "자동차관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -1149,6 +953,202 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "48",
+      "guCd": "820",
+      "title": "2026. 09 월간매각 통계자료 : 경남 고성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 20,
+          "failed": 16,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 10.0,
+          "avg_appraisal": 75604500,
+          "sale_price_rate": 9.15
+        },
+        {
+          "type": "답",
+          "total": 10,
+          "failed": 9,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 10.0,
+          "avg_appraisal": 233576500,
+          "sale_price_rate": 19.48
+        },
+        {
+          "type": "임야",
+          "total": 8,
+          "failed": 6,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 71407500,
+          "sale_price_rate": 15.06
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 9,
+          "failed": 5,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 22.22,
+          "avg_appraisal": 765513720,
+          "sale_price_rate": 32.74
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 92132000,
+          "sale_price_rate": 54.28
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 727138400,
+          "sale_price_rate": 51.92
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1271,7 +1271,7 @@
       "court": "통영8계",
       "type": "전",
       "address": "경상남도 고성군 삼산면 두포리 10-3 외 9필지",
-      "area": "토지 1362.1333㎡(412.045평)",
+      "area": "토지 1254.51㎡(379.489평)",
       "appraisal": 179839910,
       "min_price": 179839910,
       "min_price_pct": 100,
@@ -1279,22 +1279,6 @@
       "bid_date": "26.10.12",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2580595,
-      "case_no": "2025-563",
-      "item_no": 2,
-      "court": "통영8계",
-      "type": "전",
-      "address": "경상남도 고성군 삼산면 두포리 10-9",
-      "area": "토지 907㎡(274.368평)",
-      "appraisal": 130608000,
-      "min_price": 130608000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2463604,
@@ -1665,6 +1649,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2400036,
+      "case_no": "2025-21290",
+      "item_no": null,
+      "court": "통영1계",
+      "type": "임야",
+      "address": "경상남도 고성군 동해면 내산리 산120-4 외 9필지",
+      "area": "토지 12860㎡(3890.15평)",
+      "appraisal": 1130042000,
+      "min_price": 1130042000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.12",
+      "special": "유치권,농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
       "tid": 2401505,
       "case_no": "2025-21306",
       "item_no": null,
@@ -1837,7 +1837,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1878,14 +1878,14 @@
       "item_no": 1,
       "court": "통영1계",
       "type": "답",
-      "address": "경상남도 고성군 고성읍 신월리 403 외 2필지",
-      "area": "토지 2445㎡(739.613평)",
+      "address": "경상남도 고성군 고성읍 신월리 403 외 1필지",
+      "area": "토지 2048㎡(619.52평)",
       "appraisal": 576680000,
       "min_price": 576680000,
       "min_price_pct": 100,
       "status": "유찰 1회",
       "bid_date": "26.10.12",
-      "special": "농지취득자격증명,맹지",
+      "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -1909,7 +1909,7 @@
       "case_no": "2026-10051",
       "item_no": null,
       "court": "통영8계",
-      "type": "다가구주택",
+      "type": "단독주택",
       "address": "경상남도 고성군 하이면 덕명리 222-14",
       "area": "건물 294.5㎡(89.086평) 토지 510㎡(154.275평)",
       "appraisal": 291685600,
@@ -1919,22 +1919,6 @@
       "bid_date": "26.10.12",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2507347,
-      "case_no": "2026-10201",
-      "item_no": null,
-      "court": "통영1계",
-      "type": "답",
-      "address": "경상남도 고성군 거류면 은월리 774-2 외 1필지",
-      "area": "토지 2580.8㎡(780.692평)",
-      "appraisal": 167752000,
-      "min_price": 117426000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2513268,
@@ -1949,7 +1933,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
@@ -2014,7 +1998,7 @@
       "status": "신건",
       "bid_date": "26.10.12",
       "special": "",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2524603,
@@ -2046,7 +2030,7 @@
       "status": "신건",
       "bid_date": "26.10.12",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2580566,
@@ -2071,14 +2055,30 @@
       "court": "통영1계",
       "type": "대지",
       "address": "경상남도 고성군 대가면 송계리 113 외 3필지",
-      "area": "토지 5423㎡(1640.458평)",
+      "area": "건물 3㎡(0.908평) 토지 5423㎡(1640.458평)",
       "appraisal": 388769000,
       "min_price": 388769000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2286384,
+      "case_no": "2024-1745",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "자동차관련시설",
+      "address": "경남 고성군 고성읍 우산리 190-8 외 8필지",
+      "area": "건물 482.4㎡(145.926평) 토지 23001㎡(6957.803평)",
+      "appraisal": 2996460000,
+      "min_price": 1027786000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명,임금채권자",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2470266,
@@ -2143,6 +2143,22 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2488389,
+      "case_no": "2025-687",
+      "item_no": null,
+      "court": "통영2계",
+      "type": "단독주택",
+      "address": "경상남도 고성군 영현면 침점리 338-4",
+      "area": "건물 155.09㎡(46.915평) 토지 241㎡(72.903평)",
+      "appraisal": 124353580,
+      "min_price": 124353580,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2371550,
@@ -2319,6 +2335,118 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2489094,
+      "case_no": "2026-10006",
+      "item_no": null,
+      "court": "통영3계",
+      "type": "근린생활시설",
+      "address": "경상남도 고성군 고성읍 교사리 442 외 5필지",
+      "area": "건물 450㎡(136.125평) 토지 2793㎡(844.882평)",
+      "appraisal": 1586464360,
+      "min_price": 1586464360,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "법정지상권",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2493360,
+      "case_no": "2026-10062",
+      "item_no": 1,
+      "court": "통영3계",
+      "type": "답",
+      "address": "경상남도 고성군 거류면 신용리 98 외 1필지",
+      "area": "토지 1055㎡(319.138평)",
+      "appraisal": 93389000,
+      "min_price": 93389000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2582952,
+      "case_no": "2026-10062",
+      "item_no": 2,
+      "court": "통영3계",
+      "type": "전",
+      "address": "경상남도 고성군 거류면 신용리 1809-5",
+      "area": "토지 139㎡(42.048평)",
+      "appraisal": 8757000,
+      "min_price": 8757000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2506787,
+      "case_no": "2026-10207",
+      "item_no": 1,
+      "court": "통영3계",
+      "type": "전",
+      "address": "경상남도 고성군 하일면 학림리 828-1 외 1필지",
+      "area": "토지 12024㎡(3637.26평)",
+      "appraisal": 137069300,
+      "min_price": 137069300,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2582948,
+      "case_no": "2026-10207",
+      "item_no": 2,
+      "court": "통영3계",
+      "type": "임야",
+      "address": "경상남도 고성군 하일면 학림리 산169",
+      "area": "토지 5470.6742㎡(1654.879평)",
+      "appraisal": 26259360,
+      "min_price": 26259360,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2510946,
+      "case_no": "2026-10232",
+      "item_no": 1,
+      "court": "통영3계",
+      "type": "답",
+      "address": "경상남도 고성군 삼산면 삼봉리 548-1 외 2필지",
+      "area": "토지 613.3846㎡(185.549평)",
+      "appraisal": 43127240,
+      "min_price": 43127240,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2582947,
+      "case_no": "2026-10232",
+      "item_no": 2,
+      "court": "통영3계",
+      "type": "답",
+      "address": "경상남도 고성군 삼산면 삼봉리 550-11 외 2필지",
+      "area": "토지 460.9231㎡(139.429평)",
+      "appraisal": 14749440,
+      "min_price": 14749440,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2288481,
@@ -2879,22 +3007,6 @@
       "bid_date": "26.11.09",
       "special": "",
       "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2463605,
-      "case_no": "2025-643",
-      "item_no": 1,
-      "court": "통영5계",
-      "type": "공장용지",
-      "address": "경상남도 고성군 고성읍 기월리 576 외 3필지",
-      "area": "건물은 매각제외 토지 3562㎡(1077.505평)",
-      "appraisal": 1151035540,
-      "min_price": 394806000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.09",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지만 매각"
     },
     {
       "tid": 2470269,

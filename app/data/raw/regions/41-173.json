@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "41",
     "guCd": "173",
@@ -7,158 +7,6 @@
     "name": "안양시 동안구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "41",
-      "guCd": "173",
-      "title": "2026. 03 월간매각 통계자료 : 경기 안양시 동안구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 325561600,
-          "sale_price_rate": 81.4
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 2020259000,
-          "sale_price_rate": 53.02
-        },
-        {
-          "type": "아파트",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 6,
-          "failed": 2,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 374675000,
-          "sale_price_rate": 81.06
-        },
-        {
-          "type": "기숙사",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 135000000,
-          "sale_price_rate": 81.48
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 11,
-          "failed": 6,
-          "sold": 2,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 18.18,
-          "avg_appraisal": 310500000,
-          "sale_price_rate": 87.32
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 17,
-          "failed": 12,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 17.65,
-          "avg_appraisal": 438333333,
-          "sale_price_rate": 62.48
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -687,6 +535,147 @@
           "sale_price_rate": 92.09
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "41",
+      "guCd": "173",
+      "title": "2026. 09 월간매각 통계자료 : 경기 안양시 동안구",
+      "rows": [
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 6,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 938000000,
+          "sale_price_rate": 114.88
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 10,
+          "failed": 8,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 237000000,
+          "sale_price_rate": 72.6
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 126000000,
+          "sale_price_rate": 72.84
+        },
+        {
+          "type": "근린상가",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 20,
+          "failed": 17,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 15.0,
+          "avg_appraisal": 414000000,
+          "sale_price_rate": 46.06
+        },
+        {
+          "type": "승용차",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 12500000,
+          "sale_price_rate": 68.08
+        },
+        {
+          "type": "화물차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 18500000,
+          "sale_price_rate": 77.41
+        }
+      ]
     }
   ],
   "listings": [
@@ -704,22 +693,6 @@
       "status": "유찰 1회",
       "bid_date": "26.10.06",
       "special": "위반건축물,임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2278982,
-      "case_no": "2024-102623",
-      "item_no": null,
-      "court": "안양1계",
-      "type": "아파트",
-      "address": "경기 안양시 동안구 관양동 1396, 7동 10층1001호 (관양동,현대아파트) 외 3필지",
-      "area": "건물 123.6㎡(37.389평) 대지권 22.5189㎡(6.812평)",
-      "appraisal": 1022000000,
-      "min_price": 654080000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.10.06",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -771,38 +744,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2428280,
-      "case_no": "2025-1215",
-      "item_no": 1,
-      "court": "안양1계",
-      "type": "지식산업센터",
-      "address": "경기도 안양시 동안구 관양동 891 안양스마트베이2 8층801호",
-      "area": "건물 78.132㎡(23.635평) 대지권 34.3㎡(10.376평)",
-      "appraisal": 436000000,
-      "min_price": 223232000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.06",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2538572,
-      "case_no": "2025-1215",
-      "item_no": 2,
-      "court": "안양1계",
-      "type": "지식산업센터",
-      "address": "경기도 안양시 동안구 관양동 891 안양스마트베이2 8층802호",
-      "area": "건물 58.5㎡(17.696평) 대지권 25.68㎡(7.768평)",
-      "appraisal": 326000000,
-      "min_price": 166912000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.06",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2438169,
       "case_no": "2025-1338",
       "item_no": null,
@@ -830,22 +771,6 @@
       "min_price": 69468000,
       "min_price_pct": 33,
       "status": "유찰 5회",
-      "bid_date": "26.10.06",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2392305,
-      "case_no": "2025-100848",
-      "item_no": null,
-      "court": "안양1계",
-      "type": "오피스텔(주거)",
-      "address": "경기도 안양시 동안구 관양동 1507-2 파인빌 9층905호",
-      "area": "건물 35.0438㎡(10.601평) 대지권 12.1522㎡(3.676평)",
-      "appraisal": 202000000,
-      "min_price": 129280000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
       "bid_date": "26.10.06",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"

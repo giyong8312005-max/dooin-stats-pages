@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "51",
     "guCd": "730",
@@ -7,191 +7,6 @@
     "name": "횡성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "51",
-      "guCd": "730",
-      "title": "2026. 03 월간매각 통계자료 : 강원 횡성군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 26,
-          "failed": 16,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 23.08,
-          "avg_appraisal": 111728308,
-          "sale_price_rate": 33.33
-        },
-        {
-          "type": "답",
-          "total": 14,
-          "failed": 8,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 50245720,
-          "sale_price_rate": 43.63
-        },
-        {
-          "type": "임야",
-          "total": 14,
-          "failed": 10,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 21.43,
-          "avg_appraisal": 326349750,
-          "sale_price_rate": 55.45
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 2,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 346075750,
-          "sale_price_rate": 27.94
-        },
-        {
-          "type": "도로",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 115595800,
-          "sale_price_rate": 45.13
-        },
-        {
-          "type": "잡종지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 4650000,
-          "sale_price_rate": 48.39
-        },
-        {
-          "type": "단독주택",
-          "total": 12,
-          "failed": 8,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 281929800,
-          "sale_price_rate": 53.05
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1398680000,
-          "sale_price_rate": 49.33
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 3,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "업무시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 685832200,
-          "sale_price_rate": 29.18
-        },
-        {
-          "type": "목욕탕",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1989166450,
-          "sale_price_rate": 50.83
-        },
-        {
-          "type": "창고시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -1050,6 +865,180 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "51",
+      "guCd": "730",
+      "title": "2026. 09 월간매각 통계자료 : 강원 횡성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 20,
+          "failed": 17,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 5.0,
+          "avg_appraisal": 3377850,
+          "sale_price_rate": 4.17
+        },
+        {
+          "type": "답",
+          "total": 9,
+          "failed": 7,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "목장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 23279500,
+          "sale_price_rate": 10.7
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 257765700,
+          "sale_price_rate": 60.21
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1566,6 +1555,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2431816,
+      "case_no": "2025-20776",
+      "item_no": null,
+      "court": "원주2계",
+      "type": "상가주택",
+      "address": "강원특별자치도 횡성군 둔내면 석문리 587-1 외 2필지",
+      "area": "건물 964.66㎡(291.81평) 토지 3547㎡(1072.968평)",
+      "appraisal": 1465410470,
+      "min_price": 1465410470,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2434709,
       "case_no": "2025-20808",
       "item_no": null,
@@ -1580,6 +1585,70 @@
       "bid_date": "26.10.19",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2436597,
+      "case_no": "2025-20832",
+      "item_no": null,
+      "court": "원주2계",
+      "type": "전",
+      "address": "강원특별자치도 횡성군 우천면 오원리 11 외 4필지",
+      "area": "토지 2410㎡(729.025평)",
+      "appraisal": 88524800,
+      "min_price": 88524800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2439366,
+      "case_no": "2025-20850",
+      "item_no": 1,
+      "court": "원주2계",
+      "type": "임야",
+      "address": "강원특별자치도 횡성군 공근면 창봉리 산86",
+      "area": "토지 9917㎡(2999.893평)",
+      "appraisal": 13883800,
+      "min_price": 13883800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2581963,
+      "case_no": "2025-20850",
+      "item_no": 2,
+      "court": "원주2계",
+      "type": "전",
+      "address": "강원특별자치도 횡성군 공근면 창봉리 95-1",
+      "area": "토지 1657㎡(501.243평)",
+      "appraisal": 56338000,
+      "min_price": 56338000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2581965,
+      "case_no": "2025-20850",
+      "item_no": 4,
+      "court": "원주2계",
+      "type": "임야",
+      "address": "강원특별자치도 횡성군 공근면 창봉리 산66",
+      "area": "토지 4760㎡(1439.9평)",
+      "appraisal": 52360000,
+      "min_price": 52360000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.19",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2441785,
@@ -1838,38 +1907,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2455715,
-      "case_no": "2025-20935",
-      "item_no": 1,
-      "court": "원주3계",
-      "type": "임야",
-      "address": "강원특별자치도 횡성군 둔내면 삽교리 1161-5 외 6필지",
-      "area": "토지 2308.8㎡(698.412평)",
-      "appraisal": 16081680,
-      "min_price": 11257000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2568028,
-      "case_no": "2025-20935",
-      "item_no": 2,
-      "court": "원주3계",
-      "type": "도로",
-      "address": "강원특별자치도 횡성군 둔내면 삽교리 1163-2 외 1필지",
-      "area": "토지 1959㎡(592.598평)",
-      "appraisal": 15256200,
-      "min_price": 10679000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2426392,
       "case_no": "2025-1483",
       "item_no": null,
@@ -1916,6 +1953,22 @@
       "bid_date": "26.11.02",
       "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2421162,
+      "case_no": "2025-20726",
+      "item_no": null,
+      "court": "원주4계",
+      "type": "답",
+      "address": "강원특별자치도 횡성군 우천면 두곡리 511 외 1필지",
+      "area": "건물은 매각제외 토지 5036㎡(1523.39평)",
+      "appraisal": 342838000,
+      "min_price": 117594000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.02",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
       "tid": 2458231,
@@ -2108,22 +2161,6 @@
       "bid_date": "26.11.02",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2476175,
-      "case_no": "2025-21076",
-      "item_no": null,
-      "court": "원주4계",
-      "type": "아파트",
-      "address": "강원특별자치도 횡성군 횡성읍 읍하리 442 서도아파트 1층102호 외 1필지",
-      "area": "건물 57.24㎡(17.315평) 대지권 26.6715㎡(8.068평)",
-      "appraisal": 107000000,
-      "min_price": 74900000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.02",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2479669,

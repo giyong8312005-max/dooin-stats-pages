@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "47",
     "guCd": "730",
@@ -7,125 +7,6 @@
     "name": "의성군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "47",
-      "guCd": "730",
-      "title": "2026. 03 월간매각 통계자료 : 경북 의성군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 13,
-          "failed": 12,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 7.69,
-          "avg_appraisal": 43554000,
-          "sale_price_rate": 36.74
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 29904000,
-          "sale_price_rate": 40.13
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 9,
-          "failed": 6,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 22.22,
-          "avg_appraisal": 20431075,
-          "sale_price_rate": 34.62
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 213150000,
-          "sale_price_rate": 49.26
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 265186400,
-          "sale_price_rate": 75.8
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 3885846040,
-          "sale_price_rate": 34.76
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -841,6 +722,158 @@
           "sale_price_rate": 40.73
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "47",
+      "guCd": "730",
+      "title": "2026. 09 월간매각 통계자료 : 경북 의성군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 16,
+          "failed": 12,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.75,
+          "avg_appraisal": 279324000,
+          "sale_price_rate": 24.39
+        },
+        {
+          "type": "답",
+          "total": 17,
+          "failed": 10,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 23.53,
+          "avg_appraisal": 54210000,
+          "sale_price_rate": 32.15
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 6,
+          "failed": 2,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 242133267,
+          "sale_price_rate": 54.97
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 25.0,
+          "avg_appraisal": 57474000,
+          "sale_price_rate": 104.4
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 233000000,
+          "sale_price_rate": 82.16
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 198000000,
+          "sale_price_rate": 54.55
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "종교시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -989,6 +1022,22 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
+      "tid": 2445574,
+      "case_no": "2025-10271",
+      "item_no": null,
+      "court": "의성1계",
+      "type": "임야",
+      "address": "경상북도 의성군 다인면 외정리 산40-1",
+      "area": "토지 66149㎡(20010.073평)",
+      "appraisal": 138912900,
+      "min_price": 138912900,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
       "tid": 2449956,
       "case_no": "2025-10285",
       "item_no": 1,
@@ -1133,6 +1182,38 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
+      "tid": 2481718,
+      "case_no": "2025-10349",
+      "item_no": 1,
+      "court": "의성1계",
+      "type": "답",
+      "address": "경상북도 의성군 안계면 토매리 7-4",
+      "area": "토지 2681㎡(811.002평)",
+      "appraisal": 123326000,
+      "min_price": 123326000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2582481,
+      "case_no": "2025-10349",
+      "item_no": 2,
+      "court": "의성1계",
+      "type": "답",
+      "address": "경상북도 의성군 안계면 토매리 21-4",
+      "area": "토지 1981㎡(599.252평)",
+      "appraisal": 103012000,
+      "min_price": 103012000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2485818,
       "case_no": "2025-10355",
       "item_no": null,
@@ -1147,6 +1228,86 @@
       "bid_date": "26.10.14",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2271215,
+      "case_no": "2024-10209",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "공장",
+      "address": "경상북도 의성군 봉양면 도원리 466-1 외 1필지",
+      "area": "건물 6066.23㎡(1835.035평) 토지 13627㎡(4122.167평)",
+      "appraisal": 3726378000,
+      "min_price": 3726378000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2333924,
+      "case_no": "2024-11608",
+      "item_no": null,
+      "court": "의성2계",
+      "type": "단독주택",
+      "address": "경상북도 의성군 의성읍 도동리 642-1",
+      "area": "건물 107.92㎡(32.646평) 토지 805㎡(243.513평)",
+      "appraisal": 351710600,
+      "min_price": 351710600,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2337813,
+      "case_no": "2024-11653",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "창고시설",
+      "address": "경상북도 의성군 가음면 귀천리 6-1",
+      "area": "건물 128㎡(38.72평) 토지 326㎡(98.615평)",
+      "appraisal": 32404000,
+      "min_price": 32404000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2581997,
+      "case_no": "2024-11653",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 의성군 가음면 귀천리 6-5",
+      "area": "토지 1349㎡(408.073평)",
+      "appraisal": 44382000,
+      "min_price": 44382000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2581998,
+      "case_no": "2024-11653",
+      "item_no": 3,
+      "court": "의성2계",
+      "type": "창고시설",
+      "address": "경북 의성군 가음면 귀천리 6-1",
+      "area": "건물 92.24㎡(27.903평) 토지 334㎡(101.035평)",
+      "appraisal": 202518080,
+      "min_price": 202518080,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2386627,
@@ -1213,6 +1374,54 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2396572,
+      "case_no": "2025-10154",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "단독주택",
+      "address": "경상북도 의성군 단촌면 세촌리 870-1",
+      "area": "건물 148.68㎡(44.976평) 토지 859㎡(259.847평)",
+      "appraisal": 87049600,
+      "min_price": 87049600,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2581995,
+      "case_no": "2025-10154",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 의성군 단촌면 세촌리 870",
+      "area": "토지 2533㎡(766.233평)",
+      "appraisal": 121584000,
+      "min_price": 121584000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2581996,
+      "case_no": "2025-10154",
+      "item_no": 3,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 의성군 단촌면 세촌리 514-3",
+      "area": "토지 1560㎡(471.9평)",
+      "appraisal": 60840000,
+      "min_price": 60840000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2401919,
       "case_no": "2025-10170",
       "item_no": 1,
@@ -1253,7 +1462,7 @@
       "address": "경상북도 의성군 안계면 도덕리 33-2",
       "area": "토지 198㎡(59.895평)",
       "appraisal": 5346000,
-      "min_price": 1284000,
+      "min_price": 1285000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.10.21",
@@ -1339,6 +1548,54 @@
       "bid_date": "26.10.21",
       "special": "법정지상권",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2441852,
+      "case_no": "2025-10260",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 의성군 금성면 도경리 301",
+      "area": "토지 101.3333㎡(30.653평)",
+      "appraisal": 4357190,
+      "min_price": 4357190,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2581992,
+      "case_no": "2025-10260",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 의성군 금성면 도경리 331",
+      "area": "토지 82.2857㎡(24.891평)",
+      "appraisal": 2550990,
+      "min_price": 2550990,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2581993,
+      "case_no": "2025-10260",
+      "item_no": 3,
+      "court": "의성2계",
+      "type": "유지",
+      "address": "경상북도 의성군 금성면 도경리 720-3",
+      "area": "토지 32.5714㎡(9.853평)",
+      "appraisal": 94453,
+      "min_price": 94453,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "맹지",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2441853,
@@ -1435,6 +1692,22 @@
       "bid_date": "26.10.21",
       "special": "선순위 전세권설정,임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2581991,
+      "case_no": "2025-10280",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "학교용지",
+      "address": "경상북도 의성군 사곡면 양지리 550-8",
+      "area": "토지 2509㎡(758.973평)",
+      "appraisal": 79033500,
+      "min_price": 79033500,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지 매각"
     }
   ]
 }

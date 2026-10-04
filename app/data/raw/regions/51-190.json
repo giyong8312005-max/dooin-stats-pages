@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "51",
     "guCd": "190",
@@ -7,103 +7,6 @@
     "name": "태백시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "51",
-      "guCd": "190",
-      "title": "2026. 03 월간매각 통계자료 : 강원 태백시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 10589000,
-          "sale_price_rate": 112.29
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 1,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 205524000,
-          "sale_price_rate": 49.63
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 34600000,
-          "sale_price_rate": 73.01
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 395831000,
-          "sale_price_rate": 68.35
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 5,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 90000000,
-          "sale_price_rate": 12.28
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -599,57 +502,106 @@
           "sale_price_rate": 16.84
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "51",
+      "guCd": "190",
+      "title": "2026. 09 월간매각 통계자료 : 강원 태백시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "목장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 102960000,
+          "sale_price_rate": 59.77
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 300000000,
+          "sale_price_rate": 47.33
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2408349,
-      "case_no": "2025-813",
-      "item_no": null,
-      "court": "영월1계",
-      "type": "아파트",
-      "address": "강원특별자치도 태백시 장성동 291 태백장성동아라이크텐 101동 9층902호",
-      "area": "건물 116.4764㎡(35.234평) 대지권 74.0207㎡(22.391평)",
-      "appraisal": 222000000,
-      "min_price": 222000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.09.29",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2384215,
-      "case_no": "2025-30367",
-      "item_no": 1,
-      "court": "영월1계",
-      "type": "전",
-      "address": "강원특별자치도 태백시 통동 325-3",
-      "area": "토지 61.43㎡(18.583평)",
-      "appraisal": 675000,
-      "min_price": 79000,
-      "min_price_pct": 12,
-      "status": "유찰 6회",
-      "bid_date": "26.09.29",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
-      "tid": 2406388,
-      "case_no": "2025-30464",
-      "item_no": null,
-      "court": "영월1계",
-      "type": "임야",
-      "address": "강원특별자치도 태백시 황지동 산10-9",
-      "area": "토지 1560㎡(471.9평)",
-      "appraisal": 148200000,
-      "min_price": 50833000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.09.29",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2484708,
       "case_no": "2025-1847",
@@ -657,7 +609,7 @@
       "court": "영월3계",
       "type": "단독주택",
       "address": "강원특별자치도 태백시 소도동 132-2",
-      "area": "건물 135.83㎡(41.089평) 토지 331㎡(100.128평)",
+      "area": "건물 159.83㎡(48.349평) 토지 331㎡(100.128평)",
       "appraisal": 248988800,
       "min_price": 248988800,
       "min_price_pct": 100,
@@ -763,20 +715,52 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2404127,
-      "case_no": "2025-714",
+      "tid": 2408349,
+      "case_no": "2025-813",
       "item_no": null,
-      "court": "영월2계",
-      "type": "근린상가",
-      "address": "강원특별자치도 태백시 황지동 679 이원예채 상가동 1층101호 외 1개호",
-      "area": "건물 108.4㎡(32.791평) 대지권 181.3842㎡(54.869평)",
-      "appraisal": 183500000,
-      "min_price": 44059000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.10.20",
+      "court": "영월1계",
+      "type": "아파트",
+      "address": "강원특별자치도 태백시 장성동 291 태백장성동아라이크텐 101동 9층902호",
+      "area": "건물 116.4764㎡(35.234평) 대지권 74.0207㎡(22.391평)",
+      "appraisal": 222000000,
+      "min_price": 155400000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.10",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2384215,
+      "case_no": "2025-30367",
+      "item_no": 1,
+      "court": "영월1계",
+      "type": "전",
+      "address": "강원특별자치도 태백시 통동 325-3",
+      "area": "토지 61.43㎡(18.583평)",
+      "appraisal": 675000,
+      "min_price": 55000,
+      "min_price_pct": 8,
+      "status": "유찰 7회",
+      "bid_date": "26.11.10",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2406388,
+      "case_no": "2025-30464",
+      "item_no": null,
+      "court": "영월1계",
+      "type": "임야",
+      "address": "강원특별자치도 태백시 황지동 산10-9",
+      "area": "토지 1560㎡(471.9평)",
+      "appraisal": 148200000,
+      "min_price": 35583000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.10",
+      "special": "",
+      "dpsl": "토지 매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "41",
     "guCd": "410",
@@ -7,114 +7,6 @@
     "name": "군포시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "41",
-      "guCd": "410",
-      "title": "2026. 03 월간매각 통계자료 : 경기 군포시",
-      "rows": [
-        {
-          "type": "아파트",
-          "total": 9,
-          "failed": 4,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 44.44,
-          "avg_appraisal": 576750000,
-          "sale_price_rate": 90.95
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 128000000,
-          "sale_price_rate": 66.84
-        },
-        {
-          "type": "다세대주택",
-          "total": 11,
-          "failed": 8,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 9.09,
-          "avg_appraisal": 191000000,
-          "sale_price_rate": 95.24
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 31,
-          "failed": 29,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 6.45,
-          "avg_appraisal": 237000000,
-          "sale_price_rate": 76.6
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 267000000,
-          "sale_price_rate": 80.19
-        },
-        {
-          "type": "근린상가",
-          "total": 11,
-          "failed": 10,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 9.09,
-          "avg_appraisal": 362000000,
-          "sale_price_rate": 41.46
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 116000000,
-          "sale_price_rate": 54.21
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -630,6 +522,92 @@
           "sold_rate": 28.57,
           "avg_appraisal": 299500000,
           "sale_price_rate": 35.39
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "41",
+      "guCd": "410",
+      "title": "2026. 09 월간매각 통계자료 : 경기 군포시",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 13,
+          "failed": 6,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 38.46,
+          "avg_appraisal": 510600000,
+          "sale_price_rate": 82.63
+        },
+        {
+          "type": "다세대주택",
+          "total": 14,
+          "failed": 11,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 21.43,
+          "avg_appraisal": 288666667,
+          "sale_price_rate": 69.6
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 39,
+          "failed": 32,
+          "sold": 6,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 15.38,
+          "avg_appraisal": 275666667,
+          "sale_price_rate": 58.04
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 9,
+          "failed": 2,
+          "sold": 0,
+          "changed": 4,
+          "withdrawn": 3,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 220000000,
+          "sale_price_rate": 51.68
         }
       ]
     }
@@ -1288,7 +1266,23 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.13",
-      "special": "",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2286085,
+      "case_no": "2024-1003",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "아파트",
+      "address": "경기 군포시 산본동 1065-4, 1152동 7층703호 (산본동,신안모란아파트)",
+      "area": "건물 80.28㎡(24.285평) 대지권 39.453㎡(11.935평)",
+      "appraisal": 583000000,
+      "min_price": 583000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1431,6 +1425,38 @@
       "min_price": 936960000,
       "min_price_pct": 51,
       "status": "유찰 3회",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2450720,
+      "case_no": "2025-101416",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "아파트",
+      "address": "경기도 군포시 금정동 871-11 주공3단지 325동 8층805호",
+      "area": "건물 59.97㎡(18.141평) 대지권 38.19㎡(11.552평)",
+      "appraisal": 389000000,
+      "min_price": 389000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.20",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2450724,
+      "case_no": "2025-101435",
+      "item_no": null,
+      "court": "안양3계",
+      "type": "아파트",
+      "address": "경기도 군포시 당동 886 주공아파트 303동 11층1101호",
+      "area": "건물 84.79㎡(25.649평) 대지권 40.88㎡(12.366평)",
+      "appraisal": 560000000,
+      "min_price": 560000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.10.20",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

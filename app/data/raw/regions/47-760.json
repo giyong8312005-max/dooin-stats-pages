@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "47",
     "guCd": "760",
@@ -7,81 +7,6 @@
     "name": "영양군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "47",
-      "guCd": "760",
-      "title": "2026. 03 월간매각 통계자료 : 경북 영양군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 2,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 57.14,
-          "avg_appraisal": 13924805,
-          "sale_price_rate": 22.75
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 15,
-          "failed": 9,
-          "sold": 6,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 66751798,
-          "sale_price_rate": 40.24
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1007038440,
-          "sale_price_rate": 50.86
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -335,6 +260,59 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "47",
+      "guCd": "760",
+      "title": "2026. 09 월간매각 통계자료 : 경북 영양군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 16,
+          "failed": 13,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.75,
+          "avg_appraisal": 67484000,
+          "sale_price_rate": 29.76
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1067600,
+          "sale_price_rate": 24.07
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -433,6 +411,22 @@
       "bid_date": "26.10.23",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2520157,
+      "case_no": "2025-10228",
+      "item_no": 2,
+      "court": "영덕2계",
+      "type": "임야",
+      "address": "경상북도 영양군 청기면 토곡리 838 외 3필지",
+      "area": "토지 773㎡(233.832평)",
+      "appraisal": 4406100,
+      "min_price": 1512000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.10.23",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2520158,

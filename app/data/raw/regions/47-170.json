@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "47",
     "guCd": "170",
@@ -7,224 +7,6 @@
     "name": "안동시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "47",
-      "guCd": "170",
-      "title": "2026. 03 월간매각 통계자료 : 경북 안동시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 13,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 6.25,
-          "avg_appraisal": 30557200,
-          "sale_price_rate": 24.22
-        },
-        {
-          "type": "답",
-          "total": 11,
-          "failed": 8,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 27.27,
-          "avg_appraisal": 45525300,
-          "sale_price_rate": 56.99
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 15,
-          "failed": 10,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 13.33,
-          "avg_appraisal": 33231725,
-          "sale_price_rate": 23.57
-        },
-        {
-          "type": "대지",
-          "total": 12,
-          "failed": 4,
-          "sold": 3,
-          "changed": 3,
-          "withdrawn": 2,
-          "sold_rate": 25.0,
-          "avg_appraisal": 435351327,
-          "sale_price_rate": 37.73
-        },
-        {
-          "type": "유원지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "묘지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 295976300,
-          "sale_price_rate": 49.5
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 837001920,
-          "sale_price_rate": 81.24
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 86100000,
-          "sale_price_rate": 44.01
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 10,
-          "failed": 1,
-          "sold": 2,
-          "changed": 7,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 33000000,
-          "sale_price_rate": 71.81
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 1,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 339372320,
-          "sale_price_rate": 26.08
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 38000000,
-          "sale_price_rate": 77.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -973,6 +755,180 @@
           "sale_price_rate": 71.74
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "47",
+      "guCd": "170",
+      "title": "2026. 09 월간매각 통계자료 : 경북 안동시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 24,
+          "failed": 20,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 183651333,
+          "sale_price_rate": 20.24
+        },
+        {
+          "type": "답",
+          "total": 12,
+          "failed": 9,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 8.33,
+          "avg_appraisal": 151905000,
+          "sale_price_rate": 53.65
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 70854000,
+          "sale_price_rate": 50.53
+        },
+        {
+          "type": "임야",
+          "total": 11,
+          "failed": 10,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 614653000,
+          "sale_price_rate": 29.57
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 40.0,
+          "avg_appraisal": 34201985,
+          "sale_price_rate": 55.41
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 33.33,
+          "avg_appraisal": 57000000,
+          "sale_price_rate": 106.04
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 99600000,
+          "sale_price_rate": 70.48
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2199789750,
+          "sale_price_rate": 49.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 15000000,
+          "sale_price_rate": 54.85
+        }
+      ]
     }
   ],
   "listings": [
@@ -1247,22 +1203,6 @@
       "bid_date": "26.10.12",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2424568,
-      "case_no": "2025-10730",
-      "item_no": null,
-      "court": "안동3계",
-      "type": "전",
-      "address": "경상북도 안동시 풍산읍 오미리 1109",
-      "area": "토지 2033㎡(614.983평)",
-      "appraisal": 134178000,
-      "min_price": 46024000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2442217,
@@ -1757,7 +1697,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2015,6 +1955,22 @@
       "bid_date": "26.10.26",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2424568,
+      "case_no": "2025-10730",
+      "item_no": null,
+      "court": "안동3계",
+      "type": "전",
+      "address": "경상북도 안동시 풍산읍 오미리 1109",
+      "area": "토지 2033㎡(614.983평)",
+      "appraisal": 134178000,
+      "min_price": 134178000,
+      "min_price_pct": 100,
+      "status": "유찰 3회",
+      "bid_date": "26.11.09",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     }
   ]
 }

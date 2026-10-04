@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "47",
     "guCd": "750",
@@ -7,103 +7,6 @@
     "name": "청송군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "47",
-      "guCd": "750",
-      "title": "2026. 03 월간매각 통계자료 : 경북 청송군",
-      "rows": [
-        {
-          "type": "답",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 8,
-          "failed": 7,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -489,9 +392,89 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "47",
+      "guCd": "750",
+      "title": "2026. 09 월간매각 통계자료 : 경북 청송군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 8,
+          "failed": 7,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 76478000,
+          "sale_price_rate": 66.69
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 102263000,
+          "sale_price_rate": 24.34
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
+    {
+      "tid": 2164993,
+      "case_no": "2023-144",
+      "item_no": null,
+      "court": "의성1계",
+      "type": "다세대주택",
+      "address": "경북 청송군 청송읍 월막리 317-4, 제2층 제201호",
+      "area": "건물 76.16㎡(23.038평) 대지권 98.167㎡(29.696평)",
+      "appraisal": 94000000,
+      "min_price": 94000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
     {
       "tid": 2386613,
       "case_no": "2025-179",
@@ -555,6 +538,38 @@
       "bid_date": "26.10.14",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2427886,
+      "case_no": "2025-339",
+      "item_no": 1,
+      "court": "의성1계",
+      "type": "전",
+      "address": "경상북도 청송군 현동면 개일리 305",
+      "area": "토지 3105㎡(939.262평)",
+      "appraisal": 65205000,
+      "min_price": 65205000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2582482,
+      "case_no": "2025-339",
+      "item_no": 2,
+      "court": "의성1계",
+      "type": "전",
+      "address": "경상북도 청송군 현동면 개일리 305-2",
+      "area": "토지 1243㎡(376.008평)",
+      "appraisal": 24860000,
+      "min_price": 24860000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2481271,
@@ -621,6 +636,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2491828,
+      "case_no": "2025-10363",
+      "item_no": null,
+      "court": "의성1계",
+      "type": "답",
+      "address": "경상북도 청송군 부남면 양숙리 821-1",
+      "area": "토지 3409㎡(1031.223평)",
+      "appraisal": 107383500,
+      "min_price": 107383500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.14",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2428944,
       "case_no": "2025-346",
       "item_no": 1,
@@ -677,12 +708,44 @@
       "address": "경상북도 청송군 주왕산면 주산지리 1505-2",
       "area": "건물 332.86㎡(100.69평) 토지 658㎡(199.045평)",
       "appraisal": 126320480,
-      "min_price": 30330000,
+      "min_price": 30331000,
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.10.21",
       "special": "법정지상권",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2424132,
+      "case_no": "2025-10212",
+      "item_no": 1,
+      "court": "의성2계",
+      "type": "답",
+      "address": "경상북도 청송군 현동면 개일리 723-2 외 2필지",
+      "area": "토지 1204.6㎡(364.391평)",
+      "appraisal": 19328000,
+      "min_price": 19328000,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "법정지상권,농지취득자격증명,맹지",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
+      "tid": 2581994,
+      "case_no": "2025-10212",
+      "item_no": 2,
+      "court": "의성2계",
+      "type": "단독주택",
+      "address": "경상북도 청송군 현동면 도평리 689-1",
+      "area": "건물 14.256㎡(4.312평) 토지 53.6㎡(16.214평)",
+      "appraisal": 13171880,
+      "min_price": 13171880,
+      "min_price_pct": 100,
+      "status": "예정물건",
+      "bid_date": "26.10.21",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2437260,

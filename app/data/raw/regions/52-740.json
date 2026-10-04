@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "52",
     "guCd": "740",
@@ -7,103 +7,6 @@
     "name": "장수군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "52",
-      "guCd": "740",
-      "title": "2026. 03 월간매각 통계자료 : 전북 장수군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 6,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 18336000,
-          "sale_price_rate": 24.91
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 85212500,
-          "sale_price_rate": 59.84
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 3307689000,
-          "sale_price_rate": 34.54
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -599,6 +502,26 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "52",
+      "guCd": "740",
+      "title": "2026. 09 월간매각 통계자료 : 전북 장수군",
+      "rows": [
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -617,38 +540,6 @@
       "bid_date": "26.10.12",
       "special": "유치권",
       "dpsl": "건물전부, 토지지분"
-    },
-    {
-      "tid": 2353105,
-      "case_no": "2024-30943",
-      "item_no": 5,
-      "court": "남원2계",
-      "type": "전",
-      "address": "전북특별자치도 장수군 산서면 신창리 198",
-      "area": "토지 58㎡(17.545평)",
-      "appraisal": 1508000,
-      "min_price": 8000,
-      "min_price_pct": 1,
-      "status": "유찰 15회",
-      "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2353107,
-      "case_no": "2024-30943",
-      "item_no": 7,
-      "court": "남원2계",
-      "type": "답",
-      "address": "전북특별자치도 장수군 산서면 신창리 1456",
-      "area": "토지 208.28㎡(63.005평)",
-      "appraisal": 6664960,
-      "min_price": 132000,
-      "min_price_pct": 2,
-      "status": "유찰 11회",
-      "bid_date": "26.10.12",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
     },
     {
       "tid": 2389821,
@@ -1047,7 +938,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1063,7 +954,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각"
     },
     {
@@ -1095,7 +986,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.12",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각"
     },
     {

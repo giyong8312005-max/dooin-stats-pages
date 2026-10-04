@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-09-28",
+  "collected_at": "2026-10-05",
   "region": {
     "siCd": "48",
     "guCd": "880",
@@ -7,213 +7,6 @@
     "name": "거창군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 3,
-      "siCd": "48",
-      "guCd": "880",
-      "title": "2026. 03 월간매각 통계자료 : 경남 거창군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 8,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 10.0,
-          "avg_appraisal": 32873000,
-          "sale_price_rate": 34.41
-        },
-        {
-          "type": "답",
-          "total": 10,
-          "failed": 6,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 35282725,
-          "sale_price_rate": 17.68
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 8,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 37.5,
-          "avg_appraisal": 9463943,
-          "sale_price_rate": 19.06
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 1,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 60.0,
-          "avg_appraisal": 84692633,
-          "sale_price_rate": 31.29
-        },
-        {
-          "type": "창고용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 367276400,
-          "sale_price_rate": 54.46
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 1,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 73417080,
-          "sale_price_rate": 45.99
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 6,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 268450000,
-          "sale_price_rate": 20.23
-        },
-        {
-          "type": "목욕탕",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1785895110,
-          "sale_price_rate": 25.82
-        },
-        {
-          "type": "공장",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 4,
@@ -940,6 +733,37 @@
           "sale_price_rate": 70.5
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "siCd": "48",
+      "guCd": "880",
+      "title": "2026. 09 월간매각 통계자료 : 경남 거창군",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -998,14 +822,14 @@
       "court": "거창2계",
       "type": "임야",
       "address": "경상남도 거창군 신원면 과정리 산146 외 4필지",
-      "area": "토지 1213049㎡(366947.323평)",
+      "area": "건물은 매각제외 토지 1213049㎡(366947.323평)",
       "appraisal": 3136149000,
       "min_price": 3136149000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "법정지상권,분묘기지권",
-      "dpsl": "건물전부, 토지지분"
+      "special": "법정지상권,분묘기지권,맹지",
+      "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
       "tid": 2579976,
@@ -1014,14 +838,14 @@
       "court": "거창2계",
       "type": "임야",
       "address": "경상남도 거창군 신원면 과정리 산150-1 외 3필지",
-      "area": "토지 19110㎡(5780.775평)",
+      "area": "건물은 매각제외 토지 19110㎡(5780.775평)",
       "appraisal": 55652040,
       "min_price": 55652040,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
-      "dpsl": ""
+      "dpsl": "토지만 매각"
     },
     {
       "tid": 2579977,
@@ -1034,9 +858,9 @@
       "appraisal": 27946000,
       "min_price": 27946000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1104,22 +928,6 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
-      "tid": 2461068,
-      "case_no": "2025-589",
-      "item_no": null,
-      "court": "거창1계",
-      "type": "단독주택",
-      "address": "경상남도 거창군 거창읍 대동리 126-48",
-      "area": "건물 178.8㎡(54.087평) 토지 214㎡(64.735평)",
-      "appraisal": 226614500,
-      "min_price": 158630000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2466479,
       "case_no": "2025-594",
       "item_no": 1,
@@ -1130,7 +938,7 @@
       "appraisal": 29664000,
       "min_price": 29664000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1146,7 +954,7 @@
       "appraisal": 25772000,
       "min_price": 25772000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1162,9 +970,9 @@
       "appraisal": 106449000,
       "min_price": 106449000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1178,7 +986,7 @@
       "appraisal": 48678000,
       "min_price": 48678000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1194,7 +1002,7 @@
       "appraisal": 42688000,
       "min_price": 42688000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1210,9 +1018,9 @@
       "appraisal": 32090400,
       "min_price": 32090400,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1226,25 +1034,25 @@
       "appraisal": 273330670,
       "min_price": 273330670,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
-      "dpsl": ""
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2484395,
       "case_no": "2025-605",
       "item_no": null,
       "court": "거창1계",
-      "type": "연립주택",
-      "address": "경상남도 거창군 거창읍 대동리 54-5 2차아카시아맨션 에이동 3층301호",
+      "type": "아파트",
+      "address": "경상남도 거창군 거창읍 대동리 54-5, 2차아카시아맨션 에이동 3층301호",
       "area": "건물 84.42㎡(25.537평) 대지권 62.375㎡(18.868평)",
       "appraisal": 100000000,
       "min_price": 100000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1258,26 +1066,10 @@
       "appraisal": 283455000,
       "min_price": 283455000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
-      "dpsl": ""
-    },
-    {
-      "tid": 2487073,
-      "case_no": "2025-609",
-      "item_no": null,
-      "court": "거창1계",
-      "type": "아파트",
-      "address": "경상남도 거창군 거창읍 가지리 1860 더샵거창포르시엘 104동 25층2503호",
-      "area": "건물 84.8㎡(25.652평) 대지권 47.8396㎡(14.471평)",
-      "appraisal": 390000000,
-      "min_price": 390000000,
-      "min_price_pct": 100,
-      "status": "예정물건",
-      "bid_date": "26.10.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2488759,
@@ -1286,11 +1078,11 @@
       "court": "거창1계",
       "type": "단독주택",
       "address": "경상남도 거창군 거창읍 정장리 792",
-      "area": "건물 87.62㎡(26.505평) 토지 매각제외",
+      "area": "건물 294.92㎡(89.213평) 토지 매각제외",
       "appraisal": 207527200,
       "min_price": 207527200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "법정지상권",
       "dpsl": "건물만 매각"
@@ -1358,22 +1150,6 @@
       "bid_date": "26.10.16",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2405671,
-      "case_no": "2025-10210",
-      "item_no": null,
-      "court": "거창2계",
-      "type": "위험물저장및처리시설",
-      "address": "경상남도 거창군 남하면 대야리 1524-2 외 1필지",
-      "area": "건물 347.3㎡(105.058평) 토지 1482㎡(448.305평)",
-      "appraisal": 294163500,
-      "min_price": 144140000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.10.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2405672,
@@ -1466,9 +1242,9 @@
       "appraisal": 58105800,
       "min_price": 58105800,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1482,9 +1258,9 @@
       "appraisal": 16613600,
       "min_price": 16613600,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1498,9 +1274,9 @@
       "appraisal": 1322400,
       "min_price": 1322400,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1540,13 +1316,13 @@
       "case_no": "2025-10302",
       "item_no": null,
       "court": "거창2계",
-      "type": "근린생활시설",
+      "type": "상가주택",
       "address": "경상남도 거창군 거창읍 대평리 1020",
-      "area": "건물 1343.44㎡(406.391평) 토지 397㎡(120.093평)",
+      "area": "건물 1661.04㎡(502.465평) 토지 397㎡(120.093평)",
       "appraisal": 1601883560,
       "min_price": 1601883560,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1610,9 +1386,9 @@
       "appraisal": 26768800,
       "min_price": 26768800,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1626,9 +1402,9 @@
       "appraisal": 21074000,
       "min_price": 21074000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
@@ -1642,7 +1418,7 @@
       "appraisal": 5780000,
       "min_price": 5780000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1658,9 +1434,9 @@
       "appraisal": 8421000,
       "min_price": 8421000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
     },
     {
@@ -1674,9 +1450,9 @@
       "appraisal": 20198500,
       "min_price": 20198500,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "법정지상권,분묘기지권",
+      "special": "법정지상권,분묘기지권,맹지",
       "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
@@ -1684,13 +1460,13 @@
       "case_no": "2025-10352",
       "item_no": null,
       "court": "거창2계",
-      "type": "근린생활시설",
+      "type": "상가주택",
       "address": "경상남도 거창군 거창읍 대동리 126-20",
-      "area": "건물 362.88㎡(109.771평) 토지 241㎡(72.903평)",
+      "area": "건물 557.88㎡(168.759평) 토지 241㎡(72.903평)",
       "appraisal": 366448800,
       "min_price": 366448800,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1738,10 +1514,26 @@
       "appraisal": 14542000,
       "min_price": 14542000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.10.16",
-      "special": "분묘기지권,농지취득자격증명",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2426563,
+      "case_no": "2025-10258",
+      "item_no": null,
+      "court": "거창2계",
+      "type": "전",
+      "address": "경상남도 거창군 거창읍 송정리 632-11",
+      "area": "토지 1501㎡(454.053평)",
+      "appraisal": 240160000,
+      "min_price": 117678000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.11.13",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     }
   ]
 }
