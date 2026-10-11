@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05",
+  "collected_at": "2026-10-12",
   "region": {
     "siCd": "52",
     "guCd": "740",
@@ -876,22 +876,6 @@
       "bid_date": "26.10.12",
       "special": "맹지",
       "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2502899,
-      "case_no": "2026-14",
-      "item_no": null,
-      "court": "남원2계",
-      "type": "대지",
-      "address": "전북특별자치도 장수군 산서면 오산리 512-1",
-      "area": "토지 502㎡(151.855평)",
-      "appraisal": 29116000,
-      "min_price": 29116000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.12",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2509517,

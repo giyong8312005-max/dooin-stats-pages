@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-05",
+  "collected_at": "2026-10-12",
   "region": {
     "siCd": "51",
     "guCd": "810",
@@ -773,6 +773,38 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.10.19",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2536638,
+      "case_no": "2026-105",
+      "item_no": null,
+      "court": "춘천1계",
+      "type": "전",
+      "address": "강원특별자치도 인제군 기린면 방동리 567-1",
+      "area": "토지 2651.3㎡(802.018평)",
+      "appraisal": 214755300,
+      "min_price": 214755300,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.26",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2539438,
+      "case_no": "2026-107",
+      "item_no": null,
+      "court": "춘천1계",
+      "type": "전",
+      "address": "강원특별자치도 인제군 상남면 미산리 810-5",
+      "area": "토지 1142㎡(345.455평)",
+      "appraisal": 202134000,
+      "min_price": 202134000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.10.26",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
     },
