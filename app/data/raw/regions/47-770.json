@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-12",
+  "collected_at": "2026-10-19",
   "region": {
     "siCd": "47",
     "guCd": "770",
@@ -910,7 +910,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.23",
-      "special": "농지취득자격증명,맹지",
+      "special": "농지취득자격증명,맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1054,7 +1054,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.23",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1133,22 +1133,6 @@
       "min_price": 694000,
       "min_price_pct": 24,
       "status": "유찰 4회",
-      "bid_date": "26.10.23",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2416732,
-      "case_no": "2025-10258",
-      "item_no": 1,
-      "court": "영덕2계",
-      "type": "전",
-      "address": "경상북도 영덕군 강구면 하저리 18 외 11필지",
-      "area": "토지 2646㎡(800.415평)",
-      "appraisal": 1223813000,
-      "min_price": 419769000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
       "bid_date": "26.10.23",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-12",
+  "collected_at": "2026-10-19",
   "region": {
     "siCd": "12",
     "guCd": "780",
@@ -1442,7 +1442,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.26",
-      "special": "",
+      "special": "법정지상권",
       "dpsl": "토지만 매각"
     }
   ]

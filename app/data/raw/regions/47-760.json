@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-12",
+  "collected_at": "2026-10-19",
   "region": {
     "siCd": "47",
     "guCd": "760",
@@ -377,7 +377,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.10.23",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -571,22 +571,6 @@
       "bid_date": "26.10.23",
       "special": "법정지상권",
       "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2442905,
-      "case_no": "2025-10305",
-      "item_no": null,
-      "court": "영덕1계",
-      "type": "단독주택",
-      "address": "경상북도 영양군 일월면 곡강리 134",
-      "area": "건물 51.66㎡(15.627평) 토지 278㎡(84.095평)",
-      "appraisal": 21474860,
-      "min_price": 21474860,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.23",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2447976,
