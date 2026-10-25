@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "51",
     "guCd": "210",
@@ -1051,7 +1051,7 @@
       "appraisal": 133200000,
       "min_price": 133200000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지만 매각"
@@ -1083,7 +1083,7 @@
       "appraisal": 3803081200,
       "min_price": 3803081200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1147,7 +1147,7 @@
       "appraisal": 468000000,
       "min_price": 468000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1163,7 +1163,7 @@
       "appraisal": 840000000,
       "min_price": 840000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1195,7 +1195,7 @@
       "appraisal": 53650000,
       "min_price": 53650000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "법정지상권",
       "dpsl": "토지만 매각"
@@ -1211,10 +1211,10 @@
       "appraisal": 84466000,
       "min_price": 84466000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "맹지",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2494188,
@@ -1307,7 +1307,7 @@
       "appraisal": 1581595600,
       "min_price": 1581595600,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
@@ -1323,7 +1323,7 @@
       "appraisal": 263060000,
       "min_price": 263060000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지 매각"
@@ -1355,7 +1355,7 @@
       "appraisal": 6500000,
       "min_price": 6500000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": ""
@@ -1387,7 +1387,7 @@
       "appraisal": 7000000,
       "min_price": 7000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": ""
@@ -1403,7 +1403,7 @@
       "appraisal": 16000000,
       "min_price": 16000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": ""

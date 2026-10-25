@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "51",
     "guCd": "820",
@@ -807,11 +807,11 @@
       "court": "속초1계",
       "type": "답",
       "address": "강원특별자치도 고성군 죽왕면 가진리 94-1 외 8필지",
-      "area": "토지 8569.2㎡(2592.183평)",
+      "area": "토지 11000㎡(3327.5평)",
       "appraisal": 2010588800,
       "min_price": 2010588800,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지만매각,지분매각(건물X)"
@@ -823,14 +823,14 @@
       "court": "속초1계",
       "type": "전",
       "address": "강원특별자치도 고성군 죽왕면 가진리 96-3 외 1필지",
-      "area": "토지 166.8㎡(50.457평)",
+      "area": "토지 278㎡(84.095평)",
       "appraisal": 53859000,
       "min_price": 53859000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2586129,
@@ -839,11 +839,11 @@
       "court": "속초1계",
       "type": "단독주택",
       "address": "강원특별자치도 고성군 죽왕면 가진리 123-14",
-      "area": "건물 105㎡(31.763평) 토지 328㎡(99.22평)",
+      "area": "건물 245.2㎡(74.173평) 토지 328㎡(99.22평)",
       "appraisal": 234649700,
       "min_price": 234649700,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -859,7 +859,7 @@
       "appraisal": 258368000,
       "min_price": 258368000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1051,9 +1051,9 @@
       "appraisal": 130000000,
       "min_price": 130000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1095,11 +1095,11 @@
       "court": "속초1계",
       "type": "동물및식물관련시설",
       "address": "강원특별자치도 고성군 거진읍 송강리 450-1 외 11필지",
-      "area": "건물 3673.04㎡(1111.095평) 토지 30313.7324㎡(9169.904평)",
+      "area": "건물 3673.04㎡(1111.095평) 토지 30313.74㎡(9169.906평)",
       "appraisal": 4205248253,
       "min_price": 4205248253,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "분묘기지권,농지취득자격증명",
       "dpsl": "건물전부, 토지지분"
@@ -1131,7 +1131,7 @@
       "appraisal": 358594000,
       "min_price": 358594000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지 매각"
@@ -1147,7 +1147,7 @@
       "appraisal": 44982000,
       "min_price": 44982000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
@@ -1163,7 +1163,7 @@
       "appraisal": 132711200,
       "min_price": 132711200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각"
@@ -1179,7 +1179,7 @@
       "appraisal": 32581000,
       "min_price": 32581000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -1195,7 +1195,7 @@
       "appraisal": 50906600,
       "min_price": 50906600,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"
@@ -1211,7 +1211,7 @@
       "appraisal": 1076440000,
       "min_price": 1076440000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
@@ -1307,7 +1307,7 @@
       "appraisal": 8340000,
       "min_price": 8340000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지및건물 지분 매각"
@@ -1323,7 +1323,7 @@
       "appraisal": 7305200,
       "min_price": 7305200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "분묘기지권,맹지",
       "dpsl": "토지 매각"

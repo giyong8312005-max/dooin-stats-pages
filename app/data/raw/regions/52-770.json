@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "52",
     "guCd": "770",
@@ -806,6 +806,22 @@
       "bid_date": "26.11.16",
       "special": "맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2496265,
+      "case_no": "2026-30006",
+      "item_no": null,
+      "court": "남원2계",
+      "type": "답",
+      "address": "전북특별자치도 순창군 구림면 안정리 102-1",
+      "area": "토지 2132㎡(644.93평)",
+      "appraisal": 98072000,
+      "min_price": 68650000,
+      "min_price_pct": 70,
+      "status": "예정물건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2495399,

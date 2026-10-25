@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "51",
     "guCd": "830",
@@ -799,7 +799,7 @@
       "appraisal": 40203100,
       "min_price": 40203100,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": ""
@@ -831,7 +831,7 @@
       "appraisal": 94650000,
       "min_price": 94650000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
@@ -943,7 +943,7 @@
       "appraisal": 3913022200,
       "min_price": 3913022200,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
@@ -1007,7 +1007,7 @@
       "appraisal": 279101500,
       "min_price": 279101500,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
@@ -1071,7 +1071,7 @@
       "appraisal": 4916244160,
       "min_price": 4916244160,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "분묘기지권",
       "dpsl": "토지·건물 일괄매각"
@@ -1087,7 +1087,7 @@
       "appraisal": 237223680,
       "min_price": 237223680,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.04",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

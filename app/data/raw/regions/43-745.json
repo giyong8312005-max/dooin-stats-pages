@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "43",
     "guCd": "745",
@@ -548,38 +548,6 @@
   ],
   "listings": [
     {
-      "tid": 2462555,
-      "case_no": "2025-5165",
-      "item_no": null,
-      "court": "청주7계",
-      "type": "답",
-      "address": "충청북도 증평군 증평읍 덕상리 555 외 2필지",
-      "area": "토지 4880㎡(1476.2평)",
-      "appraisal": 594050000,
-      "min_price": 291085000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.10.22",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2528786,
-      "case_no": "2026-50475",
-      "item_no": null,
-      "court": "청주7계",
-      "type": "임야",
-      "address": "충청북도 증평군 증평읍 덕상리 산23-14 외 1필지",
-      "area": "토지 103.5㎡(31.309평)",
-      "appraisal": 5899500,
-      "min_price": 5899500,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.22",
-      "special": "",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2466836,
       "case_no": "2025-5196",
       "item_no": null,
@@ -818,6 +786,22 @@
       "bid_date": "26.11.19",
       "special": "",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2462555,
+      "case_no": "2025-5165",
+      "item_no": null,
+      "court": "청주7계",
+      "type": "답",
+      "address": "충청북도 증평군 증평읍 덕상리 555 외 2필지",
+      "area": "토지 4880㎡(1476.2평)",
+      "appraisal": 594050000,
+      "min_price": 203760000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.26",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     }
   ]
 }

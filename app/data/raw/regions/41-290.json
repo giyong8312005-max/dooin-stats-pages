@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "41",
     "guCd": "290",
@@ -349,22 +349,6 @@
     }
   ],
   "listings": [
-    {
-      "tid": 2231229,
-      "case_no": "2023-106802",
-      "item_no": null,
-      "court": "안양3계",
-      "type": "임야",
-      "address": "경기도 과천시 주암동 산19-23 외 5필지",
-      "area": "토지 1120.87㎡(339.063평)",
-      "appraisal": 124739500,
-      "min_price": 63867000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.20",
-      "special": "맹지",
-      "dpsl": "토지지분매각(제시외기타 포함)"
-    },
     {
       "tid": 2451259,
       "case_no": "2025-101368",

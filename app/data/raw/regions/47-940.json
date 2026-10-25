@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19",
+  "collected_at": "2026-10-26",
   "region": {
     "siCd": "47",
     "guCd": "940",
@@ -337,5 +337,54 @@
       ]
     }
   ],
-  "listings": []
+  "listings": [
+    {
+      "tid": 2509900,
+      "case_no": "2026-59",
+      "item_no": 1,
+      "court": "포항1계",
+      "type": "전",
+      "address": "경상북도 울릉군 북면 현포리 749-2",
+      "area": "토지 4423㎡(1337.958평)",
+      "appraisal": 739706000,
+      "min_price": 739706000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2588866,
+      "case_no": "2026-59",
+      "item_no": 2,
+      "court": "포항1계",
+      "type": "대지",
+      "address": "경상북도 울릉군 북면 현포리 753",
+      "area": "토지 327㎡(98.918평)",
+      "appraisal": 124587000,
+      "min_price": 124587000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2588867,
+      "case_no": "2026-59",
+      "item_no": 3,
+      "court": "포항1계",
+      "type": "전",
+      "address": "경상북도 울릉군 울릉읍 도동리 526-1",
+      "area": "토지 6915㎡(2091.788평)",
+      "appraisal": 1037250000,
+      "min_price": 1037250000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    }
+  ]
 }
