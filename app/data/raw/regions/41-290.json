@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "41",
     "guCd": "290",
@@ -7,59 +7,6 @@
     "name": "과천시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "41",
-      "guCd": "290",
-      "title": "2026. 04 월간매각 통계자료 : 경기 과천시",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 2,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 885915500,
-          "sale_price_rate": 100.0
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 529000000,
-          "sale_price_rate": 105.86
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -346,25 +293,62 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "41",
+      "guCd": "290",
+      "title": "2026. 10 월간매각 통계자료 : 경기 과천시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 20,
+          "failed": 9,
+          "sold": 10,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 655488290,
+          "sale_price_rate": 60.46
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1820000000,
+          "sale_price_rate": 71.43
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2451259,
-      "case_no": "2025-101368",
-      "item_no": null,
-      "court": "안양2계",
-      "type": "임야",
-      "address": "경기도 과천시 과천동 산87-29",
-      "area": "토지 331㎡(100.128평)",
-      "appraisal": 135379000,
-      "min_price": 86642000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.10.27",
-      "special": "맹지",
-      "dpsl": "토지지분매각"
-    },
     {
       "tid": 2552077,
       "case_no": "2024-101286",
@@ -524,6 +508,22 @@
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2451259,
+      "case_no": "2025-101368",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "임야",
+      "address": "경기도 과천시 과천동 산87-29",
+      "area": "토지 331㎡(100.128평)",
+      "appraisal": 135379000,
+      "min_price": 69314000,
+      "min_price_pct": 51,
+      "status": "유찰 3회",
+      "bid_date": "26.11.24",
+      "special": "맹지",
+      "dpsl": "토지지분매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "47",
     "guCd": "770",
@@ -7,180 +7,6 @@
     "name": "영덕군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "47",
-      "guCd": "770",
-      "title": "2026. 04 월간매각 통계자료 : 경북 영덕군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 17,
-          "failed": 14,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 11.76,
-          "avg_appraisal": 162627700,
-          "sale_price_rate": 34.18
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 4,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 11445800,
-          "sale_price_rate": 40.29
-        },
-        {
-          "type": "임야",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 125463900,
-          "sale_price_rate": 44.56
-        },
-        {
-          "type": "대지",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 960780000,
-          "sale_price_rate": 52.7
-        },
-        {
-          "type": "하천",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 3014600,
-          "sale_price_rate": 50.09
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 12,
-          "failed": 12,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 434442900,
-          "sale_price_rate": 73.08
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 87005000,
-          "sale_price_rate": 61.49
-        },
-        {
-          "type": "어업권",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 60000000,
-          "sale_price_rate": 104.17
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -830,6 +656,202 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "47",
+      "guCd": "770",
+      "title": "2026. 10 월간매각 통계자료 : 경북 영덕군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 12,
+          "failed": 9,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 8.33,
+          "avg_appraisal": 33044000,
+          "sale_price_rate": 29.36
+        },
+        {
+          "type": "답",
+          "total": 14,
+          "failed": 13,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 112556000,
+          "sale_price_rate": 72.5
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 15679800,
+          "sale_price_rate": 55.42
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 11955720,
+          "sale_price_rate": 51.69
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 10,
+          "failed": 6,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 20.0,
+          "avg_appraisal": 750918225,
+          "sale_price_rate": 48.01
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -879,6 +901,38 @@
       "status": "유찰 5회",
       "bid_date": "26.11.20",
       "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2396132,
+      "case_no": "2025-448",
+      "item_no": 1,
+      "court": "영덕2계",
+      "type": "대지",
+      "address": "경상북도 영덕군 남정면 부흥리 2-5 외 1필지",
+      "area": "건물 71.6㎡(21.659평) 토지 937㎡(283.443평)",
+      "appraisal": 207929600,
+      "min_price": 145551000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.20",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2520167,
+      "case_no": "2025-448",
+      "item_no": 2,
+      "court": "영덕2계",
+      "type": "잡종지",
+      "address": "경상북도 영덕군 남정면 부흥리 8-9",
+      "area": "토지 1471㎡(444.977평)",
+      "appraisal": 547212000,
+      "min_price": 383049000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.20",
+      "special": "",
       "dpsl": "토지 매각"
     },
     {
@@ -1008,6 +1062,22 @@
       "bid_date": "26.11.20",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2373803,
+      "case_no": "2025-10117",
+      "item_no": null,
+      "court": "영덕1계",
+      "type": "전",
+      "address": "경상북도 영덕군 강구면 강구리 168",
+      "area": "토지 5062㎡(1531.255평)",
+      "appraisal": 242976000,
+      "min_price": 28586000,
+      "min_price_pct": 12,
+      "status": "유찰 6회",
+      "bid_date": "26.11.20",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2414013,
@@ -1579,22 +1649,6 @@
       "area": "(스토닉 / 2019년식 / 145,003㎞)",
       "appraisal": 8500000,
       "min_price": 5950000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.20",
-      "special": "",
-      "dpsl": ""
-    },
-    {
-      "tid": 2549759,
-      "case_no": "2026-10113",
-      "item_no": null,
-      "court": "영덕1계",
-      "type": "선박",
-      "address": "경상북도 영덕군 축산면 축산리, 축산항 내(출이항검문소 앞)",
-      "area": "(재성호)",
-      "appraisal": 159774540,
-      "min_price": 111843000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.20",

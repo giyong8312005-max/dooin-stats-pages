@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "11",
     "guCd": "140",
@@ -7,103 +7,6 @@
     "name": "중구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "11",
-      "guCd": "140",
-      "title": "2026. 04 월간매각 통계자료 : 서울 중구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1100000000,
-          "sale_price_rate": 103.07
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 182000000,
-          "sale_price_rate": 46.28
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 6,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 18,
-          "failed": 15,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 465000000,
-          "sale_price_rate": 49.54
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -654,185 +557,117 @@
           "sale_price_rate": 124.89
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "11",
+      "guCd": "140",
+      "title": "2026. 10 월간매각 통계자료 : 서울 중구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 789823500,
+          "sale_price_rate": 60.09
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1690000000,
+          "sale_price_rate": 91.78
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 7,
+          "failed": 3,
+          "sold": 1,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 380000000,
+          "sale_price_rate": 72.85
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 9,
+          "failed": 6,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 258666667,
+          "sale_price_rate": 30.63
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 301000000,
+          "sale_price_rate": 96.35
+        },
+        {
+          "type": "근린상가",
+          "total": 26,
+          "failed": 17,
+          "sold": 1,
+          "changed": 8,
+          "withdrawn": 0,
+          "sold_rate": 3.85,
+          "avg_appraisal": 27000000,
+          "sale_price_rate": 9.22
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2412434,
-      "case_no": "2024-3528",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울 중구 신당동 217-91, 2층나-36호",
-      "area": "건물 5.1㎡(1.543평) 대지권 1.57㎡(0.475평)",
-      "appraisal": 282000000,
-      "min_price": 144384000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2377199,
-      "case_no": "2025-90",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "단독주택",
-      "address": "서울특별시 중구 인현동1가 126-1",
-      "area": "건물 29.22㎡(8.839평) 토지 18.43㎡(5.575평)",
-      "appraisal": 391248800,
-      "min_price": 160255200,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.10.28",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2443817,
-      "case_no": "2025-103796",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "단독주택",
-      "address": "서울특별시 중구 황학동 1663",
-      "area": "건물 42.98㎡(13.001평) 토지 69㎡(20.873평)",
-      "appraisal": 789823500,
-      "min_price": 404390000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.28",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2490678,
-      "case_no": "2026-100034",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "숙박(콘도등)",
-      "address": "서울특별시 중구 충무로4가 308 더솔라고세운주건축물 1동 12층1244호 외 1필지",
-      "area": "건물 23.62㎡(7.145평) 대지권 3.54㎡(1.071평)",
-      "appraisal": 301000000,
-      "min_price": 240800000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2500543,
-      "case_no": "2026-100257",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 묵정동 35 힐스테이트남산 101동 1층110호 외 1필지",
-      "area": "건물 32.22㎡(9.747평) 대지권 20.5㎡(6.201평)",
-      "appraisal": 1219000000,
-      "min_price": 1219000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2521311,
-      "case_no": "2026-100692",
-      "item_no": 1,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 1층101호 외 1필지",
-      "area": "건물 35.5㎡(10.739평) 대지권 29.5125㎡(8.928평)",
-      "appraisal": 285000000,
-      "min_price": 285000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2585578,
-      "case_no": "2026-100692",
-      "item_no": 2,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 3층315호 외 1필지",
-      "area": "건물 58.71㎡(17.76평) 대지권 46.6365㎡(14.108평)",
-      "appraisal": 260000000,
-      "min_price": 260000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2585579,
-      "case_no": "2026-100692",
-      "item_no": 3,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 3층317호 외 1필지",
-      "area": "건물 33㎡(9.983평) 대지권 26.2187㎡(7.931평)",
-      "appraisal": 146000000,
-      "min_price": 146000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2585580,
-      "case_no": "2026-100692",
-      "item_no": 4,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 3층318호 외 1필지",
-      "area": "건물 36.37㎡(11.002평) 대지권 28.8915㎡(8.74평)",
-      "appraisal": 161000000,
-      "min_price": 161000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2585581,
-      "case_no": "2026-100692",
-      "item_no": 5,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 3층323호 외 1필지",
-      "area": "건물 33㎡(9.983평) 대지권 26.2187㎡(7.931평)",
-      "appraisal": 146000000,
-      "min_price": 146000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2585582,
-      "case_no": "2026-100692",
-      "item_no": 6,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 신당동 844 남산타운아파트 상가5동 3층326호 외 1필지",
-      "area": "건물 36.37㎡(11.002평) 대지권 28.8915㎡(8.74평)",
-      "appraisal": 161000000,
-      "min_price": 161000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2369489,
       "case_no": "2025-100389",
@@ -1006,7 +841,7 @@
       "min_price_pct": 33,
       "status": "유찰 5회",
       "bid_date": "26.11.05",
-      "special": "유치권",
+      "special": "유치권,유치권배제",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1138,22 +973,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2442009,
-      "case_no": "2025-103724",
-      "item_no": null,
-      "court": "서울중앙9계",
-      "type": "근린상가",
-      "address": "서울특별시 중구 묵정동 35 힐스테이트남산 101동 지1층비111호 외 1개호 외 1필지",
-      "area": "건물 80.64㎡(24.394평) 대지권 51.2㎡(15.488평)",
-      "appraisal": 1414000000,
-      "min_price": 463339000,
-      "min_price_pct": 33,
-      "status": "유찰 5회",
-      "bid_date": "26.11.10",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2520256,
       "case_no": "2026-73",
       "item_no": null,
@@ -1246,7 +1065,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1330,6 +1149,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2420294,
+      "case_no": "2025-103107",
+      "item_no": null,
+      "court": "서울중앙11계",
+      "type": "공장",
+      "address": "서울특별시 중구 필동2가 13-11",
+      "area": "건물 69.663㎡(21.073평) 토지 39.39㎡(11.915평)",
+      "appraisal": 894331419,
+      "min_price": 894331419,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2486227,
+      "case_no": "2025-104609",
+      "item_no": null,
+      "court": "서울중앙11계",
+      "type": "근린상가",
+      "address": "서울특별시 중구 신당동 217-91 5층가557호",
+      "area": "건물 6㎡(1.815평) 대지권 1.81㎡(0.548평)",
+      "appraisal": 338000000,
+      "min_price": 338000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2449165,
       "case_no": "2025-3051",
       "item_no": null,
@@ -1391,6 +1242,22 @@
       "status": "유찰 2회",
       "bid_date": "26.11.17",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2557582,
+      "case_no": "2026-101335",
+      "item_no": null,
+      "court": "서울중앙1계",
+      "type": "오피스텔(주거)",
+      "address": "서울특별시 중구 흥인동 8 동대문솔하임 5층503호",
+      "area": "건물 25㎡(7.563평) 대지권 4.093㎡(1.238평)",
+      "appraisal": 228000000,
+      "min_price": 228000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1712,6 +1579,54 @@
       "bid_date": "26.11.26",
       "special": "위반건축물",
       "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2412434,
+      "case_no": "2024-3528",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "근린상가",
+      "address": "서울 중구 신당동 217-91, 2층나-36호",
+      "area": "건물 5.1㎡(1.543평) 대지권 1.57㎡(0.475평)",
+      "appraisal": 282000000,
+      "min_price": 115507000,
+      "min_price_pct": 41,
+      "status": "유찰 4회",
+      "bid_date": "26.12.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2377199,
+      "case_no": "2025-90",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "단독주택",
+      "address": "서울특별시 중구 인현동1가 126-1",
+      "area": "건물 29.22㎡(8.839평) 토지 18.43㎡(5.575평)",
+      "appraisal": 391248800,
+      "min_price": 128204100,
+      "min_price_pct": 33,
+      "status": "유찰 5회",
+      "bid_date": "26.12.02",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2500543,
+      "case_no": "2026-100257",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "근린상가",
+      "address": "서울특별시 중구 묵정동 35 힐스테이트남산 101동 1층110호 외 1필지",
+      "area": "건물 32.22㎡(9.747평) 대지권 20.5㎡(6.201평)",
+      "appraisal": 1219000000,
+      "min_price": 975200000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.12.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

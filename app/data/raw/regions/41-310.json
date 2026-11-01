@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "41",
     "guCd": "310",
@@ -7,125 +7,6 @@
     "name": "구리시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "41",
-      "guCd": "310",
-      "title": "2026. 04 월간매각 통계자료 : 경기 구리시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 16,
-          "failed": 3,
-          "sold": 9,
-          "changed": 2,
-          "withdrawn": 2,
-          "sold_rate": 56.25,
-          "avg_appraisal": 696888889,
-          "sale_price_rate": 94.47
-        },
-        {
-          "type": "기숙사",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 19,
-          "failed": 13,
-          "sold": 2,
-          "changed": 3,
-          "withdrawn": 1,
-          "sold_rate": 10.53,
-          "avg_appraisal": 374000000,
-          "sale_price_rate": 74.65
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 429000000,
-          "sale_price_rate": 30.33
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 7,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 548000000,
-          "sale_price_rate": 40.69
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -709,6 +590,147 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "41",
+      "guCd": "310",
+      "title": "2026. 10 월간매각 통계자료 : 경기 구리시",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 899580000,
+          "sale_price_rate": 73.48
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 3,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 483600000,
+          "sale_price_rate": 84.55
+        },
+        {
+          "type": "연립주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 957928740,
+          "sale_price_rate": 103.13
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 11,
+          "failed": 8,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 27.27,
+          "avg_appraisal": 206000000,
+          "sale_price_rate": 55.98
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 8,
+          "failed": 6,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 4002262040,
+          "sale_price_rate": 109.06
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 250500000,
+          "sale_price_rate": 47.08
+        }
+      ]
     }
   ],
   "listings": [
@@ -1161,6 +1183,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2419854,
+      "case_no": "2025-2283",
+      "item_no": null,
+      "court": "남양주5계",
+      "type": "상가주택",
+      "address": "경기도 구리시 교문동 233-10 외 2필지",
+      "area": "건물 444.04㎡(134.322평) 토지 198㎡(59.895평)",
+      "appraisal": 1865172040,
+      "min_price": 1865172040,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.11",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2432748,
       "case_no": "2025-2924",
       "item_no": null,
@@ -1225,6 +1263,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2443950,
+      "case_no": "2025-3262",
+      "item_no": null,
+      "court": "남양주6계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 구리시 수택동 419-21 구리더케이타워 7층 707호 외 3필지",
+      "area": "건물 19.54㎡(5.911평) 대지권 3.63㎡(1.098평)",
+      "appraisal": 128000000,
+      "min_price": 128000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2440177,
       "case_no": "2025-3279",
       "item_no": null,
@@ -1239,6 +1293,70 @@
       "bid_date": "26.11.12",
       "special": "유치권",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2452121,
+      "case_no": "2025-3675",
+      "item_no": null,
+      "court": "남양주6계",
+      "type": "아파트",
+      "address": "경기도 구리시 인창동 714 구리더샵그린포레2단지 203동 13층 1301호",
+      "area": "건물 74.98㎡(22.681평) 대지권 53.1181㎡(16.068평)",
+      "appraisal": 616000000,
+      "min_price": 616000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2409165,
+      "case_no": "2025-71712",
+      "item_no": null,
+      "court": "남양주6계",
+      "type": "아파트",
+      "address": "경기도 구리시 인창동 664-1 인창2단지주공아파트 202동 20층 2004호",
+      "area": "건물 84.99㎡(25.709평) 대지권 42㎡(12.705평)",
+      "appraisal": 702000000,
+      "min_price": 702000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2448760,
+      "case_no": "2025-72317",
+      "item_no": null,
+      "court": "남양주6계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 구리시 아천동 93 어반93 4층 401호",
+      "area": "건물 42.72㎡(12.923평) 대지권 34.73㎡(10.506평)",
+      "appraisal": 384000000,
+      "min_price": 384000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2456268,
+      "case_no": "2025-72396",
+      "item_no": null,
+      "court": "남양주6계",
+      "type": "아파트",
+      "address": "경기도 구리시 교문동 809-1 하나아파트 202동 3층 302호",
+      "area": "건물 42.363㎡(12.815평) 대지권 20.159㎡(6.098평)",
+      "appraisal": 399000000,
+      "min_price": 399000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2449765,
@@ -1337,6 +1455,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2424385,
+      "case_no": "2025-71927",
+      "item_no": null,
+      "court": "남양주8계",
+      "type": "근린상가",
+      "address": "경기도 구리시 교문동 282-1 중앙하이츠티움 비동 1층 105호",
+      "area": "건물 46.5㎡(14.066평) 대지권 27.55㎡(8.334평)",
+      "appraisal": 460000000,
+      "min_price": 157780000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.18",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2435447,
       "case_no": "2025-72118",
       "item_no": null,
@@ -1410,6 +1544,22 @@
       "area": "건물 113.2171㎡(34.248평) / 미등기감정가격포함",
       "appraisal": 1132000000,
       "min_price": 792400000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2434080,
+      "case_no": "2025-72093",
+      "item_no": null,
+      "court": "남양주7계",
+      "type": "아파트",
+      "address": "경기도 구리시 수택동 628-25 미주아파트 6층602호",
+      "area": "건물 56.95㎡(17.227평) 대지권 17.04㎡(5.155평)",
+      "appraisal": 409000000,
+      "min_price": 286300000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.19",

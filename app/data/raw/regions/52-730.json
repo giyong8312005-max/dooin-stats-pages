@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "52",
     "guCd": "730",
@@ -7,70 +7,6 @@
     "name": "무주군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "52",
-      "guCd": "730",
-      "title": "2026. 04 월간매각 통계자료 : 전북 무주군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 8,
-          "failed": 6,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 189551300,
-          "sale_price_rate": 64.41
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -665,57 +601,106 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "52",
+      "guCd": "730",
+      "title": "2026. 10 월간매각 통계자료 : 전북 무주군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 6,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 147699900,
+          "sale_price_rate": 49.45
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 2182400,
+          "sale_price_rate": 109.47
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2464244,
-      "case_no": "2025-975",
-      "item_no": 1,
-      "court": "전주4계",
-      "type": "전",
-      "address": "전북특별자치도 무주군 무풍면 금평리 868 외 1필지",
-      "area": "토지 3226.7647㎡(976.096평)",
-      "appraisal": 57113700,
-      "min_price": 39980000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,농지취득자격증명",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
-      "tid": 2521126,
-      "case_no": "2026-30311",
-      "item_no": 1,
-      "court": "전주4계",
-      "type": "임야",
-      "address": "전북특별자치도 무주군 무풍면 금평리 673",
-      "area": "토지 992㎡(300.08평)",
-      "appraisal": 7142400,
-      "min_price": 7142400,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2584482,
-      "case_no": "2026-30311",
-      "item_no": 2,
-      "court": "전주4계",
-      "type": "임야",
-      "address": "전북특별자치도 무주군 무풍면 금평리 684",
-      "area": "토지 496㎡(150.04평)",
-      "appraisal": 2182400,
-      "min_price": 2182400,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "맹지",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2369836,
       "case_no": "2024-6972",
@@ -1469,6 +1454,22 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2464244,
+      "case_no": "2025-975",
+      "item_no": 1,
+      "court": "전주4계",
+      "type": "전",
+      "address": "전북특별자치도 무주군 무풍면 금평리 868 외 1필지",
+      "area": "토지 3226.7647㎡(976.096평)",
+      "appraisal": 57113700,
+      "min_price": 27986000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "26.12.07",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
       "tid": 2406165,
       "case_no": "2025-31217",
       "item_no": null,
@@ -1483,6 +1484,22 @@
       "bid_date": "26.12.07",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2521126,
+      "case_no": "2026-30311",
+      "item_no": 1,
+      "court": "전주4계",
+      "type": "임야",
+      "address": "전북특별자치도 무주군 무풍면 금평리 673",
+      "area": "토지 992㎡(300.08평)",
+      "appraisal": 7142400,
+      "min_price": 4999680,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.07",
+      "special": "맹지",
+      "dpsl": "토지 매각"
     }
   ]
 }

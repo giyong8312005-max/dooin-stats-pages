@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "26",
     "guCd": "200",
@@ -7,147 +7,6 @@
     "name": "영도구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "26",
-      "guCd": "200",
-      "title": "2026. 04 월간매각 통계자료 : 부산 영도구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 6,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 9,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 33.33,
-          "avg_appraisal": 93720807,
-          "sale_price_rate": 31.4
-        },
-        {
-          "type": "아파트",
-          "total": 10,
-          "failed": 5,
-          "sold": 1,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 10.0,
-          "avg_appraisal": 227000000,
-          "sale_price_rate": 57.66
-        },
-        {
-          "type": "연립주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 29,
-          "failed": 16,
-          "sold": 8,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 27.59,
-          "avg_appraisal": 224125000,
-          "sale_price_rate": 47.42
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 293000000,
-          "sale_price_rate": 80.38
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "선박",
-          "total": 4,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 417570000,
-          "sale_price_rate": 26.34
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -907,6 +766,125 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "26",
+      "guCd": "200",
+      "title": "2026. 10 월간매각 통계자료 : 부산 영도구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 15,
+          "failed": 14,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 6.67,
+          "avg_appraisal": 142974000,
+          "sale_price_rate": 21.2
+        },
+        {
+          "type": "단독주택",
+          "total": 11,
+          "failed": 9,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 9.09,
+          "avg_appraisal": 62580600,
+          "sale_price_rate": 31.24
+        },
+        {
+          "type": "아파트",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 60000000,
+          "sale_price_rate": 31.7
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 232749600,
+          "sale_price_rate": 22.9
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 207500000,
+          "sale_price_rate": 58.43
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 183000000,
+          "sale_price_rate": 81.2
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 377000000,
+          "sale_price_rate": 27.5
+        }
+      ]
     }
   ],
   "listings": [
@@ -1343,22 +1321,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2406893,
-      "case_no": "2025-21944",
-      "item_no": null,
-      "court": "부산2계",
-      "type": "대지",
-      "address": "부산광역시 영도구 청학동 101-93 외 7필지",
-      "area": "토지 1581㎡(478.253평)",
-      "appraisal": 2709969000,
-      "min_price": 1327885000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.06",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
       "tid": 2440301,
       "case_no": "2025-22543",
       "item_no": null,
@@ -1579,7 +1541,7 @@
       "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.10",
-      "special": "선순위 전세권설정,대항력 있는 임차인",
+      "special": "선순위 전세권설정",
       "dpsl": "토지·건물 일괄매각"
     },
     {

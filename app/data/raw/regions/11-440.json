@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "11",
     "guCd": "440",
@@ -7,136 +7,6 @@
     "name": "마포구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "11",
-      "guCd": "440",
-      "title": "2026. 04 월간매각 통계자료 : 서울 마포구",
-      "rows": [
-        {
-          "type": "전",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 2000000000,
-          "sale_price_rate": 107.45
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 15,
-          "failed": 14,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 6.67,
-          "avg_appraisal": 380000000,
-          "sale_price_rate": 18.42
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 8,
-          "failed": 6,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 12.5,
-          "avg_appraisal": 3510000000,
-          "sale_price_rate": 83.54
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 221000000,
-          "sale_price_rate": 135.75
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 1620000000,
-          "sale_price_rate": 52.47
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -731,6 +601,103 @@
           "sale_price_rate": 71.39
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "11",
+      "guCd": "440",
+      "title": "2026. 10 월간매각 통계자료 : 서울 마포구",
+      "rows": [
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 1055500000,
+          "sale_price_rate": 83.13
+        },
+        {
+          "type": "다세대주택",
+          "total": 16,
+          "failed": 13,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.75,
+          "avg_appraisal": 410666667,
+          "sale_price_rate": 77.51
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 7,
+          "failed": 6,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 271000000,
+          "sale_price_rate": 79.61
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -957,22 +924,6 @@
       "bid_date": "26.11.03",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2497923,
-      "case_no": "2026-7",
-      "item_no": null,
-      "court": "서울서부3계",
-      "type": "아파트",
-      "address": "서울특별시 마포구 하중동 101 한강밤섬자이 104동 10층1003호 외 1필지",
-      "area": "건물 59.14㎡(17.89평) 대지권 29.5315㎡(8.933평)",
-      "appraisal": 1200000000,
-      "min_price": 960000000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.11.03",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2492022,
@@ -1355,7 +1306,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1387,7 +1338,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1413,13 +1364,13 @@
       "court": "서울서부7계",
       "type": "아파트",
       "address": "서울특별시 마포구 합정동 472 마포한강푸르지오 101동 4층 402호",
-      "area": "건물 59.995㎡(18.148평) 대지권 15.4968㎡(4.688평)",
+      "area": "건물 59.995㎡(18.148평) 대지권 15.4968㎡(4.688평) / 토지별도등기인수조건",
       "appraisal": 1232500000,
       "min_price": 1232500000,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1485,22 +1436,6 @@
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2343646,
-      "case_no": "2024-60304",
-      "item_no": null,
-      "court": "서울서부1계",
-      "type": "근린생활시설",
-      "address": "서울특별시 마포구 공덕동 256-43",
-      "area": "건물 33.06㎡(10.001평) 토지 46.4㎡(14.036평)",
-      "appraisal": 1562346000,
-      "min_price": 1249877000,
-      "min_price_pct": 80,
-      "status": "예정물건",
-      "bid_date": "26.11.17",
-      "special": "",
-      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2529838,

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "12",
     "guCd": "850",
@@ -7,15 +7,6 @@
     "name": "완도군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "12",
-      "guCd": "850",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 5,
@@ -753,6 +744,147 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "12",
+      "guCd": "850",
+      "title": "2026. 10 월간매각 통계자료 : 광주 완도군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 8,
+          "failed": 5,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 12.5,
+          "avg_appraisal": 27694240,
+          "sale_price_rate": 139.99
+        },
+        {
+          "type": "답",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 100191000,
+          "sale_price_rate": 110.79
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 4641000,
+          "sale_price_rate": 323.21
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 14515200,
+          "sale_price_rate": 57.19
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 255595500,
+          "sale_price_rate": 48.98
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "교육연구시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 538056600,
+          "sale_price_rate": 113.58
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 967957400,
+          "sale_price_rate": 20.87
+        },
+        {
+          "type": "선박",
+          "total": 14,
+          "failed": 13,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 155211000,
+          "sale_price_rate": 52.38
+        }
+      ]
     }
   ],
   "listings": [
@@ -965,22 +1097,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2389394,
-      "case_no": "2025-50349",
-      "item_no": 1,
-      "court": "해남3계",
-      "type": "전",
-      "address": "전라남도 완도군 금일읍 신구리 820-1",
-      "area": "토지 1038㎡(313.995평)",
-      "appraisal": 7058400,
-      "min_price": 1240000,
-      "min_price_pct": 18,
-      "status": "유찰 6회",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2399091,
       "case_no": "2025-50431",
       "item_no": null,
@@ -995,22 +1111,6 @@
       "bid_date": "26.11.02",
       "special": "대항력 있는 임차인",
       "dpsl": "건물전부, 토지지분"
-    },
-    {
-      "tid": 2425166,
-      "case_no": "2025-50527",
-      "item_no": null,
-      "court": "해남3계",
-      "type": "임야",
-      "address": "전라남도 완도군 신지면 동고리 산251-1 외 13필지",
-      "area": "토지 199332㎡(60297.93평)",
-      "appraisal": 501182000,
-      "min_price": 224530000,
-      "min_price_pct": 45,
-      "status": "유찰 3회",
-      "bid_date": "26.11.02",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2542996,
@@ -1397,6 +1497,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2402459,
+      "case_no": "2025-50442",
+      "item_no": null,
+      "court": "해남1계",
+      "type": "전",
+      "address": "전라남도 완도군 노화읍 방서리 315-1 외 1필지",
+      "area": "토지 2476㎡(748.99평)",
+      "appraisal": 23221000,
+      "min_price": 23221000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
       "tid": 2401518,
       "case_no": "2025-50443",
       "item_no": 1,
@@ -1457,7 +1573,7 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.09",
-      "special": "법정지상권,대항력 있는 임차인",
+      "special": "법정지상권,채권자매수청구,대항력 있는 임차인",
       "dpsl": "토지만 매각"
     },
     {
@@ -1873,7 +1989,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.09",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {

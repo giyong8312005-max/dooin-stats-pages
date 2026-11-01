@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "52",
     "guCd": "770",
@@ -7,103 +7,6 @@
     "name": "순창군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "52",
-      "guCd": "770",
-      "title": "2026. 04 월간매각 통계자료 : 전북 순창군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 8,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 37.5,
-          "avg_appraisal": 27350467,
-          "sale_price_rate": 69.83
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 70317000,
-          "sale_price_rate": 34.84
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "의료시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "위험물저장및처리시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -500,9 +403,122 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "52",
+      "guCd": "770",
+      "title": "2026. 10 월간매각 통계자료 : 전북 순창군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 43060120,
+          "sale_price_rate": 71.99
+        },
+        {
+          "type": "답",
+          "total": 12,
+          "failed": 8,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 39394350,
+          "sale_price_rate": 70.53
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 4240000,
+          "sale_price_rate": 43.16
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
+    {
+      "tid": 2182972,
+      "case_no": "2023-30564",
+      "item_no": null,
+      "court": "남원1계",
+      "type": "아파트",
+      "address": "전북특별자치도 순창군 순창읍 남계리 248, 101동 2층202호 (해태타운)",
+      "area": "",
+      "appraisal": 142000000,
+      "min_price": 142000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
     {
       "tid": 2459173,
       "case_no": "2025-1182",
@@ -534,102 +550,6 @@
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2477307,
-      "case_no": "2025-1198",
-      "item_no": 1,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 105동 2층203호",
-      "area": "건물 84.9675㎡(25.703평) 대지권 55.5665㎡(16.809평)",
-      "appraisal": 275000000,
-      "min_price": 192500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526365,
-      "case_no": "2025-1198",
-      "item_no": 2,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 107동 2층202호",
-      "area": "건물 113.6606㎡(34.382평) 대지권 74.3311㎡(22.485평)",
-      "appraisal": 376000000,
-      "min_price": 263200000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526366,
-      "case_no": "2025-1198",
-      "item_no": 3,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 105동 2층201호",
-      "area": "건물 84.9675㎡(25.703평) 대지권 55.5665㎡(16.809평)",
-      "appraisal": 275000000,
-      "min_price": 192500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526367,
-      "case_no": "2025-1198",
-      "item_no": 4,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 103동 2층201호",
-      "area": "건물 84.9675㎡(25.703평) 대지권 55.5665㎡(16.809평)",
-      "appraisal": 275000000,
-      "min_price": 192500000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526368,
-      "case_no": "2025-1198",
-      "item_no": 5,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 105동 1층101호",
-      "area": "건물 84.9675㎡(25.703평) 대지권 55.5665㎡(16.809평)",
-      "appraisal": 269000000,
-      "min_price": 188300000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2526369,
-      "case_no": "2025-1198",
-      "item_no": 6,
-      "court": "남원1계",
-      "type": "아파트",
-      "address": "전북특별자치도 순창군 순창읍 교성리 704 순창남양휴튼아파트 107동 11층1101호",
-      "area": "건물 113.6606㎡(34.382평) 대지권 74.3311㎡(22.485평)",
-      "appraisal": 394000000,
-      "min_price": 275800000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.16",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2485677,
@@ -776,6 +696,22 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
+      "tid": 2490996,
+      "case_no": "2026-1",
+      "item_no": null,
+      "court": "남원1계",
+      "type": "위험물저장및처리시설",
+      "address": "전북특별자치도 순창군 순창읍 복실리 756",
+      "area": "건물 122㎡(36.905평) 토지 230㎡(69.575평)",
+      "appraisal": 74413000,
+      "min_price": 74413000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2502897,
       "case_no": "2026-10",
       "item_no": 1,
@@ -818,7 +754,7 @@
       "appraisal": 98072000,
       "min_price": 68650000,
       "min_price_pct": 70,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
@@ -840,6 +776,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2502901,
+      "case_no": "2026-30024",
+      "item_no": null,
+      "court": "남원2계",
+      "type": "임야",
+      "address": "전북특별자치도 순창군 팔덕면 구룡리 산26-1",
+      "area": "토지 11834.6667㎡(3579.987평)",
+      "appraisal": 35500000,
+      "min_price": 35500000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
       "tid": 2511741,
       "case_no": "2026-30033",
       "item_no": null,
@@ -854,6 +806,70 @@
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2529382,
+      "case_no": "2026-30065",
+      "item_no": 1,
+      "court": "남원1계",
+      "type": "답",
+      "address": "전북특별자치도 순창군 적성면 운림리 314-6 외 1필지",
+      "area": "토지 2208㎡(667.92평)",
+      "appraisal": 79488000,
+      "min_price": 79488000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2592057,
+      "case_no": "2026-30065",
+      "item_no": 2,
+      "court": "남원1계",
+      "type": "전",
+      "address": "전북특별자치도 순창군 적성면 운림리 760 외 2필지",
+      "area": "토지 1501㎡(454.053평)",
+      "appraisal": 32901000,
+      "min_price": 32901000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2592058,
+      "case_no": "2026-30065",
+      "item_no": 3,
+      "court": "남원1계",
+      "type": "대지",
+      "address": "전북특별자치도 순창군 적성면 운림리 766-1",
+      "area": "토지 374㎡(113.135평)",
+      "appraisal": 15334000,
+      "min_price": 15334000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2536851,
+      "case_no": "2026-30079",
+      "item_no": null,
+      "court": "남원1계",
+      "type": "오피스텔(주거)",
+      "address": "전북특별자치도 순창군 순창읍 순화리 472-3 스카이빌 주1동 6층 604호",
+      "area": "건물 77.01㎡(23.296평) 대지권 40.0758㎡(12.123평)",
+      "appraisal": 145000000,
+      "min_price": 145000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

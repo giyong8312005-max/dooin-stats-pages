@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "47",
     "guCd": "280",
@@ -7,169 +7,6 @@
     "name": "문경시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "47",
-      "guCd": "280",
-      "title": "2026. 04 월간매각 통계자료 : 경북 문경시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 9,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 10.0,
-          "avg_appraisal": 35247000,
-          "sale_price_rate": 39.41
-        },
-        {
-          "type": "답",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 13295000,
-          "sale_price_rate": 75.65
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 7896000,
-          "sale_price_rate": 39.26
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 832967600,
-          "sale_price_rate": 50.0
-        },
-        {
-          "type": "아파트",
-          "total": 3,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 69000000,
-          "sale_price_rate": 75.51
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -1083,6 +920,125 @@
           "sale_price_rate": 51.03
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "47",
+      "guCd": "280",
+      "title": "2026. 10 월간매각 통계자료 : 경북 문경시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 11,
+          "failed": 5,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 45.45,
+          "avg_appraisal": 208020160,
+          "sale_price_rate": 29.94
+        },
+        {
+          "type": "답",
+          "total": 11,
+          "failed": 5,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 36.36,
+          "avg_appraisal": 99784900,
+          "sale_price_rate": 20.88
+        },
+        {
+          "type": "목장용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 119105000,
+          "sale_price_rate": 33.67
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1913994460,
+          "sale_price_rate": 34.48
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1155,15 +1111,15 @@
       "case_no": "2025-229",
       "item_no": null,
       "court": "상주1계",
-      "type": "잡종지",
+      "type": "대지",
       "address": "경상북도 문경시 문경읍 하리 107-7",
-      "area": "건물은 매각제외 토지 82.5714㎡(24.978평)",
+      "area": "건물은 매각제외 토지 82.57㎡(24.977평)",
       "appraisal": 18825960,
       "min_price": 18825960,
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "법정지상권",
+      "special": "법정지상권,대항력 있는 임차인",
       "dpsl": "토지만 매각이며,지분 매각임"
     },
     {
@@ -1421,6 +1377,22 @@
       "bid_date": "26.11.17",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2460037,
+      "case_no": "2025-5464",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "단독주택",
+      "address": "경상북도 문경시 점촌동 415-2",
+      "area": "건물 128.48㎡(38.865평) 토지 402㎡(121.605평)",
+      "appraisal": 323148960,
+      "min_price": 323148960,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "51",
     "guCd": "800",
@@ -7,59 +7,6 @@
     "name": "양구군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "51",
-      "guCd": "800",
-      "title": "2026. 04 월간매각 통계자료 : 강원 양구군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 9,
-          "failed": 7,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 22.22,
-          "avg_appraisal": 47403000,
-          "sale_price_rate": 14.4
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -335,89 +282,62 @@
           "sale_price_rate": 42.81
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "51",
+      "guCd": "800",
+      "title": "2026. 10 월간매각 통계자료 : 강원 양구군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 9,
+          "failed": 7,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 22.22,
+          "avg_appraisal": 28377500,
+          "sale_price_rate": 28.87
+        },
+        {
+          "type": "답",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2488232,
-      "case_no": "2025-2985",
-      "item_no": null,
-      "court": "춘천1계",
-      "type": "답",
-      "address": "강원특별자치도 양구군 방산면 고방산리 507 외 1필지",
-      "area": "토지 1364㎡(412.61평)",
-      "appraisal": 36828000,
-      "min_price": 12632000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.10.26",
-      "special": "농지취득자격증명",
-      "dpsl": "토지지분매각"
-    },
-    {
-      "tid": 2459969,
-      "case_no": "2025-50939",
-      "item_no": 1,
-      "court": "춘천1계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 246",
-      "area": "토지 3825㎡(1157.063평)",
-      "appraisal": 65025000,
-      "min_price": 5355000,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2498807,
-      "case_no": "2025-50939",
-      "item_no": 2,
-      "court": "춘천1계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 247",
-      "area": "토지 955㎡(288.888평)",
-      "appraisal": 16235000,
-      "min_price": 1337000,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2498809,
-      "case_no": "2025-50939",
-      "item_no": 4,
-      "court": "춘천1계",
-      "type": "전",
-      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 251",
-      "area": "토지 3289㎡(994.923평)",
-      "appraisal": 52624000,
-      "min_price": 4334000,
-      "min_price_pct": 8,
-      "status": "유찰 7회",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2495192,
-      "case_no": "2026-50032",
-      "item_no": null,
-      "court": "춘천1계",
-      "type": "단독주택",
-      "address": "강원특별자치도 양구군 국토정중앙면 원리 111-1 외 4필지",
-      "area": "건물 650.09㎡(196.652평) 토지 2970㎡(898.425평)",
-      "appraisal": 615495970,
-      "min_price": 615495970,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "유치권,법정지상권,농지취득자격증명,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2471268,
       "case_no": "2025-50968",
@@ -531,6 +451,70 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2525993,
+      "case_no": "2026-50195",
+      "item_no": 1,
+      "court": "춘천3계",
+      "type": "근린생활시설",
+      "address": "강원특별자치도 양구군 동면 팔랑리 1463-1",
+      "area": "건물 846.01㎡(255.918평) 토지 346㎡(104.665평)",
+      "appraisal": 458242740,
+      "min_price": 458242740,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2592486,
+      "case_no": "2026-50195",
+      "item_no": 2,
+      "court": "춘천3계",
+      "type": "답",
+      "address": "강원특별자치도 양구군 동면 팔랑리 1581",
+      "area": "토지 2755㎡(833.387평)",
+      "appraisal": 99180000,
+      "min_price": 99180000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2526590,
+      "case_no": "2026-50199",
+      "item_no": 1,
+      "court": "춘천3계",
+      "type": "단독주택",
+      "address": "강원특별자치도 양구군 양구읍 상리 344-6",
+      "area": "건물 94.7㎡(28.647평) 토지 106㎡(32.065평)",
+      "appraisal": 71032000,
+      "min_price": 71032000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2592485,
+      "case_no": "2026-50199",
+      "item_no": 2,
+      "court": "춘천3계",
+      "type": "답",
+      "address": "강원특별자치도 양구군 양구읍 학조리 661",
+      "area": "토지 309.75㎡(93.699평)",
+      "appraisal": 15177750,
+      "min_price": 15177750,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
       "tid": 2481661,
       "case_no": "2025-51050",
       "item_no": 1,
@@ -609,6 +593,70 @@
       "bid_date": "26.11.23",
       "special": "분묘기지권,농지취득자격증명",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2488232,
+      "case_no": "2025-2985",
+      "item_no": null,
+      "court": "춘천1계",
+      "type": "답",
+      "address": "강원특별자치도 양구군 방산면 고방산리 507 외 1필지",
+      "area": "토지 1364㎡(412.61평)",
+      "appraisal": 36828000,
+      "min_price": 8842000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.12.07",
+      "special": "농지취득자격증명",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2459969,
+      "case_no": "2025-50939",
+      "item_no": 1,
+      "court": "춘천1계",
+      "type": "전",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 246",
+      "area": "토지 3825㎡(1157.063평)",
+      "appraisal": 65025000,
+      "min_price": 3749000,
+      "min_price_pct": 6,
+      "status": "유찰 8회",
+      "bid_date": "26.12.07",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2498809,
+      "case_no": "2025-50939",
+      "item_no": 4,
+      "court": "춘천1계",
+      "type": "전",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 251",
+      "area": "토지 3289㎡(994.923평)",
+      "appraisal": 52624000,
+      "min_price": 3034000,
+      "min_price_pct": 6,
+      "status": "유찰 8회",
+      "bid_date": "26.12.07",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2495192,
+      "case_no": "2026-50032",
+      "item_no": null,
+      "court": "춘천1계",
+      "type": "단독주택",
+      "address": "강원특별자치도 양구군 국토정중앙면 원리 111-1 외 4필지",
+      "area": "건물 650.09㎡(196.652평) 토지 2970㎡(898.425평)",
+      "appraisal": 615495970,
+      "min_price": 430847000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.07",
+      "special": "유치권,법정지상권,농지취득자격증명,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "12",
     "guCd": "790",
@@ -7,15 +7,6 @@
     "name": "해남군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "12",
-      "guCd": "790",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 5,
@@ -764,6 +755,125 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "12",
+      "guCd": "790",
+      "title": "2026. 10 월간매각 통계자료 : 광주 해남군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 8,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 12.5,
+          "avg_appraisal": 22711000,
+          "sale_price_rate": 56.4
+        },
+        {
+          "type": "답",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 7,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 14.29,
+          "avg_appraisal": 217269300,
+          "sale_price_rate": 52.93
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 86860000,
+          "sale_price_rate": 77.44
+        },
+        {
+          "type": "양어장",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 309360450,
+          "sale_price_rate": 46.9
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 11,
+          "failed": 9,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 424000000,
+          "sale_price_rate": 66.92
+        },
+        {
+          "type": "덤프트럭",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 42000000,
+          "sale_price_rate": 56.0
+        },
+        {
+          "type": "기타중기",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 70000000,
+          "sale_price_rate": 73.29
+        },
+        {
+          "type": "선박",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1040,22 +1150,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2428486,
-      "case_no": "2025-50537",
-      "item_no": null,
-      "court": "해남3계",
-      "type": "숙박시설",
-      "address": "전남광주통합특별시 해남군 화산면 평호리 산93-11 외 1필지",
-      "area": "건물 237.92㎡(71.971평) 토지 8012㎡(2423.63평)",
-      "appraisal": 384836240,
-      "min_price": 215508000,
-      "min_price_pct": 56,
-      "status": "유찰 2회",
-      "bid_date": "26.11.02",
-      "special": "맹지,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2436786,
       "case_no": "2025-50573",
       "item_no": null,
@@ -1165,22 +1259,6 @@
       "status": "유찰 1회",
       "bid_date": "26.11.02",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2443007,
-      "case_no": "2025-50593",
-      "item_no": null,
-      "court": "해남3계",
-      "type": "임야",
-      "address": "전라남도 해남군 현산면 일평리 산24-2",
-      "area": "토지 45466㎡(13753.465평)",
-      "appraisal": 100025200,
-      "min_price": 35849000,
-      "min_price_pct": 36,
-      "status": "유찰 4회",
-      "bid_date": "26.11.02",
-      "special": "",
       "dpsl": "토지 매각"
     },
     {
@@ -2000,22 +2078,6 @@
       "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
-      "tid": 2487117,
-      "case_no": "2025-50759",
-      "item_no": null,
-      "court": "해남1계",
-      "type": "대지",
-      "address": "전라남도 해남군 산이면 대진리 471 외 1필지",
-      "area": "건물은 매각제외 토지 246㎡(74.415평)",
-      "appraisal": 15294000,
-      "min_price": 10706000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.09",
-      "special": "법정지상권,대항력 있는 임차인",
-      "dpsl": "토지만 매각"
-    },
-    {
       "tid": 2548108,
       "case_no": "2025-50764",
       "item_no": 3,
@@ -2030,6 +2092,38 @@
       "bid_date": "26.11.09",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2503406,
+      "case_no": "2026-1007",
+      "item_no": 1,
+      "court": "해남1계",
+      "type": "임야",
+      "address": "전라남도 해남군 현산면 황산리 산105-14",
+      "area": "토지 8690㎡(2628.725평)",
+      "appraisal": 112970000,
+      "min_price": 112970000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2561443,
+      "case_no": "2026-1007",
+      "item_no": 2,
+      "court": "해남1계",
+      "type": "임야",
+      "address": "전라남도 해남군 현산면 황산리 산105-25",
+      "area": "토지 902㎡(272.855평)",
+      "appraisal": 18942000,
+      "min_price": 18942000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2497835,
@@ -2214,7 +2308,7 @@
       "court": "해남1계",
       "type": "답",
       "address": "전남광주통합특별시 해남군 화산면 가좌리 1200-4 외 1필지",
-      "area": "토지 2010㎡(608.025평)",
+      "area": "토지 2009.99㎡(608.022평)",
       "appraisal": 42913120,
       "min_price": 42913120,
       "min_price_pct": 100,
@@ -2230,7 +2324,7 @@
       "court": "해남1계",
       "type": "전",
       "address": "전남광주통합특별시 해남군 화산면 가좌리 66-1 외 1필지",
-      "area": "토지 85.6667㎡(25.914평)",
+      "area": "토지 85.66㎡(25.912평)",
       "appraisal": 573922,
       "min_price": 573922,
       "min_price_pct": 100,

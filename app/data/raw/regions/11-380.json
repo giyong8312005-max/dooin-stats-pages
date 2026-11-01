@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "11",
     "guCd": "380",
@@ -7,136 +7,6 @@
     "name": "은평구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "11",
-      "guCd": "380",
-      "title": "2026. 04 월간매각 통계자료 : 서울 은평구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1824900000,
-          "sale_price_rate": 56.63
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 795000000,
-          "sale_price_rate": 81.89
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 89,
-          "failed": 72,
-          "sold": 12,
-          "changed": 2,
-          "withdrawn": 2,
-          "sold_rate": 13.48,
-          "avg_appraisal": 274029417,
-          "sale_price_rate": 60.82
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 31,
-          "failed": 29,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 6.45,
-          "avg_appraisal": 258500000,
-          "sale_price_rate": 48.67
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 27,
-          "failed": 22,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 14.81,
-          "avg_appraisal": 302250000,
-          "sale_price_rate": 81.65
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "노유자시설",
-          "total": 9,
-          "failed": 6,
-          "sold": 0,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 5,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 20.0,
-          "avg_appraisal": 17450000,
-          "sale_price_rate": 69.86
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -927,6 +797,180 @@
           "sold_rate": 23.08,
           "avg_appraisal": 495597333,
           "sale_price_rate": 50.1
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "11",
+      "guCd": "380",
+      "title": "2026. 10 월간매각 통계자료 : 서울 은평구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 40850000,
+          "sale_price_rate": 45.78
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1625154520,
+          "sale_price_rate": 41.64
+        },
+        {
+          "type": "다가구주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 976578390,
+          "sale_price_rate": 22.52
+        },
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1010000000,
+          "sale_price_rate": 64.11
+        },
+        {
+          "type": "연립주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 103,
+          "failed": 82,
+          "sold": 16,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 15.53,
+          "avg_appraisal": 277453850,
+          "sale_price_rate": 68.7
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 286000000,
+          "sale_price_rate": 79.61
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 33,
+          "failed": 26,
+          "sold": 5,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 15.15,
+          "avg_appraisal": 212400000,
+          "sale_price_rate": 75.83
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 49,
+          "failed": 28,
+          "sold": 20,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.82,
+          "avg_appraisal": 430950000,
+          "sale_price_rate": 72.34
+        },
+        {
+          "type": "노유자시설",
+          "total": 39,
+          "failed": 37,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
         }
       ]
     }
@@ -2693,22 +2737,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2507044,
-      "case_no": "2026-50194",
-      "item_no": null,
-      "court": "서울서부6계",
-      "type": "아파트",
-      "address": "서울특별시 은평구 응암동 771 이편한세상백련산 105동 5층501호",
-      "area": "건물 84.31㎡(25.504평) 대지권 47.1838㎡(14.273평)",
-      "appraisal": 919000000,
-      "min_price": 919000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.03",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2506409,
       "case_no": "2026-50216",
       "item_no": null,
@@ -3589,22 +3617,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2359951,
-      "case_no": "2024-64603",
-      "item_no": null,
-      "court": "서울서부5계",
-      "type": "다세대주택",
-      "address": "서울 은평구 구산동 378-1, 2층202호 (구산동,명신샤인빌)",
-      "area": "건물 47.16㎡(14.266평) 대지권 28.65㎡(8.667평)",
-      "appraisal": 222000000,
-      "min_price": 37246000,
-      "min_price_pct": 17,
-      "status": "유찰 8회",
-      "bid_date": "26.11.10",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2361936,
       "case_no": "2024-64627",
       "item_no": null,
@@ -4085,22 +4097,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2408192,
-      "case_no": "2025-51457",
-      "item_no": null,
-      "court": "서울서부5계",
-      "type": "다세대주택",
-      "address": "서울특별시 은평구 역촌동 49-38 태영아뜨리움 5층502호 외 1필지",
-      "area": "건물 41.81㎡(12.648평) 대지권 23.731㎡(7.179평)",
-      "appraisal": 294000000,
-      "min_price": 120422000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.11.10",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2409099,
       "case_no": "2025-51487",
       "item_no": null,
@@ -4162,22 +4158,6 @@
       "status": "유찰 6회",
       "bid_date": "26.11.10",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2428096,
-      "case_no": "2025-51685",
-      "item_no": null,
-      "court": "서울서부7계",
-      "type": "다세대주택",
-      "address": "서울특별시 은평구 역촌동 52-31 5층502호",
-      "area": "건물 37.155㎡(11.239평) 대지권 17.402㎡(5.264평)",
-      "appraisal": 168000000,
-      "min_price": 35232000,
-      "min_price_pct": 21,
-      "status": "유찰 7회",
-      "bid_date": "26.11.10",
-      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -4368,22 +4348,6 @@
       "min_price": 103936000,
       "min_price_pct": 51,
       "status": "유찰 3회",
-      "bid_date": "26.11.10",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2449183,
-      "case_no": "2025-51944",
-      "item_no": null,
-      "court": "서울서부5계",
-      "type": "오피스텔(주거)",
-      "address": "서울특별시 은평구 응암동 590-18 양지스카이뷰 6층601호",
-      "area": "건물 39.42㎡(11.925평) 대지권 14.44㎡(4.368평)",
-      "appraisal": 255000000,
-      "min_price": 104448000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
       "bid_date": "26.11.10",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
@@ -4993,7 +4957,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -5025,7 +4989,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -5185,7 +5149,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "임금채권자",
+      "special": "임금채권자,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -5362,6 +5326,22 @@
       "status": "유찰 1회",
       "bid_date": "26.11.10",
       "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2317254,
+      "case_no": "2024-2032",
+      "item_no": null,
+      "court": "서울서부8계",
+      "type": "상가주택",
+      "address": "서울특별시 은평구 대조동 222-11",
+      "area": "건물 298.04㎡(90.157평) 토지 138.5㎡(41.896평)",
+      "appraisal": 2205106500,
+      "min_price": 2205106500,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -5634,22 +5614,6 @@
       "status": "유찰 1회",
       "bid_date": "26.11.17",
       "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2369916,
-      "case_no": "2025-50168",
-      "item_no": null,
-      "court": "서울서부8계",
-      "type": "아파트",
-      "address": "서울 은평구 진관동 123, 115동 5층502호 (진관동,은평뉴타운 박석고개)",
-      "area": "건물 101.76㎡(30.782평) 대지권 86.758㎡(26.244평)",
-      "appraisal": 1140000000,
-      "min_price": 729600000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.11.17",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -6341,6 +6305,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2442019,
+      "case_no": "2025-51851",
+      "item_no": null,
+      "court": "서울서부8계",
+      "type": "도시형생활주택",
+      "address": "서울특별시 은평구 신사동 17-3 금강블루 2층202호 외 1필지",
+      "area": "건물 57.73㎡(17.463평) 대지권 26.15㎡(7.91평)",
+      "appraisal": 362000000,
+      "min_price": 362000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2452054,
       "case_no": "2025-51984",
       "item_no": null,
@@ -6368,6 +6348,22 @@
       "min_price": 211813000,
       "min_price_pct": 26,
       "status": "유찰 6회",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2458797,
+      "case_no": "2025-52030",
+      "item_no": null,
+      "court": "서울서부1계",
+      "type": "아파트",
+      "address": "서울특별시 은평구 갈현동 541-1 갈현동건영아파트 11층1105호",
+      "area": "건물 82.94㎡(25.089평) 대지권 28.57㎡(8.642평)",
+      "appraisal": 536000000,
+      "min_price": 343040000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -6531,6 +6527,22 @@
       "bid_date": "26.11.17",
       "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499377,
+      "case_no": "2026-50014",
+      "item_no": null,
+      "court": "서울서부1계",
+      "type": "대지",
+      "address": "서울특별시 은평구 응암동 369-4",
+      "area": "토지 503㎡(152.158평)",
+      "appraisal": 7846800000,
+      "min_price": 5021952000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2495884,
@@ -6818,22 +6830,6 @@
       "status": "유찰 4회",
       "bid_date": "26.12.08",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2489210,
-      "case_no": "2025-52450",
-      "item_no": null,
-      "court": "서울서부7계",
-      "type": "도시형생활주택",
-      "address": "서울특별시 은평구 응암동 765 세영스카이타운 101동 3층302호",
-      "area": "건물 44.8㎡(13.552평) 대지권 30㎡(9.075평)",
-      "appraisal": 356000000,
-      "min_price": 227840000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.12.15",
-      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "47",
     "guCd": "840",
@@ -7,180 +7,6 @@
     "name": "성주군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "47",
-      "guCd": "840",
-      "title": "2026. 04 월간매각 통계자료 : 경북 성주군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 17,
-          "failed": 12,
-          "sold": 1,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 5.88,
-          "avg_appraisal": 142154000,
-          "sale_price_rate": 31.12
-        },
-        {
-          "type": "답",
-          "total": 13,
-          "failed": 5,
-          "sold": 6,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 46.15,
-          "avg_appraisal": 121617917,
-          "sale_price_rate": 23.35
-        },
-        {
-          "type": "과수원",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 16,
-          "failed": 9,
-          "sold": 5,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 31.25,
-          "avg_appraisal": 190153860,
-          "sale_price_rate": 30.92
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 73014500,
-          "sale_price_rate": 41.33
-        },
-        {
-          "type": "공장용지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 109720000,
-          "sale_price_rate": 54.74
-        },
-        {
-          "type": "도로",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 91871220,
-          "sale_price_rate": 17.25
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 190393400,
-          "sale_price_rate": 54.36
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 703987400,
-          "sale_price_rate": 63.92
-        },
-        {
-          "type": "공장",
-          "total": 10,
-          "failed": 6,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 1582627455,
-          "sale_price_rate": 57.98
-        },
-        {
-          "type": "창고시설",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -1072,6 +898,202 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "47",
+      "guCd": "840",
+      "title": "2026. 10 월간매각 통계자료 : 경북 성주군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 24,
+          "failed": 17,
+          "sold": 6,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 315823367,
+          "sale_price_rate": 27.0
+        },
+        {
+          "type": "답",
+          "total": 11,
+          "failed": 9,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 239315750,
+          "sale_price_rate": 18.22
+        },
+        {
+          "type": "임야",
+          "total": 14,
+          "failed": 12,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 7.14,
+          "avg_appraisal": 10078200,
+          "sale_price_rate": 49.12
+        },
+        {
+          "type": "대지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장용지",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 441639000,
+          "sale_price_rate": 31.96
+        },
+        {
+          "type": "유지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 6,
+          "failed": 4,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 461132000,
+          "sale_price_rate": 52.67
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 0,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 81000000,
+          "sale_price_rate": 59.0
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "문화및집회시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 15,
+          "failed": 9,
+          "sold": 5,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 3856347876,
+          "sale_price_rate": 59.5
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1332,38 +1354,6 @@
       "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
-      "tid": 2386189,
-      "case_no": "2025-31031",
-      "item_no": null,
-      "court": "대구서부4계",
-      "type": "공장",
-      "address": "경상북도 성주군 선남면 선원리 543-1 외 2필지",
-      "area": "건물 1449.1㎡(438.353평) 토지 2823㎡(853.958평)",
-      "appraisal": 1390154500,
-      "min_price": 681176000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.05",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2410301,
-      "case_no": "2025-31319",
-      "item_no": null,
-      "court": "대구서부4계",
-      "type": "공장",
-      "address": "경상북도 성주군 선남면 유서리 97-4 외 2필지",
-      "area": "건물 1133.9㎡(343.005평) 토지 3027㎡(915.668평)",
-      "appraisal": 1221910100,
-      "min_price": 598736000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.05",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2430844,
       "case_no": "2025-31547",
       "item_no": 1,
@@ -1524,6 +1514,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2555700,
+      "case_no": "2026-174",
+      "item_no": 2,
+      "court": "대구서부3계",
+      "type": "동물및식물관련시설",
+      "address": "경상북도 성주군 가천면 금봉리 346 외 1필지",
+      "area": "건물 616.5㎡(186.491평) 토지 2284㎡(690.91평)",
+      "appraisal": 190902600,
+      "min_price": 190903000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.10",
+      "special": "농지취득자격증명",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2491815,
       "case_no": "2026-3015",
       "item_no": null,
@@ -1588,22 +1594,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2549095,
-      "case_no": "2026-3813",
-      "item_no": null,
-      "court": "대구서부3계",
-      "type": "임야",
-      "address": "경상북도 성주군 초전면 대장리 산5-5",
-      "area": "토지 2027㎡(613.168평)",
-      "appraisal": 28830000,
-      "min_price": 20181000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.10",
-      "special": "분묘기지권",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2482240,
       "case_no": "2025-32197",
       "item_no": null,
@@ -1650,6 +1640,70 @@
       "bid_date": "26.11.12",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2548466,
+      "case_no": "2026-153",
+      "item_no": 1,
+      "court": "대구서부6계",
+      "type": "답",
+      "address": "경상북도 성주군 수륜면 봉양리 252 외 1필지",
+      "area": "토지 3379㎡(1022.147평)",
+      "appraisal": 171668000,
+      "min_price": 171668000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2591454,
+      "case_no": "2026-153",
+      "item_no": 2,
+      "court": "대구서부6계",
+      "type": "대지",
+      "address": "경상북도 성주군 수륜면 봉양리 957 외 2필지",
+      "area": "건물은 매각제외 토지 1150㎡(347.875평)",
+      "appraisal": 184040000,
+      "min_price": 184040000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2591455,
+      "case_no": "2026-153",
+      "item_no": 3,
+      "court": "대구서부6계",
+      "type": "전",
+      "address": "경상북도 성주군 수륜면 봉양리 960",
+      "area": "토지 96㎡(29.04평)",
+      "appraisal": 8640000,
+      "min_price": 8640000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2553186,
+      "case_no": "2026-165",
+      "item_no": null,
+      "court": "대구서부6계",
+      "type": "전",
+      "address": "경상북도 성주군 벽진면 봉계리 1442-37",
+      "area": "토지 8533㎡(2581.233평)",
+      "appraisal": 529046000,
+      "min_price": 529046000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2498174,
@@ -1780,19 +1834,19 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2489424,
-      "case_no": "2025-4326",
+      "tid": 2558826,
+      "case_no": "2026-3960",
       "item_no": null,
-      "court": "대구서부1계",
+      "court": "대구서부6계",
       "type": "전",
-      "address": "경상북도 성주군 대가면 옥성리 581 외 4필지",
-      "area": "토지 4923㎡(1489.208평)",
-      "appraisal": 304064000,
-      "min_price": 73005000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.17",
-      "special": "농지취득자격증명,맹지",
+      "address": "경상북도 성주군 성주읍 성산리 622",
+      "area": "토지 2982㎡(902.055평)",
+      "appraisal": 202776000,
+      "min_price": 202776000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "분묘기지권,농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1828,6 +1882,22 @@
       "dpsl": "토지만 매각"
     },
     {
+      "tid": 2557365,
+      "case_no": "2026-181",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "공장",
+      "address": "경상북도 성주군 선남면 성원리 726-7",
+      "area": "건물 789.75㎡(238.899평) 토지 768㎡(232.32평)",
+      "appraisal": 526641800,
+      "min_price": 526642000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2517653,
       "case_no": "2026-3361",
       "item_no": null,
@@ -1842,22 +1912,6 @@
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2519583,
-      "case_no": "2026-3385",
-      "item_no": null,
-      "court": "대구서부1계",
-      "type": "전",
-      "address": "경상북도 성주군 성주읍 성산리 418-1",
-      "area": "토지 2592㎡(784.08평)",
-      "appraisal": 86128000,
-      "min_price": 29541000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.17",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2521580,
@@ -1969,6 +2023,54 @@
       "status": "유찰 2회",
       "bid_date": "26.11.17",
       "special": "분묘기지권",
+      "dpsl": "토지지분매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2556177,
+      "case_no": "2026-3877",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "답",
+      "address": "경상북도 성주군 벽진면 외기리 53",
+      "area": "토지 1259㎡(380.847평)",
+      "appraisal": 69245000,
+      "min_price": 69245000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명,선순위 가처분",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2556179,
+      "case_no": "2026-3896",
+      "item_no": null,
+      "court": "대구서부1계",
+      "type": "대지",
+      "address": "경상북도 성주군 수륜면 오천리 733 외 6필지",
+      "area": "토지 4001㎡(1210.303평)",
+      "appraisal": 316669000,
+      "min_price": 316669000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2563160,
+      "case_no": "2026-4015",
+      "item_no": 1,
+      "court": "대구서부1계",
+      "type": "전",
+      "address": "경상북도 성주군 성주읍 금산리 503-2 외 1필지",
+      "area": "토지 1790.6667㎡(541.677평)",
+      "appraisal": 137265250,
+      "min_price": 137266000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {

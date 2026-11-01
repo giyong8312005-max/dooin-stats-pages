@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "51",
     "guCd": "750",
@@ -7,92 +7,6 @@
     "name": "영월군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "51",
-      "guCd": "750",
-      "title": "2026. 04 월간매각 통계자료 : 강원 영월군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 26,
-          "failed": 21,
-          "sold": 4,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 15.38,
-          "avg_appraisal": 110478800,
-          "sale_price_rate": 38.08
-        },
-        {
-          "type": "임야",
-          "total": 7,
-          "failed": 5,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 79515500,
-          "sale_price_rate": 49.44
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 903377000,
-          "sale_price_rate": 27.9
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -577,6 +491,92 @@
           "sale_price_rate": 55.83
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "51",
+      "guCd": "750",
+      "title": "2026. 10 월간매각 통계자료 : 강원 영월군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 20,
+          "failed": 10,
+          "sold": 2,
+          "changed": 3,
+          "withdrawn": 3,
+          "sold_rate": 10.0,
+          "avg_appraisal": 117056000,
+          "sale_price_rate": 12.9
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 120505500,
+          "sale_price_rate": 59.58
+        },
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 27129000,
+          "sale_price_rate": 26.36
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -867,6 +867,22 @@
       "bid_date": "26.11.17",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2561661,
+      "case_no": "2026-30201",
+      "item_no": null,
+      "court": "영월3계",
+      "type": "굴삭기",
+      "address": "강원특별자치도 영월군 영월읍 방절리 156-3, 동강자동차매매상사 주차장",
+      "area": "(굴착기 / 2018년식)",
+      "appraisal": 80000000,
+      "min_price": 80000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2384231,

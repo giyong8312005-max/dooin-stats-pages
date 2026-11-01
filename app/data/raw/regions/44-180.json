@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "44",
     "guCd": "180",
@@ -7,147 +7,6 @@
     "name": "보령시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "44",
-      "guCd": "180",
-      "title": "2026. 04 월간매각 통계자료 : 충남 보령시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 16,
-          "failed": 13,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 12.5,
-          "avg_appraisal": 161436500,
-          "sale_price_rate": 33.95
-        },
-        {
-          "type": "답",
-          "total": 8,
-          "failed": 1,
-          "sold": 3,
-          "changed": 3,
-          "withdrawn": 1,
-          "sold_rate": 37.5,
-          "avg_appraisal": 123221000,
-          "sale_price_rate": 50.79
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 420165200,
-          "sale_price_rate": 17.88
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "도로",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 28785050,
-          "sale_price_rate": 74.17
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 4,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 42.86,
-          "avg_appraisal": 114666667,
-          "sale_price_rate": 59.96
-        },
-        {
-          "type": "상가주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 925171600,
-          "sale_price_rate": 37.84
-        },
-        {
-          "type": "근린상가",
-          "total": 4,
-          "failed": 0,
-          "sold": 0,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1826434000,
-          "sale_price_rate": 60.84
-        },
-        {
-          "type": "선박",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -962,6 +821,180 @@
           "sale_price_rate": 33.45
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "44",
+      "guCd": "180",
+      "title": "2026. 10 월간매각 통계자료 : 충남 보령시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 13,
+          "failed": 8,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 2,
+          "sold_rate": 15.38,
+          "avg_appraisal": 158725375,
+          "sale_price_rate": 18.08
+        },
+        {
+          "type": "답",
+          "total": 12,
+          "failed": 9,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 8.33,
+          "avg_appraisal": 13248000,
+          "sale_price_rate": 26.5
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 3,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "염전",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 330492300,
+          "sale_price_rate": 47.62
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 273000000,
+          "sale_price_rate": 87.92
+        },
+        {
+          "type": "상가주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1314,7 +1347,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "법정지상권,농지취득자격증명",
+      "special": "법정지상권,농지취득자격증명,맹지",
       "dpsl": "토지만 매각"
     },
     {
@@ -1435,8 +1468,8 @@
       "item_no": 1,
       "court": "홍성5계",
       "type": "임야",
-      "address": "충청남도 보령시 청소면 장곡리 산59-1 외 1필지",
-      "area": "토지 15936㎡(4820.64평)",
+      "address": "충청남도 보령시 청소면 장곡리 산59-1",
+      "area": "토지 14492㎡(4383.83평)",
       "appraisal": 260856000,
       "min_price": 260856000,
       "min_price_pct": 100,
@@ -1491,7 +1524,7 @@
       "status": "신건",
       "bid_date": "26.11.10",
       "special": "맹지",
-      "dpsl": "토지 매각"
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2505932,
@@ -1522,7 +1555,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1539,7 +1572,7 @@
       "status": "신건",
       "bid_date": "26.11.10",
       "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
+      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2590770,
@@ -1554,7 +1587,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "분묘기지권",
+      "special": "분묘기지권,맹지",
       "dpsl": "토지지분매각(제시외기타 포함)"
     },
     {
@@ -1718,22 +1751,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2530904,
-      "case_no": "2024-20921",
-      "item_no": 5,
-      "court": "홍성2계",
-      "type": "답",
-      "address": "충청남도 보령시 천북면 신죽리 610-1",
-      "area": "건물 6㎡(1.815평) 토지 1707㎡(516.367평)",
-      "appraisal": 66717000,
-      "min_price": 32691000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.17",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
       "tid": 2530908,
       "case_no": "2024-20921",
       "item_no": 9,
@@ -1755,14 +1772,14 @@
       "item_no": null,
       "court": "홍성2계",
       "type": "공장",
-      "address": "충청남도 보령시 주교면 은포리 392-1 외 1필지",
-      "area": "건물 3055.74㎡(924.361평) 토지 3803㎡(1150.408평)",
+      "address": "충청남도 보령시 주교면 은포리 392-1 외 3필지",
+      "area": "건물 3055.74㎡(924.361평) 토지 5008㎡(1514.92평)",
       "appraisal": 2188000160,
       "min_price": 2188000160,
       "min_price_pct": 100,
       "status": "유찰 3회",
       "bid_date": "26.11.17",
-      "special": "맹지,대항력 있는 임차인",
+      "special": "농지취득자격증명,맹지,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2038,6 +2055,22 @@
       "dpsl": "토지지분매각"
     },
     {
+      "tid": 2499095,
+      "case_no": "2026-15045",
+      "item_no": null,
+      "court": "홍성2계",
+      "type": "근린상가",
+      "address": "충청남도 보령시 죽정동 730-4 디동 3층2호",
+      "area": "건물 63.75㎡(19.284평) 대지권 31.2㎡(9.438평)",
+      "appraisal": 72000000,
+      "min_price": 72000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2520002,
       "case_no": "2026-15059",
       "item_no": null,
@@ -2068,6 +2101,38 @@
       "bid_date": "26.11.17",
       "special": "분묘기지권",
       "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2520005,
+      "case_no": "2026-15215",
+      "item_no": null,
+      "court": "홍성2계",
+      "type": "대지",
+      "address": "충청남도 보령시 명천동 257",
+      "area": "건물은 매각제외 토지 499㎡(150.948평)",
+      "appraisal": 185628000,
+      "min_price": 185628000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "법정지상권,맹지",
+      "dpsl": "토지만 매각"
+    },
+    {
+      "tid": 2531743,
+      "case_no": "2026-15240",
+      "item_no": null,
+      "court": "홍성2계",
+      "type": "선박",
+      "address": "충남 보령시 오천면 소성리, 오천항 내(부흥석유 인근)",
+      "area": "(해성호)",
+      "appraisal": 201178600,
+      "min_price": 201178600,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2484298,
@@ -2132,6 +2197,22 @@
       "bid_date": "26.11.24",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2479708,
+      "case_no": "2025-16127",
+      "item_no": null,
+      "court": "홍성4계",
+      "type": "선박",
+      "address": "충남 보령시 주교면 주교리, 송학항 내",
+      "area": "(해광호)",
+      "appraisal": 146234000,
+      "min_price": 35111000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.24",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2490440,

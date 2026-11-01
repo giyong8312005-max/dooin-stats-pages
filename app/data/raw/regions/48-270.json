@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "48",
     "guCd": "270",
@@ -7,246 +7,6 @@
     "name": "밀양시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "48",
-      "guCd": "270",
-      "title": "2026. 04 월간매각 통계자료 : 경남 밀양시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 31,
-          "failed": 20,
-          "sold": 8,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.81,
-          "avg_appraisal": 336446971,
-          "sale_price_rate": 23.54
-        },
-        {
-          "type": "답",
-          "total": 49,
-          "failed": 37,
-          "sold": 8,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 16.33,
-          "avg_appraisal": 748054445,
-          "sale_price_rate": 32.5
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 524913000,
-          "sale_price_rate": 17.39
-        },
-        {
-          "type": "목장용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 27,
-          "failed": 21,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 11.11,
-          "avg_appraisal": 58226827,
-          "sale_price_rate": 13.71
-        },
-        {
-          "type": "대지",
-          "total": 17,
-          "failed": 13,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 17.65,
-          "avg_appraisal": 114827933,
-          "sale_price_rate": 38.22
-        },
-        {
-          "type": "하천",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "묘지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 13,
-          "failed": 7,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 2,
-          "sold_rate": 15.38,
-          "avg_appraisal": 136813370,
-          "sale_price_rate": 65.11
-        },
-        {
-          "type": "아파트",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 3,
-          "failed": 0,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 89500000,
-          "sale_price_rate": 79.19
-        },
-        {
-          "type": "상가주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 7601220000,
-          "sale_price_rate": 34.37
-        },
-        {
-          "type": "근린생활시설",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 1008233700,
-          "sale_price_rate": 35.3
-        },
-        {
-          "type": "숙박시설",
-          "total": 4,
-          "failed": 1,
-          "sold": 0,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 3,
-          "failed": 2,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 701456200,
-          "sale_price_rate": 23.25
-        },
-        {
-          "type": "분뇨및쓰레기처리시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "화물차",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 18000000,
-          "sale_price_rate": 93.33
-        },
-        {
-          "type": "굴삭기",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 82000000,
-          "sale_price_rate": 55.49
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -1578,6 +1338,246 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "48",
+      "guCd": "270",
+      "title": "2026. 10 월간매각 통계자료 : 경남 밀양시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 41,
+          "failed": 26,
+          "sold": 6,
+          "changed": 4,
+          "withdrawn": 4,
+          "sold_rate": 14.63,
+          "avg_appraisal": 77617302,
+          "sale_price_rate": 13.94
+        },
+        {
+          "type": "답",
+          "total": 55,
+          "failed": 37,
+          "sold": 7,
+          "changed": 7,
+          "withdrawn": 4,
+          "sold_rate": 12.73,
+          "avg_appraisal": 133745450,
+          "sale_price_rate": 32.39
+        },
+        {
+          "type": "임야",
+          "total": 29,
+          "failed": 24,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 13.79,
+          "avg_appraisal": 159005290,
+          "sale_price_rate": 31.1
+        },
+        {
+          "type": "광천지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 12,
+          "failed": 8,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 193261067,
+          "sale_price_rate": 24.71
+        },
+        {
+          "type": "도로",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "하천",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 13,
+          "failed": 9,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 23.08,
+          "avg_appraisal": 141901950,
+          "sale_price_rate": 41.09
+        },
+        {
+          "type": "아파트",
+          "total": 55,
+          "failed": 46,
+          "sold": 8,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 14.55,
+          "avg_appraisal": 54125000,
+          "sale_price_rate": 56.98
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 5,
+          "failed": 5,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 5,
+          "failed": 2,
+          "sold": 0,
+          "changed": 3,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 4505918000,
+          "sale_price_rate": 64.36
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "분뇨및쓰레기처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 26000000,
+          "sale_price_rate": 51.28
+        },
+        {
+          "type": "지게차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 23000000,
+          "sale_price_rate": 73.26
+        }
+      ]
     }
   ],
   "listings": [
@@ -1596,22 +1596,6 @@
       "bid_date": "26.11.02",
       "special": "농지취득자격증명",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2152462,
-      "case_no": "2022-2266",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "단독주택",
-      "address": "경상남도 밀양시 삼랑진읍 우곡리 1049-1 외 2필지",
-      "area": "건물 162.68㎡(49.211평) 토지 1125.33㎡(340.412평)",
-      "appraisal": 499787120,
-      "min_price": 83999000,
-      "min_price_pct": 17,
-      "status": "유찰 9회",
-      "bid_date": "26.11.02",
-      "special": "법정지상권,농지취득자격증명",
-      "dpsl": "건물전부, 토지지분"
     },
     {
       "tid": 2429562,
@@ -1742,22 +1726,6 @@
       "dpsl": "토지지분매각"
     },
     {
-      "tid": 2426562,
-      "case_no": "2025-10401",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "전",
-      "address": "경상남도 밀양시 상남면 동산리 314-3",
-      "area": "토지 1699㎡(513.948평)",
-      "appraisal": 234462000,
-      "min_price": 56294000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2433487,
       "case_no": "2025-10428",
       "item_no": null,
@@ -1836,22 +1804,6 @@
       "bid_date": "26.11.02",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지만 매각(제시외기타제외)"
-    },
-    {
-      "tid": 2474581,
-      "case_no": "2025-10575",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "상가주택",
-      "address": "경상남도 밀양시 삼문동 382-1",
-      "area": "건물 998.59㎡(302.073평) 토지 642㎡(194.205평)",
-      "appraisal": 2135711600,
-      "min_price": 1046499000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.02",
-      "special": "유치권,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2483588,
@@ -1966,22 +1918,6 @@
       "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
-      "tid": 2506792,
-      "case_no": "2026-346",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "답",
-      "address": "경상남도 밀양시 단장면 감물리 378 외 6필지",
-      "area": "토지 5229.928㎡(1582.053평)",
-      "appraisal": 620741656,
-      "min_price": 434519000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
       "tid": 2512184,
       "case_no": "2026-438",
       "item_no": 1,
@@ -2043,22 +1979,6 @@
       "status": "유찰 1회",
       "bid_date": "26.11.02",
       "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2538920,
-      "case_no": "2026-803",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "근린생활시설",
-      "address": "경상남도 밀양시 부북면 후사포리 346",
-      "area": "건물 713.92㎡(215.961평) 토지 4419㎡(1336.748평)",
-      "appraisal": 2730340020,
-      "min_price": 2730340020,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.02",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2460,22 +2380,6 @@
       "bid_date": "26.11.02",
       "special": "분묘기지권",
       "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2547989,
-      "case_no": "2026-10196",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "상가주택",
-      "address": "경상남도 밀양시 단장면 단장리 4",
-      "area": "건물 245.22㎡(74.179평) 토지 1381㎡(417.753평)",
-      "appraisal": 988992520,
-      "min_price": 988992520,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.02",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2554662,
@@ -2926,22 +2830,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2415181,
-      "case_no": "2025-10363",
-      "item_no": null,
-      "court": "밀양2계",
-      "type": "단독주택",
-      "address": "경상남도 밀양시 상동면 가곡리 436-24 외 5필지",
-      "area": "건물 360.26㎡(108.979평) 토지 1494㎡(451.935평)",
-      "appraisal": 722363680,
-      "min_price": 247771000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.09",
-      "special": "분묘기지권,맹지,위반건축물",
-      "dpsl": "건물전부, 토지지분"
-    },
-    {
       "tid": 2416278,
       "case_no": "2025-10366",
       "item_no": null,
@@ -3116,54 +3004,6 @@
       "bid_date": "26.11.09",
       "special": "법정지상권,농지취득자격증명",
       "dpsl": "토지만 매각"
-    },
-    {
-      "tid": 2475774,
-      "case_no": "2025-10582",
-      "item_no": 1,
-      "court": "밀양2계",
-      "type": "단독주택",
-      "address": "경상남도 밀양시 초동면 신월리 432-7 외 7필지",
-      "area": "건물 94.08㎡(28.459평) 토지 2793㎡(844.882평)",
-      "appraisal": 438238640,
-      "min_price": 150316000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.09",
-      "special": "법정지상권,농지취득자격증명,맹지",
-      "dpsl": "건물전부, 토지지분"
-    },
-    {
-      "tid": 2554783,
-      "case_no": "2025-10582",
-      "item_no": 2,
-      "court": "밀양2계",
-      "type": "임야",
-      "address": "경상남도 밀양시 초동면 신월리 산36",
-      "area": "토지 9678.5㎡(2927.746평)",
-      "appraisal": 30003350,
-      "min_price": 10291000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.09",
-      "special": "분묘기지권",
-      "dpsl": "토지만매각,지분매각(건물X)"
-    },
-    {
-      "tid": 2554784,
-      "case_no": "2025-10582",
-      "item_no": 3,
-      "court": "밀양2계",
-      "type": "임야",
-      "address": "경상남도 밀양시 초동면 신월리 산58",
-      "area": "토지 39372㎡(11910.03평)",
-      "appraisal": 77244000,
-      "min_price": 26495000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.09",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각"
     },
     {
       "tid": 2485276,
@@ -4526,6 +4366,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2298269,
+      "case_no": "2024-1120",
+      "item_no": null,
+      "court": "밀양3계",
+      "type": "단독주택",
+      "address": "경상남도 밀양시 단장면 국전리 1193-1 외 2필지",
+      "area": "건물 145.49㎡(44.011평) 토지 1582㎡(478.555평)",
+      "appraisal": 248910780,
+      "min_price": 29285000,
+      "min_price_pct": 12,
+      "status": "유찰 6회",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명",
+      "dpsl": "건물전부, 토지지분"
+    },
+    {
       "tid": 2462757,
       "case_no": "2024-2505",
       "item_no": 3,
@@ -4539,6 +4395,22 @@
       "status": "유찰 11회",
       "bid_date": "26.11.16",
       "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2462758,
+      "case_no": "2024-2505",
+      "item_no": 4,
+      "court": "밀양3계",
+      "type": "임야",
+      "address": "경상남도 밀양시 삼랑진읍 행곡리 산25",
+      "area": "토지 2479㎡(749.897평)",
+      "appraisal": 22311000,
+      "min_price": 5357000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권",
       "dpsl": "토지 매각"
     },
     {
@@ -4556,6 +4428,22 @@
       "bid_date": "26.11.16",
       "special": "대항력 있는 임차인",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2498352,
+      "case_no": "2024-2567",
+      "item_no": 3,
+      "court": "밀양3계",
+      "type": "단독주택",
+      "address": "경상남도 밀양시 단장면 구천리 268-2 외 7필지",
+      "area": "건물 157.3㎡(47.583평) 토지 5593㎡(1691.883평)",
+      "appraisal": 435949080,
+      "min_price": 149531000,
+      "min_price_pct": 34,
+      "status": "유찰 5회",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2354667,
@@ -4902,8 +4790,8 @@
       "address": "경상남도 밀양시 교동 872-5",
       "area": "토지 4㎡(1.21평)",
       "appraisal": 1000000,
-      "min_price": 274000,
-      "min_price_pct": 27,
+      "min_price": 240000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "",
@@ -4918,8 +4806,8 @@
       "address": "경상남도 밀양시 가곡동 549-78 외 1필지",
       "area": "토지 49㎡(14.823평)",
       "appraisal": 12250000,
-      "min_price": 3362000,
-      "min_price_pct": 27,
+      "min_price": 2941000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "임금채권자",
@@ -4998,8 +4886,8 @@
       "address": "경상남도 밀양시 부북면 가산리 187",
       "area": "토지 3504㎡(1059.96평)",
       "appraisal": 297840000,
-      "min_price": 81727000,
-      "min_price_pct": 27,
+      "min_price": 71511000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
@@ -5014,8 +4902,8 @@
       "address": "경상남도 밀양시 부북면 오례리 382-4",
       "area": "토지 943㎡(285.258평)",
       "appraisal": 98072000,
-      "min_price": 26911000,
-      "min_price_pct": 27,
+      "min_price": 23547000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "분묘기지권",
@@ -5030,8 +4918,8 @@
       "address": "경상남도 밀양시 삼랑진읍 검세리 253",
       "area": "토지 555㎡(167.888평)",
       "appraisal": 28860000,
-      "min_price": 7919000,
-      "min_price_pct": 27,
+      "min_price": 6929000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "분묘기지권,농지취득자격증명,맹지",
@@ -5116,6 +5004,22 @@
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2466979,
+      "case_no": "2025-10556",
+      "item_no": null,
+      "court": "밀양3계",
+      "type": "답",
+      "address": "경상남도 밀양시 청도면 구기리 907",
+      "area": "토지 766.66㎡(231.915평)",
+      "appraisal": 18399840,
+      "min_price": 18399840,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
       "tid": 2472593,

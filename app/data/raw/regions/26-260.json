@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "26",
     "guCd": "260",
@@ -7,158 +7,6 @@
     "name": "동래구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "26",
-      "guCd": "260",
-      "title": "2026. 04 월간매각 통계자료 : 부산 동래구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 23,
-          "failed": 14,
-          "sold": 6,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 26.09,
-          "avg_appraisal": 457166667,
-          "sale_price_rate": 70.85
-        },
-        {
-          "type": "다세대주택",
-          "total": 28,
-          "failed": 12,
-          "sold": 1,
-          "changed": 15,
-          "withdrawn": 0,
-          "sold_rate": 3.57,
-          "avg_appraisal": 180000000,
-          "sale_price_rate": 78.88
-        },
-        {
-          "type": "상가주택",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 1713721200,
-          "sale_price_rate": 42.27
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 59,
-          "failed": 8,
-          "sold": 30,
-          "changed": 21,
-          "withdrawn": 0,
-          "sold_rate": 50.85,
-          "avg_appraisal": 266066667,
-          "sale_price_rate": 53.89
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 210000000,
-          "sale_price_rate": 69.5
-        },
-        {
-          "type": "근린생활시설",
-          "total": 2,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 12,
-          "failed": 8,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 581666667,
-          "sale_price_rate": 38.76
-        },
-        {
-          "type": "승용차",
-          "total": 7,
-          "failed": 3,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 39600000,
-          "sale_price_rate": 86.42
-        },
-        {
-          "type": "화물차",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 7000000,
-          "sale_price_rate": 80.71
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -896,6 +744,103 @@
           "sale_price_rate": 93.68
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "26",
+      "guCd": "260",
+      "title": "2026. 10 월간매각 통계자료 : 부산 동래구",
+      "rows": [
+        {
+          "type": "단독주택",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 22,
+          "failed": 9,
+          "sold": 7,
+          "changed": 5,
+          "withdrawn": 1,
+          "sold_rate": 31.82,
+          "avg_appraisal": 338571429,
+          "sale_price_rate": 73.46
+        },
+        {
+          "type": "연립주택",
+          "total": 3,
+          "failed": 1,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 66.67,
+          "avg_appraisal": 308000000,
+          "sale_price_rate": 64.21
+        },
+        {
+          "type": "다세대주택",
+          "total": 9,
+          "failed": 3,
+          "sold": 3,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 178333333,
+          "sale_price_rate": 62.63
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 89,
+          "failed": 78,
+          "sold": 9,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 10.11,
+          "avg_appraisal": 279666667,
+          "sale_price_rate": 65.35
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 170000000,
+          "sale_price_rate": 68.84
+        },
+        {
+          "type": "근린상가",
+          "total": 5,
+          "failed": 4,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 201000000,
+          "sale_price_rate": 65.23
+        },
+        {
+          "type": "승용차",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 22000000,
+          "sale_price_rate": 62.78
+        }
+      ]
     }
   ],
   "listings": [
@@ -1425,22 +1370,6 @@
       "status": "유찰 1회",
       "bid_date": "26.11.06",
       "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2577167,
-      "case_no": "2024-59253",
-      "item_no": 3,
-      "court": "부산2계",
-      "type": "오피스텔(주거)",
-      "address": "부산 동래구 온천동 480-18, 2층203호 (온천동,프리랜드) 외 1필지",
-      "area": "건물 20.49㎡(6.198평) 대지권 4.1956㎡(1.269평)",
-      "appraisal": 91000000,
-      "min_price": 63700000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.06",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2516,22 +2445,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2467472,
-      "case_no": "2025-23006",
-      "item_no": null,
-      "court": "부산2계",
-      "type": "오피스텔(주거)",
-      "address": "부산광역시 동래구 온천동 1464-27 명가팰리스 6층602호",
-      "area": "건물 20.8014㎡(6.292평) 대지권 4.9㎡(1.482평)",
-      "appraisal": 114000000,
-      "min_price": 55860000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.06",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2473152,
       "case_no": "2025-23083",
       "item_no": null,
@@ -2559,22 +2472,6 @@
       "min_price": 179900000,
       "min_price_pct": 70,
       "status": "유찰 1회",
-      "bid_date": "26.11.06",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2514974,
-      "case_no": "2026-1031",
-      "item_no": null,
-      "court": "부산2계",
-      "type": "아파트",
-      "address": "부산광역시 동래구 사직동 597 한신아파트 105동 3층302호",
-      "area": "건물 59.8㎡(18.089평) 대지권 24.1886㎡(7.317평)",
-      "appraisal": 179000000,
-      "min_price": 179000000,
-      "min_price_pct": 100,
-      "status": "신건",
       "bid_date": "26.11.06",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2768,7 +2665,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.09",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2948,22 +2845,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2437270,
-      "case_no": "2025-22523",
-      "item_no": null,
-      "court": "부산1계",
-      "type": "아파트",
-      "address": "부산광역시 동래구 사직동 16-1 삼익아파트 5동 8층808호",
-      "area": "건물 82.51㎡(24.959평) 대지권 61.89㎡(18.722평)",
-      "appraisal": 494000000,
-      "min_price": 494000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.10",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2444147,
       "case_no": "2025-22561",
       "item_no": null,
@@ -3008,7 +2889,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -3101,22 +2982,6 @@
       "area": "건물 25.65㎡(7.759평) 대지권 7.5029㎡(2.27평)",
       "appraisal": 153000000,
       "min_price": 107100000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.18",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2496763,
-      "case_no": "2023-64579",
-      "item_no": 2,
-      "court": "부산3계",
-      "type": "오피스텔(주거)",
-      "address": "부산 동래구 온천동 1462-41, 2층202호 (온천동,엘이즈엔41) 외 1필지",
-      "area": "건물 27.35㎡(8.273평) 대지권 8.0002㎡(2.42평)",
-      "appraisal": 163000000,
-      "min_price": 114100000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.18",
@@ -3764,22 +3629,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2357658,
-      "case_no": "2023-4256",
-      "item_no": 26,
-      "court": "부산4계",
-      "type": "오피스텔(주거)",
-      "address": "부산 동래구 온천동 153-8, 43층102-4301호 (온천동,에스케이허브스카이)",
-      "area": "건물 142.75㎡(43.182평) 대지권 19.58㎡(5.923평)",
-      "appraisal": 634000000,
-      "min_price": 443800000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.19",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2321854,
       "case_no": "2024-60451",
       "item_no": null,
@@ -3872,6 +3721,22 @@
       "min_price_pct": 49,
       "status": "유찰 2회",
       "bid_date": "26.11.19",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2357658,
+      "case_no": "2023-4256",
+      "item_no": 26,
+      "court": "부산4계",
+      "type": "오피스텔(주거)",
+      "address": "부산 동래구 온천동 153-8, 43층102-4301호 (온천동,에스케이허브스카이)",
+      "area": "건물 142.75㎡(43.182평) 대지권 19.58㎡(5.923평)",
+      "appraisal": 634000000,
+      "min_price": 443800000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.17",
       "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     }

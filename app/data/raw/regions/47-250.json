@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "47",
     "guCd": "250",
@@ -7,114 +7,6 @@
     "name": "상주시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "47",
-      "guCd": "250",
-      "title": "2026. 04 월간매각 통계자료 : 경북 상주시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 101664000,
-          "sale_price_rate": 40.82
-        },
-        {
-          "type": "답",
-          "total": 14,
-          "failed": 5,
-          "sold": 5,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 35.71,
-          "avg_appraisal": 95777680,
-          "sale_price_rate": 40.5
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 112000000,
-          "sale_price_rate": 25.18
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 82626600,
-          "sale_price_rate": 139.18
-        },
-        {
-          "type": "단독주택",
-          "total": 6,
-          "failed": 3,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 60304320,
-          "sale_price_rate": 35.47
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "기타중기",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 140000000,
-          "sale_price_rate": 72.22
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -742,6 +634,147 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "47",
+      "guCd": "250",
+      "title": "2026. 10 월간매각 통계자료 : 경북 상주시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 14,
+          "failed": 10,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 39300750,
+          "sale_price_rate": 31.93
+        },
+        {
+          "type": "답",
+          "total": 15,
+          "failed": 9,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 2,
+          "sold_rate": 13.33,
+          "avg_appraisal": 72537000,
+          "sale_price_rate": 38.77
+        },
+        {
+          "type": "과수원",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 6544890,
+          "sale_price_rate": 70.28
+        },
+        {
+          "type": "대지",
+          "total": 5,
+          "failed": 3,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 40.0,
+          "avg_appraisal": 48069775,
+          "sale_price_rate": 30.89
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 60304320,
+          "sale_price_rate": 29.61
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 72000000,
+          "sale_price_rate": 83.15
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 0,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 33000000,
+          "sale_price_rate": 76.7
+        },
+        {
+          "type": "덤프트럭",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -855,7 +888,7 @@
       "status": "신건",
       "bid_date": "26.11.10",
       "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
+      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2437824,
@@ -1087,8 +1120,8 @@
       "item_no": 1,
       "court": "상주1계",
       "type": "답",
-      "address": "경상북도 상주시 이안면 구미리 180-1 외 1필지",
-      "area": "토지 3524㎡(1066.01평)",
+      "address": "경상북도 상주시 이안면 구미리 180-1",
+      "area": "토지 2271㎡(686.978평)",
       "appraisal": 59046000,
       "min_price": 59046000,
       "min_price_pct": 100,
@@ -1152,7 +1185,7 @@
       "court": "상주1계",
       "type": "임야",
       "address": "경상북도 상주시 화서면 율림리 산35-1 외 2필지",
-      "area": "토지 8092.375㎡(2447.943평)",
+      "area": "토지 8092.38㎡(2447.945평)",
       "appraisal": 31802672,
       "min_price": 31802672,
       "min_price_pct": 100,
@@ -1167,8 +1200,8 @@
       "item_no": null,
       "court": "상주1계",
       "type": "화물차",
-      "address": "경상북도 상주시 성동동 65",
-      "area": "(봉고Ⅲ 1톤 / 2019년식)",
+      "address": "경상북도 상주시 성동동 65, 상주특수캐리어 내",
+      "area": "(봉고Ⅲ 1톤 / 2019년식 / 146,130㎞)",
       "appraisal": 7000000,
       "min_price": 7000000,
       "min_price_pct": 100,
@@ -1354,6 +1387,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2457573,
+      "case_no": "2025-238",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "전",
+      "address": "경상북도 상주시 은척면 하흘리 271 외 2필지",
+      "area": "토지 1937㎡(585.943평)",
+      "appraisal": 31639000,
+      "min_price": 31639000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2460443,
+      "case_no": "2025-242",
+      "item_no": null,
+      "court": "상주2계",
+      "type": "답",
+      "address": "경상북도 상주시 낙동면 분황리 1308",
+      "area": "토지 5355.2㎡(1619.948평)",
+      "appraisal": 224918400,
+      "min_price": 224918400,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2407887,
       "case_no": "2025-5332",
       "item_no": null,
@@ -1432,22 +1497,6 @@
       "bid_date": "26.11.17",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2467942,
-      "case_no": "2025-5496",
-      "item_no": null,
-      "court": "상주2계",
-      "type": "단독주택",
-      "address": "경상북도 상주시 화서면 신봉리 135-3",
-      "area": "건물 276.87㎡(83.753평) 토지 488.9㎡(147.892평)",
-      "appraisal": 302075080,
-      "min_price": 103612000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.17",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2493735,

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "43",
     "guCd": "730",
@@ -7,158 +7,6 @@
     "name": "옥천군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "43",
-      "guCd": "730",
-      "title": "2026. 04 월간매각 통계자료 : 충북 옥천군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 15,
-          "failed": 14,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 8,
-          "failed": 7,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 8,
-          "failed": 7,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 3,
-          "failed": 1,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 66.67,
-          "avg_appraisal": 202430000,
-          "sale_price_rate": 51.59
-        },
-        {
-          "type": "단독주택",
-          "total": 5,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 8,
-          "failed": 6,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 96500000,
-          "sale_price_rate": 75.46
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -797,6 +645,136 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "43",
+      "guCd": "730",
+      "title": "2026. 10 월간매각 통계자료 : 충북 옥천군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 26,
+          "failed": 26,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 15,
+          "failed": 12,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 81796000,
+          "sale_price_rate": 62.79
+        },
+        {
+          "type": "과수원",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 128331000,
+          "sale_price_rate": 44.11
+        },
+        {
+          "type": "임야",
+          "total": 17,
+          "failed": 13,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 11.76,
+          "avg_appraisal": 21341670,
+          "sale_price_rate": 68.13
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 18,
+          "failed": 15,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 375895745,
+          "sale_price_rate": 61.43
+        },
+        {
+          "type": "아파트",
+          "total": 4,
+          "failed": 0,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 238250000,
+          "sale_price_rate": 82.15
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1393,6 +1371,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2486808,
+      "case_no": "2025-10261",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 옥천군 청산면 교평리 185 외 3필지",
+      "area": "건물 92.4㎡(27.951평) 토지 1850㎡(559.625평)",
+      "appraisal": 522866000,
+      "min_price": 522866000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2495654,
       "case_no": "2026-5",
       "item_no": null,
@@ -1407,6 +1401,54 @@
       "bid_date": "26.11.17",
       "special": "유치권",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2504562,
+      "case_no": "2026-12",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 옥천군 안내면 인포리 424-1",
+      "area": "토지 1924㎡(582.01평)",
+      "appraisal": 59644000,
+      "min_price": 41750000,
+      "min_price_pct": 70,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2506656,
+      "case_no": "2026-13",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "임야",
+      "address": "충청북도 옥천군 안남면 지수리 산93-1",
+      "area": "토지 83405㎡(25230.013평)",
+      "appraisal": 81736900,
+      "min_price": 81736900,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2508249,
+      "case_no": "2026-14",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "임야",
+      "address": "충청북도 옥천군 동이면 석탄리 산29",
+      "area": "토지 13795㎡(4172.988평)",
+      "appraisal": 593185000,
+      "min_price": 593185000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2491295,
@@ -1425,6 +1467,54 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2498586,
+      "case_no": "2026-10021",
+      "item_no": 1,
+      "court": "영동2계",
+      "type": "답",
+      "address": "충청북도 옥천군 청산면 한곡리 53-1",
+      "area": "토지 2043㎡(618.007평)",
+      "appraisal": 59247000,
+      "min_price": 59247000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2592584,
+      "case_no": "2026-10021",
+      "item_no": 2,
+      "court": "영동2계",
+      "type": "답",
+      "address": "충청북도 옥천군 청산면 한곡리 82-1",
+      "area": "토지 536㎡(162.14평)",
+      "appraisal": 27872000,
+      "min_price": 27872000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2505543,
+      "case_no": "2026-10029",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 옥천군 안내면 정방리 184",
+      "area": "토지 344㎡(104.06평)",
+      "appraisal": 10320000,
+      "min_price": 9987008,
+      "min_price_pct": 97,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "분묘기지권,농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2506658,
       "case_no": "2026-10033",
       "item_no": null,
@@ -1439,6 +1529,22 @@
       "bid_date": "26.11.17",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2509832,
+      "case_no": "2026-10035",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "임야",
+      "address": "충청북도 옥천군 옥천읍 금구리 249-66",
+      "area": "토지 75㎡(22.688평)",
+      "appraisal": 5025000,
+      "min_price": 5025000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2530173,

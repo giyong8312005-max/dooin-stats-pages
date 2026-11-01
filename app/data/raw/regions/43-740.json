@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "43",
     "guCd": "740",
@@ -7,158 +7,6 @@
     "name": "영동군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "43",
-      "guCd": "740",
-      "title": "2026. 04 월간매각 통계자료 : 충북 영동군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 10,
-          "failed": 6,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 30.0,
-          "avg_appraisal": 199599333,
-          "sale_price_rate": 47.26
-        },
-        {
-          "type": "답",
-          "total": 6,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "과수원",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 237697200,
-          "sale_price_rate": 47.79
-        },
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장용지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 309575500,
-          "sale_price_rate": 65.77
-        },
-        {
-          "type": "묘지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 193668880,
-          "sale_price_rate": 51.75
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 207000000,
-          "sale_price_rate": 89.37
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 465526360,
-          "sale_price_rate": 40.96
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1749677620,
-          "sale_price_rate": 20.74
-        },
-        {
-          "type": "승용차",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -863,25 +711,194 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "43",
+      "guCd": "740",
+      "title": "2026. 10 월간매각 통계자료 : 충북 영동군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 14,
+          "failed": 12,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 24544000,
+          "sale_price_rate": 30.25
+        },
+        {
+          "type": "답",
+          "total": 19,
+          "failed": 15,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 10.53,
+          "avg_appraisal": 24061500,
+          "sale_price_rate": 61.66
+        },
+        {
+          "type": "과수원",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 59673000,
+          "sale_price_rate": 26.98
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 86958000,
+          "sale_price_rate": 51.21
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장용지",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고용지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 7,
+          "failed": 6,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1659409660,
+          "sale_price_rate": 24.96
+        },
+        {
+          "type": "근린상가",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 210000000,
+          "sale_price_rate": 62.38
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "화물차",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2540526,
-      "case_no": "2024-11667",
-      "item_no": 2,
-      "court": "영동2계",
-      "type": "답",
-      "address": "충청북도 영동군 매곡면 노천리 175",
-      "area": "토지 690㎡(208.725평)",
-      "appraisal": 25530000,
-      "min_price": 10457000,
-      "min_price_pct": 41,
-      "status": "유찰 4회",
-      "bid_date": "26.11.17",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2426942,
       "case_no": "2025-60",
@@ -1171,6 +1188,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2504561,
+      "case_no": "2026-11",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "단독주택",
+      "address": "충청북도 영동군 양강면 괴목리 398-1",
+      "area": "건물 203.46㎡(61.547평) 토지 495㎡(149.737평)",
+      "appraisal": 149917450,
+      "min_price": 149917450,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2489394,
+      "case_no": "2026-10003",
+      "item_no": 1,
+      "court": "영동2계",
+      "type": "단독주택",
+      "address": "충청북도 영동군 황간면 노근리 771-1",
+      "area": "건물 240.24㎡(72.673평) 토지 299㎡(90.447평)",
+      "appraisal": 77133000,
+      "min_price": 77133000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2489626,
       "case_no": "2026-10005",
       "item_no": null,
@@ -1219,6 +1268,22 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2503252,
+      "case_no": "2026-10022",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 영동군 추풍령면 신안리 456",
+      "area": "토지 3527㎡(1066.918평)",
+      "appraisal": 70540000,
+      "min_price": 70540000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
       "tid": 2504563,
       "case_no": "2026-10024",
       "item_no": null,
@@ -1233,6 +1298,102 @@
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2504999,
+      "case_no": "2026-10026",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "임야",
+      "address": "충청북도 영동군 추풍령면 사부리 산34-1",
+      "area": "토지 31687㎡(9585.318평)",
+      "appraisal": 79217500,
+      "min_price": 63374000,
+      "min_price_pct": 80,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "분묘기지권",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2511542,
+      "case_no": "2026-10037",
+      "item_no": 1,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 영동군 학산면 아암리 251 외 2필지",
+      "area": "토지 819.2727㎡(247.83평)",
+      "appraisal": 19353210,
+      "min_price": 19353210,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2592582,
+      "case_no": "2026-10037",
+      "item_no": 2,
+      "court": "영동2계",
+      "type": "전",
+      "address": "충청북도 영동군 학산면 아암리 366-7",
+      "area": "건물은 매각제외 토지 54.1818㎡(16.39평)",
+      "appraisal": 2275560,
+      "min_price": 1571220,
+      "min_price_pct": 69,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2592583,
+      "case_no": "2026-10037",
+      "item_no": 3,
+      "court": "영동2계",
+      "type": "답",
+      "address": "충청북도 영동군 학산면 아암리 376 외 1필지",
+      "area": "토지 462.1818㎡(139.81평)",
+      "appraisal": 13348320,
+      "min_price": 13348320,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "농지취득자격증명",
+      "dpsl": "토지만매각,지분매각(건물X)"
+    },
+    {
+      "tid": 2537142,
+      "case_no": "2026-10071",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "답",
+      "address": "충청북도 영동군 황간면 난곡리 63",
+      "area": "토지 3246㎡(981.915평)",
+      "appraisal": 51936000,
+      "min_price": 51936000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "법정지상권,농지취득자격증명",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2572398,
+      "case_no": "2026-10126",
+      "item_no": null,
+      "court": "영동2계",
+      "type": "승용차",
+      "address": "충북 영동군 영동읍 주곡리 223-2",
+      "area": "(BMW X4 xDrive20i / 2024년식 / 24,441㎞)",
+      "appraisal": 62000000,
+      "min_price": 62000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": ""
     },
     {
       "tid": 2370148,

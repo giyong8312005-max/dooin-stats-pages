@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "48",
     "guCd": "740",
@@ -7,224 +7,6 @@
     "name": "창녕군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "48",
-      "guCd": "740",
-      "title": "2026. 04 월간매각 통계자료 : 경남 창녕군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 32,
-          "failed": 23,
-          "sold": 6,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 18.75,
-          "avg_appraisal": 117917317,
-          "sale_price_rate": 31.59
-        },
-        {
-          "type": "답",
-          "total": 28,
-          "failed": 23,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 127408400,
-          "sale_price_rate": 40.71
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 18,
-          "failed": 12,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 3,
-          "sold_rate": 11.11,
-          "avg_appraisal": 178564200,
-          "sale_price_rate": 30.49
-        },
-        {
-          "type": "대지",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 54462000,
-          "sale_price_rate": 17.76
-        },
-        {
-          "type": "양어장",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 407551480,
-          "sale_price_rate": 24.01
-        },
-        {
-          "type": "종교용지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 7,
-          "failed": 5,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 56000000,
-          "sale_price_rate": 24.55
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 215000000,
-          "sale_price_rate": 50.37
-        },
-        {
-          "type": "근린생활시설",
-          "total": 5,
-          "failed": 3,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 2367169690,
-          "sale_price_rate": 40.47
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 7,
-          "failed": 3,
-          "sold": 2,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 1355702090,
-          "sale_price_rate": 28.37
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 205964200,
-          "sale_price_rate": 64.33
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -1391,6 +1173,246 @@
           "sale_price_rate": 12.94
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "48",
+      "guCd": "740",
+      "title": "2026. 10 월간매각 통계자료 : 경남 창녕군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 30,
+          "failed": 23,
+          "sold": 4,
+          "changed": 0,
+          "withdrawn": 3,
+          "sold_rate": 13.33,
+          "avg_appraisal": 76534900,
+          "sale_price_rate": 18.04
+        },
+        {
+          "type": "답",
+          "total": 23,
+          "failed": 17,
+          "sold": 4,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 17.39,
+          "avg_appraisal": 30623000,
+          "sale_price_rate": 19.73
+        },
+        {
+          "type": "임야",
+          "total": 15,
+          "failed": 11,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 13.33,
+          "avg_appraisal": 49601750,
+          "sale_price_rate": 31.63
+        },
+        {
+          "type": "대지",
+          "total": 10,
+          "failed": 7,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 20.0,
+          "avg_appraisal": 35626900,
+          "sale_price_rate": 29.07
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "묘지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 11,
+          "failed": 7,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 18.18,
+          "avg_appraisal": 217699450,
+          "sale_price_rate": 29.82
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 152000000,
+          "sale_price_rate": 77.14
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 7,
+          "failed": 0,
+          "sold": 0,
+          "changed": 7,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 2,
+          "failed": 0,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2654173130,
+          "sale_price_rate": 39.88
+        },
+        {
+          "type": "숙박(콘도등)",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "목욕탕",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 1385918000,
+          "sale_price_rate": 39.69
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "위험물저장및처리시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1093770970,
+          "sale_price_rate": 25.03
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -1441,22 +1463,6 @@
       "bid_date": "26.11.02",
       "special": "유치권,임금채권자,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2398245,
-      "case_no": "2025-759",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "전",
-      "address": "경상남도 창녕군 이방면 초곡리 128",
-      "area": "토지 333.076㎡(100.755평)",
-      "appraisal": 9992280,
-      "min_price": 4897000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
       "tid": 2452405,
@@ -1569,22 +1575,6 @@
       "bid_date": "26.11.02",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2446700,
-      "case_no": "2025-10495",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "전",
-      "address": "경상남도 창녕군 영산면 교리 64",
-      "area": "토지 5155㎡(1559.388평)",
-      "appraisal": 551585000,
-      "min_price": 92705000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.11.02",
-      "special": "분묘기지권,농지취득자격증명",
-      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2526941,
@@ -1713,38 +1703,6 @@
       "bid_date": "26.11.02",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2528046,
-      "case_no": "2026-643",
-      "item_no": 1,
-      "court": "밀양1계",
-      "type": "전",
-      "address": "경상남도 창녕군 길곡면 마천리 1343",
-      "area": "토지 1940㎡(586.85평)",
-      "appraisal": 82840000,
-      "min_price": 82840000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2586691,
-      "case_no": "2026-643",
-      "item_no": 2,
-      "court": "밀양1계",
-      "type": "전",
-      "address": "경상남도 창녕군 길곡면 마천리 1356",
-      "area": "토지 2132㎡(644.93평)",
-      "appraisal": 96992000,
-      "min_price": 96992000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.02",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
       "tid": 2545624,
@@ -1921,22 +1879,6 @@
       "bid_date": "26.11.02",
       "special": "농지취득자격증명",
       "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2524606,
-      "case_no": "2026-10111",
-      "item_no": null,
-      "court": "밀양1계",
-      "type": "대지",
-      "address": "경상남도 창녕군 남지읍 마산리 991-5",
-      "area": "토지 346.4㎡(104.786평)",
-      "appraisal": 218232000,
-      "min_price": 106933000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.02",
-      "special": "",
-      "dpsl": "토지만 매각(제시외기타제외)"
     },
     {
       "tid": 2525591,
@@ -3083,8 +3025,8 @@
       "address": "경상남도 창녕군 창녕읍 송현리 67-3",
       "area": "토지 383㎡(115.858평)",
       "appraisal": 173116000,
-      "min_price": 47503000,
-      "min_price_pct": 27,
+      "min_price": 41565000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "대항력 있는 임차인",
@@ -3099,8 +3041,8 @@
       "address": "경상남도 창녕군 도천면 덕곡리 432 외 3필지",
       "area": "토지 1823㎡(551.458평)",
       "appraisal": 111624000,
-      "min_price": 30630000,
-      "min_price_pct": 27,
+      "min_price": 26801000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "농지취득자격증명,맹지",
@@ -3115,8 +3057,8 @@
       "address": "경상남도 창녕군 창녕읍 교리 산23-3 외 2필지",
       "area": "토지 2853㎡(863.033평)",
       "appraisal": 82737000,
-      "min_price": 22703000,
-      "min_price_pct": 27,
+      "min_price": 19865000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "분묘기지권,맹지",
@@ -3275,8 +3217,8 @@
       "address": "경상남도 창녕군 대합면 내울리 1044",
       "area": "토지 2235㎡(676.088평)",
       "appraisal": 42840000,
-      "min_price": 11755000,
-      "min_price_pct": 27,
+      "min_price": 10286000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "분묘기지권,농지취득자격증명",
@@ -3307,8 +3249,8 @@
       "address": "경상남도 창녕군 남지읍 마산리 997-5",
       "area": "건물 1053.72㎡(318.75평) 토지 490.8㎡(148.467평)",
       "appraisal": 1841202890,
-      "min_price": 505226000,
-      "min_price_pct": 27,
+      "min_price": 442072000,
+      "min_price_pct": 24,
       "status": "유찰 4회",
       "bid_date": "26.11.16",
       "special": "",

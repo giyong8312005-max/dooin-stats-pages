@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "11",
     "guCd": "590",
@@ -7,125 +7,6 @@
     "name": "동작구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "11",
-      "guCd": "590",
-      "title": "2026. 04 월간매각 통계자료 : 서울 동작구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 9,
-          "failed": 1,
-          "sold": 3,
-          "changed": 4,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 2283297660,
-          "sale_price_rate": 81.22
-        },
-        {
-          "type": "아파트",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "연립주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 41,
-          "failed": 29,
-          "sold": 11,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 26.83,
-          "avg_appraisal": 315090909,
-          "sale_price_rate": 89.3
-        },
-        {
-          "type": "상가주택",
-          "total": 5,
-          "failed": 2,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 40.0,
-          "avg_appraisal": 3024282950,
-          "sale_price_rate": 69.98
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 18,
-          "failed": 17,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 5.56,
-          "avg_appraisal": 176000000,
-          "sale_price_rate": 68.52
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 12,
-          "failed": 7,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 350666667,
-          "sale_price_rate": 72.26
-        },
-        {
-          "type": "근린상가",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -698,153 +579,150 @@
           "sale_price_rate": 44.66
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "11",
+      "guCd": "590",
+      "title": "2026. 10 월간매각 통계자료 : 서울 동작구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 3,
+          "failed": 1,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 2,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 50.0,
+          "avg_appraisal": 164615000,
+          "sale_price_rate": 86.19
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 38,
+          "failed": 23,
+          "sold": 14,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 36.84,
+          "avg_appraisal": 407571429,
+          "sale_price_rate": 120.31
+        },
+        {
+          "type": "상가주택",
+          "total": 8,
+          "failed": 5,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 1301352710,
+          "sale_price_rate": 66.4
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 14,
+          "failed": 7,
+          "sold": 7,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 183714286,
+          "sale_price_rate": 62.4
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 12,
+          "failed": 10,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 16.67,
+          "avg_appraisal": 386500000,
+          "sale_price_rate": 107.55
+        },
+        {
+          "type": "근린상가",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 487000000,
+          "sale_price_rate": 66.1
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2410047,
-      "case_no": "2025-1604",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "상가주택",
-      "address": "서울특별시 동작구 사당동 1026-50",
-      "area": "건물 394.58㎡(119.36평) 토지 매각제외",
-      "appraisal": 260380740,
-      "min_price": 133315000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "건물만 매각"
-    },
-    {
-      "tid": 2420940,
-      "case_no": "2025-1864",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "상가주택",
-      "address": "서울특별시 동작구 사당동 429-22",
-      "area": "건물 305.33㎡(92.362평) 토지 136㎡(41.14평)",
-      "appraisal": 2342324680,
-      "min_price": 1873859700,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.28",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2393360,
-      "case_no": "2025-102481",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "다세대주택",
-      "address": "서울특별시 동작구 사당동 1049-18 디에스타운6차 7층702호",
-      "area": "건물 34.24㎡(10.358평) 대지권 18.75㎡(5.672평)",
-      "appraisal": 477000000,
-      "min_price": 244224000,
-      "min_price_pct": 51,
-      "status": "유찰 6회",
-      "bid_date": "26.10.28",
-      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2432666,
-      "case_no": "2025-103501",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "도시형생활주택",
-      "address": "서울특별시 동작구 노량진동 267-6 노량진큐브스테이트 16층1606호 외 4필지",
-      "area": "건물 15.94㎡(4.822평) 대지권 4.46㎡(1.349평)",
-      "appraisal": 212000000,
-      "min_price": 169600000,
-      "min_price_pct": 80,
-      "status": "유찰 2회",
-      "bid_date": "26.10.28",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2443815,
-      "case_no": "2025-103716",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 동작구 신대방동 719 동작상떼빌 105동 2층209호",
-      "area": "건물 118.9㎡(35.967평) 대지권 32.76㎡(9.91평)",
-      "appraisal": 487000000,
-      "min_price": 249344000,
-      "min_price_pct": 51,
-      "status": "유찰 3회",
-      "bid_date": "26.10.28",
-      "special": "임금채권자",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2455478,
-      "case_no": "2025-104036",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "단독주택",
-      "address": "서울특별시 동작구 대방동 391-122",
-      "area": "건물 47.14㎡(14.26평) 토지 82.6㎡(24.986평)",
-      "appraisal": 882530830,
-      "min_price": 706024600,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2499358,
-      "case_no": "2026-20",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "오피스텔(주거)",
-      "address": "서울특별시 동작구 신대방동 698 신라스테이해링턴타워 오피스텔동 8층816호",
-      "area": "건물 20.34㎡(6.153평) 대지권 5.08㎡(1.537평)",
-      "appraisal": 151000000,
-      "min_price": 120800000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2503948,
-      "case_no": "2026-100211",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "다세대주택",
-      "address": "서울특별시 동작구 대방동 391-75 명성하우스 3층302호 외 2필지",
-      "area": "건물 46.65㎡(14.112평) 대지권 28.56㎡(8.639평)",
-      "appraisal": 484000000,
-      "min_price": 387200000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.28",
-      "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2506392,
-      "case_no": "2026-100329",
-      "item_no": null,
-      "court": "서울중앙4계",
-      "type": "근린상가",
-      "address": "서울특별시 동작구 신대방동 395-68 보라매나산스위트 지하1층046호 외 1필지",
-      "area": "건물 21.57㎡(6.525평) 대지권 2.557㎡(0.773평)",
-      "appraisal": 66000000,
-      "min_price": 66000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2423058,
       "case_no": "2025-103268",
@@ -971,22 +849,6 @@
       "status": "유찰 2회",
       "bid_date": "26.11.04",
       "special": "임차권등기,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2497379,
-      "case_no": "2026-100040",
-      "item_no": null,
-      "court": "서울중앙10계",
-      "type": "오피스텔(주거)",
-      "address": "서울특별시 동작구 대방동 336-6 무이비엔 5층503호",
-      "area": "건물 27.3㎡(8.258평) 대지권 8.85㎡(2.677평)",
-      "appraisal": 140000000,
-      "min_price": 112000000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.11.04",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1294,6 +1156,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2377328,
+      "case_no": "2025-102400",
+      "item_no": 1,
+      "court": "서울중앙9계",
+      "type": "다세대주택",
+      "address": "서울특별시 동작구 대방동 384-2 엘리시아 1동 2층202호",
+      "area": "건물 55.03㎡(16.647평) 대지권 32.55㎡(9.846평)",
+      "appraisal": 397000000,
+      "min_price": 53283000,
+      "min_price_pct": 13,
+      "status": "유찰 9회",
+      "bid_date": "26.11.10",
+      "special": "위반건축물,임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2438631,
       "case_no": "2025-103649",
       "item_no": null,
@@ -1350,8 +1228,8 @@
       "address": "서울특별시 동작구 대방동 515 대방아데나339 4층420호",
       "area": "건물 16.54㎡(5.003평) 대지권 11.089㎡(3.354평)",
       "appraisal": 153000000,
-      "min_price": 78336000,
-      "min_price_pct": 51,
+      "min_price": 153000000,
+      "min_price_pct": 100,
       "status": "유찰 3회",
       "bid_date": "26.11.10",
       "special": "임차권등기,대항력 있는 임차인",
@@ -1370,7 +1248,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1418,7 +1296,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1466,7 +1344,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "위반건축물",
+      "special": "맹지,위반건축물,대항력 있는 임차인",
       "dpsl": "토지및건물 지분 매각"
     },
     {
@@ -1518,6 +1396,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2445780,
+      "case_no": "2025-103756",
+      "item_no": null,
+      "court": "서울중앙11계",
+      "type": "다세대주택",
+      "address": "서울특별시 동작구 상도동 210-42 이에스하임 3층302호 외 1필지",
+      "area": "건물 67.66㎡(20.467평) 대지권 30.09㎡(9.102평)",
+      "appraisal": 389120000,
+      "min_price": 389120000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2445775,
       "case_no": "2025-103839",
       "item_no": null,
@@ -1547,6 +1441,22 @@
       "status": "유찰 1회",
       "bid_date": "26.11.12",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2465576,
+      "case_no": "2025-104160",
+      "item_no": null,
+      "court": "서울중앙11계",
+      "type": "도시형생활주택",
+      "address": "서울특별시 동작구 상도동 214-378 렉스빌2차 2층201호 외 1필지",
+      "area": "건물 41.32㎡(12.499평) 대지권 31.66㎡(9.577평)",
+      "appraisal": 331000000,
+      "min_price": 331000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1678,6 +1588,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2527680,
+      "case_no": "2026-100810",
+      "item_no": null,
+      "court": "서울중앙1계",
+      "type": "도시형생활주택",
+      "address": "서울특별시 동작구 사당동 1048-31 기쁨채 4층403호",
+      "area": "건물 28.44㎡(8.603평) 대지권 17.211㎡(5.206평)",
+      "appraisal": 286000000,
+      "min_price": 286000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "위반건축물,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2525791,
       "case_no": "2026-100814",
       "item_no": null,
@@ -1755,6 +1681,22 @@
       "status": "유찰 2회",
       "bid_date": "26.11.17",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2537522,
+      "case_no": "2026-101058",
+      "item_no": null,
+      "court": "서울중앙1계",
+      "type": "다세대주택",
+      "address": "서울특별시 동작구 상도1동 325-5 두손베스티움 2층202호",
+      "area": "건물 37.66㎡(11.392평) 대지권 19.91㎡(6.023평)",
+      "appraisal": 349000000,
+      "min_price": 349000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1838,6 +1780,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2553405,
+      "case_no": "2026-101235",
+      "item_no": null,
+      "court": "서울중앙1계",
+      "type": "다세대주택",
+      "address": "서울특별시 동작구 상도동 211-185 예그린 2층201호 외 1필지",
+      "area": "건물 35.52㎡(10.745평) 대지권 27.12㎡(8.204평)",
+      "appraisal": 334000000,
+      "min_price": 334000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2548750,
       "case_no": "2026-101244",
       "item_no": null,
@@ -1867,6 +1825,22 @@
       "status": "유찰 1회",
       "bid_date": "26.11.17",
       "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2551708,
+      "case_no": "2026-101247",
+      "item_no": null,
+      "court": "서울중앙1계",
+      "type": "다세대주택",
+      "address": "서울특별시 동작구 대방동 384-2 엘리시아 1동 4층401호",
+      "area": "건물 50.03㎡(15.134평) 대지권 19.83㎡(5.999평)",
+      "appraisal": 330980000,
+      "min_price": 330980000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "위반건축물,임차권등기,대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2155,6 +2129,70 @@
       "status": "유찰 1회",
       "bid_date": "26.11.26",
       "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2432666,
+      "case_no": "2025-103501",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "도시형생활주택",
+      "address": "서울특별시 동작구 노량진동 267-6 노량진큐브스테이트 16층1606호 외 4필지",
+      "area": "건물 15.94㎡(4.822평) 대지권 4.46㎡(1.349평)",
+      "appraisal": 212000000,
+      "min_price": 135680000,
+      "min_price_pct": 64,
+      "status": "유찰 3회",
+      "bid_date": "26.12.02",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2455478,
+      "case_no": "2025-104036",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "단독주택",
+      "address": "서울특별시 동작구 대방동 391-122",
+      "area": "건물 47.14㎡(14.26평) 토지 82.6㎡(24.986평)",
+      "appraisal": 882530830,
+      "min_price": 564819600,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.12.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2499358,
+      "case_no": "2026-20",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "오피스텔(주거)",
+      "address": "서울특별시 동작구 신대방동 698 신라스테이해링턴타워 오피스텔동 8층816호",
+      "area": "건물 20.34㎡(6.153평) 대지권 5.08㎡(1.537평)",
+      "appraisal": 151000000,
+      "min_price": 96640000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.12.02",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2506392,
+      "case_no": "2026-100329",
+      "item_no": null,
+      "court": "서울중앙4계",
+      "type": "근린상가",
+      "address": "서울특별시 동작구 신대방동 395-68 보라매나산스위트 지하1층046호 외 1필지",
+      "area": "건물 21.57㎡(6.525평) 대지권 2.557㎡(0.773평)",
+      "appraisal": 66000000,
+      "min_price": 52800000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.12.02",
+      "special": "",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

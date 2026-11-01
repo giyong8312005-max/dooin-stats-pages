@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "26",
     "guCd": "470",
@@ -7,136 +7,6 @@
     "name": "연제구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "26",
-      "guCd": "470",
-      "title": "2026. 04 월간매각 통계자료 : 부산 연제구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 8,
-          "failed": 5,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 37.5,
-          "avg_appraisal": 193554000,
-          "sale_price_rate": 62.1
-        },
-        {
-          "type": "단독주택",
-          "total": 10,
-          "failed": 6,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 30.0,
-          "avg_appraisal": 506857457,
-          "sale_price_rate": 55.17
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 5,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 7,
-          "failed": 6,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 220000000,
-          "sale_price_rate": 75.59
-        },
-        {
-          "type": "상가주택",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 7320714000,
-          "sale_price_rate": 81.96
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 69,
-          "failed": 55,
-          "sold": 12,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 17.39,
-          "avg_appraisal": 187416667,
-          "sale_price_rate": 64.78
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 83,
-          "failed": 45,
-          "sold": 38,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 45.78,
-          "avg_appraisal": 129078947,
-          "sale_price_rate": 49.54
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 11,
-          "failed": 7,
-          "sold": 3,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 27.27,
-          "avg_appraisal": 761333333,
-          "sale_price_rate": 45.99
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -707,6 +577,114 @@
           "sold_rate": 25.0,
           "avg_appraisal": 228000000,
           "sale_price_rate": 30.15
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "26",
+      "guCd": "470",
+      "title": "2026. 10 월간매각 통계자료 : 부산 연제구",
+      "rows": [
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 11,
+          "failed": 6,
+          "sold": 3,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 27.27,
+          "avg_appraisal": 390000000,
+          "sale_price_rate": 86.33
+        },
+        {
+          "type": "연립주택",
+          "total": 4,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 7,
+          "failed": 5,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 14.29,
+          "avg_appraisal": 180000000,
+          "sale_price_rate": 76.3
+        },
+        {
+          "type": "상가주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 93,
+          "failed": 29,
+          "sold": 4,
+          "changed": 51,
+          "withdrawn": 0,
+          "sold_rate": 4.3,
+          "avg_appraisal": 131000000,
+          "sale_price_rate": 73.42
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 51,
+          "failed": 49,
+          "sold": 0,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 475500000,
+          "sale_price_rate": 53.6
         }
       ]
     }
@@ -2089,22 +2067,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2504221,
-      "case_no": "2026-10282",
-      "item_no": null,
-      "court": "부산7계",
-      "type": "아파트",
-      "address": "부산광역시 연제구 거제동 917-1 대우아파트 101동 22층2201호",
-      "area": "건물 84.94㎡(25.694평) 대지권 26.9638㎡(8.157평)",
-      "appraisal": 361000000,
-      "min_price": 361000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.04",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2360321,
       "case_no": "2024-213",
       "item_no": null,
@@ -2119,22 +2081,6 @@
       "bid_date": "26.11.06",
       "special": "",
       "dpsl": "토지·건물 일괄매각 / 중복"
-    },
-    {
-      "tid": 2511169,
-      "case_no": "2024-1315",
-      "item_no": 12,
-      "court": "부산2계",
-      "type": "도시형생활주택",
-      "address": "부산 연제구 거제동 500-50, 4층402호 (거제동,수림하우스가동)",
-      "area": "건물 17.67㎡(5.345평) 대지권 9.5154㎡(2.878평)",
-      "appraisal": 163000000,
-      "min_price": 79870000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.06",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
     },
     {
       "tid": 2363291,
@@ -2725,7 +2671,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.09",
-      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -3061,6 +3007,22 @@
       "min_price_pct": 49,
       "status": "유찰 6회",
       "bid_date": "26.11.11",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2305552,
+      "case_no": "2024-2776",
+      "item_no": null,
+      "court": "부산3계",
+      "type": "단독주택",
+      "address": "부산광역시 연제구 연산동 1595-10",
+      "area": "건물 197.19㎡(59.65평) 토지 198.2㎡(59.955평)",
+      "appraisal": 1380164190,
+      "min_price": 473397000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.11.18",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
@@ -3433,22 +3395,6 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2581183,
-      "case_no": "2024-4321",
-      "item_no": 24,
-      "court": "부산3계",
-      "type": "도시형생활주택",
-      "address": "부산 연제구 연산동 1259-3, 6층606호 (연산동,한울차오름)",
-      "area": "건물 48.825㎡(14.77평) 대지권 10.598㎡(3.206평) / 토지별도등기있음",
-      "appraisal": 164000000,
-      "min_price": 114800000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.18",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2581184,
       "case_no": "2024-4321",
       "item_no": 25,
@@ -3538,22 +3484,6 @@
       "area": "건물 48.825㎡(14.77평) 대지권 10.598㎡(3.206평) / 토지별도등기있음",
       "appraisal": 164000000,
       "min_price": 114800000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.18",
-      "special": "임차권등기",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2581190,
-      "case_no": "2024-4321",
-      "item_no": 31,
-      "court": "부산3계",
-      "type": "도시형생활주택",
-      "address": "부산 연제구 연산동 1259-3, 8층801호 (연산동,한울차오름)",
-      "area": "건물 24.08㎡(7.284평) 대지권 5.227㎡(1.581평) / 토지별도등기있음",
-      "appraisal": 84000000,
-      "min_price": 58800000,
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.18",
@@ -3989,6 +3919,22 @@
       "min_price_pct": 34,
       "status": "유찰 3회",
       "bid_date": "26.11.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2231755,
+      "case_no": "2023-61556",
+      "item_no": null,
+      "court": "부산1계",
+      "type": "아파트",
+      "address": "부산 연제구 연산동 2022-587, 101동 2층201호 (연산동,연산동현대홈타운)",
+      "area": "건물 84.9813㎡(25.707평) 대지권 38.3463㎡(11.6평)",
+      "appraisal": 282000000,
+      "min_price": 138180000,
+      "min_price_pct": 49,
+      "status": "유찰 2회",
+      "bid_date": "2027.01.19",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
     }

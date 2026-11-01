@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "51",
     "guCd": "170",
@@ -7,92 +7,6 @@
     "name": "동해시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "51",
-      "guCd": "170",
-      "title": "2026. 04 월간매각 통계자료 : 강원 동해시",
-      "rows": [
-        {
-          "type": "전",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 27621000,
-          "sale_price_rate": 79.65
-        },
-        {
-          "type": "임야",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 2,
-          "sold": 0,
-          "changed": 2,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 8,
-          "failed": 4,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 2,
-          "sold_rate": 25.0,
-          "avg_appraisal": 57500000,
-          "sale_price_rate": 78.62
-        },
-        {
-          "type": "상가주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -599,121 +513,128 @@
           "sale_price_rate": 59.78
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "51",
+      "guCd": "170",
+      "title": "2026. 10 월간매각 통계자료 : 강원 동해시",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 0,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 89670000,
+          "sale_price_rate": 36.08
+        },
+        {
+          "type": "잡종지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 42110750,
+          "sale_price_rate": 70.0
+        },
+        {
+          "type": "아파트",
+          "total": 7,
+          "failed": 3,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 42.86,
+          "avg_appraisal": 199566667,
+          "sale_price_rate": 97.58
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "승용차",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 9000000,
+          "sale_price_rate": 59.67
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2450729,
-      "case_no": "2025-30544",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "근린상가",
-      "address": "강원특별자치도 동해시 천곡동 1073 새움빌딩 4층401호",
-      "area": "건물 121.66㎡(36.802평) 대지권 40.461㎡(12.239평)",
-      "appraisal": 126000000,
-      "min_price": 126000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2440741,
-      "case_no": "2025-30678",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "단독주택",
-      "address": "강원특별자치도 동해시 송정동 955-5",
-      "area": "건물 72.025㎡(21.788평) 토지 94㎡(28.435평)",
-      "appraisal": 42110750,
-      "min_price": 29478000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "공유자우선매수",
-      "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2449388,
-      "case_no": "2025-30729",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "아파트",
-      "address": "강원특별자치도 동해시 쇄운동 1100 아름다운아침 101동 6층 609호",
-      "area": "건물 60㎡(18.15평) 대지권 31.0478㎡(9.392평)",
-      "appraisal": 92700000,
-      "min_price": 64890000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2455149,
-      "case_no": "2025-30751",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "잡종지",
-      "address": "강원특별자치도 동해시 이로동 33-27",
-      "area": "건물은 매각제외 토지 138.8㎡(41.987평)",
-      "appraisal": 30119600,
-      "min_price": 14768000,
-      "min_price_pct": 49,
-      "status": "유찰 1회",
-      "bid_date": "26.10.26",
-      "special": "법정지상권",
-      "dpsl": "토지만 매각이며,지분 매각임"
-    },
-    {
-      "tid": 2456705,
-      "case_no": "2025-30763",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "아파트",
-      "address": "강원특별자치도 동해시 이도동 753 동해이도코아루더스카이 제106동 제4층 제405호",
-      "area": "건물 84.9464㎡(25.696평) 대지권 48.1293㎡(14.559평)",
-      "appraisal": 276000000,
-      "min_price": 276000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2459975,
-      "case_no": "2025-30769",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "임야",
-      "address": "강원특별자치도 동해시 이로동 산237",
-      "area": "토지 16529㎡(5000.023평)",
-      "appraisal": 28099300,
-      "min_price": 28099300,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지지분매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2498089,
-      "case_no": "2026-50041",
-      "item_no": null,
-      "court": "강릉1계",
-      "type": "연립주택",
-      "address": "강원특별자치도 동해시 천곡동 941 동해중앙시장종합상가 3층313호",
-      "area": "건물 82.03㎡(24.814평) 대지권 12.99㎡(3.929평)",
-      "appraisal": 66000000,
-      "min_price": 66000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2333719,
       "case_no": "2024-54173",
@@ -1095,7 +1016,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.09",
-      "special": "농지취득자격증명",
+      "special": "농지취득자격증명,맹지",
       "dpsl": "토지 매각"
     },
     {
@@ -1273,6 +1194,70 @@
       "bid_date": "26.11.09",
       "special": "",
       "dpsl": ""
+    },
+    {
+      "tid": 2450729,
+      "case_no": "2025-30544",
+      "item_no": null,
+      "court": "강릉1계",
+      "type": "근린상가",
+      "address": "강원특별자치도 동해시 천곡동 1073 새움빌딩 4층401호",
+      "area": "건물 121.66㎡(36.802평) 대지권 40.461㎡(12.239평)",
+      "appraisal": 126000000,
+      "min_price": 88200000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.30",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2455149,
+      "case_no": "2025-30751",
+      "item_no": null,
+      "court": "강릉1계",
+      "type": "잡종지",
+      "address": "강원특별자치도 동해시 이로동 33-27",
+      "area": "건물은 매각제외 토지 138.8㎡(41.987평)",
+      "appraisal": 30119600,
+      "min_price": 10338000,
+      "min_price_pct": 34,
+      "status": "유찰 2회",
+      "bid_date": "26.11.30",
+      "special": "법정지상권",
+      "dpsl": "토지만 매각이며,지분 매각임"
+    },
+    {
+      "tid": 2459975,
+      "case_no": "2025-30769",
+      "item_no": null,
+      "court": "강릉1계",
+      "type": "임야",
+      "address": "강원특별자치도 동해시 이로동 산237",
+      "area": "토지 16529㎡(5000.023평)",
+      "appraisal": 28099300,
+      "min_price": 19670000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.30",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지지분매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2498089,
+      "case_no": "2026-50041",
+      "item_no": null,
+      "court": "강릉1계",
+      "type": "연립주택",
+      "address": "강원특별자치도 동해시 천곡동 941 동해중앙시장종합상가 3층313호",
+      "area": "건물 82.03㎡(24.814평) 대지권 12.99㎡(3.929평)",
+      "appraisal": 66000000,
+      "min_price": 46200000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.30",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
     }
   ]
 }

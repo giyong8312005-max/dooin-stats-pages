@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "26",
     "guCd": "320",
@@ -7,147 +7,6 @@
     "name": "북구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "26",
-      "guCd": "320",
-      "title": "2026. 04 월간매각 통계자료 : 부산 북구",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 6,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 862800000,
-          "sale_price_rate": 9.3
-        },
-        {
-          "type": "대지",
-          "total": 5,
-          "failed": 4,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 40354800,
-          "sale_price_rate": 54.9
-        },
-        {
-          "type": "다가구주택",
-          "total": 5,
-          "failed": 5,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 30,
-          "failed": 14,
-          "sold": 8,
-          "changed": 2,
-          "withdrawn": 3,
-          "sold_rate": 26.67,
-          "avg_appraisal": 341375000,
-          "sale_price_rate": 79.2
-        },
-        {
-          "type": "연립주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 33,
-          "failed": 21,
-          "sold": 11,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 65636364,
-          "sale_price_rate": 41.08
-        },
-        {
-          "type": "상가주택",
-          "total": 4,
-          "failed": 4,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 13,
-          "failed": 10,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 23.08,
-          "avg_appraisal": 257666667,
-          "sale_price_rate": 41.43
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 207000000,
-          "sale_price_rate": 48.31
-        },
-        {
-          "type": "숙박(콘도등)",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "근린상가",
-          "total": 6,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -929,41 +788,139 @@
           "sale_price_rate": 50.36
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "26",
+      "guCd": "320",
+      "title": "2026. 10 월간매각 통계자료 : 부산 북구",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 4,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 276859800,
+          "sale_price_rate": 18.06
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 4,
+          "failed": 3,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 20,
+          "failed": 7,
+          "sold": 10,
+          "changed": 0,
+          "withdrawn": 3,
+          "sold_rate": 50.0,
+          "avg_appraisal": 297100000,
+          "sale_price_rate": 69.91
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 7,
+          "failed": 3,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 42.86,
+          "avg_appraisal": 140000000,
+          "sale_price_rate": 38.17
+        },
+        {
+          "type": "상가주택",
+          "total": 7,
+          "failed": 2,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 28.57,
+          "avg_appraisal": 1496647470,
+          "sale_price_rate": 30.81
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 10,
+          "failed": 4,
+          "sold": 6,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 60.0,
+          "avg_appraisal": 254500000,
+          "sale_price_rate": 37.51
+        },
+        {
+          "type": "근린생활시설",
+          "total": 3,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 12315196000,
+          "sale_price_rate": 49.61
+        },
+        {
+          "type": "근린상가",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2405034,
-      "case_no": "2025-1635",
-      "item_no": 1,
-      "court": "부산서부5계",
-      "type": "근린생활시설",
-      "address": "부산광역시 북구 화명동 1567-10",
-      "area": "건물 1127.98㎡(341.214평) 토지 499㎡(150.948평)",
-      "appraisal": 3915797600,
-      "min_price": 1918740000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.03",
-      "special": "위반건축물,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2436723,
-      "case_no": "2025-2850",
-      "item_no": null,
-      "court": "부산서부5계",
-      "type": "근린상가",
-      "address": "부산광역시 북구 화명동 2277-5 월드타워 7층701호",
-      "area": "건물 324.585㎡(98.187평) 대지권 70.3002㎡(21.266평)",
-      "appraisal": 847000000,
-      "min_price": 290521000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.03",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2462636,
       "case_no": "2025-3617",
@@ -1525,38 +1482,6 @@
       "dpsl": "토지및건물 지분 매각"
     },
     {
-      "tid": 2415151,
-      "case_no": "2025-101545",
-      "item_no": null,
-      "court": "부산서부5계",
-      "type": "상가주택",
-      "address": "부산광역시 북구 화명동 2299-8",
-      "area": "건물 194.33㎡(58.785평) 토지 162.2㎡(49.065평)",
-      "appraisal": 934593500,
-      "min_price": 457950000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.03",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2447065,
-      "case_no": "2025-101845",
-      "item_no": null,
-      "court": "부산서부5계",
-      "type": "오피스텔(주거)",
-      "address": "부산광역시 북구 금곡동 64-2 우리명가 5층502호",
-      "area": "건물 60.7396㎡(18.374평) 대지권 41.3336㎡(12.503평)",
-      "appraisal": 145000000,
-      "min_price": 145000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.03",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2457966,
       "case_no": "2025-101991",
       "item_no": null,
@@ -1682,38 +1607,6 @@
       "status": "유찰 8회",
       "bid_date": "26.11.04",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2369780,
-      "case_no": "2025-100112",
-      "item_no": 1,
-      "court": "부산서부1계",
-      "type": "근린상가",
-      "address": "부산 북구 구포동 582, 2층201호 (구포동,이음 골든브릿지) 외 1필지",
-      "area": "건물 70.4142㎡(21.3평) 대지권 11.6263㎡(3.517평)",
-      "appraisal": 446000000,
-      "min_price": 107085000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.04",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2489591,
-      "case_no": "2025-100112",
-      "item_no": 2,
-      "court": "부산서부1계",
-      "type": "근린상가",
-      "address": "부산 북구 구포동 582, 2층202호 (구포동,이음 골든브릿지) 외 1필지",
-      "area": "건물 85.6073㎡(25.896평) 대지권 14.1575㎡(4.283평)",
-      "appraisal": 542000000,
-      "min_price": 130134000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.04",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1856,22 +1749,6 @@
       "min_price": 146000000,
       "min_price_pct": 100,
       "status": "신건",
-      "bid_date": "26.11.05",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2403783,
-      "case_no": "2025-1543",
-      "item_no": null,
-      "court": "부산서부6계",
-      "type": "근린상가",
-      "address": "부산광역시 북구 만덕동 774 럭키만덕아파트 상가동 지하층비1호 외 1필지",
-      "area": "건물 240㎡(72.6평) 대지권 84.2612㎡(25.489평)",
-      "appraisal": 125000000,
-      "min_price": 61250000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
       "bid_date": "26.11.05",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2161,7 +2038,7 @@
       "min_price_pct": 70,
       "status": "유찰 1회",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "채권자매수청구",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2303,7 +2180,7 @@
       "appraisal": 518000000,
       "min_price": 518000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.11",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -2323,6 +2200,54 @@
       "bid_date": "26.11.11",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2500901,
+      "case_no": "2026-100138",
+      "item_no": null,
+      "court": "부산서부4계",
+      "type": "아파트",
+      "address": "부산광역시 북구 만덕동 955 백양디이스트 103동 7층 703호",
+      "area": "건물 84.9944㎡(25.711평) 대지권 40.4934㎡(12.249평)",
+      "appraisal": 351000000,
+      "min_price": 351000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.11",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2503331,
+      "case_no": "2026-100166",
+      "item_no": null,
+      "court": "부산서부4계",
+      "type": "오피스텔(주거)",
+      "address": "부산광역시 북구 화명동 2270-5 아덴펜트하우스 16층 1603호",
+      "area": "건물 27.607㎡(8.351평) 대지권 4.4016㎡(1.331평)",
+      "appraisal": 128000000,
+      "min_price": 128000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.11",
+      "special": "임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2589752,
+      "case_no": "2026-100178",
+      "item_no": 3,
+      "court": "부산서부4계",
+      "type": "다세대주택",
+      "address": "부산광역시 북구 만덕동 757-68 외 7개호 외 1필지",
+      "area": "건물 130.886㎡(39.593평) 토지 143㎡(43.258평) / 미등기감정가격포함",
+      "appraisal": 524100000,
+      "min_price": 524100000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.11",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
     },
     {
       "tid": 2359384,
@@ -2354,22 +2279,6 @@
       "status": "유찰 4회",
       "bid_date": "26.11.12",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2362922,
-      "case_no": "2024-101972",
-      "item_no": 2,
-      "court": "부산서부7계",
-      "type": "다가구주택",
-      "address": "부산광역시 북구 덕천동 424-3",
-      "area": "건물 394.19㎡(119.242평) 토지 154.1㎡(46.615평)",
-      "appraisal": 896202200,
-      "min_price": 439138000,
-      "min_price_pct": 49,
-      "status": "유찰 2회",
-      "bid_date": "26.11.12",
-      "special": "임차권등기",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -2485,6 +2394,38 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2591464,
+      "case_no": "2025-3297",
+      "item_no": 3,
+      "court": "부산서부7계",
+      "type": "숙박시설",
+      "address": "부산광역시 북구 구포동 256-3",
+      "area": "건물 540.85㎡(163.607평) 토지 261㎡(78.953평)",
+      "appraisal": 1052146100,
+      "min_price": 1052146000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2481744,
+      "case_no": "2025-4320",
+      "item_no": null,
+      "court": "부산서부7계",
+      "type": "아파트",
+      "address": "부산광역시 북구 금곡동 832 동원역삼정그린코아 101동 2층201호 외 1필지",
+      "area": "건물 59.9092㎡(18.123평) 대지권 34.5708㎡(10.458평)",
+      "appraisal": 238000000,
+      "min_price": 238000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2373118,
       "case_no": "2025-100358",
       "item_no": 1,
@@ -2549,6 +2490,38 @@
       "dpsl": "토지 매각"
     },
     {
+      "tid": 2455814,
+      "case_no": "2025-101995",
+      "item_no": null,
+      "court": "부산서부7계",
+      "type": "아파트",
+      "address": "부산광역시 북구 화명동 2322 수정강변타운 104동 17층 1701호",
+      "area": "건물 59.4㎡(17.969평) 대지권 30.04㎡(9.087평)",
+      "appraisal": 284000000,
+      "min_price": 284000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2464877,
+      "case_no": "2025-102100",
+      "item_no": null,
+      "court": "부산서부7계",
+      "type": "아파트",
+      "address": "부산광역시 북구 화명동 2307 화명2차현대아파트 202동 11층 1105호",
+      "area": "건물 59.9358㎡(18.131평) 대지권 28.8753㎡(8.735평)",
+      "appraisal": 294000000,
+      "min_price": 294000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.12",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2481741,
       "case_no": "2025-102114",
       "item_no": 1,
@@ -2597,6 +2570,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2503773,
+      "case_no": "2026-100158",
+      "item_no": null,
+      "court": "부산서부2계",
+      "type": "아파트",
+      "address": "부산광역시 북구 만덕동 927-1 대성타워맨션 101동 15층 1501호",
+      "area": "건물 84.92㎡(25.688평)",
+      "appraisal": 228000000,
+      "min_price": 228000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2338212,
       "case_no": "2024-4057",
       "item_no": null,
@@ -2610,6 +2599,70 @@
       "status": "유찰 3회",
       "bid_date": "26.12.08",
       "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2427039,
+      "case_no": "2025-2379",
+      "item_no": null,
+      "court": "부산서부5계",
+      "type": "다세대주택",
+      "address": "부산광역시 북구 구포동 1210-5 오룡주택 1층101호",
+      "area": "건물 49.2㎡(14.883평) 대지권 31.78㎡(9.613평)",
+      "appraisal": 124000000,
+      "min_price": 29772000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.12.08",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2437859,
+      "case_no": "2025-2843",
+      "item_no": null,
+      "court": "부산서부5계",
+      "type": "아파트",
+      "address": "부산광역시 북구 구포동 782-25 5층505호",
+      "area": "건물 52.7143㎡(15.946평) 대지권 40㎡(12.1평)",
+      "appraisal": 71800000,
+      "min_price": 24627000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.12.08",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2436718,
+      "case_no": "2025-101758",
+      "item_no": null,
+      "court": "부산서부5계",
+      "type": "오피스텔(주거)",
+      "address": "부산 북구 구포동 300, 미소드리움 제6층 제603호 외 6필지",
+      "area": "건물 60.9㎡(18.422평) 대지권 10.1891㎡(3.082평)",
+      "appraisal": 158000000,
+      "min_price": 37935000,
+      "min_price_pct": 24,
+      "status": "유찰 4회",
+      "bid_date": "26.12.08",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2427528,
+      "case_no": "2025-2539",
+      "item_no": null,
+      "court": "부산서부3계",
+      "type": "상가주택",
+      "address": "부산광역시 북구 덕천동 389-23",
+      "area": "건물 594.17㎡(179.736평) 토지 214.2㎡(64.795평)",
+      "appraisal": 1110116800,
+      "min_price": 380770000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.12.15",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     }
   ]

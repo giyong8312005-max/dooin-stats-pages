@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "51",
     "guCd": "780",
@@ -7,125 +7,6 @@
     "name": "철원군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "51",
-      "guCd": "780",
-      "title": "2026. 04 월간매각 통계자료 : 강원 철원군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 6,
-          "failed": 5,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 16.67,
-          "avg_appraisal": 32318000,
-          "sale_price_rate": 37.13
-        },
-        {
-          "type": "답",
-          "total": 7,
-          "failed": 5,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 14.29,
-          "avg_appraisal": 227910200,
-          "sale_price_rate": 49.27
-        },
-        {
-          "type": "임야",
-          "total": 4,
-          "failed": 3,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 25.0,
-          "avg_appraisal": 56007000,
-          "sale_price_rate": 30.73
-        },
-        {
-          "type": "잡종지",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 4,
-          "failed": 1,
-          "sold": 1,
-          "changed": 1,
-          "withdrawn": 1,
-          "sold_rate": 25.0,
-          "avg_appraisal": 181553800,
-          "sale_price_rate": 43.51
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 58000000,
-          "sale_price_rate": 71.21
-        },
-        {
-          "type": "근린생활시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "숙박시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -764,57 +645,172 @@
           "sale_price_rate": 49.18
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "51",
+      "guCd": "780",
+      "title": "2026. 10 월간매각 통계자료 : 강원 철원군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 7,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 62454364,
+          "sale_price_rate": 34.43
+        },
+        {
+          "type": "대지",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "도로",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "연립주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 147000000,
+          "sale_price_rate": 70.0
+        },
+        {
+          "type": "근린생활시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "숙박시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2431715,
-      "case_no": "2025-3107",
-      "item_no": null,
-      "court": "의정부9계",
-      "type": "단독주택",
-      "address": "강원특별자치도 철원군 근남면 사곡리 708-7 외 2필지",
-      "area": "건물 1190.73㎡(360.196평) 토지 4659㎡(1409.347평)",
-      "appraisal": 1370578020,
-      "min_price": 470109000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.10.28",
-      "special": "농지취득자격증명",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2519329,
-      "case_no": "2026-70633",
-      "item_no": null,
-      "court": "의정부9계",
-      "type": "답",
-      "address": "강원도 철원군 동송읍 하갈리 395-1",
-      "area": "토지 468㎡(141.57평)",
-      "appraisal": 20592000,
-      "min_price": 20592000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2553900,
-      "case_no": "2026-71362",
-      "item_no": null,
-      "court": "의정부9계",
-      "type": "전",
-      "address": "강원특별자치도 철원군 서면 자등리 1040",
-      "area": "토지 1071㎡(323.977평)",
-      "appraisal": 35343000,
-      "min_price": 35343000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.28",
-      "special": "농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2278734,
       "case_no": "2024-1951",
@@ -944,22 +940,6 @@
       "dpsl": "토지만매각,지분매각(건물X)"
     },
     {
-      "tid": 2379117,
-      "case_no": "2025-856",
-      "item_no": null,
-      "court": "의정부3계",
-      "type": "동물및식물관련시설",
-      "address": "강원특별자치도 철원군 철원읍 율이리 258-5 외 1필지",
-      "area": "건물 4609.51㎡(1394.377평) 토지 7390.5㎡(2235.626평)",
-      "appraisal": 2942688630,
-      "min_price": 1009342000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
-      "bid_date": "26.11.05",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
       "tid": 2379110,
       "case_no": "2025-955",
       "item_no": 1,
@@ -1038,6 +1018,22 @@
       "bid_date": "26.11.05",
       "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2445342,
+      "case_no": "2025-3770",
+      "item_no": null,
+      "court": "의정부2계",
+      "type": "전",
+      "address": "강원특별자치도 철원군 철원읍 대마리 18-13 외 54필지",
+      "area": "토지 17636.1667㎡(5334.94평)",
+      "appraisal": 679744926,
+      "min_price": 679744926,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.10",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지지분매각"
     },
     {
       "tid": 2463837,
@@ -1422,6 +1418,38 @@
       "bid_date": "26.11.26",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2519329,
+      "case_no": "2026-70633",
+      "item_no": null,
+      "court": "의정부9계",
+      "type": "답",
+      "address": "강원도 철원군 동송읍 하갈리 395-1",
+      "area": "토지 468㎡(141.57평)",
+      "appraisal": 20592000,
+      "min_price": 14414000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.02",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2553900,
+      "case_no": "2026-71362",
+      "item_no": null,
+      "court": "의정부9계",
+      "type": "전",
+      "address": "강원특별자치도 철원군 서면 자등리 1040",
+      "area": "토지 1071㎡(323.977평)",
+      "appraisal": 35343000,
+      "min_price": 24740000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.02",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     }
   ]
 }

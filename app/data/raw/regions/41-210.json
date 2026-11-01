@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "41",
     "guCd": "210",
@@ -7,125 +7,6 @@
     "name": "광명시"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "41",
-      "guCd": "210",
-      "title": "2026. 04 월간매각 통계자료 : 경기 광명시",
-      "rows": [
-        {
-          "type": "임야",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 1424011280,
-          "sale_price_rate": 91.45
-        },
-        {
-          "type": "아파트",
-          "total": 7,
-          "failed": 4,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 998500000,
-          "sale_price_rate": 92.71
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다세대주택",
-          "total": 7,
-          "failed": 4,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 271000000,
-          "sale_price_rate": 81.1
-        },
-        {
-          "type": "기숙사",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 135000000,
-          "sale_price_rate": 72.67
-        },
-        {
-          "type": "오피스텔(주거)",
-          "total": 13,
-          "failed": 10,
-          "sold": 2,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 15.38,
-          "avg_appraisal": 330000000,
-          "sale_price_rate": 64.34
-        },
-        {
-          "type": "오피스텔(상업)",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 139000000,
-          "sale_price_rate": 62.7
-        },
-        {
-          "type": "근린상가",
-          "total": 11,
-          "failed": 7,
-          "sold": 1,
-          "changed": 2,
-          "withdrawn": 1,
-          "sold_rate": 9.09,
-          "avg_appraisal": 705000000,
-          "sale_price_rate": 32.5
-        },
-        {
-          "type": "지식산업센터(아파트형공장)",
-          "total": 8,
-          "failed": 4,
-          "sold": 4,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 494000000,
-          "sale_price_rate": 60.47
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -665,6 +546,103 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "41",
+      "guCd": "210",
+      "title": "2026. 10 월간매각 통계자료 : 경기 광명시",
+      "rows": [
+        {
+          "type": "임야",
+          "total": 2,
+          "failed": 1,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 65682480,
+          "sale_price_rate": 64.1
+        },
+        {
+          "type": "아파트",
+          "total": 8,
+          "failed": 1,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 2,
+          "sold_rate": 25.0,
+          "avg_appraisal": 468500000,
+          "sale_price_rate": 104.01
+        },
+        {
+          "type": "다세대주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 306000000,
+          "sale_price_rate": 102.32
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "오피스텔(주거)",
+          "total": 8,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 230500000,
+          "sale_price_rate": 59.88
+        },
+        {
+          "type": "도시형생활주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 321000000,
+          "sale_price_rate": 112.64
+        },
+        {
+          "type": "근린상가",
+          "total": 18,
+          "failed": 14,
+          "sold": 2,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 11.11,
+          "avg_appraisal": 2235000000,
+          "sale_price_rate": 20.67
+        },
+        {
+          "type": "지식산업센터(아파트형공장)",
+          "total": 5,
+          "failed": 2,
+          "sold": 1,
+          "changed": 2,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 282000000,
+          "sale_price_rate": 39.83
+        }
+      ]
     }
   ],
   "listings": [
@@ -696,22 +674,6 @@
       "min_price": 308000000,
       "min_price_pct": 70,
       "status": "유찰 1회",
-      "bid_date": "26.11.03",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2461417,
-      "case_no": "2025-53566",
-      "item_no": null,
-      "court": "안산5계",
-      "type": "근린상가",
-      "address": "경기도 광명시 일직동 501-4 광명역엠클러스터 지1층비127호",
-      "area": "건물 97.65㎡(29.539평) 대지권 22.35㎡(6.761평) / 토지별도등기인수조건",
-      "appraisal": 2810000000,
-      "min_price": 963830000,
-      "min_price_pct": 34,
-      "status": "유찰 3회",
       "bid_date": "26.11.03",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -826,38 +788,6 @@
       "status": "유찰 1회",
       "bid_date": "26.11.10",
       "special": "임차권등기,대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2465752,
-      "case_no": "2025-946",
-      "item_no": null,
-      "court": "안산6계",
-      "type": "지식산업센터",
-      "address": "경기도 광명시 하안동 304 광명티아모아이티타워 10층1018호",
-      "area": "건물 62.35㎡(18.861평) 대지권 10.471㎡(3.167평)",
-      "appraisal": 354000000,
-      "min_price": 84995000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.10",
-      "special": "",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2469517,
-      "case_no": "2025-962",
-      "item_no": null,
-      "court": "안산6계",
-      "type": "지식산업센터",
-      "address": "경기도 광명시 하안동 304 광명티아모아이티타워 6층626호",
-      "area": "건물 77.9㎡(23.565평) 대지권 13.0825㎡(3.957평)",
-      "appraisal": 373000000,
-      "min_price": 89557000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.10",
-      "special": "",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -1117,6 +1047,54 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2414979,
+      "case_no": "2025-52557",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "전",
+      "address": "경기도 광명시 가학동 358-1",
+      "area": "토지 1025㎡(310.063평)",
+      "appraisal": 988100000,
+      "min_price": 988100000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2452238,
+      "case_no": "2025-53346",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "아파트",
+      "address": "경기도 광명시 하안동 27 주공아파트 1102동 13층1309호 외 1필지",
+      "area": "건물 41.3㎡(12.493평) 대지권 33.3㎡(10.073평)",
+      "appraisal": 425000000,
+      "min_price": 425000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2462522,
+      "case_no": "2025-53572",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "근린상가",
+      "address": "경기도 광명시 광명동 58-10 대왕팰리스 1동 4층401호",
+      "area": "건물 56.085㎡(16.966평) 대지권 18.375㎡(5.558평)",
+      "appraisal": 256000000,
+      "min_price": 256000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "위반건축물",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2471750,
       "case_no": "2025-53724",
       "item_no": null,
@@ -1128,6 +1106,38 @@
       "min_price": 371700000,
       "min_price_pct": 70,
       "status": "유찰 1회",
+      "bid_date": "26.11.17",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2474434,
+      "case_no": "2025-53828",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "도시형생활주택",
+      "address": "경기도 광명시 철산동 198-3 서동에이스빌 102동 4층402호",
+      "area": "건물 29.12㎡(8.809평) 대지권 22.24㎡(6.728평)",
+      "appraisal": 230000000,
+      "min_price": 230000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.17",
+      "special": "임차권등기,HUG 임차권 인수조건변경",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2478252,
+      "case_no": "2025-53969",
+      "item_no": null,
+      "court": "안산10계",
+      "type": "지식산업센터",
+      "address": "경기도 광명시 소하동 1344 광명지타워 10층비1007호",
+      "area": "건물 93.31㎡(28.226평) 대지권 20.57㎡(6.222평)",
+      "appraisal": 461000000,
+      "min_price": 461000000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.11.17",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -1336,6 +1346,22 @@
       "min_price": 14945000,
       "min_price_pct": 49,
       "status": "유찰 2회",
+      "bid_date": "26.11.19",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2468306,
+      "case_no": "2025-53683",
+      "item_no": null,
+      "court": "안산3계",
+      "type": "근린상가",
+      "address": "경기도 광명시 일직동 512 유-플래닛 어반브릭스비동 1층116호 외 1필지",
+      "area": "건물 44.57㎡(13.482평) 대지권 12.0179㎡(3.635평)",
+      "appraisal": 948000000,
+      "min_price": 948000000,
+      "min_price_pct": 100,
+      "status": "예정물건",
       "bid_date": "26.11.19",
       "special": "",
       "dpsl": "토지·건물 일괄매각"

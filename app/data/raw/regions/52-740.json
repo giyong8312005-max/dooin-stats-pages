@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "52",
     "guCd": "740",
@@ -7,103 +7,6 @@
     "name": "장수군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "52",
-      "guCd": "740",
-      "title": "2026. 04 월간매각 통계자료 : 전북 장수군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 4,
-          "sold": 2,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 28.57,
-          "avg_appraisal": 5466500,
-          "sale_price_rate": 65.65
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 3,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 55275160,
-          "sale_price_rate": 52.67
-        },
-        {
-          "type": "단독주택",
-          "total": 2,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "교육연구시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "공장",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "창고시설",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "동물및식물관련시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 1,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -522,6 +425,103 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "52",
+      "guCd": "740",
+      "title": "2026. 10 월간매각 통계자료 : 전북 장수군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 17,
+          "failed": 11,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 17.65,
+          "avg_appraisal": 6585700,
+          "sale_price_rate": 44.27
+        },
+        {
+          "type": "답",
+          "total": 8,
+          "failed": 7,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "임야",
+          "total": 3,
+          "failed": 3,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "대지",
+          "total": 4,
+          "failed": 2,
+          "sold": 1,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 25.0,
+          "avg_appraisal": 12654600,
+          "sale_price_rate": 102.73
+        },
+        {
+          "type": "단독주택",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "교육연구시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "창고시설",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
@@ -636,6 +636,38 @@
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2485311,
+      "case_no": "2025-1203",
+      "item_no": 1,
+      "court": "남원2계",
+      "type": "전",
+      "address": "전북특별자치도 장수군 장수읍 노곡리 927",
+      "area": "토지 248㎡(75.02평)",
+      "appraisal": 4488800,
+      "min_price": 4488800,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "농지취득자격증명,맹지",
+      "dpsl": "토지만 매각(제시외기타제외)"
+    },
+    {
+      "tid": 2593019,
+      "case_no": "2025-1203",
+      "item_no": 2,
+      "court": "남원2계",
+      "type": "전",
+      "address": "전북특별자치도 장수군 장수읍 노곡리 898",
+      "area": "토지 555㎡(167.888평)",
+      "appraisal": 9196350,
+      "min_price": 9196350,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권,농지취득자격증명,맹지",
+      "dpsl": "토지 매각"
     },
     {
       "tid": 2392965,
@@ -972,6 +1004,22 @@
       "bid_date": "26.11.16",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2526205,
+      "case_no": "2026-30061",
+      "item_no": null,
+      "court": "남원1계",
+      "type": "임야",
+      "address": "전북특별자치도 장수군 번암면 교동리 산48-1 외 1필지",
+      "area": "토지 220002㎡(66550.605평)",
+      "appraisal": 259836150,
+      "min_price": 259836150,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.16",
+      "special": "분묘기지권",
+      "dpsl": "토지 매각"
     }
   ]
 }

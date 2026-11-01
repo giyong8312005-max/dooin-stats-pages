@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "11",
     "guCd": "350",
@@ -7,103 +7,6 @@
     "name": "노원구"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "11",
-      "guCd": "350",
-      "title": "2026. 04 월간매각 통계자료 : 서울 노원구",
-      "rows": [
-        {
-          "type": "대지",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 30419000,
-          "sale_price_rate": 34.28
-        },
-        {
-          "type": "단독주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "다가구주택",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 14,
-          "failed": 3,
-          "sold": 8,
-          "changed": 3,
-          "withdrawn": 0,
-          "sold_rate": 57.14,
-          "avg_appraisal": 589125000,
-          "sale_price_rate": 88.34
-        },
-        {
-          "type": "연립주택",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 212000000,
-          "sale_price_rate": 64.15
-        },
-        {
-          "type": "다세대주택",
-          "total": 5,
-          "failed": 4,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 20.0,
-          "avg_appraisal": 34666667,
-          "sale_price_rate": 16.78
-        },
-        {
-          "type": "도시형생활주택",
-          "total": 6,
-          "failed": 3,
-          "sold": 3,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 50.0,
-          "avg_appraisal": 488000000,
-          "sale_price_rate": 73.81
-        },
-        {
-          "type": "종교시설",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 1134896600,
-          "sale_price_rate": 69.96
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -588,73 +491,95 @@
           "sale_price_rate": 61.03
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "11",
+      "guCd": "350",
+      "title": "2026. 10 월간매각 통계자료 : 서울 노원구",
+      "rows": [
+        {
+          "type": "전",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "다가구주택",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "아파트",
+          "total": 10,
+          "failed": 6,
+          "sold": 2,
+          "changed": 1,
+          "withdrawn": 1,
+          "sold_rate": 20.0,
+          "avg_appraisal": 426400000,
+          "sale_price_rate": 90.77
+        },
+        {
+          "type": "다세대주택",
+          "total": 4,
+          "failed": 2,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 50.0,
+          "avg_appraisal": 247500000,
+          "sale_price_rate": 40.21
+        },
+        {
+          "type": "상가주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 1752884400,
+          "sale_price_rate": 51.34
+        },
+        {
+          "type": "근린상가",
+          "total": 2,
+          "failed": 1,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2431685,
-      "case_no": "2025-2446",
-      "item_no": null,
-      "court": "서울북부3계",
-      "type": "다가구주택",
-      "address": "서울특별시 노원구 상계동 389-341",
-      "area": "건물 149.1㎡(45.103평) 토지 93㎡(28.133평)",
-      "appraisal": 920850000,
-      "min_price": 736680000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2397087,
-      "case_no": "2025-12196",
-      "item_no": null,
-      "court": "서울북부6계",
-      "type": "단독주택",
-      "address": "서울특별시 노원구 월계동 485-8",
-      "area": "건물 25.168㎡(7.613평) 토지 22.4㎡(6.776평)",
-      "appraisal": 155086920,
-      "min_price": 99256000,
-      "min_price_pct": 64,
-      "status": "유찰 2회",
-      "bid_date": "26.10.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지및건물 지분 매각"
-    },
-    {
-      "tid": 2454939,
-      "case_no": "2025-13347",
-      "item_no": null,
-      "court": "서울북부3계",
-      "type": "근린상가",
-      "address": "서울특별시 노원구 중계동 363-2 중계7단지주공아파트 일반상가동 1층 101호",
-      "area": "건물 24.25㎡(7.336평) 대지권 48.96㎡(14.81평)",
-      "appraisal": 377000000,
-      "min_price": 301600000,
-      "min_price_pct": 80,
-      "status": "유찰 1회",
-      "bid_date": "26.10.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2496865,
-      "case_no": "2026-17",
-      "item_no": null,
-      "court": "서울북부3계",
-      "type": "아파트",
-      "address": "서울특별시 노원구 상계동 1063 상계3차현대아파트 304동 14층1404호",
-      "area": "건물 84.96㎡(25.7평) 대지권 40.123㎡(12.137평)",
-      "appraisal": 676000000,
-      "min_price": 676000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.27",
-      "special": "대항력 있는 임차인",
-      "dpsl": "토지·건물 일괄매각"
-    },
     {
       "tid": 2190375,
       "case_no": "2023-106702",
@@ -717,22 +642,6 @@
       "status": "유찰 4회",
       "bid_date": "26.11.03",
       "special": "임차권등기,대항력 있는 임차인,HUG 임차권 인수조건변경",
-      "dpsl": "토지·건물 일괄매각"
-    },
-    {
-      "tid": 2509160,
-      "case_no": "2026-10384",
-      "item_no": null,
-      "court": "서울북부5계",
-      "type": "아파트",
-      "address": "서울특별시 노원구 상계동 173-1 벽산아파트 101동 15층 1507호 외 6필지",
-      "area": "건물 59.9㎡(18.12평) 대지권 24.26㎡(7.339평)",
-      "appraisal": 505000000,
-      "min_price": 505000000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.03",
-      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -844,7 +753,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -860,7 +769,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -876,7 +785,7 @@
       "min_price_pct": 100,
       "status": "신건",
       "bid_date": "26.11.10",
-      "special": "",
+      "special": "대항력 있는 임차인",
       "dpsl": "토지·건물 일괄매각"
     },
     {
@@ -974,6 +883,70 @@
       "bid_date": "26.11.24",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2431685,
+      "case_no": "2025-2446",
+      "item_no": null,
+      "court": "서울북부3계",
+      "type": "다가구주택",
+      "address": "서울특별시 노원구 상계동 389-341",
+      "area": "건물 149.1㎡(45.103평) 토지 93㎡(28.133평)",
+      "appraisal": 920850000,
+      "min_price": 589344000,
+      "min_price_pct": 64,
+      "status": "유찰 2회",
+      "bid_date": "26.12.01",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2397087,
+      "case_no": "2025-12196",
+      "item_no": null,
+      "court": "서울북부6계",
+      "type": "단독주택",
+      "address": "서울특별시 노원구 월계동 485-8",
+      "area": "건물 25.168㎡(7.613평) 토지 22.4㎡(6.776평)",
+      "appraisal": 155086920,
+      "min_price": 79405000,
+      "min_price_pct": 51,
+      "status": "유찰 3회",
+      "bid_date": "26.12.01",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지및건물 지분 매각"
+    },
+    {
+      "tid": 2496865,
+      "case_no": "2026-17",
+      "item_no": null,
+      "court": "서울북부3계",
+      "type": "아파트",
+      "address": "서울특별시 노원구 상계동 1063 상계3차현대아파트 304동 14층1404호",
+      "area": "건물 84.96㎡(25.7평) 대지권 40.123㎡(12.137평)",
+      "appraisal": 676000000,
+      "min_price": 540800000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.12.01",
+      "special": "대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2215217,
+      "case_no": "2023-111117",
+      "item_no": null,
+      "court": "서울북부7계",
+      "type": "상가주택",
+      "address": "서울특별시 노원구 월계동 406",
+      "area": "건물 2169.16㎡(656.171평) 토지 579㎡(175.148평)",
+      "appraisal": 9344733950,
+      "min_price": 7475787000,
+      "min_price_pct": 80,
+      "status": "유찰 1회",
+      "bid_date": "26.12.08",
+      "special": "선순위 임차권설정,임차권등기,대항력 있는 임차인",
+      "dpsl": "토지·건물 일괄매각 / 중복"
     }
   ]
 }

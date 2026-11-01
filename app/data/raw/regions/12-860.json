@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "12",
     "guCd": "860",
@@ -7,15 +7,6 @@
     "name": "진도군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "12",
-      "guCd": "860",
-      "title": "",
-      "rows": [],
-      "unavailable": true
-    },
     {
       "year": 2026,
       "month": 5,
@@ -709,6 +700,81 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "12",
+      "guCd": "860",
+      "title": "2026. 10 월간매각 통계자료 : 광주 진도군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 10,
+          "failed": 4,
+          "sold": 3,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 30.0,
+          "avg_appraisal": 48956567,
+          "sale_price_rate": 91.72
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 2,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 20.0,
+          "avg_appraisal": 10080070,
+          "sale_price_rate": 47.12
+        },
+        {
+          "type": "단독주택",
+          "total": 3,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "공장",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "선박",
+          "total": 6,
+          "failed": 4,
+          "sold": 2,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 33.33,
+          "avg_appraisal": 143038500,
+          "sale_price_rate": 93.19
+        }
+      ]
     }
   ],
   "listings": [
@@ -1049,6 +1115,22 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
+      "tid": 2517717,
+      "case_no": "2026-1031",
+      "item_no": null,
+      "court": "해남1계",
+      "type": "단독주택",
+      "address": "전라남도 진도군 군내면 둔전리 204-1",
+      "area": "건물 89.14㎡(26.965평) 토지 551㎡(166.678평)",
+      "appraisal": 105838600,
+      "min_price": 105838600,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.09",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
       "tid": 2538974,
       "case_no": "2026-1057",
       "item_no": null,
@@ -1143,22 +1225,6 @@
       "bid_date": "26.11.09",
       "special": "법정지상권",
       "dpsl": "건물만 매각"
-    },
-    {
-      "tid": 2535537,
-      "case_no": "2026-50138",
-      "item_no": 2,
-      "court": "해남1계",
-      "type": "전",
-      "address": "전라남도 진도군 진도읍 동외리 590 외 1필지",
-      "area": "토지 2046㎡(618.915평)",
-      "appraisal": 72918000,
-      "min_price": 51043000,
-      "min_price_pct": 70,
-      "status": "유찰 1회",
-      "bid_date": "26.11.09",
-      "special": "분묘기지권,농지취득자격증명,맹지",
-      "dpsl": "토지 매각"
     },
     {
       "tid": 2535607,

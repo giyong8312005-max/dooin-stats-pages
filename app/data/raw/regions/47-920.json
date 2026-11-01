@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-26",
+  "collected_at": "2026-11-02",
   "region": {
     "siCd": "47",
     "guCd": "920",
@@ -7,81 +7,6 @@
     "name": "봉화군"
   },
   "monthly_stats": [
-    {
-      "year": 2026,
-      "month": 4,
-      "siCd": "47",
-      "guCd": "920",
-      "title": "2026. 04 월간매각 통계자료 : 경북 봉화군",
-      "rows": [
-        {
-          "type": "전",
-          "total": 7,
-          "failed": 6,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "답",
-          "total": 3,
-          "failed": 2,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 33.33,
-          "avg_appraisal": 12332250,
-          "sale_price_rate": 17.43
-        },
-        {
-          "type": "과수원",
-          "total": 1,
-          "failed": 0,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 1,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "임야",
-          "total": 1,
-          "failed": 0,
-          "sold": 1,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 100.0,
-          "avg_appraisal": 18816715,
-          "sale_price_rate": 50.49
-        },
-        {
-          "type": "대지",
-          "total": 2,
-          "failed": 2,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        },
-        {
-          "type": "아파트",
-          "total": 1,
-          "failed": 1,
-          "sold": 0,
-          "changed": 0,
-          "withdrawn": 0,
-          "sold_rate": 0.0,
-          "avg_appraisal": 0,
-          "sale_price_rate": 0.0
-        }
-      ]
-    },
     {
       "year": 2026,
       "month": 5,
@@ -500,57 +425,84 @@
           "sale_price_rate": 0.0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "month": 10,
+      "siCd": "47",
+      "guCd": "920",
+      "title": "2026. 10 월간매각 통계자료 : 경북 봉화군",
+      "rows": [
+        {
+          "type": "전",
+          "total": 10,
+          "failed": 10,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "답",
+          "total": 5,
+          "failed": 3,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 1,
+          "sold_rate": 20.0,
+          "avg_appraisal": 98790000,
+          "sale_price_rate": 40.49
+        },
+        {
+          "type": "임야",
+          "total": 5,
+          "failed": 4,
+          "sold": 0,
+          "changed": 1,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        },
+        {
+          "type": "단독주택",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 70800880,
+          "sale_price_rate": 51.65
+        },
+        {
+          "type": "노유자시설",
+          "total": 1,
+          "failed": 0,
+          "sold": 1,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 100.0,
+          "avg_appraisal": 2849797900,
+          "sale_price_rate": 35.44
+        },
+        {
+          "type": "동물및식물관련시설",
+          "total": 2,
+          "failed": 2,
+          "sold": 0,
+          "changed": 0,
+          "withdrawn": 0,
+          "sold_rate": 0.0,
+          "avg_appraisal": 0,
+          "sale_price_rate": 0.0
+        }
+      ]
     }
   ],
   "listings": [
-    {
-      "tid": 2402994,
-      "case_no": "2025-10402",
-      "item_no": null,
-      "court": "안동1계",
-      "type": "전",
-      "address": "경상북도 봉화군 명호면 고감리 1257",
-      "area": "토지 2013㎡(608.933평)",
-      "appraisal": 50325000,
-      "min_price": 8458000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.10.26",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
-      "tid": 2474522,
-      "case_no": "2025-11320",
-      "item_no": null,
-      "court": "안동1계",
-      "type": "임야",
-      "address": "경상북도 봉화군 춘양면 석현리 산43-4",
-      "area": "토지 39174㎡(11850.135평)",
-      "appraisal": 86182800,
-      "min_price": 86182800,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "분묘기지권,맹지",
-      "dpsl": "토지 매각(제시외기타 포함)"
-    },
-    {
-      "tid": 2476229,
-      "case_no": "2025-100594",
-      "item_no": null,
-      "court": "안동1계",
-      "type": "답",
-      "address": "경상북도 봉화군 춘양면 서동리 231-5",
-      "area": "토지 1694.2㎡(512.496평)",
-      "appraisal": 55908600,
-      "min_price": 55908600,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.10.26",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
     {
       "tid": 2588864,
       "case_no": "2024-100896",
@@ -696,22 +648,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2386304,
-      "case_no": "2025-100241",
-      "item_no": null,
-      "court": "안동3계",
-      "type": "답",
-      "address": "경상북도 봉화군 소천면 분천리 696 외 5필지",
-      "area": "건물은 매각제외 토지 9381㎡(2837.753평)",
-      "appraisal": 91358100,
-      "min_price": 15355000,
-      "min_price_pct": 17,
-      "status": "유찰 5회",
-      "bid_date": "26.11.09",
-      "special": "법정지상권,농지취득자격증명,맹지",
-      "dpsl": "토지만 매각"
-    },
-    {
       "tid": 2386289,
       "case_no": "2025-100280",
       "item_no": null,
@@ -838,6 +774,54 @@
       "bid_date": "26.11.09",
       "special": "농지취득자격증명",
       "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2402994,
+      "case_no": "2025-10402",
+      "item_no": null,
+      "court": "안동1계",
+      "type": "전",
+      "address": "경상북도 봉화군 명호면 고감리 1257",
+      "area": "토지 2013㎡(608.933평)",
+      "appraisal": 50325000,
+      "min_price": 5921000,
+      "min_price_pct": 12,
+      "status": "유찰 6회",
+      "bid_date": "26.11.23",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
+    },
+    {
+      "tid": 2474522,
+      "case_no": "2025-11320",
+      "item_no": null,
+      "court": "안동1계",
+      "type": "임야",
+      "address": "경상북도 봉화군 춘양면 석현리 산43-4",
+      "area": "토지 39174㎡(11850.135평)",
+      "appraisal": 86182800,
+      "min_price": 60328000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.23",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
+    },
+    {
+      "tid": 2476229,
+      "case_no": "2025-100594",
+      "item_no": null,
+      "court": "안동1계",
+      "type": "답",
+      "address": "경상북도 봉화군 춘양면 서동리 231-5",
+      "area": "토지 1694.2㎡(512.496평)",
+      "appraisal": 55908600,
+      "min_price": 39136000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.11.23",
+      "special": "농지취득자격증명",
+      "dpsl": "토지 매각"
     }
   ]
 }
