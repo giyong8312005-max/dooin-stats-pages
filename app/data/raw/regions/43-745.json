@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02",
+  "collected_at": "2026-11-09",
   "region": {
     "siCd": "43",
     "guCd": "745",
@@ -559,22 +559,6 @@
   ],
   "listings": [
     {
-      "tid": 2497653,
-      "case_no": "2026-50132",
-      "item_no": null,
-      "court": "청주2계",
-      "type": "임야",
-      "address": "충청북도 증평군 증평읍 용강리 산51-11",
-      "area": "토지 7655㎡(2315.638평)",
-      "appraisal": 742535000,
-      "min_price": 742535000,
-      "min_price_pct": 100,
-      "status": "신건",
-      "bid_date": "26.11.03",
-      "special": "",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2549698,
       "case_no": "2026-50669",
       "item_no": null,
@@ -831,18 +815,18 @@
       "dpsl": "토지·건물 일괄매각"
     },
     {
-      "tid": 2503718,
-      "case_no": "2026-43",
+      "tid": 2497653,
+      "case_no": "2026-50132",
       "item_no": null,
-      "court": "청주4계",
+      "court": "청주2계",
       "type": "임야",
-      "address": "충청북도 증평군 도안면 도당리 산50 외 2필지",
-      "area": "토지 23287㎡(7044.318평)",
-      "appraisal": 2501446000,
-      "min_price": 600597000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.12.02",
+      "address": "충청북도 증평군 증평읍 용강리 산51-11",
+      "area": "토지 7655㎡(2315.638평)",
+      "appraisal": 742535000,
+      "min_price": 519775000,
+      "min_price_pct": 70,
+      "status": "유찰 1회",
+      "bid_date": "26.12.08",
       "special": "",
       "dpsl": "토지 매각"
     }

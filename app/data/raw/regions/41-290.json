@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02",
+  "collected_at": "2026-11-09",
   "region": {
     "siCd": "41",
     "guCd": "290",
@@ -521,6 +521,38 @@
       "min_price": 69314000,
       "min_price_pct": 51,
       "status": "유찰 3회",
+      "bid_date": "26.11.24",
+      "special": "맹지",
+      "dpsl": "토지지분매각"
+    },
+    {
+      "tid": 2494659,
+      "case_no": "2026-100044",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "오피스텔(주거)",
+      "address": "경기도 과천시 별양동 1-10 렉스타운 13층1301호",
+      "area": "건물 192.93㎡(58.361평) 대지권 39.273㎡(11.88평)",
+      "appraisal": 2090000000,
+      "min_price": 2090000000,
+      "min_price_pct": 100,
+      "status": "신건",
+      "bid_date": "26.11.24",
+      "special": "",
+      "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2496532,
+      "case_no": "2026-100073",
+      "item_no": null,
+      "court": "안양2계",
+      "type": "임야",
+      "address": "경기도 과천시 갈현동 산126-29",
+      "area": "토지 66㎡(19.965평)",
+      "appraisal": 25344000,
+      "min_price": 25344000,
+      "min_price_pct": 100,
+      "status": "신건",
       "bid_date": "26.11.24",
       "special": "맹지",
       "dpsl": "토지지분매각"

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02",
+  "collected_at": "2026-11-09",
   "region": {
     "siCd": "27",
     "guCd": "720",
@@ -723,22 +723,6 @@
       "dpsl": "토지 매각(제시외기타 포함)"
     },
     {
-      "tid": 2447542,
-      "case_no": "2025-10279",
-      "item_no": null,
-      "court": "의성1계",
-      "type": "전",
-      "address": "대구광역시 군위군 의흥면 원산리 613",
-      "area": "토지 2220㎡(671.55평)",
-      "appraisal": 124320000,
-      "min_price": 29850000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.11",
-      "special": "농지취득자격증명",
-      "dpsl": "토지 매각"
-    },
-    {
       "tid": 2461501,
       "case_no": "2025-10307",
       "item_no": null,
@@ -973,7 +957,7 @@
       "appraisal": 1027113750,
       "min_price": 1027113750,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
@@ -993,6 +977,22 @@
       "bid_date": "26.11.18",
       "special": "",
       "dpsl": "토지·건물 일괄매각"
+    },
+    {
+      "tid": 2226296,
+      "case_no": "2023-11489",
+      "item_no": 1,
+      "court": "의성1계",
+      "type": "임야",
+      "address": "대구광역시 군위군 소보면 보현리 산15-6 외 2필지",
+      "area": "토지 83886㎡(25375.515평)",
+      "appraisal": 198137100,
+      "min_price": 67962000,
+      "min_price_pct": 34,
+      "status": "유찰 3회",
+      "bid_date": "26.12.09",
+      "special": "분묘기지권,맹지",
+      "dpsl": "토지 매각(제시외기타 포함)"
     }
   ]
 }

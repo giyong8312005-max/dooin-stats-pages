@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-02",
+  "collected_at": "2026-11-09",
   "region": {
     "siCd": "47",
     "guCd": "730",
@@ -1604,22 +1604,6 @@
       "dpsl": "토지 매각"
     },
     {
-      "tid": 2456853,
-      "case_no": "2025-10276",
-      "item_no": null,
-      "court": "의성2계",
-      "type": "대지",
-      "address": "경상북도 의성군 다인면 덕미리 844-4",
-      "area": "토지 143.67㎡(43.46평)",
-      "appraisal": 5746800,
-      "min_price": 1381000,
-      "min_price_pct": 24,
-      "status": "유찰 4회",
-      "bid_date": "26.11.18",
-      "special": "",
-      "dpsl": "토지지분매각"
-    },
-    {
       "tid": 2446638,
       "case_no": "2025-10278",
       "item_no": null,
@@ -1662,7 +1646,7 @@
       "appraisal": 76131000,
       "min_price": 76131000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "농지취득자격증명",
       "dpsl": "토지만 매각(제시외기타제외)"
@@ -1674,11 +1658,11 @@
       "court": "의성2계",
       "type": "전",
       "address": "경상북도 의성군 춘산면 금천리 580-1",
-      "area": "토지 357.3333㎡(108.093평)",
+      "area": "토지 357.33㎡(108.092평)",
       "appraisal": 15007860,
       "min_price": 15007860,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "농지취득자격증명",
       "dpsl": "토지만매각,지분매각(건물X)"
@@ -1694,7 +1678,7 @@
       "appraisal": 112382000,
       "min_price": 112382000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "농지취득자격증명,맹지",
       "dpsl": "토지·건물 일괄매각"
@@ -1710,7 +1694,7 @@
       "appraisal": 100878000,
       "min_price": 100878000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "",
       "dpsl": "토지 매각"
@@ -1726,7 +1710,7 @@
       "appraisal": 130000000,
       "min_price": 130000000,
       "min_price_pct": 100,
-      "status": "예정물건",
+      "status": "신건",
       "bid_date": "26.11.18",
       "special": "",
       "dpsl": ""
